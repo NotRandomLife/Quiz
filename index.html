@@ -157,7 +157,7 @@
 
     @media (min-width: 640px) {
       .controls-grid {
-        grid-template-columns: 1fr;
+        grid-template-columns: 2.1fr 1.6fr 1.7fr;
       }
     }
 
@@ -167,7 +167,12 @@
       gap: 4px;
     }
 
-    .field label { display: block !important; width:100%; margin-bottom:4px; }
+    .field label {
+      font-size: 0.8rem;
+      text-transform: uppercase;
+      letter-spacing: 0.12em;
+      color: #9ca3af;
+    }
 
     select,
     input[type="number"] {
@@ -585,7 +590,8 @@
       color: #6b7280;
       text-align: right;
     }
-  </style>
+  * { writing-mode: horizontal-tb !important; transform: none !important; }
+</style>
 </head>
 <body>
   <div class="app">
