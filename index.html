@@ -7,7 +7,7 @@
 <style>
 body{margin:0;font-family:sans-serif;background:#0f172a;color:white;text-align:center;padding:20px;}
 .banner-img{width:100%;max-width:900px;border-radius:20px;box-shadow:0 0 25px rgba(0,0,0,0.6);margin-bottom:30px;}
-.link-box{margin:20px auto;padding:20px;max-width:400px;background:#1e293b;border-radius:14px;box-shadow:0 0 12px rgba(0,0,0,0.5);}
+.link-box{padding:10px; max-width:200px;margin:20px auto;padding:20px;max-width:400px;background:#1e293b;border-radius:14px;box-shadow:0 0 12px rgba(0,0,0,0.5);}
 a{color:#38bdf8;font-size:1.3rem;text-decoration:none;}
 
 .button-container{
@@ -16,9 +16,17 @@ a{color:#38bdf8;font-size:1.3rem;text-decoration:none;}
   justify-content:center;
   gap:15px;
 }
-.link-box{
+.link-box{padding:10px; max-width:200px;
   width:250px;
   display:block;
+}
+
+
+.button-container{
+  display:grid;
+  grid-template-columns: repeat(auto-fit, minmax(180px,1fr));
+  gap:15px;
+  justify-items:center;
 }
 
 </style>
@@ -26,6 +34,8 @@ a{color:#38bdf8;font-size:1.3rem;text-decoration:none;}
 </head>
 <body>
 <img src="assets/banner/banner.png" class="banner-img">
+<h2 style="margin-top:10px; font-size:2rem;">La palestra digitale della tua mente</h2>
+
 <div class="button-container">
 <div class="link-box"><a href="pages/TABELLINE/index.html">📘 Esame Tabelline</a></div>
 <div class="link-box"><a href="pages/MATEMATICA/index.html">🧮 Matematica</a></div>
