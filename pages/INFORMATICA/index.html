@@ -1,0 +1,86 @@
+
+<!DOCTYPE html><html><head><meta charset="UTF-8"><title>INFORMATICA</title>
+<style>
+body{margin:0;font-family:sans-serif;background:#0f172a;color:white;text-align:center;padding:20px;}
+.banner-img{width:100%;max-width:900px;border-radius:20px;box-shadow:0 0 25px rgba(0,0,0,0.6);margin-bottom:30px;}
+.link-box{margin:20px auto;padding:20px;max-width:400px;background:#1e293b;border-radius:14px;box-shadow:0 0 12px rgba(0,0,0,0.5);}
+a{color:#38bdf8;font-size:1.3rem;text-decoration:none;}
+</style>
+<link rel="icon" href="../../assets/logo/favicon.ico">
+<script>
+function nuova(){ 
+    let ops=[gen1,gen2,gen3,gen4];
+    let d=ops[Math.floor(Math.random()*ops.length)]();
+    document.getElementById("domanda").innerText=d.domanda;
+    document.getElementById("risposta").innerText="";
+    window.sol=d.risposta;
+}
+function mostra(){document.getElementById("risposta").innerText=sol;}
+
+function gen1(){return domandaMatematica();}
+function gen2(){return domandaGeometria();}
+function gen3(){return domandaGrammatica();}
+function gen4(){return domandaCultura();}
+
+function domandaMatematica(){
+ let a=Math.floor(Math.random()*90)+10;
+ let b=Math.floor(Math.random()*90)+10;
+ let ops=["+","-","×","÷"];
+ let o=ops[Math.floor(Math.random()*ops.length)];
+ let q=`${a} ${o} ${b}`;
+ let r=0; if(o=="+")r=a+b; if(o=="-")r=a-b; if(o=="×")r=a*b; if(o=="÷")r=(a/b).toFixed(2);
+ return {domanda:q, risposta:r};
+}
+function domandaGeometria(){
+ let lato=Math.floor(Math.random()*15)+5;
+ let types=[
+   `Perimetro quadrato lato ${lato}?`,
+   `Area quadrato lato ${lato}?`,
+   `Area triangolo base ${lato} alt ${lato+3}?`,
+   `Diametro cerchio raggio ${lato}?`
+ ];
+ let i=Math.floor(Math.random()*types.length);
+ let q=types[i];
+ let r; if(i==0)r=lato*4; if(i==1)r=lato*lato; if(i==2)r=(lato*(lato+3))/2; if(i==3)r=lato*2;
+ return {domanda:q, risposta:r};
+}
+function domandaGrammatica(){
+ let articoli=["il","lo","la","i","gli","le"];
+ let sost=["cane","studente","albero","strada","occhio"];
+ let ver=["corre","mangia","cade","cammina","dorme"];
+ let s=sost[Math.floor(Math.random()*sost.length)];
+ let v=ver[Math.floor(Math.random()*ver.length)];
+ let types=[
+   `Qual è il soggetto in: "${s} ${v} veloce"?`,
+   `Articolo determinativo di "${s}"?`,
+   `Verbo in: "Il bambino ${v} la mela"?`,
+   `Sinonimo di "felice"?`
+ ];
+ let i=Math.floor(Math.random()*types.length);
+ let q=types[i];
+ let r;
+ if(i==0)r=s;
+ if(i==1){ if(s=="studente")r="lo"; else r="il"; }
+ if(i==2)r=v;
+ if(i==3)r="allegro";
+ return {domanda:q, risposta:r};
+}
+function domandaCultura(){
+ let arr=[
+  ["Capitale d'Italia?","Roma"],
+  ["Chi ha scritto la Divina Commedia?","Dante"],
+  ["Anno inizio WWII?","1939"],
+  ["Numero regioni italiane?","20"]
+ ];
+ let i=Math.floor(Math.random()*arr.length);
+ return {domanda:arr[i][0], risposta:arr[i][1]};
+}
+
+</script>
+</head><body>
+<h2>INFORMATICA</h2>
+<div class="link-box"><span id="domanda"></span></div>
+<button onclick="mostra()">Mostra risposta</button>
+<div class="link-box"><span id="risposta"></span></div>
+<button onclick="nuova()">Nuova domanda</button>
+</body></html>
