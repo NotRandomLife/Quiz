@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+<meta charset="UTF-8">
+<title>Logica & Ragionamento</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="icon" type="image/x-icon" href="../favicon.ico">
+<style>
+body{margin:0;font-family:sans-serif;background:#0f172a;color:white;text-align:center;padding:20px;}
+.link-box{margin:20px auto;padding:20px;max-width:600px;background:#020617;border-radius:14px;box-shadow:0 0 12px rgba(0,0,0,0.5);}
+button{background:#1e293b;color:white;padding:10px 20px;border:0;border-radius:12px;margin:10px;cursor:pointer;}
+button:hover{background:#334155;}
+.back-btn{
+ background:#1e293b;
+ color:white;
+ padding:10px 20px;
+ border:0;
+ border-radius:12px;
+ margin:15px;
+ cursor:pointer;
+}
+</style>
+</head>
+<body>
+<button onclick="history.back()" class="back-btn">⬅ Indietro</button>
+<h2>Logica & Ragionamento</h2>
+<div class="link-box"><span id="domanda"></span></div>
+<button onclick="mostra()">Mostra risposta</button>
+<div class="link-box"><span id="risposta"></span></div>
+<button onclick="nuova()">Nuova domanda</button>
+
+<script>
+const domande = [
+  {
+    "q": "Se tutti i cani sono animali e alcuni animali sono gatti, i cani possono essere gatti? (sì/no)",
+    "a": "no"
+  },
+  {
+    "q": "Completa la sequenza: 2, 4, 6, 8, __",
+    "a": "10"
+  },
+  {
+    "q": "Completa la sequenza: 3, 6, 12, 24, __",
+    "a": "48"
+  },
+  {
+    "q": "Se domani è giovedì, che giorno era ieri?",
+    "a": "martedì"
+  },
+  {
+    "q": "Un treno impiega 2 ore per percorrere 200 km. A che velocità media viaggia?",
+    "a": "100 km/h"
+  },
+  {
+    "q": "In un gruppo ci sono 3 fratelli e ognuno ha 2 sorelle. Quante sorelle ci sono in tutto?",
+    "a": "2"
+  },
+  {
+    "q": "Hai 5 mele e ne dai 2. Quante te ne restano?",
+    "a": "3"
+  },
+  {
+    "q": "Se 5x = 20, quanto vale x?",
+    "a": "4"
+  },
+  {
+    "q": "Completa l'analogia: piede sta a scarpa come mano sta a __",
+    "a": "guanto"
+  },
+  {
+    "q": "Quale numero manca? 7, 14, __, 28, 35",
+    "a": "21"
+  }
+];
+
+let corrente = null;
+
+function nuova() {
+  const i = Math.floor(Math.random() * domande.length);
+  corrente = domande[i];
+  document.getElementById("domanda").innerText = corrente.q;
+  document.getElementById("risposta").innerText = "";
+}
+
+function mostra() {
+  if (!corrente) return;
+  document.getElementById("risposta").innerText = corrente.a;
+}
+
+window.onload = nuova;
+</script>
+</body>
+</html>
