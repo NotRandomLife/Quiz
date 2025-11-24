@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+<meta charset="UTF-8">
+<title>Cultura generale</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="icon" type="image/x-icon" href="../favicon.ico">
+<style>
+body{margin:0;font-family:sans-serif;background:#0f172a;color:white;text-align:center;padding:20px;}
+.link-box{margin:20px auto;padding:20px;max-width:600px;background:#020617;border-radius:14px;box-shadow:0 0 12px rgba(0,0,0,0.5);}
+button{background:#1e293b;color:white;padding:10px 20px;border:0;border-radius:12px;margin:10px;cursor:pointer;}
+button:hover{background:#334155;}
+.back-btn{
+ background:#1e293b;
+ color:white;
+ padding:10px 20px;
+ border:0;
+ border-radius:12px;
+ margin:15px;
+ cursor:pointer;
+}
+</style>
+</head>
+<body>
+<button onclick="history.back()" class="back-btn">⬅ Indietro</button>
+<h2>Cultura generale</h2>
+<div class="link-box"><span id="domanda"></span></div>
+<button onclick="mostra()">Mostra risposta</button>
+<div class="link-box"><span id="risposta"></span></div>
+<button onclick="nuova()">Nuova domanda</button>
+
+<script>
+const domande = [
+  {
+    "q": "In che anno è avvenuta la scoperta dell'America da parte di Colombo?",
+    "a": "1492"
+  },
+  {
+    "q": "Qual è la capitale del Giappone?",
+    "a": "Tokyo"
+  },
+  {
+    "q": "Chi ha scritto 'I Promessi Sposi'?",
+    "a": "Alessandro Manzoni"
+  },
+  {
+    "q": "Qual è il fiume più lungo d'Italia?",
+    "a": "Po"
+  },
+  {
+    "q": "In che continente si trova l'Argentina?",
+    "a": "America del Sud"
+  },
+  {
+    "q": "Chi ha dipinto 'La notte stellata'?",
+    "a": "Vincent van Gogh"
+  },
+  {
+    "q": "Quanti sono gli stati membri dell'Unione Europea (dal 2024)?",
+    "a": "27"
+  },
+  {
+    "q": "Che elemento chimico ha simbolo O?",
+    "a": "Ossigeno"
+  },
+  {
+    "q": "Qual è il pianeta più vicino al Sole?",
+    "a": "Mercurio"
+  },
+  {
+    "q": "In che città si trova il Colosseo?",
+    "a": "Roma"
+  }
+];
+
+let corrente = null;
+
+function nuova() {
+  const i = Math.floor(Math.random() * domande.length);
+  corrente = domande[i];
+  document.getElementById("domanda").innerText = corrente.q;
+  document.getElementById("risposta").innerText = "";
+}
+
+function mostra() {
+  if (!corrente) return;
+  document.getElementById("risposta").innerText = corrente.a;
+}
+
+window.onload = nuova;
+</script>
+</body>
+</html>

@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+<meta charset="UTF-8">
+<title>Matematica 6–12 anni</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="icon" type="image/x-icon" href="../favicon.ico">
+<style>
+body{margin:0;font-family:sans-serif;background:#0f172a;color:white;text-align:center;padding:20px;}
+.link-box{margin:20px auto;padding:20px;max-width:600px;background:#020617;border-radius:14px;box-shadow:0 0 12px rgba(0,0,0,0.5);}
+button{background:#1e293b;color:white;padding:10px 20px;border:0;border-radius:12px;margin:10px;cursor:pointer;}
+button:hover{background:#334155;}
+.back-btn{
+ background:#1e293b;
+ color:white;
+ padding:10px 20px;
+ border:0;
+ border-radius:12px;
+ margin:15px;
+ cursor:pointer;
+}
+</style>
+</head>
+<body>
+<button onclick="history.back()" class="back-btn">⬅ Indietro</button>
+<h2>Matematica 6–12 anni</h2>
+<div class="link-box"><span id="domanda"></span></div>
+<button onclick="mostra()">Mostra risposta</button>
+<div class="link-box"><span id="risposta"></span></div>
+<button onclick="nuova()">Nuova domanda</button>
+
+<script>
+const domande = [
+  {
+    "q": "5 + 7 =",
+    "a": "12"
+  },
+  {
+    "q": "9 - 4 =",
+    "a": "5"
+  },
+  {
+    "q": "6 × 3 =",
+    "a": "18"
+  },
+  {
+    "q": "24 ÷ 6 =",
+    "a": "4"
+  },
+  {
+    "q": "Metà di 10 è",
+    "a": "5"
+  },
+  {
+    "q": "Il doppio di 8 è",
+    "a": "16"
+  },
+  {
+    "q": "Una pizza è divisa in 4 fette. Se ne mangi 1, che frazione è?",
+    "a": "1/4"
+  },
+  {
+    "q": "Una pizza è divisa in 8 fette. Se ne mangi 4, che frazione è?",
+    "a": "4/8 = 1/2"
+  },
+  {
+    "q": "Quanto fa 7 + 9?",
+    "a": "16"
+  },
+  {
+    "q": "Quanto fa 30 - 12?",
+    "a": "18"
+  },
+  {
+    "q": "In un rettangolo i lati lunghi sono 8 e i lati corti 3. Il perimetro è",
+    "a": "22"
+  },
+  {
+    "q": "Un triangolo ha sempre:",
+    "a": "3 lati"
+  },
+  {
+    "q": "Quanto fa 5 × 5?",
+    "a": "25"
+  }
+];
+
+let corrente = null;
+
+function nuova() {
+  const i = Math.floor(Math.random() * domande.length);
+  corrente = domande[i];
+  document.getElementById("domanda").innerText = corrente.q;
+  document.getElementById("risposta").innerText = "";
+}
+
+function mostra() {
+  if (!corrente) return;
+  document.getElementById("risposta").innerText = corrente.a;
+}
+
+window.onload = nuova;
+</script>
+</body>
+</html>
