@@ -45,7 +45,7 @@ exports.handler = async (event) => {
   ];
   const html = `<h2>Nuova richiesta dal contact form di QuizMania.it</h2><table>${rows.map(([label, value]) => `<tr><th align="left">${escapeHtml(label)}</th><td>${escapeHtml(value).replace(/\n/g, "<br>")}</td></tr>`).join("")}</table>`;
   const text = rows.map(([label, value]) => `${label}: ${value}`).join("\n");
-  const from = process.env.RESEND_FROM || "QuizMania.it <contatti@quizmania.it>";
+  const from = process.env.RESEND_FROM || "QuizMania.it <contatti@notrandomlife.com>";
 
   try {
     const resendResponse = await fetch(RESEND_ENDPOINT, {
