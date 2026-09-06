@@ -265,6 +265,7 @@ a{color:inherit;}
 .contact-privacy{margin:0;color:var(--muted);font-size:.9rem;line-height:1.45;font-weight:650;}
 .contact-status{min-height:1.45em;margin:0;font-weight:800;}
 .contact-status[data-type="success"]{color:var(--good);}
+.pwa-install-hint{margin:10px 0 0;color:var(--muted);font-size:.88rem;line-height:1.45;font-weight:650;max-width:52rem;}
 .contact-status[data-type="error"]{color:var(--bad);}
 .contact-status[data-type="pending"]{color:var(--brand1);}
 @media (max-width:800px){.contact-layout{grid-template-columns:1fr;}}

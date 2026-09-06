@@ -1,9 +1,11 @@
 (function () {
   "use strict";
   const button = document.querySelector("[data-install-app]");
+  const hint = document.querySelector("[data-install-hint]");
   const installStorageKey = "quizmania-pwa-installed";
+  const standaloneMedia = window.matchMedia("(display-mode: standalone)");
   let deferredPrompt = null;
-  const installed = () => window.matchMedia("(display-mode: standalone)").matches || window.navigator.standalone === true;
+  const installed = () => standaloneMedia.matches || window.navigator.standalone === true;
   const installWasAccepted = () => {
     try {
       return window.localStorage.getItem(installStorageKey) === "true";
@@ -13,7 +15,16 @@
   };
   const hideInstall = () => {
     if (button) button.hidden = true;
+    if (hint) hint.hidden = true;
     deferredPrompt = null;
+  };
+  const showInstallHelp = () => {
+    if (!hint) return;
+    const appleMobile = /iPhone|iPad|iPod/i.test(navigator.userAgent);
+    hint.textContent = appleMobile
+      ? "Per installare da Safari: tocca Condividi e scegli “Aggiungi a Home”."
+      : "Il browser non ha aperto il prompt di installazione. Usa il menu del browser e scegli “Installa app”; se l’opzione non compare, apri QuizMania.it in Chrome, Edge o Safari.";
+    hint.hidden = false;
   };
   const rememberInstalled = () => {
     try {
@@ -28,6 +39,12 @@
   if (!button || installed() || installWasAccepted()) {
     hideInstall();
     return;
+  }
+
+  if (standaloneMedia.addEventListener) {
+    standaloneMedia.addEventListener("change", (event) => {
+      if (event.matches) rememberInstalled();
+    });
   }
 
   if ("getInstalledRelatedApps" in navigator) {
@@ -46,15 +63,25 @@
   window.addEventListener("appinstalled", rememberInstalled);
 
   button.addEventListener("click", async () => {
-    if (!deferredPrompt) return;
-    button.disabled = true;
-    deferredPrompt.prompt();
-    const choice = await deferredPrompt.userChoice;
-    if (choice.outcome === "accepted") {
-      rememberInstalled();
+    if (!deferredPrompt) {
+      showInstallHelp();
       return;
     }
-    deferredPrompt = null;
-    button.disabled = false;
+    button.disabled = true;
+    try {
+      deferredPrompt.prompt();
+      const choice = await deferredPrompt.userChoice;
+      if (choice.outcome === "accepted") {
+        rememberInstalled();
+        return;
+      }
+      deferredPrompt = null;
+      button.disabled = false;
+      showInstallHelp();
+    } catch (_) {
+      deferredPrompt = null;
+      button.disabled = false;
+      showInstallHelp();
+    }
   });
 }());
