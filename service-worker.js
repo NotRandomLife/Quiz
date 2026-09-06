@@ -1,6 +1,6 @@
-const CACHE = "quizmania-core-v6";
+const CACHE = "quizmania-core-v7";
 const CORE_ASSETS = [
-  "/", "/?source=pwa", "/index.html", "/manifest.webmanifest", "/assets/css/quizmania.css?v=6",
+  "/manifest.webmanifest", "/assets/css/quizmania.css?v=6",
   "/assets/js/quizmania.js", "/assets/js/catalog.js", "/assets/js/pwa.js?v=6",
   "/assets/data/quizzes.json", "/assets/icons/app-192.png", "/assets/icons/app-512.png"
 ];
@@ -16,6 +16,10 @@ self.addEventListener("activate", (event) => {
 self.addEventListener("fetch", (event) => {
   const request = event.request;
   if (request.method !== "GET" || new URL(request.url).origin !== self.location.origin) return;
+  if (request.mode === "navigate") {
+    event.respondWith(fetch(request).catch(() => caches.match("/index.html")));
+    return;
+  }
   event.respondWith(caches.match(request).then((cached) => cached || fetch(request).then((response) => {
     if (response.ok && response.type === "basic") caches.open(CACHE).then((cache) => cache.put(request, response.clone()));
     return response;
