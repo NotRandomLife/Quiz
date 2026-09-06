@@ -3,7 +3,7 @@
   "short_name": "QuizMania",
   "description": "Quiz per tutte le età: scuola, bambini, adulti e patenti.",
   "id": "/",
-  "start_url": "/",
+  "start_url": "/?source=pwa",
   "scope": "/",
   "display": "standalone",
   "related_applications": [

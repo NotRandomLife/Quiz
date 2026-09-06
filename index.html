@@ -8,6 +8,12 @@
   <meta name="theme-color" content="#020617" />
   <link rel="manifest" href="/manifest.webmanifest" />
   <link rel="apple-touch-icon" href="/assets/icons/app-192.png" />
+  <script>
+    (function () {
+      var standalone = (window.matchMedia && window.matchMedia("(display-mode: standalone)").matches) || window.navigator.standalone === true;
+      if (standalone) document.documentElement.classList.add("qm-pwa-installed");
+    }());
+  </script>
 
   <meta property="og:title" content="QuizMania.it" />
   <meta property="og:description" content="Quiz per ogni età: tanti per bambini e scuola, fino a quiz più complessi." />

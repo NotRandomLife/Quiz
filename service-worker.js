@@ -1,6 +1,6 @@
-const CACHE = "quizmania-core-v4";
+const CACHE = "quizmania-core-v5";
 const CORE_ASSETS = [
-  "/", "/index.html", "/manifest.webmanifest", "/assets/css/quizmania.css",
+  "/", "/?source=pwa", "/index.html", "/manifest.webmanifest", "/assets/css/quizmania.css",
   "/assets/js/quizmania.js", "/assets/js/catalog.js", "/assets/js/pwa.js",
   "/assets/data/quizzes.json", "/assets/icons/app-192.png", "/assets/icons/app-512.png"
 ];

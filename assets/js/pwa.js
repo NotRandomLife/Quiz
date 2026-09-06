@@ -4,8 +4,9 @@
   const hint = document.querySelector("[data-install-hint]");
   const installStorageKey = "quizmania-pwa-installed";
   const standaloneMedia = window.matchMedia("(display-mode: standalone)");
+  const openedFromAppIcon = new URLSearchParams(window.location.search).get("source") === "pwa";
   let deferredPrompt = null;
-  const installed = () => standaloneMedia.matches || window.navigator.standalone === true;
+  const installed = () => standaloneMedia.matches || window.navigator.standalone === true || openedFromAppIcon;
   const installWasAccepted = () => {
     try {
       return window.localStorage.getItem(installStorageKey) === "true";
@@ -36,7 +37,12 @@
   if ("serviceWorker" in navigator) {
     window.addEventListener("load", () => navigator.serviceWorker.register("/service-worker.js").catch(() => {}));
   }
-  if (!button || installed() || installWasAccepted()) {
+  if (!button) return;
+  if (installed()) {
+    rememberInstalled();
+    return;
+  }
+  if (installWasAccepted()) {
     hideInstall();
     return;
   }
