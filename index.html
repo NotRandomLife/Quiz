@@ -18,12 +18,24 @@
   <meta property="og:title" content="QuizMania.it" />
   <meta property="og:description" content="Quiz per ogni età: tanti per bambini e scuola, fino a quiz più complessi." />
   <meta property="og:type" content="website" />
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {"@type":"Question","name":"Che cos'è QuizMania.it?","acceptedAnswer":{"@type":"Answer","text":"Una raccolta gratuita di quiz per bambini, scuola, adulti e patenti, utilizzabile subito senza registrazione."}},
+      {"@type":"Question","name":"Il quiz NCC è valido per tutti gli esami?","acceptedAnswer":{"@type":"Answer","text":"No. La raccolta NCC è dedicata esclusivamente alla preparazione dell'esame NCC di Milano."}},
+      {"@type":"Question","name":"Posso chiedere un nuovo quiz?","acceptedAnswer":{"@type":"Answer","text":"Sì. Dal modulo Contatti puoi suggerire argomento, pubblico, difficoltà e un esempio di domanda."}}
+    ]
+  }
+  </script>
 
   <link rel="icon" href="/assets/favicon.ico" />
   <link rel="stylesheet" href="/assets/css/quizmania.css?v=6" />
   <script defer src="/assets/js/quizmania.js"></script>
   <script defer src="/assets/js/catalog.js"></script>
   <script defer src="/assets/js/pwa.js?v=6"></script>
+  <script defer src="/assets/js/faq.js?v=1"></script>
 </head>
 <body>
 
@@ -85,6 +97,39 @@
         <div class="qm-small">Cerca o scorri: il catalogo si aggiorna in tempo reale</div>
       </div>
       <div class="qm-grid" data-qm-catalog data-filter="all"></div>
+    </section>
+
+    <section class="qm-section qm-faq" data-qm-faq aria-labelledby="faq-title" lang="it">
+      <div class="qm-section-title qm-faq-titlebar">
+        <div>
+          <h2 id="faq-title" data-faq-title>Domande frequenti</h2>
+          <div class="qm-small" data-faq-intro>Risposte rapide per iniziare a giocare, studiare e proporre nuovi quiz.</div>
+        </div>
+        <label class="faq-language" for="faq-language">
+          <span data-faq-language-label>Lingua FAQ</span>
+          <select id="faq-language" data-faq-language aria-label="Lingua FAQ">
+            <option value="it">Italiano</option>
+            <option value="en">English</option>
+            <option value="es">Español</option>
+            <option value="fr">Français</option>
+            <option value="de">Deutsch</option>
+            <option value="pt">Português</option>
+            <option value="ro">Română</option>
+            <option value="pl">Polski</option>
+            <option value="ar">العربية</option>
+            <option value="zh">中文</option>
+            <option value="ja">日本語</option>
+            <option value="ru">Русский</option>
+          </select>
+        </label>
+      </div>
+      <div class="faq-list" data-faq-list>
+        <details class="faq-item" open><summary>Che cos'è QuizMania.it?</summary><p>Una raccolta gratuita di quiz per bambini, scuola, adulti e patenti: puoi iniziare subito, senza registrazione.</p></details>
+        <details class="faq-item"><summary>Le domande sono coerenti con l'argomento?</summary><p>Sì. Per ogni argomento usiamo domande e opzioni controllate; il catalogo viene ampliato nel tempo.</p></details>
+        <details class="faq-item"><summary>Il quiz NCC è valido per tutti gli esami?</summary><p>No. La raccolta NCC è dedicata esclusivamente alla preparazione dell'esame NCC di Milano.</p></details>
+        <details class="faq-item"><summary>Posso chiedere un nuovo quiz?</summary><p>Sì. Dal modulo Contatti puoi suggerire argomento, pubblico, difficoltà e un esempio di domanda.</p></details>
+        <details class="faq-item"><summary>Come installo l'app?</summary><p>In Chrome o Edge usa “Installa app”; in Safari usa Condividi e poi “Aggiungi a Home”. Nell'app installata il pulsante non compare.</p></details>
+      </div>
     </section>
 
     <footer class="qm-footer">

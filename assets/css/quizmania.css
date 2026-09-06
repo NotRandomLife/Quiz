@@ -182,6 +182,17 @@ a{color:inherit;}
 .qm-section-title{display:flex;align-items:flex-end;justify-content:space-between;gap:10px;margin:0 0 10px;}
 .qm-section-title h2{margin:0;font-size:1.25rem;letter-spacing:-.2px;}
 .qm-section-title .qm-small{color:var(--muted);font-weight:700;font-size:.92rem;}
+.qm-faq{margin-bottom:22px;}
+.qm-faq-titlebar{align-items:center;}
+.faq-language{display:flex;align-items:center;gap:8px;color:var(--muted);font-size:.86rem;font-weight:800;white-space:nowrap;}
+.faq-language select{border:1px solid rgba(255,255,255,.18);border-radius:10px;background:#111b33;color:var(--text);font:inherit;padding:8px 10px;}
+.faq-list{display:grid;gap:10px;}
+.faq-item{border:1px solid rgba(255,255,255,.13);border-radius:14px;background:rgba(255,255,255,.045);padding:0 15px;}
+.faq-item:hover{border-color:rgba(255,255,255,.22);}
+.faq-item summary{cursor:pointer;padding:14px 24px 14px 0;font-weight:850;line-height:1.35;}
+.faq-item p{color:var(--muted);font-weight:650;line-height:1.55;margin:0 0 14px;}
+[dir="rtl"] .faq-item summary{padding:14px 0 14px 24px;}
+@media (max-width:600px){.qm-faq-titlebar{align-items:flex-start;flex-direction:column;}.faq-language{width:100%;justify-content:space-between;}.faq-language select{min-width:150px;}}
 
 .qm-grid{display:grid;grid-template-columns: repeat(12, 1fr);gap:12px;}
 
