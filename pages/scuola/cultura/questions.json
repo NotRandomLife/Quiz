@@ -1,0 +1,3302 @@
+[
+  {
+    "q": "Quale dei seguenti è un pianeta? (variante 296)",
+    "options": [
+      "Marte",
+      "Orione",
+      "Sirio",
+      "Andromeda"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Cultura generale (variante 119): quanti giorni ha una settimana?",
+    "options": [
+      "8",
+      "5",
+      "7",
+      "6"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Cultura generale (variante 69): quanti giorni ha una settimana?",
+    "options": [
+      "8",
+      "5",
+      "6",
+      "7"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Quale animale è un mammifero? (variante 244)",
+    "options": [
+      "Rana",
+      "Lucertola",
+      "Delfino",
+      "Squalo"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Quale animale è un mammifero? (variante 77)",
+    "options": [
+      "Delfino",
+      "Squalo",
+      "Rana",
+      "Lucertola"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Quale è un continente? (variante 248)",
+    "options": [
+      "Nilo",
+      "Sahara",
+      "Alpi",
+      "Africa"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Cultura generale (variante 141): quanti giorni ha una settimana?",
+    "options": [
+      "8",
+      "5",
+      "7",
+      "6"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Cultura generale (variante 104): quanti giorni ha una settimana?",
+    "options": [
+      "8",
+      "7",
+      "5",
+      "6"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Cultura generale (variante 73): quanti giorni ha una settimana?",
+    "options": [
+      "8",
+      "5",
+      "7",
+      "6"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Cultura generale (variante 251): quanti giorni ha una settimana?",
+    "options": [
+      "7",
+      "8",
+      "5",
+      "6"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Quale animale è un mammifero? (variante 57)",
+    "options": [
+      "Delfino",
+      "Squalo",
+      "Lucertola",
+      "Rana"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Quale animale è un mammifero? (variante 160)",
+    "options": [
+      "Delfino",
+      "Squalo",
+      "Lucertola",
+      "Rana"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Quale animale è un mammifero? (variante 152)",
+    "options": [
+      "Delfino",
+      "Rana",
+      "Lucertola",
+      "Squalo"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Quale è un continente? (variante 246)",
+    "options": [
+      "Sahara",
+      "Alpi",
+      "Africa",
+      "Nilo"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Quale animale è un mammifero? (variante 182)",
+    "options": [
+      "Delfino",
+      "Squalo",
+      "Lucertola",
+      "Rana"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Cultura generale (variante 206): quanti giorni ha una settimana?",
+    "options": [
+      "7",
+      "5",
+      "8",
+      "6"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Quale è un continente? (variante 205)",
+    "options": [
+      "Sahara",
+      "Nilo",
+      "Africa",
+      "Alpi"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Quale è una lingua romanza? (variante 221)",
+    "options": [
+      "Arabo",
+      "Tedesco",
+      "Italiano",
+      "Russo"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Quale animale è un mammifero? (variante 29)",
+    "options": [
+      "Lucertola",
+      "Squalo",
+      "Rana",
+      "Delfino"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Quale dei seguenti è un pianeta? (variante 103)",
+    "options": [
+      "Marte",
+      "Orione",
+      "Andromeda",
+      "Sirio"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Cultura generale (variante 177): quanti giorni ha una settimana?",
+    "options": [
+      "6",
+      "5",
+      "8",
+      "7"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Quale è un continente? (variante 161)",
+    "options": [
+      "Nilo",
+      "Alpi",
+      "Africa",
+      "Sahara"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Cultura generale (variante 80): quanti giorni ha una settimana?",
+    "options": [
+      "5",
+      "6",
+      "8",
+      "7"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Cultura generale (variante 160): quanti giorni ha una settimana?",
+    "options": [
+      "6",
+      "5",
+      "8",
+      "7"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Quale dei seguenti è un pianeta? (variante 130)",
+    "options": [
+      "Marte",
+      "Orione",
+      "Sirio",
+      "Andromeda"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Quale animale è un mammifero? (variante 186)",
+    "options": [
+      "Rana",
+      "Lucertola",
+      "Delfino",
+      "Squalo"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Quale è un continente? (variante 158)",
+    "options": [
+      "Alpi",
+      "Africa",
+      "Sahara",
+      "Nilo"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Cultura generale (variante 38): quanti giorni ha una settimana?",
+    "options": [
+      "5",
+      "7",
+      "8",
+      "6"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Cultura generale (variante 91): quanti giorni ha una settimana?",
+    "options": [
+      "5",
+      "8",
+      "6",
+      "7"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Cultura generale (variante 154): quanti giorni ha una settimana?",
+    "options": [
+      "5",
+      "7",
+      "8",
+      "6"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Quale è una lingua romanza? (variante 157)",
+    "options": [
+      "Arabo",
+      "Italiano",
+      "Tedesco",
+      "Russo"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Quale è un continente? (variante 201)",
+    "options": [
+      "Sahara",
+      "Alpi",
+      "Nilo",
+      "Africa"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Cultura generale (variante 46): quanti giorni ha una settimana?",
+    "options": [
+      "6",
+      "5",
+      "8",
+      "7"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Cultura generale (variante 83): quanti giorni ha una settimana?",
+    "options": [
+      "8",
+      "7",
+      "5",
+      "6"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Quale è una lingua romanza? (variante 47)",
+    "options": [
+      "Russo",
+      "Tedesco",
+      "Arabo",
+      "Italiano"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Quale è un continente? (variante 27)",
+    "options": [
+      "Alpi",
+      "Africa",
+      "Nilo",
+      "Sahara"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Quale è una lingua romanza? (variante 242)",
+    "options": [
+      "Russo",
+      "Arabo",
+      "Tedesco",
+      "Italiano"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Quale è un continente? (variante 233)",
+    "options": [
+      "Sahara",
+      "Africa",
+      "Nilo",
+      "Alpi"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Cultura generale (variante 120): quanti giorni ha una settimana?",
+    "options": [
+      "7",
+      "5",
+      "8",
+      "6"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Quale è un continente? (variante 291)",
+    "options": [
+      "Sahara",
+      "Nilo",
+      "Alpi",
+      "Africa"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Cultura generale (variante 81): quanti giorni ha una settimana?",
+    "options": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Cultura generale (variante 205): quanti giorni ha una settimana?",
+    "options": [
+      "8",
+      "6",
+      "7",
+      "5"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Cultura generale (variante 6): quanti giorni ha una settimana?",
+    "options": [
+      "5",
+      "7",
+      "8",
+      "6"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Quale animale è un mammifero? (variante 9)",
+    "options": [
+      "Rana",
+      "Squalo",
+      "Delfino",
+      "Lucertola"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Quale animale è un mammifero? (variante 173)",
+    "options": [
+      "Rana",
+      "Delfino",
+      "Squalo",
+      "Lucertola"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Quale animale è un mammifero? (variante 274)",
+    "options": [
+      "Rana",
+      "Squalo",
+      "Delfino",
+      "Lucertola"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Quale è una lingua romanza? (variante 202)",
+    "options": [
+      "Tedesco",
+      "Italiano",
+      "Russo",
+      "Arabo"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Quale dei seguenti è un pianeta? (variante 140)",
+    "options": [
+      "Orione",
+      "Sirio",
+      "Andromeda",
+      "Marte"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Quale è una lingua romanza? (variante 138)",
+    "options": [
+      "Arabo",
+      "Russo",
+      "Italiano",
+      "Tedesco"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Quale è un continente? (variante 164)",
+    "options": [
+      "Nilo",
+      "Africa",
+      "Alpi",
+      "Sahara"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Cultura generale (variante 132): quanti giorni ha una settimana?",
+    "options": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Cultura generale (variante 175): quanti giorni ha una settimana?",
+    "options": [
+      "8",
+      "6",
+      "5",
+      "7"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Cultura generale (variante 232): quanti giorni ha una settimana?",
+    "options": [
+      "8",
+      "5",
+      "7",
+      "6"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Cultura generale (variante 211): quanti giorni ha una settimana?",
+    "options": [
+      "6",
+      "7",
+      "8",
+      "5"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Cultura generale (variante 21): quanti giorni ha una settimana?",
+    "options": [
+      "7",
+      "5",
+      "6",
+      "8"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Quale dei seguenti è un pianeta? (variante 98)",
+    "options": [
+      "Marte",
+      "Andromeda",
+      "Orione",
+      "Sirio"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Cultura generale (variante 58): quanti giorni ha una settimana?",
+    "options": [
+      "7",
+      "6",
+      "5",
+      "8"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Cultura generale (variante 93): quanti giorni ha una settimana?",
+    "options": [
+      "8",
+      "6",
+      "7",
+      "5"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Quale dei seguenti è un pianeta? (variante 146)",
+    "options": [
+      "Orione",
+      "Andromeda",
+      "Sirio",
+      "Marte"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Cultura generale (variante 178): quanti giorni ha una settimana?",
+    "options": [
+      "7",
+      "6",
+      "8",
+      "5"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Quale è un continente? (variante 104)",
+    "options": [
+      "Nilo",
+      "Alpi",
+      "Sahara",
+      "Africa"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Quale animale è un mammifero? (variante 31)",
+    "options": [
+      "Squalo",
+      "Lucertola",
+      "Delfino",
+      "Rana"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Cultura generale (variante 167): quanti giorni ha una settimana?",
+    "options": [
+      "5",
+      "8",
+      "6",
+      "7"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Cultura generale (variante 134): quanti giorni ha una settimana?",
+    "options": [
+      "7",
+      "6",
+      "5",
+      "8"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Cultura generale (variante 253): quanti giorni ha una settimana?",
+    "options": [
+      "8",
+      "7",
+      "6",
+      "5"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Cultura generale (variante 79): quanti giorni ha una settimana?",
+    "options": [
+      "7",
+      "5",
+      "6",
+      "8"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Quale è un continente? (variante 97)",
+    "options": [
+      "Alpi",
+      "Africa",
+      "Sahara",
+      "Nilo"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Quale animale è un mammifero? (variante 106)",
+    "options": [
+      "Squalo",
+      "Lucertola",
+      "Delfino",
+      "Rana"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Cultura generale (variante 230): quanti giorni ha una settimana?",
+    "options": [
+      "6",
+      "5",
+      "8",
+      "7"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Quale animale è un mammifero? (variante 50)",
+    "options": [
+      "Delfino",
+      "Rana",
+      "Lucertola",
+      "Squalo"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Quale è una lingua romanza? (variante 142)",
+    "options": [
+      "Arabo",
+      "Italiano",
+      "Russo",
+      "Tedesco"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Cultura generale (variante 51): quanti giorni ha una settimana?",
+    "options": [
+      "7",
+      "5",
+      "6",
+      "8"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Quale dei seguenti è un pianeta? (variante 290)",
+    "options": [
+      "Andromeda",
+      "Orione",
+      "Marte",
+      "Sirio"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Quale è un continente? (variante 283)",
+    "options": [
+      "Africa",
+      "Nilo",
+      "Sahara",
+      "Alpi"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Quale animale è un mammifero? (variante 78)",
+    "options": [
+      "Lucertola",
+      "Rana",
+      "Delfino",
+      "Squalo"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Quale è una lingua romanza? (variante 239)",
+    "options": [
+      "Arabo",
+      "Russo",
+      "Italiano",
+      "Tedesco"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Cultura generale (variante 259): quanti giorni ha una settimana?",
+    "options": [
+      "8",
+      "5",
+      "7",
+      "6"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Cultura generale (variante 197): quanti giorni ha una settimana?",
+    "options": [
+      "8",
+      "6",
+      "5",
+      "7"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Quale animale è un mammifero? (variante 14)",
+    "options": [
+      "Rana",
+      "Squalo",
+      "Delfino",
+      "Lucertola"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Cultura generale (variante 118): quanti giorni ha una settimana?",
+    "options": [
+      "7",
+      "5",
+      "6",
+      "8"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Quale dei seguenti è un pianeta? (variante 216)",
+    "options": [
+      "Sirio",
+      "Marte",
+      "Andromeda",
+      "Orione"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Quale è una lingua romanza? (variante 267)",
+    "options": [
+      "Tedesco",
+      "Arabo",
+      "Russo",
+      "Italiano"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Cultura generale (variante 54): quanti giorni ha una settimana?",
+    "options": [
+      "8",
+      "5",
+      "6",
+      "7"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Quale animale è un mammifero? (variante 194)",
+    "options": [
+      "Delfino",
+      "Lucertola",
+      "Squalo",
+      "Rana"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Cultura generale (variante 7): quanti giorni ha una settimana?",
+    "options": [
+      "8",
+      "6",
+      "5",
+      "7"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Cultura generale (variante 174): quanti giorni ha una settimana?",
+    "options": [
+      "7",
+      "6",
+      "5",
+      "8"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Cultura generale (variante 12): quanti giorni ha una settimana?",
+    "options": [
+      "5",
+      "8",
+      "7",
+      "6"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Cultura generale (variante 224): quanti giorni ha una settimana?",
+    "options": [
+      "7",
+      "5",
+      "8",
+      "6"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Quale animale è un mammifero? (variante 81)",
+    "options": [
+      "Lucertola",
+      "Delfino",
+      "Squalo",
+      "Rana"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Cultura generale (variante 50): quanti giorni ha una settimana?",
+    "options": [
+      "8",
+      "7",
+      "6",
+      "5"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Cultura generale (variante 145): quanti giorni ha una settimana?",
+    "options": [
+      "8",
+      "5",
+      "7",
+      "6"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Quale dei seguenti è un pianeta? (variante 238)",
+    "options": [
+      "Marte",
+      "Sirio",
+      "Andromeda",
+      "Orione"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Quale dei seguenti è un pianeta? (variante 259)",
+    "options": [
+      "Marte",
+      "Orione",
+      "Andromeda",
+      "Sirio"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Cultura generale (variante 222): quanti giorni ha una settimana?",
+    "options": [
+      "6",
+      "8",
+      "5",
+      "7"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Cultura generale (variante 252): quanti giorni ha una settimana?",
+    "options": [
+      "6",
+      "7",
+      "8",
+      "5"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Quale è un continente? (variante 220)",
+    "options": [
+      "Alpi",
+      "Africa",
+      "Nilo",
+      "Sahara"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Cultura generale (variante 128): quanti giorni ha una settimana?",
+    "options": [
+      "7",
+      "5",
+      "8",
+      "6"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Cultura generale (variante 201): quanti giorni ha una settimana?",
+    "options": [
+      "8",
+      "5",
+      "7",
+      "6"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Cultura generale (variante 33): quanti giorni ha una settimana?",
+    "options": [
+      "6",
+      "7",
+      "8",
+      "5"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Quale è un continente? (variante 117)",
+    "options": [
+      "Africa",
+      "Alpi",
+      "Sahara",
+      "Nilo"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Quale animale è un mammifero? (variante 219)",
+    "options": [
+      "Rana",
+      "Squalo",
+      "Delfino",
+      "Lucertola"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Quale è un continente? (variante 36)",
+    "options": [
+      "Sahara",
+      "Alpi",
+      "Nilo",
+      "Africa"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Cultura generale (variante 82): quanti giorni ha una settimana?",
+    "options": [
+      "7",
+      "5",
+      "6",
+      "8"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Quale dei seguenti è un pianeta? (variante 67)",
+    "options": [
+      "Andromeda",
+      "Marte",
+      "Orione",
+      "Sirio"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Quale è una lingua romanza? (variante 28)",
+    "options": [
+      "Tedesco",
+      "Russo",
+      "Arabo",
+      "Italiano"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Quale animale è un mammifero? (variante 218)",
+    "options": [
+      "Rana",
+      "Delfino",
+      "Lucertola",
+      "Squalo"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Quale è una lingua romanza? (variante 215)",
+    "options": [
+      "Italiano",
+      "Tedesco",
+      "Russo",
+      "Arabo"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Cultura generale (variante 95): quanti giorni ha una settimana?",
+    "options": [
+      "5",
+      "7",
+      "6",
+      "8"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Quale animale è un mammifero? (variante 217)",
+    "options": [
+      "Rana",
+      "Delfino",
+      "Squalo",
+      "Lucertola"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Quale animale è un mammifero? (variante 102)",
+    "options": [
+      "Squalo",
+      "Rana",
+      "Lucertola",
+      "Delfino"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Cultura generale (variante 170): quanti giorni ha una settimana?",
+    "options": [
+      "7",
+      "5",
+      "6",
+      "8"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Cultura generale (variante 90): quanti giorni ha una settimana?",
+    "options": [
+      "7",
+      "6",
+      "8",
+      "5"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Cultura generale (variante 153): quanti giorni ha una settimana?",
+    "options": [
+      "5",
+      "7",
+      "8",
+      "6"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Quale dei seguenti è un pianeta? (variante 15)",
+    "options": [
+      "Orione",
+      "Sirio",
+      "Andromeda",
+      "Marte"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Cultura generale (variante 176): quanti giorni ha una settimana?",
+    "options": [
+      "6",
+      "8",
+      "7",
+      "5"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Quale dei seguenti è un pianeta? (variante 288)",
+    "options": [
+      "Andromeda",
+      "Marte",
+      "Orione",
+      "Sirio"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Quale animale è un mammifero? (variante 51)",
+    "options": [
+      "Lucertola",
+      "Rana",
+      "Delfino",
+      "Squalo"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Cultura generale (variante 62): quanti giorni ha una settimana?",
+    "options": [
+      "7",
+      "5",
+      "8",
+      "6"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Cultura generale (variante 102): quanti giorni ha una settimana?",
+    "options": [
+      "5",
+      "7",
+      "6",
+      "8"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Cultura generale (variante 110): quanti giorni ha una settimana?",
+    "options": [
+      "6",
+      "8",
+      "5",
+      "7"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Cultura generale (variante 236): quanti giorni ha una settimana?",
+    "options": [
+      "8",
+      "5",
+      "6",
+      "7"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Quale dei seguenti è un pianeta? (variante 252)",
+    "options": [
+      "Andromeda",
+      "Sirio",
+      "Orione",
+      "Marte"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Cultura generale (variante 158): quanti giorni ha una settimana?",
+    "options": [
+      "6",
+      "5",
+      "7",
+      "8"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Quale è un continente? (variante 250)",
+    "options": [
+      "Sahara",
+      "Africa",
+      "Nilo",
+      "Alpi"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Cultura generale (variante 234): quanti giorni ha una settimana?",
+    "options": [
+      "7",
+      "6",
+      "5",
+      "8"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Cultura generale (variante 34): quanti giorni ha una settimana?",
+    "options": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Cultura generale (variante 37): quanti giorni ha una settimana?",
+    "options": [
+      "6",
+      "8",
+      "7",
+      "5"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Quale animale è un mammifero? (variante 141)",
+    "options": [
+      "Delfino",
+      "Rana",
+      "Squalo",
+      "Lucertola"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Quale dei seguenti è un pianeta? (variante 178)",
+    "options": [
+      "Orione",
+      "Andromeda",
+      "Marte",
+      "Sirio"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Quale animale è un mammifero? (variante 184)",
+    "options": [
+      "Squalo",
+      "Lucertola",
+      "Rana",
+      "Delfino"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Cultura generale (variante 143): quanti giorni ha una settimana?",
+    "options": [
+      "7",
+      "5",
+      "8",
+      "6"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Quale è un continente? (variante 203)",
+    "options": [
+      "Alpi",
+      "Africa",
+      "Sahara",
+      "Nilo"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Quale dei seguenti è un pianeta? (variante 162)",
+    "options": [
+      "Orione",
+      "Marte",
+      "Andromeda",
+      "Sirio"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Quale dei seguenti è un pianeta? (variante 145)",
+    "options": [
+      "Orione",
+      "Andromeda",
+      "Marte",
+      "Sirio"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Quale è un continente? (variante 42)",
+    "options": [
+      "Alpi",
+      "Africa",
+      "Sahara",
+      "Nilo"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Quale è un continente? (variante 126)",
+    "options": [
+      "Sahara",
+      "Alpi",
+      "Nilo",
+      "Africa"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Quale è una lingua romanza? (variante 151)",
+    "options": [
+      "Arabo",
+      "Russo",
+      "Italiano",
+      "Tedesco"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Cultura generale (variante 72): quanti giorni ha una settimana?",
+    "options": [
+      "7",
+      "5",
+      "6",
+      "8"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Quale è un continente? (variante 224)",
+    "options": [
+      "Sahara",
+      "Africa",
+      "Alpi",
+      "Nilo"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Quale è un continente? (variante 263)",
+    "options": [
+      "Alpi",
+      "Africa",
+      "Nilo",
+      "Sahara"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Cultura generale (variante 200): quanti giorni ha una settimana?",
+    "options": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Cultura generale (variante 49): quanti giorni ha una settimana?",
+    "options": [
+      "5",
+      "7",
+      "8",
+      "6"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Cultura generale (variante 27): quanti giorni ha una settimana?",
+    "options": [
+      "6",
+      "7",
+      "5",
+      "8"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Quale è un continente? (variante 257)",
+    "options": [
+      "Africa",
+      "Sahara",
+      "Alpi",
+      "Nilo"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Cultura generale (variante 150): quanti giorni ha una settimana?",
+    "options": [
+      "8",
+      "7",
+      "6",
+      "5"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Cultura generale (variante 229): quanti giorni ha una settimana?",
+    "options": [
+      "7",
+      "6",
+      "8",
+      "5"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Quale è un continente? (variante 48)",
+    "options": [
+      "Africa",
+      "Sahara",
+      "Alpi",
+      "Nilo"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Quale dei seguenti è un pianeta? (variante 154)",
+    "options": [
+      "Andromeda",
+      "Marte",
+      "Orione",
+      "Sirio"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Quale è un continente? (variante 214)",
+    "options": [
+      "Africa",
+      "Sahara",
+      "Nilo",
+      "Alpi"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Quale dei seguenti è un pianeta? (variante 170)",
+    "options": [
+      "Sirio",
+      "Orione",
+      "Marte",
+      "Andromeda"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Quale è una lingua romanza? (variante 66)",
+    "options": [
+      "Russo",
+      "Tedesco",
+      "Arabo",
+      "Italiano"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Quale dei seguenti è un pianeta? (variante 171)",
+    "options": [
+      "Orione",
+      "Sirio",
+      "Marte",
+      "Andromeda"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Quale è un continente? (variante 231)",
+    "options": [
+      "Sahara",
+      "Alpi",
+      "Nilo",
+      "Africa"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Cultura generale (variante 237): quanti giorni ha una settimana?",
+    "options": [
+      "6",
+      "7",
+      "8",
+      "5"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Quale è una lingua romanza? (variante 273)",
+    "options": [
+      "Tedesco",
+      "Arabo",
+      "Russo",
+      "Italiano"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Cultura generale (variante 57): quanti giorni ha una settimana?",
+    "options": [
+      "6",
+      "8",
+      "5",
+      "7"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Quale è un continente? (variante 159)",
+    "options": [
+      "Alpi",
+      "Sahara",
+      "Africa",
+      "Nilo"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Quale dei seguenti è un pianeta? (variante 45)",
+    "options": [
+      "Orione",
+      "Andromeda",
+      "Marte",
+      "Sirio"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Cultura generale (variante 210): quanti giorni ha una settimana?",
+    "options": [
+      "6",
+      "7",
+      "8",
+      "5"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Quale è una lingua romanza? (variante 101)",
+    "options": [
+      "Arabo",
+      "Italiano",
+      "Russo",
+      "Tedesco"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Cultura generale (variante 169): quanti giorni ha una settimana?",
+    "options": [
+      "5",
+      "7",
+      "6",
+      "8"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Cultura generale (variante 86): quanti giorni ha una settimana?",
+    "options": [
+      "8",
+      "7",
+      "6",
+      "5"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Quale è una lingua romanza? (variante 293)",
+    "options": [
+      "Italiano",
+      "Tedesco",
+      "Arabo",
+      "Russo"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Quale dei seguenti è un pianeta? (variante 5)",
+    "options": [
+      "Sirio",
+      "Marte",
+      "Andromeda",
+      "Orione"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Quale è un continente? (variante 212)",
+    "options": [
+      "Nilo",
+      "Africa",
+      "Sahara",
+      "Alpi"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Cultura generale (variante 68): quanti giorni ha una settimana?",
+    "options": [
+      "7",
+      "8",
+      "5",
+      "6"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Cultura generale (variante 179): quanti giorni ha una settimana?",
+    "options": [
+      "8",
+      "7",
+      "6",
+      "5"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Quale dei seguenti è un pianeta? (variante 243)",
+    "options": [
+      "Sirio",
+      "Marte",
+      "Orione",
+      "Andromeda"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Cultura generale (variante 196): quanti giorni ha una settimana?",
+    "options": [
+      "6",
+      "7",
+      "8",
+      "5"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Quale animale è un mammifero? (variante 175)",
+    "options": [
+      "Lucertola",
+      "Delfino",
+      "Rana",
+      "Squalo"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Cultura generale (variante 42): quanti giorni ha una settimana?",
+    "options": [
+      "8",
+      "6",
+      "7",
+      "5"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Cultura generale (variante 25): quanti giorni ha una settimana?",
+    "options": [
+      "5",
+      "7",
+      "6",
+      "8"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Quale animale è un mammifero? (variante 40)",
+    "options": [
+      "Rana",
+      "Lucertola",
+      "Delfino",
+      "Squalo"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Cultura generale (variante 135): quanti giorni ha una settimana?",
+    "options": [
+      "6",
+      "8",
+      "5",
+      "7"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Quale è un continente? (variante 223)",
+    "options": [
+      "Alpi",
+      "Sahara",
+      "Africa",
+      "Nilo"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Cultura generale (variante 53): quanti giorni ha una settimana?",
+    "options": [
+      "5",
+      "7",
+      "6",
+      "8"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Cultura generale (variante 94): quanti giorni ha una settimana?",
+    "options": [
+      "5",
+      "7",
+      "8",
+      "6"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Cultura generale (variante 48): quanti giorni ha una settimana?",
+    "options": [
+      "7",
+      "6",
+      "8",
+      "5"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Quale è una lingua romanza? (variante 132)",
+    "options": [
+      "Italiano",
+      "Tedesco",
+      "Russo",
+      "Arabo"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Quale è un continente? (variante 24)",
+    "options": [
+      "Nilo",
+      "Africa",
+      "Sahara",
+      "Alpi"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Quale è una lingua romanza? (variante 270)",
+    "options": [
+      "Tedesco",
+      "Italiano",
+      "Arabo",
+      "Russo"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Cultura generale (variante 165): quanti giorni ha una settimana?",
+    "options": [
+      "6",
+      "5",
+      "7",
+      "8"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Cultura generale (variante 171): quanti giorni ha una settimana?",
+    "options": [
+      "7",
+      "5",
+      "6",
+      "8"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Cultura generale (variante 139): quanti giorni ha una settimana?",
+    "options": [
+      "7",
+      "6",
+      "5",
+      "8"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Quale dei seguenti è un pianeta? (variante 65)",
+    "options": [
+      "Marte",
+      "Orione",
+      "Andromeda",
+      "Sirio"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Cultura generale (variante 168): quanti giorni ha una settimana?",
+    "options": [
+      "8",
+      "6",
+      "7",
+      "5"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Quale dei seguenti è un pianeta? (variante 92)",
+    "options": [
+      "Sirio",
+      "Andromeda",
+      "Marte",
+      "Orione"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Quale è una lingua romanza? (variante 125)",
+    "options": [
+      "Russo",
+      "Arabo",
+      "Tedesco",
+      "Italiano"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Cultura generale (variante 181): quanti giorni ha una settimana?",
+    "options": [
+      "7",
+      "8",
+      "5",
+      "6"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Quale è un continente? (variante 39)",
+    "options": [
+      "Alpi",
+      "Africa",
+      "Nilo",
+      "Sahara"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Quale è una lingua romanza? (variante 88)",
+    "options": [
+      "Italiano",
+      "Tedesco",
+      "Russo",
+      "Arabo"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Quale dei seguenti è un pianeta? (variante 240)",
+    "options": [
+      "Orione",
+      "Sirio",
+      "Andromeda",
+      "Marte"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Quale animale è un mammifero? (variante 20)",
+    "options": [
+      "Lucertola",
+      "Squalo",
+      "Delfino",
+      "Rana"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Cultura generale (variante 117): quanti giorni ha una settimana?",
+    "options": [
+      "7",
+      "8",
+      "6",
+      "5"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Cultura generale (variante 19): quanti giorni ha una settimana?",
+    "options": [
+      "6",
+      "7",
+      "5",
+      "8"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Cultura generale (variante 218): quanti giorni ha una settimana?",
+    "options": [
+      "5",
+      "7",
+      "8",
+      "6"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Cultura generale (variante 112): quanti giorni ha una settimana?",
+    "options": [
+      "8",
+      "5",
+      "7",
+      "6"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Quale è una lingua romanza? (variante 181)",
+    "options": [
+      "Italiano",
+      "Russo",
+      "Arabo",
+      "Tedesco"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Quale dei seguenti è un pianeta? (variante 150)",
+    "options": [
+      "Andromeda",
+      "Orione",
+      "Marte",
+      "Sirio"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Cultura generale (variante 225): quanti giorni ha una settimana?",
+    "options": [
+      "5",
+      "7",
+      "8",
+      "6"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Cultura generale (variante 208): quanti giorni ha una settimana?",
+    "options": [
+      "6",
+      "8",
+      "7",
+      "5"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Quale animale è un mammifero? (variante 237)",
+    "options": [
+      "Rana",
+      "Delfino",
+      "Lucertola",
+      "Squalo"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Quale è un continente? (variante 90)",
+    "options": [
+      "Africa",
+      "Alpi",
+      "Sahara",
+      "Nilo"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Cultura generale (variante 43): quanti giorni ha una settimana?",
+    "options": [
+      "6",
+      "5",
+      "8",
+      "7"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Cultura generale (variante 164): quanti giorni ha una settimana?",
+    "options": [
+      "8",
+      "5",
+      "7",
+      "6"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Quale è un continente? (variante 167)",
+    "options": [
+      "Alpi",
+      "Africa",
+      "Nilo",
+      "Sahara"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Cultura generale (variante 199): quanti giorni ha una settimana?",
+    "options": [
+      "8",
+      "6",
+      "5",
+      "7"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Quale è una lingua romanza? (variante 100)",
+    "options": [
+      "Russo",
+      "Italiano",
+      "Arabo",
+      "Tedesco"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Quale dei seguenti è un pianeta? (variante 35)",
+    "options": [
+      "Sirio",
+      "Orione",
+      "Andromeda",
+      "Marte"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Cultura generale (variante 85): quanti giorni ha una settimana?",
+    "options": [
+      "5",
+      "6",
+      "8",
+      "7"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Cultura generale (variante 22): quanti giorni ha una settimana?",
+    "options": [
+      "7",
+      "5",
+      "6",
+      "8"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Cultura generale (variante 78): quanti giorni ha una settimana?",
+    "options": [
+      "8",
+      "6",
+      "5",
+      "7"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Quale dei seguenti è un pianeta? (variante 22)",
+    "options": [
+      "Andromeda",
+      "Marte",
+      "Sirio",
+      "Orione"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Quale è una lingua romanza? (variante 134)",
+    "options": [
+      "Arabo",
+      "Italiano",
+      "Tedesco",
+      "Russo"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Quale è una lingua romanza? (variante 58)",
+    "options": [
+      "Arabo",
+      "Russo",
+      "Tedesco",
+      "Italiano"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Quale dei seguenti è un pianeta? (variante 271)",
+    "options": [
+      "Orione",
+      "Sirio",
+      "Marte",
+      "Andromeda"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Cultura generale (variante 220): quanti giorni ha una settimana?",
+    "options": [
+      "5",
+      "7",
+      "8",
+      "6"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Quale è un continente? (variante 236)",
+    "options": [
+      "Africa",
+      "Alpi",
+      "Nilo",
+      "Sahara"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Quale è un continente? (variante 177)",
+    "options": [
+      "Nilo",
+      "Sahara",
+      "Africa",
+      "Alpi"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Cultura generale (variante 101): quanti giorni ha una settimana?",
+    "options": [
+      "6",
+      "5",
+      "8",
+      "7"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Cultura generale (variante 41): quanti giorni ha una settimana?",
+    "options": [
+      "5",
+      "8",
+      "7",
+      "6"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Quale animale è un mammifero? (variante 37)",
+    "options": [
+      "Rana",
+      "Squalo",
+      "Lucertola",
+      "Delfino"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Quale dei seguenti è un pianeta? (variante 96)",
+    "options": [
+      "Sirio",
+      "Marte",
+      "Orione",
+      "Andromeda"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Cultura generale (variante 30): quanti giorni ha una settimana?",
+    "options": [
+      "8",
+      "7",
+      "6",
+      "5"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Cultura generale (variante 147): quanti giorni ha una settimana?",
+    "options": [
+      "7",
+      "5",
+      "6",
+      "8"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Quale dei seguenti è un pianeta? (variante 255)",
+    "options": [
+      "Orione",
+      "Sirio",
+      "Marte",
+      "Andromeda"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Quale è un continente? (variante 188)",
+    "options": [
+      "Sahara",
+      "Nilo",
+      "Alpi",
+      "Africa"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Cultura generale (variante 13): quanti giorni ha una settimana?",
+    "options": [
+      "6",
+      "8",
+      "7",
+      "5"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Quale è un continente? (variante 195)",
+    "options": [
+      "Alpi",
+      "Sahara",
+      "Africa",
+      "Nilo"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Cultura generale (variante 24): quanti giorni ha una settimana?",
+    "options": [
+      "7",
+      "8",
+      "5",
+      "6"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Quale dei seguenti è un pianeta? (variante 11)",
+    "options": [
+      "Sirio",
+      "Andromeda",
+      "Marte",
+      "Orione"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Cultura generale (variante 172): quanti giorni ha una settimana?",
+    "options": [
+      "5",
+      "8",
+      "7",
+      "6"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Quale è una lingua romanza? (variante 166)",
+    "options": [
+      "Russo",
+      "Italiano",
+      "Arabo",
+      "Tedesco"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Cultura generale (variante 182): quanti giorni ha una settimana?",
+    "options": [
+      "7",
+      "8",
+      "6",
+      "5"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Quale animale è un mammifero? (variante 38)",
+    "options": [
+      "Delfino",
+      "Lucertola",
+      "Rana",
+      "Squalo"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Quale è un continente? (variante 25)",
+    "options": [
+      "Africa",
+      "Alpi",
+      "Sahara",
+      "Nilo"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Quale è una lingua romanza? (variante 17)",
+    "options": [
+      "Russo",
+      "Tedesco",
+      "Italiano",
+      "Arabo"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Cultura generale (variante 131): quanti giorni ha una settimana?",
+    "options": [
+      "8",
+      "5",
+      "7",
+      "6"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Quale è un continente? (variante 114)",
+    "options": [
+      "Alpi",
+      "Sahara",
+      "Nilo",
+      "Africa"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Cultura generale (variante 159): quanti giorni ha una settimana?",
+    "options": [
+      "7",
+      "5",
+      "8",
+      "6"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Cultura generale (variante 155): quanti giorni ha una settimana?",
+    "options": [
+      "6",
+      "7",
+      "5",
+      "8"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Cultura generale (variante 2): quanti giorni ha una settimana?",
+    "options": [
+      "7",
+      "5",
+      "8",
+      "6"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Quale è un continente? (variante 207)",
+    "options": [
+      "Africa",
+      "Nilo",
+      "Alpi",
+      "Sahara"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Quale è una lingua romanza? (variante 76)",
+    "options": [
+      "Italiano",
+      "Tedesco",
+      "Russo",
+      "Arabo"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Quale è una lingua romanza? (variante 196)",
+    "options": [
+      "Russo",
+      "Arabo",
+      "Tedesco",
+      "Italiano"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Cultura generale (variante 247): quanti giorni ha una settimana?",
+    "options": [
+      "7",
+      "6",
+      "5",
+      "8"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Cultura generale (variante 99): quanti giorni ha una settimana?",
+    "options": [
+      "8",
+      "6",
+      "5",
+      "7"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Cultura generale (variante 149): quanti giorni ha una settimana?",
+    "options": [
+      "7",
+      "6",
+      "5",
+      "8"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Cultura generale (variante 71): quanti giorni ha una settimana?",
+    "options": [
+      "5",
+      "6",
+      "8",
+      "7"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Cultura generale (variante 61): quanti giorni ha una settimana?",
+    "options": [
+      "8",
+      "5",
+      "6",
+      "7"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Cultura generale (variante 39): quanti giorni ha una settimana?",
+    "options": [
+      "6",
+      "5",
+      "7",
+      "8"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Quale dei seguenti è un pianeta? (variante 43)",
+    "options": [
+      "Marte",
+      "Orione",
+      "Sirio",
+      "Andromeda"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Cultura generale (variante 88): quanti giorni ha una settimana?",
+    "options": [
+      "8",
+      "7",
+      "5",
+      "6"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Quale dei seguenti è un pianeta? (variante 34)",
+    "options": [
+      "Orione",
+      "Marte",
+      "Sirio",
+      "Andromeda"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Quale è una lingua romanza? (variante 261)",
+    "options": [
+      "Tedesco",
+      "Russo",
+      "Arabo",
+      "Italiano"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Quale dei seguenti è un pianeta? (variante 241)",
+    "options": [
+      "Andromeda",
+      "Marte",
+      "Sirio",
+      "Orione"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Cultura generale (variante 67): quanti giorni ha una settimana?",
+    "options": [
+      "8",
+      "5",
+      "6",
+      "7"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Cultura generale (variante 106): quanti giorni ha una settimana?",
+    "options": [
+      "7",
+      "5",
+      "6",
+      "8"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Quale è una lingua romanza? (variante 46)",
+    "options": [
+      "Tedesco",
+      "Italiano",
+      "Russo",
+      "Arabo"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Cultura generale (variante 163): quanti giorni ha una settimana?",
+    "options": [
+      "8",
+      "6",
+      "5",
+      "7"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Cultura generale (variante 245): quanti giorni ha una settimana?",
+    "options": [
+      "7",
+      "5",
+      "6",
+      "8"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Quale è un continente? (variante 4)",
+    "options": [
+      "Nilo",
+      "Alpi",
+      "Sahara",
+      "Africa"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Cultura generale (variante 26): quanti giorni ha una settimana?",
+    "options": [
+      "8",
+      "6",
+      "7",
+      "5"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Quale è una lingua romanza? (variante 122)",
+    "options": [
+      "Italiano",
+      "Arabo",
+      "Tedesco",
+      "Russo"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Quale è una lingua romanza? (variante 44)",
+    "options": [
+      "Italiano",
+      "Arabo",
+      "Russo",
+      "Tedesco"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Cultura generale (variante 186): quanti giorni ha una settimana?",
+    "options": [
+      "6",
+      "8",
+      "5",
+      "7"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Cultura generale (variante 223): quanti giorni ha una settimana?",
+    "options": [
+      "7",
+      "5",
+      "6",
+      "8"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Quale dei seguenti è un pianeta? (variante 133)",
+    "options": [
+      "Sirio",
+      "Marte",
+      "Orione",
+      "Andromeda"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Cultura generale (variante 11): quanti giorni ha una settimana?",
+    "options": [
+      "8",
+      "7",
+      "6",
+      "5"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Quale è un continente? (variante 112)",
+    "options": [
+      "Sahara",
+      "Nilo",
+      "Africa",
+      "Alpi"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Cultura generale (variante 66): quanti giorni ha una settimana?",
+    "options": [
+      "7",
+      "6",
+      "5",
+      "8"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Cultura generale (variante 18): quanti giorni ha una settimana?",
+    "options": [
+      "6",
+      "7",
+      "8",
+      "5"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Cultura generale (variante 28): quanti giorni ha una settimana?",
+    "options": [
+      "5",
+      "7",
+      "8",
+      "6"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Quale animale è un mammifero? (variante 281)",
+    "options": [
+      "Lucertola",
+      "Squalo",
+      "Delfino",
+      "Rana"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Quale animale è un mammifero? (variante 12)",
+    "options": [
+      "Rana",
+      "Squalo",
+      "Lucertola",
+      "Delfino"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Quale dei seguenti è un pianeta? (variante 269)",
+    "options": [
+      "Orione",
+      "Marte",
+      "Sirio",
+      "Andromeda"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Cultura generale (variante 129): quanti giorni ha una settimana?",
+    "options": [
+      "5",
+      "6",
+      "8",
+      "7"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Cultura generale (variante 52): quanti giorni ha una settimana?",
+    "options": [
+      "7",
+      "8",
+      "6",
+      "5"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Quale è una lingua romanza? (variante 123)",
+    "options": [
+      "Russo",
+      "Arabo",
+      "Tedesco",
+      "Italiano"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Quale è un continente? (variante 137)",
+    "options": [
+      "Nilo",
+      "Africa",
+      "Alpi",
+      "Sahara"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Quale è una lingua romanza? (variante 89)",
+    "options": [
+      "Russo",
+      "Tedesco",
+      "Italiano",
+      "Arabo"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Cultura generale (variante 151): quanti giorni ha una settimana?",
+    "options": [
+      "7",
+      "5",
+      "6",
+      "8"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Quale dei seguenti è un pianeta? (variante 276)",
+    "options": [
+      "Sirio",
+      "Marte",
+      "Andromeda",
+      "Orione"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Cultura generale (variante 226): quanti giorni ha una settimana?",
+    "options": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Quale dei seguenti è un pianeta? (variante 204)",
+    "options": [
+      "Marte",
+      "Orione",
+      "Sirio",
+      "Andromeda"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Quale è un continente? (variante 277)",
+    "options": [
+      "Africa",
+      "Nilo",
+      "Alpi",
+      "Sahara"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Quale è una lingua romanza? (variante 70)",
+    "options": [
+      "Russo",
+      "Italiano",
+      "Arabo",
+      "Tedesco"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Quale è un continente? (variante 295)",
+    "options": [
+      "Sahara",
+      "Alpi",
+      "Nilo",
+      "Africa"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Cultura generale (variante 157): quanti giorni ha una settimana?",
+    "options": [
+      "5",
+      "6",
+      "8",
+      "7"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Cultura generale (variante 29): quanti giorni ha una settimana?",
+    "options": [
+      "6",
+      "7",
+      "5",
+      "8"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Quale dei seguenti è un pianeta? (variante 10)",
+    "options": [
+      "Marte",
+      "Orione",
+      "Andromeda",
+      "Sirio"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Cultura generale (variante 190): quanti giorni ha una settimana?",
+    "options": [
+      "5",
+      "7",
+      "8",
+      "6"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Cultura generale (variante 246): quanti giorni ha una settimana?",
+    "options": [
+      "8",
+      "7",
+      "5",
+      "6"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Cultura generale (variante 74): quanti giorni ha una settimana?",
+    "options": [
+      "7",
+      "8",
+      "6",
+      "5"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Cultura generale (variante 4): quanti giorni ha una settimana?",
+    "options": [
+      "6",
+      "8",
+      "5",
+      "7"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Quale animale è un mammifero? (variante 227)",
+    "options": [
+      "Delfino",
+      "Rana",
+      "Squalo",
+      "Lucertola"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Quale è una lingua romanza? (variante 230)",
+    "options": [
+      "Italiano",
+      "Arabo",
+      "Russo",
+      "Tedesco"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Cultura generale (variante 126): quanti giorni ha una settimana?",
+    "options": [
+      "8",
+      "5",
+      "6",
+      "7"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Cultura generale (variante 241): quanti giorni ha una settimana?",
+    "options": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Cultura generale (variante 140): quanti giorni ha una settimana?",
+    "options": [
+      "7",
+      "8",
+      "6",
+      "5"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  }
+]

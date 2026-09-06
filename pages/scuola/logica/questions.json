@@ -1,0 +1,6002 @@
+[
+  {
+    "q": "Completa la sequenza: 9, 15, 21, 27, __",
+    "options": [
+      "33 (4)",
+      "33",
+      "27",
+      "39"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Risolvi: 9x + 8 = 278. Quanto vale x?",
+    "options": [
+      "18",
+      "28",
+      "30",
+      "35"
+    ],
+    "correct": 2,
+    "difficulty": "hard",
+    "explain": "Isola x e dividi per a."
+  },
+  {
+    "q": "Semplifica la frazione 513/378.",
+    "options": [
+      "513/378",
+      "20/14",
+      "19/15",
+      "19/14"
+    ],
+    "correct": 3,
+    "difficulty": "medium",
+    "explain": "Dividi numeratore e denominatore per il MCD."
+  },
+  {
+    "q": "Risolvi: 25x − 12 = 863. Quanto vale x?",
+    "options": [
+      "23",
+      "35",
+      "40",
+      "47"
+    ],
+    "correct": 1,
+    "difficulty": "hard",
+    "explain": "Isola x e dividi per a."
+  },
+  {
+    "q": "Completa la sequenza: 187, 215, 243, 271, __",
+    "options": [
+      "299 (4)",
+      "327",
+      "299",
+      "271"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Risolvi: 15x − 49 = 506. Quanto vale x?",
+    "options": [
+      "25",
+      "49",
+      "37",
+      "37 (4)"
+    ],
+    "correct": 2,
+    "difficulty": "hard",
+    "explain": "Isola x e dividi per a."
+  },
+  {
+    "q": "Risolvi: 5x − 6 = 299. Quanto vale x?",
+    "options": [
+      "56",
+      "68",
+      "64",
+      "61"
+    ],
+    "correct": 3,
+    "difficulty": "hard",
+    "explain": "Isola x e dividi per a."
+  },
+  {
+    "q": "Completa la sequenza: 95, 115, 135, 155, __",
+    "options": [
+      "155",
+      "175 (4)",
+      "195",
+      "175"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Completa la sequenza: 122, 136, 150, 164, __",
+    "options": [
+      "164",
+      "178 (4)",
+      "178",
+      "192"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Completa la sequenza: 39, 47, 55, 63, __",
+    "options": [
+      "71",
+      "71 (4)",
+      "63",
+      "79"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Risolvi: 5x + 58 = 358. Quanto vale x?",
+    "options": [
+      "62",
+      "60 (4)",
+      "63",
+      "60"
+    ],
+    "correct": 3,
+    "difficulty": "hard",
+    "explain": "Isola x e dividi per a."
+  },
+  {
+    "q": "Completa la sequenza: 194, 203, 212, 221, __",
+    "options": [
+      "230",
+      "230 (4)",
+      "221",
+      "239"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Semplifica la frazione 18/112.",
+    "options": [
+      "9/56",
+      "18/112",
+      "9/57",
+      "10/56"
+    ],
+    "correct": 0,
+    "difficulty": "medium",
+    "explain": "Dividi numeratore e denominatore per il MCD."
+  },
+  {
+    "q": "Completa la sequenza: 121, 144, 167, 190, __",
+    "options": [
+      "190",
+      "236",
+      "213",
+      "213 (4)"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Completa la sequenza: 198, 217, 236, 255, __",
+    "options": [
+      "274 (4)",
+      "274",
+      "255",
+      "293"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Completa la sequenza: 111, 126, 141, 156, __",
+    "options": [
+      "186",
+      "171 (4)",
+      "156",
+      "171"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Risolvi: 25x + 40 = 1765. Quanto vale x?",
+    "options": [
+      "66",
+      "57",
+      "69",
+      "67"
+    ],
+    "correct": 2,
+    "difficulty": "hard",
+    "explain": "Isola x e dividi per a."
+  },
+  {
+    "q": "Risolvi: 22x + 12 = 672. Quanto vale x?",
+    "options": [
+      "32",
+      "30",
+      "35",
+      "23"
+    ],
+    "correct": 1,
+    "difficulty": "hard",
+    "explain": "Isola x e dividi per a."
+  },
+  {
+    "q": "Semplifica la frazione 132/207.",
+    "options": [
+      "44/69",
+      "45/69",
+      "44/70",
+      "132/207"
+    ],
+    "correct": 0,
+    "difficulty": "medium",
+    "explain": "Dividi numeratore e denominatore per il MCD."
+  },
+  {
+    "q": "Semplifica la frazione 16/134.",
+    "options": [
+      "8/67",
+      "8/68",
+      "9/67",
+      "16/134"
+    ],
+    "correct": 0,
+    "difficulty": "medium",
+    "explain": "Dividi numeratore e denominatore per il MCD."
+  },
+  {
+    "q": "Risolvi: 16x − 28 = 84. Quanto vale x?",
+    "options": [
+      "19",
+      "7",
+      "14",
+      "12"
+    ],
+    "correct": 1,
+    "difficulty": "hard",
+    "explain": "Isola x e dividi per a."
+  },
+  {
+    "q": "Risolvi: 12x + 60 = 720. Quanto vale x?",
+    "options": [
+      "48",
+      "62",
+      "43",
+      "55"
+    ],
+    "correct": 3,
+    "difficulty": "hard",
+    "explain": "Isola x e dividi per a."
+  },
+  {
+    "q": "Risolvi: 6x + 35 = 71. Quanto vale x?",
+    "options": [
+      "13",
+      "18",
+      "6",
+      "8"
+    ],
+    "correct": 2,
+    "difficulty": "hard",
+    "explain": "Isola x e dividi per a."
+  },
+  {
+    "q": "Completa la sequenza: 6, 33, 60, 87, __",
+    "options": [
+      "114",
+      "141",
+      "87",
+      "114 (4)"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Completa la sequenza: 98, 114, 130, 146, __",
+    "options": [
+      "146",
+      "162",
+      "162 (4)",
+      "178"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Risolvi: 2x − 1 = 143. Quanto vale x?",
+    "options": [
+      "65",
+      "77",
+      "70",
+      "72"
+    ],
+    "correct": 3,
+    "difficulty": "hard",
+    "explain": "Isola x e dividi per a."
+  },
+  {
+    "q": "Risolvi: 24x − 12 = 852. Quanto vale x?",
+    "options": [
+      "36",
+      "33",
+      "38",
+      "36 (4)"
+    ],
+    "correct": 0,
+    "difficulty": "hard",
+    "explain": "Isola x e dividi per a."
+  },
+  {
+    "q": "Risolvi: 2x − 22 = 66. Quanto vale x?",
+    "options": [
+      "44 (4)",
+      "44",
+      "49",
+      "47"
+    ],
+    "correct": 1,
+    "difficulty": "hard",
+    "explain": "Isola x e dividi per a."
+  },
+  {
+    "q": "Risolvi: 10x + 11 = 711. Quanto vale x?",
+    "options": [
+      "70",
+      "63",
+      "65",
+      "75"
+    ],
+    "correct": 0,
+    "difficulty": "hard",
+    "explain": "Isola x e dividi per a."
+  },
+  {
+    "q": "Semplifica la frazione 150/250.",
+    "options": [
+      "150/250",
+      "3/5",
+      "4/5",
+      "3/6"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "Dividi numeratore e denominatore per il MCD."
+  },
+  {
+    "q": "Completa la sequenza: 48, 60, 72, 84, __",
+    "options": [
+      "108",
+      "84",
+      "96",
+      "96 (4)"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Semplifica la frazione 84/288.",
+    "options": [
+      "7/24",
+      "84/288",
+      "7/25",
+      "8/24"
+    ],
+    "correct": 0,
+    "difficulty": "medium",
+    "explain": "Dividi numeratore e denominatore per il MCD."
+  },
+  {
+    "q": "Completa la sequenza: 33, 60, 87, 114, __",
+    "options": [
+      "141 (4)",
+      "141",
+      "168",
+      "114"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Completa la sequenza: 176, 189, 202, 215, __",
+    "options": [
+      "241",
+      "228 (4)",
+      "215",
+      "228"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Risolvi: 8x + 15 = 559. Quanto vale x?",
+    "options": [
+      "65",
+      "68",
+      "71",
+      "56"
+    ],
+    "correct": 1,
+    "difficulty": "hard",
+    "explain": "Isola x e dividi per a."
+  },
+  {
+    "q": "Risolvi: 4x + 2 = 194. Quanto vale x?",
+    "options": [
+      "48",
+      "60",
+      "55",
+      "46"
+    ],
+    "correct": 0,
+    "difficulty": "hard",
+    "explain": "Isola x e dividi per a."
+  },
+  {
+    "q": "Semplifica la frazione 583/297.",
+    "options": [
+      "583/297",
+      "54/27",
+      "53/28",
+      "53/27"
+    ],
+    "correct": 3,
+    "difficulty": "medium",
+    "explain": "Dividi numeratore e denominatore per il MCD."
+  },
+  {
+    "q": "Completa la sequenza: 148, 170, 192, 214, __",
+    "options": [
+      "236",
+      "258",
+      "236 (4)",
+      "214"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Risolvi: 21x − 59 = 823. Quanto vale x?",
+    "options": [
+      "54",
+      "47",
+      "42",
+      "35"
+    ],
+    "correct": 2,
+    "difficulty": "hard",
+    "explain": "Isola x e dividi per a."
+  },
+  {
+    "q": "Completa la sequenza: 24, 36, 48, 60, __",
+    "options": [
+      "60",
+      "84",
+      "72 (4)",
+      "72"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Risolvi: 15x + 29 = 524. Quanto vale x?",
+    "options": [
+      "31",
+      "45",
+      "33",
+      "35"
+    ],
+    "correct": 2,
+    "difficulty": "hard",
+    "explain": "Isola x e dividi per a."
+  },
+  {
+    "q": "Completa la sequenza: 102, 107, 112, 117, __",
+    "options": [
+      "122 (4)",
+      "117",
+      "122",
+      "127"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Completa la sequenza: 104, 127, 150, 173, __",
+    "options": [
+      "196",
+      "219",
+      "173",
+      "196 (4)"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Risolvi: 20x − 16 = 1144. Quanto vale x?",
+    "options": [
+      "56",
+      "61",
+      "63",
+      "58"
+    ],
+    "correct": 3,
+    "difficulty": "hard",
+    "explain": "Isola x e dividi per a."
+  },
+  {
+    "q": "Risolvi: 6x − 21 = 219. Quanto vale x?",
+    "options": [
+      "40",
+      "38",
+      "37",
+      "28"
+    ],
+    "correct": 0,
+    "difficulty": "hard",
+    "explain": "Isola x e dividi per a."
+  },
+  {
+    "q": "Completa la sequenza: 140, 168, 196, 224, __",
+    "options": [
+      "252 (4)",
+      "224",
+      "252",
+      "280"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Risolvi: 11x − 50 = 291. Quanto vale x?",
+    "options": [
+      "38",
+      "43",
+      "31",
+      "33"
+    ],
+    "correct": 2,
+    "difficulty": "hard",
+    "explain": "Isola x e dividi per a."
+  },
+  {
+    "q": "Completa la sequenza: 4, 10, 16, 22, __",
+    "options": [
+      "22",
+      "28",
+      "34",
+      "28 (4)"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Risolvi: 10x + 51 = 461. Quanto vale x?",
+    "options": [
+      "41",
+      "48",
+      "34",
+      "43"
+    ],
+    "correct": 0,
+    "difficulty": "hard",
+    "explain": "Isola x e dividi per a."
+  },
+  {
+    "q": "Semplifica la frazione 230/335.",
+    "options": [
+      "230/335",
+      "46/68",
+      "46/67",
+      "47/67"
+    ],
+    "correct": 2,
+    "difficulty": "medium",
+    "explain": "Dividi numeratore e denominatore per il MCD."
+  },
+  {
+    "q": "Semplifica la frazione 203/322.",
+    "options": [
+      "29/47",
+      "203/322",
+      "29/46",
+      "30/46"
+    ],
+    "correct": 2,
+    "difficulty": "medium",
+    "explain": "Dividi numeratore e denominatore per il MCD."
+  },
+  {
+    "q": "Completa la sequenza: 109, 118, 127, 136, __",
+    "options": [
+      "136",
+      "145",
+      "154",
+      "145 (4)"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Completa la sequenza: 90, 112, 134, 156, __",
+    "options": [
+      "200",
+      "178 (4)",
+      "156",
+      "178"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Risolvi: 4x + 49 = 197. Quanto vale x?",
+    "options": [
+      "42",
+      "37 (4)",
+      "40",
+      "37"
+    ],
+    "correct": 3,
+    "difficulty": "hard",
+    "explain": "Isola x e dividi per a."
+  },
+  {
+    "q": "Semplifica la frazione 147/216.",
+    "options": [
+      "50/72",
+      "49/72",
+      "49/73",
+      "147/216"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "Dividi numeratore e denominatore per il MCD."
+  },
+  {
+    "q": "Semplifica la frazione 594/711.",
+    "options": [
+      "594/711",
+      "67/79",
+      "66/79",
+      "66/80"
+    ],
+    "correct": 2,
+    "difficulty": "medium",
+    "explain": "Dividi numeratore e denominatore per il MCD."
+  },
+  {
+    "q": "Semplifica la frazione 296/320.",
+    "options": [
+      "37/41",
+      "296/320",
+      "37/40",
+      "38/40"
+    ],
+    "correct": 2,
+    "difficulty": "medium",
+    "explain": "Dividi numeratore e denominatore per il MCD."
+  },
+  {
+    "q": "Completa la sequenza: 130, 154, 178, 202, __",
+    "options": [
+      "226",
+      "226 (4)",
+      "202",
+      "250"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Completa la sequenza: 99, 107, 115, 123, __",
+    "options": [
+      "123",
+      "131",
+      "131 (4)",
+      "139"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Completa la sequenza: 172, 178, 184, 190, __",
+    "options": [
+      "190",
+      "196 (4)",
+      "196",
+      "202"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Risolvi: 19x + 53 = 1136. Quanto vale x?",
+    "options": [
+      "55",
+      "57",
+      "59",
+      "57 (4)"
+    ],
+    "correct": 1,
+    "difficulty": "hard",
+    "explain": "Isola x e dividi per a."
+  },
+  {
+    "q": "Completa la sequenza: 60, 64, 68, 72, __",
+    "options": [
+      "76 (4)",
+      "72",
+      "76",
+      "80"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Completa la sequenza: 2, 23, 44, 65, __",
+    "options": [
+      "86",
+      "65",
+      "107",
+      "86 (4)"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Completa la sequenza: 127, 155, 183, 211, __",
+    "options": [
+      "239 (4)",
+      "267",
+      "211",
+      "239"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Semplifica la frazione 520/390.",
+    "options": [
+      "520/390",
+      "4/3",
+      "4/4",
+      "5/3"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "Dividi numeratore e denominatore per il MCD."
+  },
+  {
+    "q": "Completa la sequenza: 56, 81, 106, 131, __",
+    "options": [
+      "156 (4)",
+      "181",
+      "156",
+      "131"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Completa la sequenza: 154, 165, 176, 187, __",
+    "options": [
+      "187",
+      "198 (4)",
+      "198",
+      "209"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Risolvi: 21x − 24 = 270. Quanto vale x?",
+    "options": [
+      "14",
+      "14 (4)",
+      "14 (3)",
+      "21"
+    ],
+    "correct": 0,
+    "difficulty": "hard",
+    "explain": "Isola x e dividi per a."
+  },
+  {
+    "q": "Completa la sequenza: 145, 152, 159, 166, __",
+    "options": [
+      "166",
+      "173 (4)",
+      "180",
+      "173"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Risolvi: 2x − 59 = 59. Quanto vale x?",
+    "options": [
+      "47",
+      "59",
+      "61",
+      "71"
+    ],
+    "correct": 1,
+    "difficulty": "hard",
+    "explain": "Isola x e dividi per a."
+  },
+  {
+    "q": "Semplifica la frazione 333/342.",
+    "options": [
+      "38/38",
+      "37/39",
+      "333/342",
+      "37/38"
+    ],
+    "correct": 3,
+    "difficulty": "medium",
+    "explain": "Dividi numeratore e denominatore per il MCD."
+  },
+  {
+    "q": "Completa la sequenza: 177, 196, 215, 234, __",
+    "options": [
+      "253",
+      "234",
+      "272",
+      "253 (4)"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Completa la sequenza: 64, 75, 86, 97, __",
+    "options": [
+      "108 (4)",
+      "119",
+      "97",
+      "108"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Completa la sequenza: 58, 65, 72, 79, __",
+    "options": [
+      "79",
+      "93",
+      "86",
+      "86 (4)"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Risolvi: 23x − 24 = 482. Quanto vale x?",
+    "options": [
+      "20",
+      "22",
+      "22 (4)",
+      "25"
+    ],
+    "correct": 1,
+    "difficulty": "hard",
+    "explain": "Isola x e dividi per a."
+  },
+  {
+    "q": "Risolvi: 19x − 27 = 239. Quanto vale x?",
+    "options": [
+      "2",
+      "21",
+      "26",
+      "14"
+    ],
+    "correct": 3,
+    "difficulty": "hard",
+    "explain": "Isola x e dividi per a."
+  },
+  {
+    "q": "Completa la sequenza: 149, 167, 185, 203, __",
+    "options": [
+      "239",
+      "221 (4)",
+      "221",
+      "203"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Risolvi: 11x − 37 = 480. Quanto vale x?",
+    "options": [
+      "52",
+      "45",
+      "47",
+      "50"
+    ],
+    "correct": 2,
+    "difficulty": "hard",
+    "explain": "Isola x e dividi per a."
+  },
+  {
+    "q": "Completa la sequenza: 83, 99, 115, 131, __",
+    "options": [
+      "147",
+      "131",
+      "147 (4)",
+      "163"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Risolvi: 9x − 14 = 49. Quanto vale x?",
+    "options": [
+      "12",
+      "7",
+      "10",
+      "1"
+    ],
+    "correct": 1,
+    "difficulty": "hard",
+    "explain": "Isola x e dividi per a."
+  },
+  {
+    "q": "Semplifica la frazione 480/270.",
+    "options": [
+      "16/10",
+      "17/9",
+      "16/9",
+      "480/270"
+    ],
+    "correct": 2,
+    "difficulty": "medium",
+    "explain": "Dividi numeratore e denominatore per il MCD."
+  },
+  {
+    "q": "Completa la sequenza: 166, 191, 216, 241, __",
+    "options": [
+      "241",
+      "291",
+      "266 (4)",
+      "266"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Completa la sequenza: 129, 159, 189, 219, __",
+    "options": [
+      "279",
+      "249 (4)",
+      "219",
+      "249"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Completa la sequenza: 87, 108, 129, 150, __",
+    "options": [
+      "192",
+      "171",
+      "150",
+      "171 (4)"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Completa la sequenza: 196, 220, 244, 268, __",
+    "options": [
+      "292 (4)",
+      "292",
+      "268",
+      "316"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Completa la sequenza: 165, 173, 181, 189, __",
+    "options": [
+      "205",
+      "197",
+      "197 (4)",
+      "189"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Semplifica la frazione 847/143.",
+    "options": [
+      "77/13",
+      "78/13",
+      "77/14",
+      "847/143"
+    ],
+    "correct": 0,
+    "difficulty": "medium",
+    "explain": "Dividi numeratore e denominatore per il MCD."
+  },
+  {
+    "q": "Semplifica la frazione 99/369.",
+    "options": [
+      "11/41",
+      "11/42",
+      "12/41",
+      "99/369"
+    ],
+    "correct": 0,
+    "difficulty": "medium",
+    "explain": "Dividi numeratore e denominatore per il MCD."
+  },
+  {
+    "q": "Semplifica la frazione 140/78.",
+    "options": [
+      "71/39",
+      "140/78",
+      "70/40",
+      "70/39"
+    ],
+    "correct": 3,
+    "difficulty": "medium",
+    "explain": "Dividi numeratore e denominatore per il MCD."
+  },
+  {
+    "q": "Risolvi: 17x + 29 = 1015. Quanto vale x?",
+    "options": [
+      "46",
+      "70",
+      "58",
+      "53"
+    ],
+    "correct": 2,
+    "difficulty": "hard",
+    "explain": "Isola x e dividi per a."
+  },
+  {
+    "q": "Completa la sequenza: 72, 94, 116, 138, __",
+    "options": [
+      "160",
+      "138",
+      "182",
+      "160 (4)"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Completa la sequenza: 1, 10, 19, 28, __",
+    "options": [
+      "37 (4)",
+      "37",
+      "28",
+      "46"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Semplifica la frazione 44/320.",
+    "options": [
+      "11/81",
+      "12/80",
+      "44/320",
+      "11/80"
+    ],
+    "correct": 3,
+    "difficulty": "medium",
+    "explain": "Dividi numeratore e denominatore per il MCD."
+  },
+  {
+    "q": "Semplifica la frazione 504/60.",
+    "options": [
+      "43/5",
+      "504/60",
+      "42/6",
+      "42/5"
+    ],
+    "correct": 3,
+    "difficulty": "medium",
+    "explain": "Dividi numeratore e denominatore per il MCD."
+  },
+  {
+    "q": "Risolvi: 23x − 40 = 351. Quanto vale x?",
+    "options": [
+      "14",
+      "5",
+      "17",
+      "24"
+    ],
+    "correct": 2,
+    "difficulty": "hard",
+    "explain": "Isola x e dividi per a."
+  },
+  {
+    "q": "Completa la sequenza: 79, 86, 93, 100, __",
+    "options": [
+      "100",
+      "107 (4)",
+      "114",
+      "107"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Risolvi: 7x − 29 = 69. Quanto vale x?",
+    "options": [
+      "14 (4)",
+      "14",
+      "9",
+      "17"
+    ],
+    "correct": 1,
+    "difficulty": "hard",
+    "explain": "Isola x e dividi per a."
+  },
+  {
+    "q": "Completa la sequenza: 128, 137, 146, 155, __",
+    "options": [
+      "164 (4)",
+      "164",
+      "155",
+      "173"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Completa la sequenza: 183, 209, 235, 261, __",
+    "options": [
+      "313",
+      "261",
+      "287 (4)",
+      "287"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Semplifica la frazione 87/222.",
+    "options": [
+      "29/75",
+      "87/222",
+      "29/74",
+      "30/74"
+    ],
+    "correct": 2,
+    "difficulty": "medium",
+    "explain": "Dividi numeratore e denominatore per il MCD."
+  },
+  {
+    "q": "Completa la sequenza: 158, 177, 196, 215, __",
+    "options": [
+      "215",
+      "253",
+      "234 (4)",
+      "234"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Risolvi: 3x − 49 = 161. Quanto vale x?",
+    "options": [
+      "70",
+      "73",
+      "67",
+      "63"
+    ],
+    "correct": 0,
+    "difficulty": "hard",
+    "explain": "Isola x e dividi per a."
+  },
+  {
+    "q": "Risolvi: 18x − 3 = 1419. Quanto vale x?",
+    "options": [
+      "86",
+      "79",
+      "82",
+      "79 (4)"
+    ],
+    "correct": 1,
+    "difficulty": "hard",
+    "explain": "Isola x e dividi per a."
+  },
+  {
+    "q": "Semplifica la frazione 328/472.",
+    "options": [
+      "328/472",
+      "41/60",
+      "42/59",
+      "41/59"
+    ],
+    "correct": 3,
+    "difficulty": "medium",
+    "explain": "Dividi numeratore e denominatore per il MCD."
+  },
+  {
+    "q": "Semplifica la frazione 215/355.",
+    "options": [
+      "44/71",
+      "43/72",
+      "43/71",
+      "215/355"
+    ],
+    "correct": 2,
+    "difficulty": "medium",
+    "explain": "Dividi numeratore e denominatore per il MCD."
+  },
+  {
+    "q": "Completa la sequenza: 131, 145, 159, 173, __",
+    "options": [
+      "187 (4)",
+      "173",
+      "201",
+      "187"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Risolvi: 17x + 4 = 1347. Quanto vale x?",
+    "options": [
+      "82",
+      "86",
+      "72",
+      "79"
+    ],
+    "correct": 3,
+    "difficulty": "hard",
+    "explain": "Isola x e dividi per a."
+  },
+  {
+    "q": "Semplifica la frazione 60/480.",
+    "options": [
+      "1/8",
+      "60/480",
+      "1/9",
+      "2/8"
+    ],
+    "correct": 0,
+    "difficulty": "medium",
+    "explain": "Dividi numeratore e denominatore per il MCD."
+  },
+  {
+    "q": "Semplifica la frazione 195/18.",
+    "options": [
+      "66/6",
+      "195/18",
+      "65/7",
+      "65/6"
+    ],
+    "correct": 3,
+    "difficulty": "medium",
+    "explain": "Dividi numeratore e denominatore per il MCD."
+  },
+  {
+    "q": "Risolvi: 19x + 31 = 544. Quanto vale x?",
+    "options": [
+      "29",
+      "24",
+      "27",
+      "27 (4)"
+    ],
+    "correct": 2,
+    "difficulty": "hard",
+    "explain": "Isola x e dividi per a."
+  },
+  {
+    "q": "Risolvi: 21x + 4 = 445. Quanto vale x?",
+    "options": [
+      "19",
+      "9",
+      "16",
+      "21"
+    ],
+    "correct": 3,
+    "difficulty": "hard",
+    "explain": "Isola x e dividi per a."
+  },
+  {
+    "q": "Risolvi: 20x − 13 = 427. Quanto vale x?",
+    "options": [
+      "17",
+      "24",
+      "22",
+      "15"
+    ],
+    "correct": 2,
+    "difficulty": "hard",
+    "explain": "Isola x e dividi per a."
+  },
+  {
+    "q": "Completa la sequenza: 116, 128, 140, 152, __",
+    "options": [
+      "164",
+      "152",
+      "176",
+      "164 (4)"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Completa la sequenza: 66, 94, 122, 150, __",
+    "options": [
+      "178 (4)",
+      "178",
+      "150",
+      "206"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Completa la sequenza: 80, 91, 102, 113, __",
+    "options": [
+      "113",
+      "124",
+      "135",
+      "124 (4)"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Semplifica la frazione 748/781.",
+    "options": [
+      "748/781",
+      "69/71",
+      "68/71",
+      "68/72"
+    ],
+    "correct": 2,
+    "difficulty": "medium",
+    "explain": "Dividi numeratore e denominatore per il MCD."
+  },
+  {
+    "q": "Risolvi: 5x − 53 = 227. Quanto vale x?",
+    "options": [
+      "56",
+      "58",
+      "51",
+      "56 (4)"
+    ],
+    "correct": 0,
+    "difficulty": "hard",
+    "explain": "Isola x e dividi per a."
+  },
+  {
+    "q": "Completa la sequenza: 46, 60, 74, 88, __",
+    "options": [
+      "116",
+      "88",
+      "102",
+      "102 (4)"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Completa la sequenza: 196, 212, 228, 244, __",
+    "options": [
+      "260 (4)",
+      "260",
+      "276",
+      "244"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Risolvi: 15x − 44 = 676. Quanto vale x?",
+    "options": [
+      "43",
+      "50",
+      "45",
+      "48"
+    ],
+    "correct": 3,
+    "difficulty": "hard",
+    "explain": "Isola x e dividi per a."
+  },
+  {
+    "q": "Completa la sequenza: 85, 94, 103, 112, __",
+    "options": [
+      "121",
+      "121 (4)",
+      "112",
+      "130"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Completa la sequenza: 14, 36, 58, 80, __",
+    "options": [
+      "102",
+      "124",
+      "102 (4)",
+      "80"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Risolvi: 23x − 42 = 234. Quanto vale x?",
+    "options": [
+      "7",
+      "12",
+      "15",
+      "9"
+    ],
+    "correct": 1,
+    "difficulty": "hard",
+    "explain": "Isola x e dividi per a."
+  },
+  {
+    "q": "Semplifica la frazione 456/400.",
+    "options": [
+      "58/50",
+      "57/51",
+      "57/50",
+      "456/400"
+    ],
+    "correct": 2,
+    "difficulty": "medium",
+    "explain": "Dividi numeratore e denominatore per il MCD."
+  },
+  {
+    "q": "Completa la sequenza: 81, 83, 85, 87, __",
+    "options": [
+      "87",
+      "89 (4)",
+      "89",
+      "91"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Completa la sequenza: 185, 193, 201, 209, __",
+    "options": [
+      "225",
+      "217",
+      "217 (4)",
+      "209"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Semplifica la frazione 86/124.",
+    "options": [
+      "43/63",
+      "44/62",
+      "86/124",
+      "43/62"
+    ],
+    "correct": 3,
+    "difficulty": "medium",
+    "explain": "Dividi numeratore e denominatore per il MCD."
+  },
+  {
+    "q": "Completa la sequenza: 125, 132, 139, 146, __",
+    "options": [
+      "160",
+      "153 (4)",
+      "146",
+      "153"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Semplifica la frazione 165/297.",
+    "options": [
+      "165/297",
+      "5/10",
+      "5/9",
+      "6/9"
+    ],
+    "correct": 2,
+    "difficulty": "medium",
+    "explain": "Dividi numeratore e denominatore per il MCD."
+  },
+  {
+    "q": "Completa la sequenza: 136, 151, 166, 181, __",
+    "options": [
+      "181",
+      "211",
+      "196",
+      "196 (4)"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Completa la sequenza: 121, 139, 157, 175, __",
+    "options": [
+      "175",
+      "193 (4)",
+      "193",
+      "211"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Completa la sequenza: 100, 111, 122, 133, __",
+    "options": [
+      "133",
+      "155",
+      "144 (4)",
+      "144"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Semplifica la frazione 45/370.",
+    "options": [
+      "10/74",
+      "9/74",
+      "45/370",
+      "9/75"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "Dividi numeratore e denominatore per il MCD."
+  },
+  {
+    "q": "Completa la sequenza: 29, 32, 35, 38, __",
+    "options": [
+      "41",
+      "38",
+      "44",
+      "41 (4)"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Completa la sequenza: 155, 177, 199, 221, __",
+    "options": [
+      "243 (4)",
+      "243",
+      "221",
+      "265"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Semplifica la frazione 270/684.",
+    "options": [
+      "16/38",
+      "15/39",
+      "270/684",
+      "15/38"
+    ],
+    "correct": 3,
+    "difficulty": "medium",
+    "explain": "Dividi numeratore e denominatore per il MCD."
+  },
+  {
+    "q": "Completa la sequenza: 125, 150, 175, 200, __",
+    "options": [
+      "250",
+      "225",
+      "225 (4)",
+      "200"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Completa la sequenza: 108, 119, 130, 141, __",
+    "options": [
+      "152",
+      "141",
+      "163",
+      "152 (4)"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Risolvi: 20x + 54 = 1654. Quanto vale x?",
+    "options": [
+      "80",
+      "87",
+      "78",
+      "85"
+    ],
+    "correct": 0,
+    "difficulty": "hard",
+    "explain": "Isola x e dividi per a."
+  },
+  {
+    "q": "Risolvi: 18x − 34 = 866. Quanto vale x?",
+    "options": [
+      "47",
+      "57",
+      "50",
+      "43"
+    ],
+    "correct": 2,
+    "difficulty": "hard",
+    "explain": "Isola x e dividi per a."
+  },
+  {
+    "q": "Risolvi: 22x − 59 = 1195. Quanto vale x?",
+    "options": [
+      "57 (4)",
+      "57",
+      "69",
+      "54"
+    ],
+    "correct": 1,
+    "difficulty": "hard",
+    "explain": "Isola x e dividi per a."
+  },
+  {
+    "q": "Completa la sequenza: 5, 18, 31, 44, __",
+    "options": [
+      "70",
+      "44",
+      "57",
+      "57 (4)"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Completa la sequenza: 197, 200, 203, 206, __",
+    "options": [
+      "206",
+      "209 (4)",
+      "212",
+      "209"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Completa la sequenza: 102, 110, 118, 126, __",
+    "options": [
+      "134",
+      "142",
+      "134 (4)",
+      "126"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Risolvi: 18x − 42 = 822. Quanto vale x?",
+    "options": [
+      "60",
+      "45",
+      "48",
+      "53"
+    ],
+    "correct": 2,
+    "difficulty": "hard",
+    "explain": "Isola x e dividi per a."
+  },
+  {
+    "q": "Completa la sequenza: 34, 59, 84, 109, __",
+    "options": [
+      "134 (4)",
+      "109",
+      "134",
+      "159"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Completa la sequenza: 48, 50, 52, 54, __",
+    "options": [
+      "54",
+      "56 (4)",
+      "56",
+      "58"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Risolvi: 11x + 0 = 605. Quanto vale x?",
+    "options": [
+      "52",
+      "58",
+      "55",
+      "55 (4)"
+    ],
+    "correct": 2,
+    "difficulty": "hard",
+    "explain": "Isola x e dividi per a."
+  },
+  {
+    "q": "Risolvi: 17x − 10 = 143. Quanto vale x?",
+    "options": [
+      "21",
+      "4",
+      "16",
+      "9"
+    ],
+    "correct": 3,
+    "difficulty": "hard",
+    "explain": "Isola x e dividi per a."
+  },
+  {
+    "q": "Semplifica la frazione 84/264.",
+    "options": [
+      "84/264",
+      "7/22",
+      "7/23",
+      "8/22"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "Dividi numeratore e denominatore per il MCD."
+  },
+  {
+    "q": "Completa la sequenza: 54, 56, 58, 60, __",
+    "options": [
+      "62",
+      "60",
+      "62 (4)",
+      "64"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Completa la sequenza: 3, 32, 61, 90, __",
+    "options": [
+      "148",
+      "119",
+      "119 (4)",
+      "90"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Completa la sequenza: 129, 138, 147, 156, __",
+    "options": [
+      "165",
+      "174",
+      "165 (4)",
+      "156"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Semplifica la frazione 612/876.",
+    "options": [
+      "612/876",
+      "51/74",
+      "52/73",
+      "51/73"
+    ],
+    "correct": 3,
+    "difficulty": "medium",
+    "explain": "Dividi numeratore e denominatore per il MCD."
+  },
+  {
+    "q": "Semplifica la frazione 329/448.",
+    "options": [
+      "47/65",
+      "48/64",
+      "329/448",
+      "47/64"
+    ],
+    "correct": 3,
+    "difficulty": "medium",
+    "explain": "Dividi numeratore e denominatore per il MCD."
+  },
+  {
+    "q": "Completa la sequenza: 141, 154, 167, 180, __",
+    "options": [
+      "193 (4)",
+      "206",
+      "180",
+      "193"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Completa la sequenza: 93, 121, 149, 177, __",
+    "options": [
+      "205 (4)",
+      "233",
+      "205",
+      "177"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Semplifica la frazione 294/462.",
+    "options": [
+      "294/462",
+      "7/11",
+      "8/11",
+      "7/12"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "Dividi numeratore e denominatore per il MCD."
+  },
+  {
+    "q": "Completa la sequenza: 78, 97, 116, 135, __",
+    "options": [
+      "173",
+      "154",
+      "154 (4)",
+      "135"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Completa la sequenza: 48, 52, 56, 60, __",
+    "options": [
+      "60",
+      "68",
+      "64",
+      "64 (4)"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Completa la sequenza: 195, 207, 219, 231, __",
+    "options": [
+      "243",
+      "243 (4)",
+      "231",
+      "255"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Completa la sequenza: 94, 124, 154, 184, __",
+    "options": [
+      "214 (4)",
+      "244",
+      "184",
+      "214"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Completa la sequenza: 157, 174, 191, 208, __",
+    "options": [
+      "225",
+      "242",
+      "225 (4)",
+      "208"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Completa la sequenza: 155, 167, 179, 191, __",
+    "options": [
+      "215",
+      "203",
+      "203 (4)",
+      "191"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Semplifica la frazione 70/10.",
+    "options": [
+      "7/1",
+      "8/1",
+      "70/10",
+      "7/2"
+    ],
+    "correct": 0,
+    "difficulty": "medium",
+    "explain": "Dividi numeratore e denominatore per il MCD."
+  },
+  {
+    "q": "Completa la sequenza: 77, 79, 81, 83, __",
+    "options": [
+      "85 (4)",
+      "83",
+      "87",
+      "85"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Completa la sequenza: 137, 163, 189, 215, __",
+    "options": [
+      "267",
+      "241",
+      "241 (4)",
+      "215"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Completa la sequenza: 55, 85, 115, 145, __",
+    "options": [
+      "175",
+      "205",
+      "175 (4)",
+      "145"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Completa la sequenza: 100, 130, 160, 190, __",
+    "options": [
+      "190",
+      "220 (4)",
+      "250",
+      "220"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Completa la sequenza: 43, 59, 75, 91, __",
+    "options": [
+      "91",
+      "123",
+      "107",
+      "107 (4)"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Completa la sequenza: 184, 186, 188, 190, __",
+    "options": [
+      "190",
+      "192 (4)",
+      "192",
+      "194"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Risolvi: 18x + 31 = 211. Quanto vale x?",
+    "options": [
+      "10",
+      "5",
+      "17",
+      "3"
+    ],
+    "correct": 0,
+    "difficulty": "hard",
+    "explain": "Isola x e dividi per a."
+  },
+  {
+    "q": "Completa la sequenza: 48, 69, 90, 111, __",
+    "options": [
+      "132 (4)",
+      "153",
+      "132",
+      "111"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Completa la sequenza: 12, 31, 50, 69, __",
+    "options": [
+      "69",
+      "107",
+      "88",
+      "88 (4)"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Completa la sequenza: 123, 150, 177, 204, __",
+    "options": [
+      "204",
+      "231",
+      "231 (4)",
+      "258"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Risolvi: 14x − 5 = 247. Quanto vale x?",
+    "options": [
+      "18",
+      "6",
+      "15",
+      "23"
+    ],
+    "correct": 0,
+    "difficulty": "hard",
+    "explain": "Isola x e dividi per a."
+  },
+  {
+    "q": "Completa la sequenza: 120, 135, 150, 165, __",
+    "options": [
+      "195",
+      "180",
+      "165",
+      "180 (4)"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Completa la sequenza: 62, 79, 96, 113, __",
+    "options": [
+      "113",
+      "130",
+      "147",
+      "130 (4)"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Completa la sequenza: 63, 74, 85, 96, __",
+    "options": [
+      "96",
+      "118",
+      "107 (4)",
+      "107"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Completa la sequenza: 27, 39, 51, 63, __",
+    "options": [
+      "75 (4)",
+      "87",
+      "75",
+      "63"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Risolvi: 23x + 24 = 576. Quanto vale x?",
+    "options": [
+      "24",
+      "21",
+      "24 (4)",
+      "31"
+    ],
+    "correct": 0,
+    "difficulty": "hard",
+    "explain": "Isola x e dividi per a."
+  },
+  {
+    "q": "Completa la sequenza: 179, 207, 235, 263, __",
+    "options": [
+      "291 (4)",
+      "263",
+      "291",
+      "319"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Risolvi: 6x + 20 = 458. Quanto vale x?",
+    "options": [
+      "71",
+      "80",
+      "78",
+      "73"
+    ],
+    "correct": 3,
+    "difficulty": "hard",
+    "explain": "Isola x e dividi per a."
+  },
+  {
+    "q": "Completa la sequenza: 160, 182, 204, 226, __",
+    "options": [
+      "270",
+      "248",
+      "248 (4)",
+      "226"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Semplifica la frazione 517/77.",
+    "options": [
+      "47/7",
+      "48/7",
+      "517/77",
+      "47/8"
+    ],
+    "correct": 0,
+    "difficulty": "medium",
+    "explain": "Dividi numeratore e denominatore per il MCD."
+  },
+  {
+    "q": "Completa la sequenza: 23, 51, 79, 107, __",
+    "options": [
+      "135",
+      "107",
+      "163",
+      "135 (4)"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Completa la sequenza: 180, 193, 206, 219, __",
+    "options": [
+      "219",
+      "232",
+      "245",
+      "232 (4)"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Completa la sequenza: 124, 127, 130, 133, __",
+    "options": [
+      "139",
+      "136 (4)",
+      "133",
+      "136"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Semplifica la frazione 300/156.",
+    "options": [
+      "26/13",
+      "300/156",
+      "25/13",
+      "25/14"
+    ],
+    "correct": 2,
+    "difficulty": "medium",
+    "explain": "Dividi numeratore e denominatore per il MCD."
+  },
+  {
+    "q": "Completa la sequenza: 192, 194, 196, 198, __",
+    "options": [
+      "198",
+      "202",
+      "200",
+      "200 (4)"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Completa la sequenza: 161, 168, 175, 182, __",
+    "options": [
+      "182",
+      "196",
+      "189",
+      "189 (4)"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Completa la sequenza: 78, 106, 134, 162, __",
+    "options": [
+      "218",
+      "190 (4)",
+      "162",
+      "190"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Completa la sequenza: 96, 123, 150, 177, __",
+    "options": [
+      "231",
+      "204 (4)",
+      "177",
+      "204"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Completa la sequenza: 200, 221, 242, 263, __",
+    "options": [
+      "284 (4)",
+      "305",
+      "263",
+      "284"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Completa la sequenza: 4, 9, 14, 19, __",
+    "options": [
+      "24 (4)",
+      "24",
+      "19",
+      "29"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Semplifica la frazione 610/670.",
+    "options": [
+      "610/670",
+      "61/68",
+      "61/67",
+      "62/67"
+    ],
+    "correct": 2,
+    "difficulty": "medium",
+    "explain": "Dividi numeratore e denominatore per il MCD."
+  },
+  {
+    "q": "Completa la sequenza: 135, 142, 149, 156, __",
+    "options": [
+      "163 (4)",
+      "156",
+      "170",
+      "163"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Completa la sequenza: 146, 165, 184, 203, __",
+    "options": [
+      "222 (4)",
+      "222",
+      "203",
+      "241"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Semplifica la frazione 407/22.",
+    "options": [
+      "37/2",
+      "37/3",
+      "407/22",
+      "38/2"
+    ],
+    "correct": 0,
+    "difficulty": "medium",
+    "explain": "Dividi numeratore e denominatore per il MCD."
+  },
+  {
+    "q": "Completa la sequenza: 172, 180, 188, 196, __",
+    "options": [
+      "212",
+      "196",
+      "204",
+      "204 (4)"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Semplifica la frazione 539/35.",
+    "options": [
+      "78/5",
+      "77/5",
+      "77/6",
+      "539/35"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "Dividi numeratore e denominatore per il MCD."
+  },
+  {
+    "q": "Semplifica la frazione 390/295.",
+    "options": [
+      "390/295",
+      "78/60",
+      "78/59",
+      "79/59"
+    ],
+    "correct": 2,
+    "difficulty": "medium",
+    "explain": "Dividi numeratore e denominatore per il MCD."
+  },
+  {
+    "q": "Completa la sequenza: 21, 49, 77, 105, __",
+    "options": [
+      "133",
+      "105",
+      "133 (4)",
+      "161"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Risolvi: 20x − 55 = 385. Quanto vale x?",
+    "options": [
+      "27",
+      "17",
+      "22",
+      "22 (4)"
+    ],
+    "correct": 2,
+    "difficulty": "hard",
+    "explain": "Isola x e dividi per a."
+  },
+  {
+    "q": "Risolvi: 20x − 48 = 332. Quanto vale x?",
+    "options": [
+      "14",
+      "12",
+      "19",
+      "22"
+    ],
+    "correct": 2,
+    "difficulty": "hard",
+    "explain": "Isola x e dividi per a."
+  },
+  {
+    "q": "Risolvi: 21x + 58 = 1297. Quanto vale x?",
+    "options": [
+      "59",
+      "61",
+      "52",
+      "64"
+    ],
+    "correct": 0,
+    "difficulty": "hard",
+    "explain": "Isola x e dividi per a."
+  },
+  {
+    "q": "Completa la sequenza: 54, 83, 112, 141, __",
+    "options": [
+      "199",
+      "170",
+      "170 (4)",
+      "141"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Completa la sequenza: 117, 121, 125, 129, __",
+    "options": [
+      "137",
+      "133",
+      "133 (4)",
+      "129"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Completa la sequenza: 30, 44, 58, 72, __",
+    "options": [
+      "100",
+      "86",
+      "86 (4)",
+      "72"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Completa la sequenza: 144, 154, 164, 174, __",
+    "options": [
+      "184 (4)",
+      "194",
+      "174",
+      "184"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Risolvi: 21x − 57 = 1602. Quanto vale x?",
+    "options": [
+      "79",
+      "72",
+      "79 (4)",
+      "86"
+    ],
+    "correct": 0,
+    "difficulty": "hard",
+    "explain": "Isola x e dividi per a."
+  },
+  {
+    "q": "Completa la sequenza: 55, 73, 91, 109, __",
+    "options": [
+      "109",
+      "127",
+      "127 (4)",
+      "145"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Risolvi: 9x + 29 = 713. Quanto vale x?",
+    "options": [
+      "76 (4)",
+      "78",
+      "64",
+      "76"
+    ],
+    "correct": 3,
+    "difficulty": "hard",
+    "explain": "Isola x e dividi per a."
+  },
+  {
+    "q": "Risolvi: 20x + 25 = 665. Quanto vale x?",
+    "options": [
+      "30",
+      "27",
+      "32",
+      "32 (4)"
+    ],
+    "correct": 2,
+    "difficulty": "hard",
+    "explain": "Isola x e dividi per a."
+  },
+  {
+    "q": "Completa la sequenza: 17, 37, 57, 77, __",
+    "options": [
+      "97 (4)",
+      "97",
+      "77",
+      "117"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Risolvi: 10x − 29 = 711. Quanto vale x?",
+    "options": [
+      "79",
+      "81",
+      "86",
+      "74"
+    ],
+    "correct": 3,
+    "difficulty": "hard",
+    "explain": "Isola x e dividi per a."
+  },
+  {
+    "q": "Semplifica la frazione 539/847.",
+    "options": [
+      "7/11",
+      "7/12",
+      "539/847",
+      "8/11"
+    ],
+    "correct": 0,
+    "difficulty": "medium",
+    "explain": "Dividi numeratore e denominatore per il MCD."
+  },
+  {
+    "q": "Completa la sequenza: 106, 111, 116, 121, __",
+    "options": [
+      "121",
+      "126 (4)",
+      "131",
+      "126"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Completa la sequenza: 147, 173, 199, 225, __",
+    "options": [
+      "251 (4)",
+      "277",
+      "225",
+      "251"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Semplifica la frazione 462/432.",
+    "options": [
+      "78/72",
+      "462/432",
+      "77/72",
+      "77/73"
+    ],
+    "correct": 2,
+    "difficulty": "medium",
+    "explain": "Dividi numeratore e denominatore per il MCD."
+  },
+  {
+    "q": "Completa la sequenza: 91, 93, 95, 97, __",
+    "options": [
+      "99",
+      "97",
+      "99 (4)",
+      "101"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Completa la sequenza: 156, 164, 172, 180, __",
+    "options": [
+      "188 (4)",
+      "196",
+      "180",
+      "188"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Risolvi: 14x + 6 = 440. Quanto vale x?",
+    "options": [
+      "28",
+      "33",
+      "31",
+      "36"
+    ],
+    "correct": 2,
+    "difficulty": "hard",
+    "explain": "Isola x e dividi per a."
+  },
+  {
+    "q": "Completa la sequenza: 185, 215, 245, 275, __",
+    "options": [
+      "275",
+      "305 (4)",
+      "335",
+      "305"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Risolvi: 8x + 21 = 221. Quanto vale x?",
+    "options": [
+      "25",
+      "30",
+      "18",
+      "25 (4)"
+    ],
+    "correct": 0,
+    "difficulty": "hard",
+    "explain": "Isola x e dividi per a."
+  },
+  {
+    "q": "Risolvi: 17x + 50 = 645. Quanto vale x?",
+    "options": [
+      "47",
+      "32",
+      "35",
+      "42"
+    ],
+    "correct": 2,
+    "difficulty": "hard",
+    "explain": "Isola x e dividi per a."
+  },
+  {
+    "q": "Completa la sequenza: 188, 198, 208, 218, __",
+    "options": [
+      "228",
+      "228 (4)",
+      "238",
+      "218"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Completa la sequenza: 34, 42, 50, 58, __",
+    "options": [
+      "66",
+      "66 (4)",
+      "74",
+      "58"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Completa la sequenza: 46, 56, 66, 76, __",
+    "options": [
+      "76",
+      "96",
+      "86",
+      "86 (4)"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Completa la sequenza: 121, 133, 145, 157, __",
+    "options": [
+      "169",
+      "157",
+      "181",
+      "169 (4)"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Completa la sequenza: 29, 53, 77, 101, __",
+    "options": [
+      "149",
+      "125",
+      "125 (4)",
+      "101"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Completa la sequenza: 182, 184, 186, 188, __",
+    "options": [
+      "190",
+      "188",
+      "190 (4)",
+      "192"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Completa la sequenza: 58, 77, 96, 115, __",
+    "options": [
+      "115",
+      "134 (4)",
+      "153",
+      "134"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Risolvi: 14x + 6 = 594. Quanto vale x?",
+    "options": [
+      "49",
+      "45",
+      "35",
+      "42"
+    ],
+    "correct": 3,
+    "difficulty": "hard",
+    "explain": "Isola x e dividi per a."
+  },
+  {
+    "q": "Completa la sequenza: 146, 154, 162, 170, __",
+    "options": [
+      "178",
+      "170",
+      "178 (4)",
+      "186"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Completa la sequenza: 129, 144, 159, 174, __",
+    "options": [
+      "189",
+      "204",
+      "174",
+      "189 (4)"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Risolvi: 22x + 57 = 123. Quanto vale x?",
+    "options": [
+      "15",
+      "1",
+      "6",
+      "3"
+    ],
+    "correct": 3,
+    "difficulty": "hard",
+    "explain": "Isola x e dividi per a."
+  },
+  {
+    "q": "Completa la sequenza: 13, 40, 67, 94, __",
+    "options": [
+      "94",
+      "121",
+      "148",
+      "121 (4)"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Completa la sequenza: 50, 75, 100, 125, __",
+    "options": [
+      "150",
+      "175",
+      "150 (4)",
+      "125"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Completa la sequenza: 104, 122, 140, 158, __",
+    "options": [
+      "176 (4)",
+      "158",
+      "176",
+      "194"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Completa la sequenza: 171, 180, 189, 198, __",
+    "options": [
+      "207 (4)",
+      "216",
+      "207",
+      "198"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Completa la sequenza: 152, 173, 194, 215, __",
+    "options": [
+      "236 (4)",
+      "257",
+      "215",
+      "236"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Completa la sequenza: 89, 114, 139, 164, __",
+    "options": [
+      "189 (4)",
+      "189",
+      "214",
+      "164"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Completa la sequenza: 5, 16, 27, 38, __",
+    "options": [
+      "60",
+      "38",
+      "49",
+      "49 (4)"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Completa la sequenza: 183, 196, 209, 222, __",
+    "options": [
+      "235 (4)",
+      "222",
+      "248",
+      "235"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Completa la sequenza: 124, 147, 170, 193, __",
+    "options": [
+      "239",
+      "193",
+      "216",
+      "216 (4)"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Risolvi: 10x − 37 = 703. Quanto vale x?",
+    "options": [
+      "62",
+      "74",
+      "76",
+      "67"
+    ],
+    "correct": 1,
+    "difficulty": "hard",
+    "explain": "Isola x e dividi per a."
+  },
+  {
+    "q": "Completa la sequenza: 185, 201, 217, 233, __",
+    "options": [
+      "265",
+      "249",
+      "233",
+      "249 (4)"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Semplifica la frazione 224/264.",
+    "options": [
+      "224/264",
+      "28/33",
+      "28/34",
+      "29/33"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "Dividi numeratore e denominatore per il MCD."
+  },
+  {
+    "q": "Completa la sequenza: 106, 113, 120, 127, __",
+    "options": [
+      "134",
+      "127",
+      "141",
+      "134 (4)"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Completa la sequenza: 83, 113, 143, 173, __",
+    "options": [
+      "233",
+      "173",
+      "203",
+      "203 (4)"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Completa la sequenza: 160, 162, 164, 166, __",
+    "options": [
+      "168",
+      "166",
+      "170",
+      "168 (4)"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Completa la sequenza: 21, 50, 79, 108, __",
+    "options": [
+      "137",
+      "137 (4)",
+      "166",
+      "108"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Completa la sequenza: 55, 84, 113, 142, __",
+    "options": [
+      "142",
+      "171",
+      "200",
+      "171 (4)"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Completa la sequenza: 97, 123, 149, 175, __",
+    "options": [
+      "201",
+      "175",
+      "227",
+      "201 (4)"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Completa la sequenza: 39, 61, 83, 105, __",
+    "options": [
+      "127",
+      "127 (4)",
+      "105",
+      "149"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Completa la sequenza: 98, 119, 140, 161, __",
+    "options": [
+      "182 (4)",
+      "161",
+      "182",
+      "203"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Semplifica la frazione 60/384.",
+    "options": [
+      "60/384",
+      "5/33",
+      "5/32",
+      "6/32"
+    ],
+    "correct": 2,
+    "difficulty": "medium",
+    "explain": "Dividi numeratore e denominatore per il MCD."
+  },
+  {
+    "q": "Completa la sequenza: 176, 193, 210, 227, __",
+    "options": [
+      "244 (4)",
+      "261",
+      "244",
+      "227"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Semplifica la frazione 448/280.",
+    "options": [
+      "8/6",
+      "8/5",
+      "9/5",
+      "448/280"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "Dividi numeratore e denominatore per il MCD."
+  },
+  {
+    "q": "Completa la sequenza: 173, 184, 195, 206, __",
+    "options": [
+      "217 (4)",
+      "228",
+      "217",
+      "206"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Risolvi: 20x − 24 = 1316. Quanto vale x?",
+    "options": [
+      "62",
+      "67",
+      "74",
+      "67 (4)"
+    ],
+    "correct": 1,
+    "difficulty": "hard",
+    "explain": "Isola x e dividi per a."
+  },
+  {
+    "q": "Completa la sequenza: 87, 96, 105, 114, __",
+    "options": [
+      "114",
+      "123",
+      "123 (4)",
+      "132"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Completa la sequenza: 174, 183, 192, 201, __",
+    "options": [
+      "219",
+      "210",
+      "210 (4)",
+      "201"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Completa la sequenza: 27, 34, 41, 48, __",
+    "options": [
+      "55",
+      "62",
+      "48",
+      "55 (4)"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Completa la sequenza: 35, 64, 93, 122, __",
+    "options": [
+      "122",
+      "151 (4)",
+      "180",
+      "151"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Completa la sequenza: 180, 186, 192, 198, __",
+    "options": [
+      "198",
+      "204 (4)",
+      "204",
+      "210"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Completa la sequenza: 193, 196, 199, 202, __",
+    "options": [
+      "205 (4)",
+      "202",
+      "205",
+      "208"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Semplifica la frazione 174/144.",
+    "options": [
+      "30/24",
+      "174/144",
+      "29/25",
+      "29/24"
+    ],
+    "correct": 3,
+    "difficulty": "medium",
+    "explain": "Dividi numeratore e denominatore per il MCD."
+  },
+  {
+    "q": "Completa la sequenza: 7, 12, 17, 22, __",
+    "options": [
+      "27",
+      "22",
+      "27 (4)",
+      "32"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Completa la sequenza: 0, 15, 30, 45, __",
+    "options": [
+      "75",
+      "45",
+      "60 (4)",
+      "60"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Completa la sequenza: 55, 81, 107, 133, __",
+    "options": [
+      "185",
+      "133",
+      "159 (4)",
+      "159"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Completa la sequenza: 90, 120, 150, 180, __",
+    "options": [
+      "210 (4)",
+      "240",
+      "210",
+      "180"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Completa la sequenza: 64, 80, 96, 112, __",
+    "options": [
+      "128 (4)",
+      "128",
+      "112",
+      "144"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Risolvi: 20x − 48 = 32. Quanto vale x?",
+    "options": [
+      "6",
+      "2",
+      "11",
+      "4"
+    ],
+    "correct": 3,
+    "difficulty": "hard",
+    "explain": "Isola x e dividi per a."
+  },
+  {
+    "q": "Completa la sequenza: 130, 137, 144, 151, __",
+    "options": [
+      "165",
+      "158 (4)",
+      "158",
+      "151"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Completa la sequenza: 158, 165, 172, 179, __",
+    "options": [
+      "186 (4)",
+      "179",
+      "193",
+      "186"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Completa la sequenza: 20, 45, 70, 95, __",
+    "options": [
+      "120 (4)",
+      "145",
+      "95",
+      "120"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Completa la sequenza: 41, 52, 63, 74, __",
+    "options": [
+      "96",
+      "74",
+      "85",
+      "85 (4)"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Risolvi: 25x − 39 = 1136. Quanto vale x?",
+    "options": [
+      "54",
+      "47",
+      "50",
+      "52"
+    ],
+    "correct": 1,
+    "difficulty": "hard",
+    "explain": "Isola x e dividi per a."
+  },
+  {
+    "q": "Completa la sequenza: 56, 64, 72, 80, __",
+    "options": [
+      "96",
+      "88",
+      "80",
+      "88 (4)"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Semplifica la frazione 352/320.",
+    "options": [
+      "11/10",
+      "11/11",
+      "12/10",
+      "352/320"
+    ],
+    "correct": 0,
+    "difficulty": "medium",
+    "explain": "Dividi numeratore e denominatore per il MCD."
+  },
+  {
+    "q": "Semplifica la frazione 6/12.",
+    "options": [
+      "1/2",
+      "1/3",
+      "6/12",
+      "2/2"
+    ],
+    "correct": 0,
+    "difficulty": "medium",
+    "explain": "Dividi numeratore e denominatore per il MCD."
+  },
+  {
+    "q": "Risolvi: 8x − 53 = 171. Quanto vale x?",
+    "options": [
+      "21",
+      "33",
+      "26",
+      "28"
+    ],
+    "correct": 3,
+    "difficulty": "hard",
+    "explain": "Isola x e dividi per a."
+  },
+  {
+    "q": "Completa la sequenza: 6, 9, 12, 15, __",
+    "options": [
+      "15",
+      "18 (4)",
+      "18",
+      "21"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Completa la sequenza: 79, 99, 119, 139, __",
+    "options": [
+      "179",
+      "159",
+      "139",
+      "159 (4)"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Completa la sequenza: 23, 31, 39, 47, __",
+    "options": [
+      "55 (4)",
+      "47",
+      "55",
+      "63"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Completa la sequenza: 166, 186, 206, 226, __",
+    "options": [
+      "246 (4)",
+      "226",
+      "266",
+      "246"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Risolvi: 15x − 2 = 178. Quanto vale x?",
+    "options": [
+      "14",
+      "19",
+      "12",
+      "15"
+    ],
+    "correct": 2,
+    "difficulty": "hard",
+    "explain": "Isola x e dividi per a."
+  },
+  {
+    "q": "Semplifica la frazione 483/490.",
+    "options": [
+      "69/71",
+      "69/70",
+      "483/490",
+      "70/70"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "Dividi numeratore e denominatore per il MCD."
+  },
+  {
+    "q": "Completa la sequenza: 200, 204, 208, 212, __",
+    "options": [
+      "216 (4)",
+      "216",
+      "220",
+      "212"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Risolvi: 21x + 37 = 142. Quanto vale x?",
+    "options": [
+      "17",
+      "3",
+      "8",
+      "5"
+    ],
+    "correct": 3,
+    "difficulty": "hard",
+    "explain": "Isola x e dividi per a."
+  },
+  {
+    "q": "Completa la sequenza: 196, 217, 238, 259, __",
+    "options": [
+      "301",
+      "280 (4)",
+      "280",
+      "259"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Risolvi: 3x + 29 = 110. Quanto vale x?",
+    "options": [
+      "20",
+      "32",
+      "34",
+      "27"
+    ],
+    "correct": 3,
+    "difficulty": "hard",
+    "explain": "Isola x e dividi per a."
+  },
+  {
+    "q": "Completa la sequenza: 30, 56, 82, 108, __",
+    "options": [
+      "160",
+      "134",
+      "134 (4)",
+      "108"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Completa la sequenza: 31, 49, 67, 85, __",
+    "options": [
+      "103",
+      "121",
+      "103 (4)",
+      "85"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Semplifica la frazione 550/80.",
+    "options": [
+      "550/80",
+      "55/9",
+      "55/8",
+      "56/8"
+    ],
+    "correct": 2,
+    "difficulty": "medium",
+    "explain": "Dividi numeratore e denominatore per il MCD."
+  },
+  {
+    "q": "Completa la sequenza: 18, 38, 58, 78, __",
+    "options": [
+      "78",
+      "118",
+      "98",
+      "98 (4)"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Completa la sequenza: 105, 112, 119, 126, __",
+    "options": [
+      "133",
+      "133 (4)",
+      "126",
+      "140"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Risolvi: 7x + 15 = 148. Quanto vale x?",
+    "options": [
+      "7",
+      "19 (4)",
+      "19",
+      "21"
+    ],
+    "correct": 2,
+    "difficulty": "hard",
+    "explain": "Isola x e dividi per a."
+  },
+  {
+    "q": "Completa la sequenza: 189, 194, 199, 204, __",
+    "options": [
+      "204",
+      "209 (4)",
+      "209",
+      "214"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Risolvi: 14x − 53 = 17. Quanto vale x?",
+    "options": [
+      "10",
+      "12",
+      "7",
+      "5"
+    ],
+    "correct": 3,
+    "difficulty": "hard",
+    "explain": "Isola x e dividi per a."
+  },
+  {
+    "q": "Risolvi: 16x − 60 = 1044. Quanto vale x?",
+    "options": [
+      "69",
+      "66",
+      "74",
+      "62"
+    ],
+    "correct": 0,
+    "difficulty": "hard",
+    "explain": "Isola x e dividi per a."
+  },
+  {
+    "q": "Risolvi: 6x − 56 = 184. Quanto vale x?",
+    "options": [
+      "37",
+      "28",
+      "52",
+      "40"
+    ],
+    "correct": 3,
+    "difficulty": "hard",
+    "explain": "Isola x e dividi per a."
+  },
+  {
+    "q": "Completa la sequenza: 3, 23, 43, 63, __",
+    "options": [
+      "83 (4)",
+      "83",
+      "103",
+      "63"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Risolvi: 17x + 54 = 394. Quanto vale x?",
+    "options": [
+      "20",
+      "23",
+      "20 (4)",
+      "17"
+    ],
+    "correct": 0,
+    "difficulty": "hard",
+    "explain": "Isola x e dividi per a."
+  },
+  {
+    "q": "Completa la sequenza: 75, 105, 135, 165, __",
+    "options": [
+      "225",
+      "165",
+      "195",
+      "195 (4)"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Risolvi: 15x − 48 = 762. Quanto vale x?",
+    "options": [
+      "49",
+      "54",
+      "54 (4)",
+      "52"
+    ],
+    "correct": 1,
+    "difficulty": "hard",
+    "explain": "Isola x e dividi per a."
+  },
+  {
+    "q": "Semplifica la frazione 300/136.",
+    "options": [
+      "75/34",
+      "300/136",
+      "75/35",
+      "76/34"
+    ],
+    "correct": 0,
+    "difficulty": "medium",
+    "explain": "Dividi numeratore e denominatore per il MCD."
+  },
+  {
+    "q": "Completa la sequenza: 9, 19, 29, 39, __",
+    "options": [
+      "59",
+      "39",
+      "49 (4)",
+      "49"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Completa la sequenza: 145, 162, 179, 196, __",
+    "options": [
+      "230",
+      "213 (4)",
+      "196",
+      "213"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Completa la sequenza: 59, 70, 81, 92, __",
+    "options": [
+      "114",
+      "103 (4)",
+      "92",
+      "103"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Risolvi: 11x − 48 = 271. Quanto vale x?",
+    "options": [
+      "24",
+      "22",
+      "29",
+      "32"
+    ],
+    "correct": 2,
+    "difficulty": "hard",
+    "explain": "Isola x e dividi per a."
+  },
+  {
+    "q": "Semplifica la frazione 110/80.",
+    "options": [
+      "11/9",
+      "110/80",
+      "11/8",
+      "12/8"
+    ],
+    "correct": 2,
+    "difficulty": "medium",
+    "explain": "Dividi numeratore e denominatore per il MCD."
+  },
+  {
+    "q": "Completa la sequenza: 20, 33, 46, 59, __",
+    "options": [
+      "85",
+      "59",
+      "72",
+      "72 (4)"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Semplifica la frazione 66/781.",
+    "options": [
+      "6/71",
+      "66/781",
+      "6/72",
+      "7/71"
+    ],
+    "correct": 0,
+    "difficulty": "medium",
+    "explain": "Dividi numeratore e denominatore per il MCD."
+  },
+  {
+    "q": "Completa la sequenza: 187, 189, 191, 193, __",
+    "options": [
+      "193",
+      "195 (4)",
+      "197",
+      "195"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Completa la sequenza: 1, 24, 47, 70, __",
+    "options": [
+      "70",
+      "93 (4)",
+      "116",
+      "93"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Risolvi: 7x + 38 = 493. Quanto vale x?",
+    "options": [
+      "60",
+      "77",
+      "63",
+      "65"
+    ],
+    "correct": 3,
+    "difficulty": "hard",
+    "explain": "Isola x e dividi per a."
+  },
+  {
+    "q": "Completa la sequenza: 42, 55, 68, 81, __",
+    "options": [
+      "94",
+      "94 (4)",
+      "107",
+      "81"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Completa la sequenza: 99, 109, 119, 129, __",
+    "options": [
+      "139",
+      "129",
+      "139 (4)",
+      "149"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Risolvi: 22x − 59 = 1173. Quanto vale x?",
+    "options": [
+      "61",
+      "68",
+      "51",
+      "56"
+    ],
+    "correct": 3,
+    "difficulty": "hard",
+    "explain": "Isola x e dividi per a."
+  },
+  {
+    "q": "Semplifica la frazione 336/192.",
+    "options": [
+      "8/4",
+      "7/4",
+      "336/192",
+      "7/5"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "Dividi numeratore e denominatore per il MCD."
+  },
+  {
+    "q": "Completa la sequenza: 86, 97, 108, 119, __",
+    "options": [
+      "141",
+      "119",
+      "130 (4)",
+      "130"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Completa la sequenza: 17, 41, 65, 89, __",
+    "options": [
+      "89",
+      "113 (4)",
+      "137",
+      "113"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Completa la sequenza: 111, 135, 159, 183, __",
+    "options": [
+      "207",
+      "231",
+      "207 (4)",
+      "183"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Completa la sequenza: 12, 16, 20, 24, __",
+    "options": [
+      "32",
+      "28",
+      "28 (4)",
+      "24"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Completa la sequenza: 132, 139, 146, 153, __",
+    "options": [
+      "153",
+      "160",
+      "167",
+      "160 (4)"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Semplifica la frazione 140/110.",
+    "options": [
+      "140/110",
+      "14/11",
+      "15/11",
+      "14/12"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "Dividi numeratore e denominatore per il MCD."
+  },
+  {
+    "q": "Risolvi: 24x − 15 = 513. Quanto vale x?",
+    "options": [
+      "24",
+      "17",
+      "34",
+      "22"
+    ],
+    "correct": 3,
+    "difficulty": "hard",
+    "explain": "Isola x e dividi per a."
+  },
+  {
+    "q": "Completa la sequenza: 112, 126, 140, 154, __",
+    "options": [
+      "168",
+      "182",
+      "168 (4)",
+      "154"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Completa la sequenza: 94, 118, 142, 166, __",
+    "options": [
+      "190 (4)",
+      "190",
+      "214",
+      "166"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Semplifica la frazione 33/204.",
+    "options": [
+      "33/204",
+      "11/68",
+      "12/68",
+      "11/69"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "Dividi numeratore e denominatore per il MCD."
+  },
+  {
+    "q": "Risolvi: 2x − 26 = 112. Quanto vale x?",
+    "options": [
+      "74",
+      "69",
+      "64",
+      "76"
+    ],
+    "correct": 1,
+    "difficulty": "hard",
+    "explain": "Isola x e dividi per a."
+  },
+  {
+    "q": "Completa la sequenza: 182, 191, 200, 209, __",
+    "options": [
+      "218 (4)",
+      "218",
+      "227",
+      "209"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Semplifica la frazione 180/200.",
+    "options": [
+      "180/200",
+      "9/11",
+      "10/10",
+      "9/10"
+    ],
+    "correct": 3,
+    "difficulty": "medium",
+    "explain": "Dividi numeratore e denominatore per il MCD."
+  },
+  {
+    "q": "Semplifica la frazione 297/450.",
+    "options": [
+      "34/50",
+      "297/450",
+      "33/50",
+      "33/51"
+    ],
+    "correct": 2,
+    "difficulty": "medium",
+    "explain": "Dividi numeratore e denominatore per il MCD."
+  },
+  {
+    "q": "Completa la sequenza: 98, 104, 110, 116, __",
+    "options": [
+      "116",
+      "122 (4)",
+      "128",
+      "122"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Risolvi: 25x + 58 = 1533. Quanto vale x?",
+    "options": [
+      "57",
+      "64",
+      "59",
+      "62"
+    ],
+    "correct": 2,
+    "difficulty": "hard",
+    "explain": "Isola x e dividi per a."
+  },
+  {
+    "q": "Completa la sequenza: 10, 20, 30, 40, __",
+    "options": [
+      "50 (4)",
+      "50",
+      "60",
+      "40"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Risolvi: 13x − 40 = 870. Quanto vale x?",
+    "options": [
+      "67",
+      "82",
+      "68",
+      "70"
+    ],
+    "correct": 3,
+    "difficulty": "hard",
+    "explain": "Isola x e dividi per a."
+  },
+  {
+    "q": "Completa la sequenza: 127, 141, 155, 169, __",
+    "options": [
+      "197",
+      "169",
+      "183 (4)",
+      "183"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Completa la sequenza: 187, 212, 237, 262, __",
+    "options": [
+      "287 (4)",
+      "287",
+      "312",
+      "262"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Semplifica la frazione 580/50.",
+    "options": [
+      "580/50",
+      "59/5",
+      "58/5",
+      "58/6"
+    ],
+    "correct": 2,
+    "difficulty": "medium",
+    "explain": "Dividi numeratore e denominatore per il MCD."
+  },
+  {
+    "q": "Risolvi: 21x − 22 = 1280. Quanto vale x?",
+    "options": [
+      "50",
+      "74",
+      "62",
+      "57"
+    ],
+    "correct": 2,
+    "difficulty": "hard",
+    "explain": "Isola x e dividi per a."
+  },
+  {
+    "q": "Completa la sequenza: 51, 79, 107, 135, __",
+    "options": [
+      "135",
+      "163 (4)",
+      "191",
+      "163"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Semplifica la frazione 396/324.",
+    "options": [
+      "12/9",
+      "11/10",
+      "396/324",
+      "11/9"
+    ],
+    "correct": 3,
+    "difficulty": "medium",
+    "explain": "Dividi numeratore e denominatore per il MCD."
+  },
+  {
+    "q": "Completa la sequenza: 16, 45, 74, 103, __",
+    "options": [
+      "132 (4)",
+      "132",
+      "103",
+      "161"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Risolvi: 2x − 41 = 107. Quanto vale x?",
+    "options": [
+      "79",
+      "74 (4)",
+      "74",
+      "86"
+    ],
+    "correct": 2,
+    "difficulty": "hard",
+    "explain": "Isola x e dividi per a."
+  },
+  {
+    "q": "Completa la sequenza: 181, 194, 207, 220, __",
+    "options": [
+      "246",
+      "220",
+      "233",
+      "233 (4)"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Risolvi: 23x − 57 = 886. Quanto vale x?",
+    "options": [
+      "41",
+      "29",
+      "46",
+      "44"
+    ],
+    "correct": 0,
+    "difficulty": "hard",
+    "explain": "Isola x e dividi per a."
+  },
+  {
+    "q": "Completa la sequenza: 78, 103, 128, 153, __",
+    "options": [
+      "203",
+      "178",
+      "178 (4)",
+      "153"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Completa la sequenza: 158, 178, 198, 218, __",
+    "options": [
+      "258",
+      "238",
+      "238 (4)",
+      "218"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Completa la sequenza: 192, 200, 208, 216, __",
+    "options": [
+      "232",
+      "224",
+      "216",
+      "224 (4)"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Completa la sequenza: 113, 134, 155, 176, __",
+    "options": [
+      "176",
+      "218",
+      "197",
+      "197 (4)"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Risolvi: 6x − 29 = 157. Quanto vale x?",
+    "options": [
+      "36",
+      "24",
+      "28",
+      "31"
+    ],
+    "correct": 3,
+    "difficulty": "hard",
+    "explain": "Isola x e dividi per a."
+  },
+  {
+    "q": "Semplifica la frazione 91/294.",
+    "options": [
+      "13/42",
+      "14/42",
+      "13/43",
+      "91/294"
+    ],
+    "correct": 0,
+    "difficulty": "medium",
+    "explain": "Dividi numeratore e denominatore per il MCD."
+  },
+  {
+    "q": "Completa la sequenza: 153, 167, 181, 195, __",
+    "options": [
+      "209",
+      "223",
+      "209 (4)",
+      "195"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Semplifica la frazione 58/8.",
+    "options": [
+      "30/4",
+      "29/4",
+      "29/5",
+      "58/8"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "Dividi numeratore e denominatore per il MCD."
+  },
+  {
+    "q": "Risolvi: 24x − 5 = 1675. Quanto vale x?",
+    "options": [
+      "70",
+      "58",
+      "77",
+      "68"
+    ],
+    "correct": 0,
+    "difficulty": "hard",
+    "explain": "Isola x e dividi per a."
+  },
+  {
+    "q": "Risolvi: 9x − 57 = 132. Quanto vale x?",
+    "options": [
+      "14",
+      "21",
+      "28",
+      "18"
+    ],
+    "correct": 1,
+    "difficulty": "hard",
+    "explain": "Isola x e dividi per a."
+  },
+  {
+    "q": "Semplifica la frazione 36/72.",
+    "options": [
+      "36/72",
+      "1/3",
+      "2/2",
+      "1/2"
+    ],
+    "correct": 3,
+    "difficulty": "medium",
+    "explain": "Dividi numeratore e denominatore per il MCD."
+  },
+  {
+    "q": "Completa la sequenza: 53, 60, 67, 74, __",
+    "options": [
+      "74",
+      "88",
+      "81 (4)",
+      "81"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Risolvi: 17x + 16 = 1206. Quanto vale x?",
+    "options": [
+      "82",
+      "70",
+      "65",
+      "70 (4)"
+    ],
+    "correct": 1,
+    "difficulty": "hard",
+    "explain": "Isola x e dividi per a."
+  },
+  {
+    "q": "Risolvi: 15x + 44 = 1229. Quanto vale x?",
+    "options": [
+      "84",
+      "81",
+      "74",
+      "79"
+    ],
+    "correct": 3,
+    "difficulty": "hard",
+    "explain": "Isola x e dividi per a."
+  },
+  {
+    "q": "Semplifica la frazione 88/80.",
+    "options": [
+      "11/10",
+      "11/11",
+      "88/80",
+      "12/10"
+    ],
+    "correct": 0,
+    "difficulty": "medium",
+    "explain": "Dividi numeratore e denominatore per il MCD."
+  },
+  {
+    "q": "Completa la sequenza: 32, 37, 42, 47, __",
+    "options": [
+      "57",
+      "52 (4)",
+      "47",
+      "52"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Completa la sequenza: 88, 111, 134, 157, __",
+    "options": [
+      "180",
+      "203",
+      "180 (4)",
+      "157"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Completa la sequenza: 63, 85, 107, 129, __",
+    "options": [
+      "151 (4)",
+      "151",
+      "129",
+      "173"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Completa la sequenza: 52, 56, 60, 64, __",
+    "options": [
+      "68",
+      "64",
+      "68 (4)",
+      "72"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Completa la sequenza: 170, 184, 198, 212, __",
+    "options": [
+      "240",
+      "212",
+      "226 (4)",
+      "226"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Semplifica la frazione 126/504.",
+    "options": [
+      "1/4",
+      "126/504",
+      "2/4",
+      "1/5"
+    ],
+    "correct": 0,
+    "difficulty": "medium",
+    "explain": "Dividi numeratore e denominatore per il MCD."
+  },
+  {
+    "q": "Completa la sequenza: 59, 86, 113, 140, __",
+    "options": [
+      "167",
+      "140",
+      "194",
+      "167 (4)"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Semplifica la frazione 32/90.",
+    "options": [
+      "17/45",
+      "16/45",
+      "16/46",
+      "32/90"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "Dividi numeratore e denominatore per il MCD."
+  },
+  {
+    "q": "Completa la sequenza: 103, 105, 107, 109, __",
+    "options": [
+      "111",
+      "113",
+      "109",
+      "111 (4)"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Completa la sequenza: 113, 120, 127, 134, __",
+    "options": [
+      "148",
+      "141 (4)",
+      "141",
+      "134"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Risolvi: 12x − 48 = 60. Quanto vale x?",
+    "options": [
+      "14",
+      "4",
+      "9",
+      "7"
+    ],
+    "correct": 2,
+    "difficulty": "hard",
+    "explain": "Isola x e dividi per a."
+  },
+  {
+    "q": "Completa la sequenza: 143, 154, 165, 176, __",
+    "options": [
+      "187",
+      "187 (4)",
+      "176",
+      "198"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Completa la sequenza: 158, 187, 216, 245, __",
+    "options": [
+      "274 (4)",
+      "245",
+      "274",
+      "303"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Completa la sequenza: 97, 104, 111, 118, __",
+    "options": [
+      "118",
+      "125 (4)",
+      "125",
+      "132"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Risolvi: 23x − 5 = 1398. Quanto vale x?",
+    "options": [
+      "73",
+      "64",
+      "59",
+      "61"
+    ],
+    "correct": 3,
+    "difficulty": "hard",
+    "explain": "Isola x e dividi per a."
+  },
+  {
+    "q": "Risolvi: 3x + 12 = 33. Quanto vale x?",
+    "options": [
+      "1",
+      "7",
+      "9",
+      "2"
+    ],
+    "correct": 1,
+    "difficulty": "hard",
+    "explain": "Isola x e dividi per a."
+  },
+  {
+    "q": "Semplifica la frazione 600/230.",
+    "options": [
+      "60/24",
+      "600/230",
+      "61/23",
+      "60/23"
+    ],
+    "correct": 3,
+    "difficulty": "medium",
+    "explain": "Dividi numeratore e denominatore per il MCD."
+  },
+  {
+    "q": "Semplifica la frazione 768/936.",
+    "options": [
+      "32/40",
+      "33/39",
+      "32/39",
+      "768/936"
+    ],
+    "correct": 2,
+    "difficulty": "medium",
+    "explain": "Dividi numeratore e denominatore per il MCD."
+  },
+  {
+    "q": "Semplifica la frazione 684/522.",
+    "options": [
+      "684/522",
+      "39/29",
+      "38/30",
+      "38/29"
+    ],
+    "correct": 3,
+    "difficulty": "medium",
+    "explain": "Dividi numeratore e denominatore per il MCD."
+  },
+  {
+    "q": "Semplifica la frazione 836/319.",
+    "options": [
+      "77/29",
+      "76/29",
+      "836/319",
+      "76/30"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "Dividi numeratore e denominatore per il MCD."
+  },
+  {
+    "q": "Completa la sequenza: 138, 160, 182, 204, __",
+    "options": [
+      "226",
+      "204",
+      "226 (4)",
+      "248"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Completa la sequenza: 36, 39, 42, 45, __",
+    "options": [
+      "48 (4)",
+      "51",
+      "45",
+      "48"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Semplifica la frazione 243/252.",
+    "options": [
+      "243/252",
+      "27/28",
+      "28/28",
+      "27/29"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "Dividi numeratore e denominatore per il MCD."
+  },
+  {
+    "q": "Risolvi: 15x − 14 = 646. Quanto vale x?",
+    "options": [
+      "56",
+      "44",
+      "41",
+      "44 (4)"
+    ],
+    "correct": 1,
+    "difficulty": "hard",
+    "explain": "Isola x e dividi per a."
+  },
+  {
+    "q": "Completa la sequenza: 34, 57, 80, 103, __",
+    "options": [
+      "149",
+      "103",
+      "126",
+      "126 (4)"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Risolvi: 24x + 35 = 587. Quanto vale x?",
+    "options": [
+      "35",
+      "23",
+      "23 (4)",
+      "30"
+    ],
+    "correct": 1,
+    "difficulty": "hard",
+    "explain": "Isola x e dividi per a."
+  },
+  {
+    "q": "Semplifica la frazione 212/172.",
+    "options": [
+      "54/43",
+      "53/43",
+      "212/172",
+      "53/44"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "Dividi numeratore e denominatore per il MCD."
+  },
+  {
+    "q": "Completa la sequenza: 8, 27, 46, 65, __",
+    "options": [
+      "84",
+      "103",
+      "65",
+      "84 (4)"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Completa la sequenza: 44, 57, 70, 83, __",
+    "options": [
+      "83",
+      "109",
+      "96",
+      "96 (4)"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Completa la sequenza: 180, 190, 200, 210, __",
+    "options": [
+      "220 (4)",
+      "230",
+      "220",
+      "210"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Completa la sequenza: 37, 53, 69, 85, __",
+    "options": [
+      "101",
+      "101 (4)",
+      "85",
+      "117"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Semplifica la frazione 140/238.",
+    "options": [
+      "10/18",
+      "140/238",
+      "10/17",
+      "11/17"
+    ],
+    "correct": 2,
+    "difficulty": "medium",
+    "explain": "Dividi numeratore e denominatore per il MCD."
+  },
+  {
+    "q": "Completa la sequenza: 32, 46, 60, 74, __",
+    "options": [
+      "88",
+      "102",
+      "74",
+      "88 (4)"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Risolvi: 23x + 57 = 977. Quanto vale x?",
+    "options": [
+      "28",
+      "37",
+      "40",
+      "35"
+    ],
+    "correct": 2,
+    "difficulty": "hard",
+    "explain": "Isola x e dividi per a."
+  },
+  {
+    "q": "Semplifica la frazione 266/154.",
+    "options": [
+      "19/11",
+      "20/11",
+      "19/12",
+      "266/154"
+    ],
+    "correct": 0,
+    "difficulty": "medium",
+    "explain": "Dividi numeratore e denominatore per il MCD."
+  },
+  {
+    "q": "Completa la sequenza: 94, 102, 110, 118, __",
+    "options": [
+      "118",
+      "126",
+      "134",
+      "126 (4)"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Risolvi: 6x − 60 = 324. Quanto vale x?",
+    "options": [
+      "64 (4)",
+      "64",
+      "59",
+      "71"
+    ],
+    "correct": 1,
+    "difficulty": "hard",
+    "explain": "Isola x e dividi per a."
+  },
+  {
+    "q": "Risolvi: 19x + 5 = 1449. Quanto vale x?",
+    "options": [
+      "79",
+      "78",
+      "74",
+      "76"
+    ],
+    "correct": 3,
+    "difficulty": "hard",
+    "explain": "Isola x e dividi per a."
+  },
+  {
+    "q": "Completa la sequenza: 146, 174, 202, 230, __",
+    "options": [
+      "286",
+      "258 (4)",
+      "230",
+      "258"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Completa la sequenza: 165, 171, 177, 183, __",
+    "options": [
+      "189 (4)",
+      "189",
+      "183",
+      "195"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Risolvi: 20x − 11 = 1389. Quanto vale x?",
+    "options": [
+      "70",
+      "77",
+      "82",
+      "58"
+    ],
+    "correct": 0,
+    "difficulty": "hard",
+    "explain": "Isola x e dividi per a."
+  },
+  {
+    "q": "Completa la sequenza: 119, 125, 131, 137, __",
+    "options": [
+      "137",
+      "143 (4)",
+      "149",
+      "143"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Completa la sequenza: 128, 157, 186, 215, __",
+    "options": [
+      "273",
+      "244",
+      "244 (4)",
+      "215"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Completa la sequenza: 101, 107, 113, 119, __",
+    "options": [
+      "125",
+      "125 (4)",
+      "131",
+      "119"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Semplifica la frazione 266/119.",
+    "options": [
+      "38/17",
+      "39/17",
+      "266/119",
+      "38/18"
+    ],
+    "correct": 0,
+    "difficulty": "medium",
+    "explain": "Dividi numeratore e denominatore per il MCD."
+  },
+  {
+    "q": "Completa la sequenza: 46, 64, 82, 100, __",
+    "options": [
+      "100",
+      "118",
+      "136",
+      "118 (4)"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Completa la sequenza: 195, 200, 205, 210, __",
+    "options": [
+      "210",
+      "215",
+      "220",
+      "215 (4)"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Completa la sequenza: 165, 170, 175, 180, __",
+    "options": [
+      "180",
+      "185",
+      "190",
+      "185 (4)"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Completa la sequenza: 156, 177, 198, 219, __",
+    "options": [
+      "240 (4)",
+      "219",
+      "261",
+      "240"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Semplifica la frazione 648/624.",
+    "options": [
+      "648/624",
+      "27/26",
+      "28/26",
+      "27/27"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "Dividi numeratore e denominatore per il MCD."
+  },
+  {
+    "q": "Completa la sequenza: 92, 118, 144, 170, __",
+    "options": [
+      "222",
+      "170",
+      "196",
+      "196 (4)"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Risolvi: 24x − 10 = 1670. Quanto vale x?",
+    "options": [
+      "70",
+      "77",
+      "67",
+      "70 (4)"
+    ],
+    "correct": 0,
+    "difficulty": "hard",
+    "explain": "Isola x e dividi per a."
+  },
+  {
+    "q": "Completa la sequenza: 107, 134, 161, 188, __",
+    "options": [
+      "215",
+      "215 (4)",
+      "242",
+      "188"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Risolvi: 3x − 4 = 110. Quanto vale x?",
+    "options": [
+      "33",
+      "38",
+      "43",
+      "31"
+    ],
+    "correct": 1,
+    "difficulty": "hard",
+    "explain": "Isola x e dividi per a."
+  },
+  {
+    "q": "Completa la sequenza: 111, 117, 123, 129, __",
+    "options": [
+      "129",
+      "135",
+      "141",
+      "135 (4)"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Completa la sequenza: 39, 49, 59, 69, __",
+    "options": [
+      "89",
+      "69",
+      "79",
+      "79 (4)"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Risolvi: 4x + 26 = 226. Quanto vale x?",
+    "options": [
+      "55",
+      "50",
+      "50 (4)",
+      "38"
+    ],
+    "correct": 1,
+    "difficulty": "hard",
+    "explain": "Isola x e dividi per a."
+  },
+  {
+    "q": "Completa la sequenza: 7, 32, 57, 82, __",
+    "options": [
+      "132",
+      "82",
+      "107",
+      "107 (4)"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Completa la sequenza: 155, 185, 215, 245, __",
+    "options": [
+      "275 (4)",
+      "305",
+      "275",
+      "245"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Completa la sequenza: 70, 94, 118, 142, __",
+    "options": [
+      "166",
+      "142",
+      "190",
+      "166 (4)"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Completa la sequenza: 106, 120, 134, 148, __",
+    "options": [
+      "162 (4)",
+      "148",
+      "162",
+      "176"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Completa la sequenza: 35, 40, 45, 50, __",
+    "options": [
+      "60",
+      "50",
+      "55 (4)",
+      "55"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Completa la sequenza: 10, 36, 62, 88, __",
+    "options": [
+      "114",
+      "140",
+      "88",
+      "114 (4)"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Completa la sequenza: 169, 188, 207, 226, __",
+    "options": [
+      "245 (4)",
+      "226",
+      "264",
+      "245"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Completa la sequenza: 9, 36, 63, 90, __",
+    "options": [
+      "90",
+      "144",
+      "117 (4)",
+      "117"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Completa la sequenza: 123, 126, 129, 132, __",
+    "options": [
+      "135",
+      "138",
+      "132",
+      "135 (4)"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Completa la sequenza: 125, 146, 167, 188, __",
+    "options": [
+      "188",
+      "209",
+      "230",
+      "209 (4)"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Completa la sequenza: 123, 145, 167, 189, __",
+    "options": [
+      "211",
+      "189",
+      "233",
+      "211 (4)"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Risolvi: 16x − 44 = 836. Quanto vale x?",
+    "options": [
+      "43",
+      "48",
+      "55",
+      "53"
+    ],
+    "correct": 2,
+    "difficulty": "hard",
+    "explain": "Isola x e dividi per a."
+  },
+  {
+    "q": "Risolvi: 16x + 23 = 1271. Quanto vale x?",
+    "options": [
+      "78 (4)",
+      "78",
+      "73",
+      "85"
+    ],
+    "correct": 1,
+    "difficulty": "hard",
+    "explain": "Isola x e dividi per a."
+  },
+  {
+    "q": "Completa la sequenza: 87, 113, 139, 165, __",
+    "options": [
+      "165",
+      "191",
+      "217",
+      "191 (4)"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Completa la sequenza: 69, 96, 123, 150, __",
+    "options": [
+      "177",
+      "150",
+      "204",
+      "177 (4)"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Risolvi: 8x + 37 = 213. Quanto vale x?",
+    "options": [
+      "22",
+      "20",
+      "10",
+      "22 (4)"
+    ],
+    "correct": 0,
+    "difficulty": "hard",
+    "explain": "Isola x e dividi per a."
+  },
+  {
+    "q": "Completa la sequenza: 120, 124, 128, 132, __",
+    "options": [
+      "132",
+      "140",
+      "136",
+      "136 (4)"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Completa la sequenza: 113, 122, 131, 140, __",
+    "options": [
+      "140",
+      "149 (4)",
+      "158",
+      "149"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Risolvi: 9x + 37 = 388. Quanto vale x?",
+    "options": [
+      "36",
+      "39",
+      "32",
+      "46"
+    ],
+    "correct": 1,
+    "difficulty": "hard",
+    "explain": "Isola x e dividi per a."
+  },
+  {
+    "q": "Completa la sequenza: 173, 183, 193, 203, __",
+    "options": [
+      "203",
+      "223",
+      "213 (4)",
+      "213"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Completa la sequenza: 118, 133, 148, 163, __",
+    "options": [
+      "178",
+      "163",
+      "178 (4)",
+      "193"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Completa la sequenza: 61, 71, 81, 91, __",
+    "options": [
+      "101",
+      "111",
+      "91",
+      "101 (4)"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Risolvi: 3x + 43 = 184. Quanto vale x?",
+    "options": [
+      "47",
+      "42",
+      "44",
+      "59"
+    ],
+    "correct": 0,
+    "difficulty": "hard",
+    "explain": "Isola x e dividi per a."
+  },
+  {
+    "q": "Risolvi: 23x + 56 = 447. Quanto vale x?",
+    "options": [
+      "17",
+      "15",
+      "19",
+      "5"
+    ],
+    "correct": 0,
+    "difficulty": "hard",
+    "explain": "Isola x e dividi per a."
+  },
+  {
+    "q": "Risolvi: 9x − 35 = 226. Quanto vale x?",
+    "options": [
+      "31",
+      "22",
+      "34",
+      "29"
+    ],
+    "correct": 3,
+    "difficulty": "hard",
+    "explain": "Isola x e dividi per a."
+  },
+  {
+    "q": "Semplifica la frazione 315/315.",
+    "options": [
+      "1/1",
+      "315/315",
+      "2/1",
+      "1/2"
+    ],
+    "correct": 0,
+    "difficulty": "medium",
+    "explain": "Dividi numeratore e denominatore per il MCD."
+  },
+  {
+    "q": "Completa la sequenza: 49, 72, 95, 118, __",
+    "options": [
+      "118",
+      "141",
+      "164",
+      "141 (4)"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Completa la sequenza: 193, 210, 227, 244, __",
+    "options": [
+      "244",
+      "261",
+      "278",
+      "261 (4)"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Semplifica la frazione 18/207.",
+    "options": [
+      "2/24",
+      "18/207",
+      "2/23",
+      "3/23"
+    ],
+    "correct": 2,
+    "difficulty": "medium",
+    "explain": "Dividi numeratore e denominatore per il MCD."
+  },
+  {
+    "q": "Completa la sequenza: 50, 59, 68, 77, __",
+    "options": [
+      "77",
+      "86",
+      "95",
+      "86 (4)"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Completa la sequenza: 49, 61, 73, 85, __",
+    "options": [
+      "109",
+      "85",
+      "97 (4)",
+      "97"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Risolvi: 24x − 13 = 155. Quanto vale x?",
+    "options": [
+      "1",
+      "7",
+      "4",
+      "7 (4)"
+    ],
+    "correct": 1,
+    "difficulty": "hard",
+    "explain": "Isola x e dividi per a."
+  },
+  {
+    "q": "Completa la sequenza: 174, 201, 228, 255, __",
+    "options": [
+      "255",
+      "282",
+      "282 (4)",
+      "309"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Completa la sequenza: 198, 226, 254, 282, __",
+    "options": [
+      "310",
+      "282",
+      "310 (4)",
+      "338"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Completa la sequenza: 134, 154, 174, 194, __",
+    "options": [
+      "214",
+      "234",
+      "214 (4)",
+      "194"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Completa la sequenza: 110, 126, 142, 158, __",
+    "options": [
+      "174",
+      "190",
+      "174 (4)",
+      "158"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Completa la sequenza: 15, 21, 27, 33, __",
+    "options": [
+      "39 (4)",
+      "39",
+      "33",
+      "45"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Completa la sequenza: 178, 197, 216, 235, __",
+    "options": [
+      "273",
+      "254 (4)",
+      "235",
+      "254"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Completa la sequenza: 198, 201, 204, 207, __",
+    "options": [
+      "210",
+      "207",
+      "213",
+      "210 (4)"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Completa la sequenza: 4, 28, 52, 76, __",
+    "options": [
+      "124",
+      "100 (4)",
+      "100",
+      "76"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Risolvi: 13x − 45 = 800. Quanto vale x?",
+    "options": [
+      "62",
+      "63",
+      "53",
+      "65"
+    ],
+    "correct": 3,
+    "difficulty": "hard",
+    "explain": "Isola x e dividi per a."
+  },
+  {
+    "q": "Risolvi: 2x − 34 = 54. Quanto vale x?",
+    "options": [
+      "44",
+      "46",
+      "41",
+      "49"
+    ],
+    "correct": 0,
+    "difficulty": "hard",
+    "explain": "Isola x e dividi per a."
+  },
+  {
+    "q": "Risolvi: 23x − 11 = 242. Quanto vale x?",
+    "options": [
+      "6",
+      "11",
+      "9",
+      "16"
+    ],
+    "correct": 1,
+    "difficulty": "hard",
+    "explain": "Isola x e dividi per a."
+  },
+  {
+    "q": "Risolvi: 18x + 52 = 1060. Quanto vale x?",
+    "options": [
+      "54",
+      "51",
+      "56 (4)",
+      "56"
+    ],
+    "correct": 3,
+    "difficulty": "hard",
+    "explain": "Isola x e dividi per a."
+  },
+  {
+    "q": "Risolvi: 24x − 19 = 1397. Quanto vale x?",
+    "options": [
+      "52",
+      "59",
+      "56",
+      "47"
+    ],
+    "correct": 1,
+    "difficulty": "hard",
+    "explain": "Isola x e dividi per a."
+  },
+  {
+    "q": "Completa la sequenza: 135, 141, 147, 153, __",
+    "options": [
+      "159",
+      "159 (4)",
+      "153",
+      "165"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Semplifica la frazione 285/260.",
+    "options": [
+      "57/52",
+      "57/53",
+      "58/52",
+      "285/260"
+    ],
+    "correct": 0,
+    "difficulty": "medium",
+    "explain": "Dividi numeratore e denominatore per il MCD."
+  },
+  {
+    "q": "Completa la sequenza: 148, 176, 204, 232, __",
+    "options": [
+      "260 (4)",
+      "232",
+      "260",
+      "288"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Risolvi: 19x − 19 = 589. Quanto vale x?",
+    "options": [
+      "30",
+      "32",
+      "37",
+      "39"
+    ],
+    "correct": 1,
+    "difficulty": "hard",
+    "explain": "Isola x e dividi per a."
+  },
+  {
+    "q": "Completa la sequenza: 196, 225, 254, 283, __",
+    "options": [
+      "341",
+      "283",
+      "312",
+      "312 (4)"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Completa la sequenza: 98, 109, 120, 131, __",
+    "options": [
+      "131",
+      "142",
+      "142 (4)",
+      "153"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Completa la sequenza: 96, 109, 122, 135, __",
+    "options": [
+      "148 (4)",
+      "135",
+      "161",
+      "148"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Risolvi: 22x + 32 = 604. Quanto vale x?",
+    "options": [
+      "33",
+      "26",
+      "23",
+      "29"
+    ],
+    "correct": 1,
+    "difficulty": "hard",
+    "explain": "Isola x e dividi per a."
+  },
+  {
+    "q": "Completa la sequenza: 36, 64, 92, 120, __",
+    "options": [
+      "176",
+      "148 (4)",
+      "120",
+      "148"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Completa la sequenza: 155, 160, 165, 170, __",
+    "options": [
+      "180",
+      "175",
+      "170",
+      "175 (4)"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Completa la sequenza: 125, 149, 173, 197, __",
+    "options": [
+      "221",
+      "197",
+      "221 (4)",
+      "245"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Completa la sequenza: 157, 178, 199, 220, __",
+    "options": [
+      "220",
+      "262",
+      "241 (4)",
+      "241"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Completa la sequenza: 63, 81, 99, 117, __",
+    "options": [
+      "117",
+      "153",
+      "135 (4)",
+      "135"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Completa la sequenza: 69, 71, 73, 75, __",
+    "options": [
+      "79",
+      "75",
+      "77",
+      "77 (4)"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Completa la sequenza: 5, 23, 41, 59, __",
+    "options": [
+      "77 (4)",
+      "59",
+      "95",
+      "77"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Completa la sequenza: 93, 122, 151, 180, __",
+    "options": [
+      "209",
+      "180",
+      "238",
+      "209 (4)"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Completa la sequenza: 23, 42, 61, 80, __",
+    "options": [
+      "80",
+      "118",
+      "99",
+      "99 (4)"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Semplifica la frazione 238/525.",
+    "options": [
+      "34/76",
+      "238/525",
+      "34/75",
+      "35/75"
+    ],
+    "correct": 2,
+    "difficulty": "medium",
+    "explain": "Dividi numeratore e denominatore per il MCD."
+  },
+  {
+    "q": "Completa la sequenza: 150, 167, 184, 201, __",
+    "options": [
+      "235",
+      "218 (4)",
+      "218",
+      "201"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Completa la sequenza: 107, 128, 149, 170, __",
+    "options": [
+      "212",
+      "191",
+      "191 (4)",
+      "170"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Completa la sequenza: 135, 154, 173, 192, __",
+    "options": [
+      "211",
+      "211 (4)",
+      "192",
+      "230"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Completa la sequenza: 111, 137, 163, 189, __",
+    "options": [
+      "215 (4)",
+      "215",
+      "241",
+      "189"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Completa la sequenza: 71, 79, 87, 95, __",
+    "options": [
+      "111",
+      "95",
+      "103",
+      "103 (4)"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Completa la sequenza: 28, 53, 78, 103, __",
+    "options": [
+      "128",
+      "153",
+      "128 (4)",
+      "103"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Completa la sequenza: 80, 101, 122, 143, __",
+    "options": [
+      "185",
+      "164 (4)",
+      "143",
+      "164"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Semplifica la frazione 407/297.",
+    "options": [
+      "38/27",
+      "37/28",
+      "37/27",
+      "407/297"
+    ],
+    "correct": 2,
+    "difficulty": "medium",
+    "explain": "Dividi numeratore e denominatore per il MCD."
+  },
+  {
+    "q": "Completa la sequenza: 42, 72, 102, 132, __",
+    "options": [
+      "162 (4)",
+      "192",
+      "162",
+      "132"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Risolvi: 15x + 30 = 585. Quanto vale x?",
+    "options": [
+      "44",
+      "37",
+      "30",
+      "25"
+    ],
+    "correct": 1,
+    "difficulty": "hard",
+    "explain": "Isola x e dividi per a."
+  },
+  {
+    "q": "Semplifica la frazione 18/132.",
+    "options": [
+      "4/22",
+      "18/132",
+      "3/23",
+      "3/22"
+    ],
+    "correct": 3,
+    "difficulty": "medium",
+    "explain": "Dividi numeratore e denominatore per il MCD."
+  },
+  {
+    "q": "Completa la sequenza: 21, 40, 59, 78, __",
+    "options": [
+      "78",
+      "97",
+      "116",
+      "97 (4)"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Completa la sequenza: 200, 205, 210, 215, __",
+    "options": [
+      "225",
+      "215",
+      "220",
+      "220 (4)"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Completa la sequenza: 189, 202, 215, 228, __",
+    "options": [
+      "254",
+      "241",
+      "241 (4)",
+      "228"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  }
+]

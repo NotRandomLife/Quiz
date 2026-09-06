@@ -1,0 +1,5665 @@
+[
+  {
+    "q": "[Tech] Completa: “repository” = …",
+    "options": [
+      "raccolta organizzata di file di un progetto",
+      "procedura per risolvere un problema",
+      "processore che esegue istruzioni",
+      "modello troppo adattato ai dati di training"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Qual è la rappresentazione binaria del numero 17?",
+    "options": [
+      "10000",
+      "10010",
+      "10001",
+      "10001 (4)"
+    ],
+    "correct": 2,
+    "difficulty": "hard",
+    "explain": "Il binario usa 0 e 1."
+  },
+  {
+    "q": "[Tech] Qual è il significato di “machine learning”?",
+    "options": [
+      "truffa per rubare credenziali fingendosi un servizio affidabile",
+      "programma per navigare sul web",
+      "parte visibile all’utente di un’app",
+      "tecniche per apprendere modelli dai dati"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Tech] In questo quiz, “server” vuol dire…",
+    "options": [
+      "sistema per organizzare e interrogare dati",
+      "ambiente di sviluppo integrato",
+      "computer che fornisce servizi ad altri computer",
+      "indirizzo di una risorsa sul web"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Tech] Che cos'è “algoritmo”?",
+    "options": [
+      "parte server/logica di un’app",
+      "servizio che traduce nomi di dominio in indirizzi IP",
+      "procedura per risolvere un problema",
+      "indirizzo numerico di un dispositivo in rete"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Tech] Seleziona la definizione corretta di “backend”.",
+    "options": [
+      "programma/dispositivo che usa un servizio (server)",
+      "sistema che filtra il traffico di rete",
+      "parte server/logica di un’app",
+      "struttura/libreria per costruire software"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Tech] “crittografia” si definisce come…",
+    "options": [
+      "tecnologia per collegamenti a corto raggio",
+      "tecnica per rendere un messaggio leggibile solo a chi ha la chiave",
+      "aggiornamento software",
+      "parte visibile all’utente di un’app"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Tech] Indica la descrizione corretta di “compilatore”.",
+    "options": [
+      "tecnologia per collegamenti a corto raggio",
+      "sistema di controllo versione distribuito",
+      "gestione delle versioni di un progetto",
+      "programma che traduce codice in eseguibile"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Tech] Che cos'è “dataset”?",
+    "options": [
+      "insieme di dati usato per analisi o training",
+      "gestione delle versioni di un progetto",
+      "sistema per organizzare e interrogare dati",
+      "memoria veloce temporanea"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Qual è la rappresentazione binaria del numero 244?",
+    "options": [
+      "11110101",
+      "11110011",
+      "00101111",
+      "11110100"
+    ],
+    "correct": 3,
+    "difficulty": "hard",
+    "explain": "Il binario usa 0 e 1."
+  },
+  {
+    "q": "[Tech] “SSD” si definisce come…",
+    "options": [
+      "indirizzo di una risorsa sul web",
+      "servizi e risorse accessibili via internet",
+      "unità di archiviazione a stato solido",
+      "programma che esegue codice traducendolo al volo"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Tech] Seleziona la definizione corretta di “server”.",
+    "options": [
+      "computer che fornisce servizi ad altri computer",
+      "programma/dispositivo che usa un servizio (server)",
+      "servizi e risorse accessibili via internet",
+      "ambiente di sviluppo integrato"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Tech] Completa: “IP” = …",
+    "options": [
+      "copia di sicurezza dei dati",
+      "gestione delle versioni di un progetto",
+      "indirizzo numerico di un dispositivo in rete",
+      "programma che esegue codice traducendolo al volo"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Qual è la rappresentazione binaria del numero 225?",
+    "options": [
+      "10000111",
+      "11100000",
+      "11100001",
+      "11100010"
+    ],
+    "correct": 2,
+    "difficulty": "hard",
+    "explain": "Il binario usa 0 e 1."
+  },
+  {
+    "q": "[Tech] In breve, “IP” è…",
+    "options": [
+      "procedura per risolvere un problema",
+      "indirizzo numerico di un dispositivo in rete",
+      "aggiornamento software",
+      "sistema per organizzare e interrogare dati"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Tech] In breve, “URL” è…",
+    "options": [
+      "indirizzo di una risorsa sul web",
+      "linguaggio per interrogare database relazionali",
+      "software dannoso",
+      "tecnica per rendere un messaggio leggibile solo a chi ha la chiave"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Tech] “libreria” si definisce come…",
+    "options": [
+      "copia di sicurezza dei dati",
+      "insieme di funzioni riutilizzabili",
+      "quantità di dati trasferibili per unità di tempo",
+      "tecnologia per collegamenti a corto raggio"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Tech] In breve, “bandwidth” è…",
+    "options": [
+      "software il cui codice sorgente è accessibile e modificabile",
+      "tecniche per apprendere modelli dai dati",
+      "password lunga con caratteri vari, non facilmente intuibile",
+      "quantità di dati trasferibili per unità di tempo"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Tech] Seleziona la definizione corretta di “API”.",
+    "options": [
+      "tecniche per apprendere modelli dai dati",
+      "insieme di dati usato per analisi o training",
+      "software il cui codice sorgente è accessibile e modificabile",
+      "interfaccia per usare funzioni o servizi"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Tech] “bug”: cosa significa?",
+    "options": [
+      "indirizzo numerico di un dispositivo in rete",
+      "programma che traduce codice in eseguibile",
+      "errore in un programma",
+      "dispositivo che instrada dati tra reti"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Tech] In questo quiz, “firewall” vuol dire…",
+    "options": [
+      "memoria veloce temporanea",
+      "errore in un programma",
+      "sistema che filtra il traffico di rete",
+      "truffa per rubare credenziali fingendosi un servizio affidabile"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Tech] Qual è il significato di “router”?",
+    "options": [
+      "insieme di dati usato per analisi o training",
+      "struttura/libreria per costruire software",
+      "modello troppo adattato ai dati di training",
+      "dispositivo che instrada dati tra reti"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Tech] In breve, “SSD” è…",
+    "options": [
+      "processore che esegue istruzioni",
+      "unità di archiviazione a stato solido",
+      "modello troppo adattato ai dati di training",
+      "linguaggio per interrogare database relazionali"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Tech] Qual è il significato di “latency”?",
+    "options": [
+      "processore che esegue istruzioni",
+      "tecnologia per collegamenti a corto raggio",
+      "ritardo nella risposta di un sistema",
+      "gestione delle versioni di un progetto"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Tech] In breve, “Wi‑Fi” è…",
+    "options": [
+      "sistema che filtra il traffico di rete",
+      "tecnica per rendere un messaggio leggibile solo a chi ha la chiave",
+      "tecnologia di rete senza fili",
+      "quantità di dati trasferibili per unità di tempo"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Tech] In breve, “router” è…",
+    "options": [
+      "errore in un programma",
+      "programma che esegue codice traducendolo al volo",
+      "dispositivo che instrada dati tra reti",
+      "gestione delle versioni di un progetto"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Tech] Indica la descrizione corretta di “cloud”.",
+    "options": [
+      "indirizzo di una risorsa sul web",
+      "interfaccia per usare funzioni o servizi",
+      "ambiente di sviluppo integrato",
+      "servizi e risorse accessibili via internet"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Tech] “Wi‑Fi” si definisce come…",
+    "options": [
+      "software il cui codice sorgente è accessibile e modificabile",
+      "tecnologia di rete senza fili",
+      "servizi e risorse accessibili via internet",
+      "programma che traduce codice in eseguibile"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Tech] Seleziona la definizione corretta di “frontend”.",
+    "options": [
+      "copia di sicurezza dei dati",
+      "servizio che traduce nomi di dominio in indirizzi IP",
+      "memoria veloce temporanea",
+      "parte visibile all’utente di un’app"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Tech] Completa: “versionamento” = …",
+    "options": [
+      "modello troppo adattato ai dati di training",
+      "piccolo dato salvato dal sito nel browser",
+      "gestione delle versioni di un progetto",
+      "tecnologia per collegamenti a corto raggio"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Tech] In questo quiz, “algoritmo” vuol dire…",
+    "options": [
+      "processore che esegue istruzioni",
+      "copia di sicurezza dei dati",
+      "procedura per risolvere un problema",
+      "tecnica per rendere un messaggio leggibile solo a chi ha la chiave"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Qual è la rappresentazione binaria del numero 112?",
+    "options": [
+      "1110000",
+      "1110001",
+      "0000111",
+      "1101111"
+    ],
+    "correct": 0,
+    "difficulty": "hard",
+    "explain": "Il binario usa 0 e 1."
+  },
+  {
+    "q": "[Tech] “phishing”: cosa significa?",
+    "options": [
+      "tecnologia di rete senza fili",
+      "interfaccia per usare funzioni o servizi",
+      "password lunga con caratteri vari, non facilmente intuibile",
+      "truffa per rubare credenziali fingendosi un servizio affidabile"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Tech] Seleziona la definizione corretta di “firewall”.",
+    "options": [
+      "tecnologia per collegamenti a corto raggio",
+      "sistema che filtra il traffico di rete",
+      "memoria veloce temporanea",
+      "procedura per risolvere un problema"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Tech] In questo quiz, “backup” vuol dire…",
+    "options": [
+      "ambiente di sviluppo integrato",
+      "copia di sicurezza dei dati",
+      "procedura per risolvere un problema",
+      "dispositivo che collega una rete a internet"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Tech] Che cos'è “server”?",
+    "options": [
+      "dispositivo che collega una rete a internet",
+      "memoria veloce temporanea",
+      "test di un modello su dati non visti",
+      "computer che fornisce servizi ad altri computer"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Tech] Seleziona la definizione corretta di “cloud”.",
+    "options": [
+      "insieme di funzioni riutilizzabili",
+      "servizi e risorse accessibili via internet",
+      "programma/dispositivo che usa un servizio (server)",
+      "test di un modello su dati non visti"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Tech] Che cos'è “client”?",
+    "options": [
+      "programma/dispositivo che usa un servizio (server)",
+      "memoria veloce temporanea",
+      "gestione delle versioni di un progetto",
+      "tecnologia di rete senza fili"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Qual è la rappresentazione binaria del numero 235?",
+    "options": [
+      "11101010",
+      "11101100",
+      "11101011",
+      "11010111"
+    ],
+    "correct": 2,
+    "difficulty": "hard",
+    "explain": "Il binario usa 0 e 1."
+  },
+  {
+    "q": "[Tech] Indica la descrizione corretta di “backup”.",
+    "options": [
+      "copia di sicurezza dei dati",
+      "procedura per risolvere un problema",
+      "programma per navigare sul web",
+      "tecnica per rendere un messaggio leggibile solo a chi ha la chiave"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Qual è la rappresentazione binaria del numero 93?",
+    "options": [
+      "1011100",
+      "1011101 (4)",
+      "1011101",
+      "1011110"
+    ],
+    "correct": 2,
+    "difficulty": "hard",
+    "explain": "Il binario usa 0 e 1."
+  },
+  {
+    "q": "[Tech] In questo quiz, “overfitting” vuol dire…",
+    "options": [
+      "software dannoso",
+      "sistema per organizzare e interrogare dati",
+      "modello troppo adattato ai dati di training",
+      "tecnologia per collegamenti a corto raggio"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Tech] Il termine “versionamento” indica…",
+    "options": [
+      "gestione delle versioni di un progetto",
+      "computer che fornisce servizi ad altri computer",
+      "tecnologia di rete senza fili",
+      "programma che traduce codice in eseguibile"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Tech] Indica la descrizione corretta di “IP”.",
+    "options": [
+      "sistema per organizzare e interrogare dati",
+      "indirizzo numerico di un dispositivo in rete",
+      "tecniche per apprendere modelli dai dati",
+      "parte server/logica di un’app"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Tech] Che cos'è “database”?",
+    "options": [
+      "indirizzo di una risorsa sul web",
+      "copia di sicurezza dei dati",
+      "test di un modello su dati non visti",
+      "sistema per organizzare e interrogare dati"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Qual è la rappresentazione binaria del numero 205?",
+    "options": [
+      "10110011",
+      "11001110",
+      "11001100",
+      "11001101"
+    ],
+    "correct": 3,
+    "difficulty": "hard",
+    "explain": "Il binario usa 0 e 1."
+  },
+  {
+    "q": "[Tech] Completa: “bug” = …",
+    "options": [
+      "errore in un programma",
+      "dispositivo che collega una rete a internet",
+      "indirizzo di una risorsa sul web",
+      "piccolo dato salvato dal sito nel browser"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Tech] “bandwidth” si definisce come…",
+    "options": [
+      "quantità di dati trasferibili per unità di tempo",
+      "ritardo nella risposta di un sistema",
+      "software il cui codice sorgente è accessibile e modificabile",
+      "programma/dispositivo che usa un servizio (server)"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Tech] Qual è il significato di “bandwidth”?",
+    "options": [
+      "modello troppo adattato ai dati di training",
+      "password lunga con caratteri vari, non facilmente intuibile",
+      "quantità di dati trasferibili per unità di tempo",
+      "tecniche per apprendere modelli dai dati"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Qual è la rappresentazione binaria del numero 206?",
+    "options": [
+      "11001110",
+      "11001101",
+      "01110011",
+      "11001111"
+    ],
+    "correct": 0,
+    "difficulty": "hard",
+    "explain": "Il binario usa 0 e 1."
+  },
+  {
+    "q": "Qual è la rappresentazione binaria del numero 122?",
+    "options": [
+      "0101111",
+      "1111011",
+      "1111010",
+      "1111001"
+    ],
+    "correct": 2,
+    "difficulty": "hard",
+    "explain": "Il binario usa 0 e 1."
+  },
+  {
+    "q": "[Tech] “DNS” si definisce come…",
+    "options": [
+      "ritardo nella risposta di un sistema",
+      "tecnica per rendere un messaggio leggibile solo a chi ha la chiave",
+      "indirizzo numerico di un dispositivo in rete",
+      "servizio che traduce nomi di dominio in indirizzi IP"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Qual è la rappresentazione binaria del numero 145?",
+    "options": [
+      "10010001",
+      "10010000",
+      "10010010",
+      "10001001"
+    ],
+    "correct": 0,
+    "difficulty": "hard",
+    "explain": "Il binario usa 0 e 1."
+  },
+  {
+    "q": "[Tech] Il termine “router” indica…",
+    "options": [
+      "programma/dispositivo che usa un servizio (server)",
+      "raccolta organizzata di file di un progetto",
+      "unità di archiviazione a stato solido",
+      "dispositivo che instrada dati tra reti"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Tech] Completa: “backend” = …",
+    "options": [
+      "parte visibile all’utente di un’app",
+      "unità di archiviazione a stato solido",
+      "parte server/logica di un’app",
+      "modello troppo adattato ai dati di training"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Tech] “overfitting” si definisce come…",
+    "options": [
+      "modello troppo adattato ai dati di training",
+      "copia di sicurezza dei dati",
+      "computer che fornisce servizi ad altri computer",
+      "piccolo dato salvato dal sito nel browser"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Qual è la rappresentazione binaria del numero 152?",
+    "options": [
+      "10011000",
+      "00011001",
+      "10010111",
+      "10011001"
+    ],
+    "correct": 0,
+    "difficulty": "hard",
+    "explain": "Il binario usa 0 e 1."
+  },
+  {
+    "q": "[Tech] Che cos'è “overfitting”?",
+    "options": [
+      "ambiente di sviluppo integrato",
+      "struttura/libreria per costruire software",
+      "password lunga con caratteri vari, non facilmente intuibile",
+      "modello troppo adattato ai dati di training"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Qual è la rappresentazione binaria del numero 12?",
+    "options": [
+      "1101",
+      "1100",
+      "0011",
+      "1011"
+    ],
+    "correct": 1,
+    "difficulty": "hard",
+    "explain": "Il binario usa 0 e 1."
+  },
+  {
+    "q": "Qual è la rappresentazione binaria del numero 243?",
+    "options": [
+      "11110100",
+      "11110011",
+      "11001111",
+      "11110010"
+    ],
+    "correct": 1,
+    "difficulty": "hard",
+    "explain": "Il binario usa 0 e 1."
+  },
+  {
+    "q": "Qual è la rappresentazione binaria del numero 23?",
+    "options": [
+      "11000",
+      "10111",
+      "11101",
+      "10110"
+    ],
+    "correct": 1,
+    "difficulty": "hard",
+    "explain": "Il binario usa 0 e 1."
+  },
+  {
+    "q": "[Tech] Completa: “SQL” = …",
+    "options": [
+      "tecnica per rendere un messaggio leggibile solo a chi ha la chiave",
+      "gestione delle versioni di un progetto",
+      "linguaggio per interrogare database relazionali",
+      "test di un modello su dati non visti"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Tech] In breve, “malware” è…",
+    "options": [
+      "raccolta organizzata di file di un progetto",
+      "tecnologia per collegamenti a corto raggio",
+      "software dannoso",
+      "insieme di dati usato per analisi o training"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Tech] In breve, “dataset” è…",
+    "options": [
+      "password lunga con caratteri vari, non facilmente intuibile",
+      "dispositivo che collega una rete a internet",
+      "tecnologia di rete senza fili",
+      "insieme di dati usato per analisi o training"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Qual è la rappresentazione binaria del numero 131?",
+    "options": [
+      "10000010",
+      "10000011",
+      "11000001",
+      "10000100"
+    ],
+    "correct": 1,
+    "difficulty": "hard",
+    "explain": "Il binario usa 0 e 1."
+  },
+  {
+    "q": "[Tech] Completa: “CPU” = …",
+    "options": [
+      "processore che esegue istruzioni",
+      "tecnologia di rete senza fili",
+      "interfaccia per usare funzioni o servizi",
+      "ambiente di sviluppo integrato"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Qual è la rappresentazione binaria del numero 217?",
+    "options": [
+      "11011000",
+      "11011001",
+      "11011010",
+      "10011011"
+    ],
+    "correct": 1,
+    "difficulty": "hard",
+    "explain": "Il binario usa 0 e 1."
+  },
+  {
+    "q": "Qual è la rappresentazione binaria del numero 154?",
+    "options": [
+      "10011001",
+      "10011011",
+      "01011001",
+      "10011010"
+    ],
+    "correct": 3,
+    "difficulty": "hard",
+    "explain": "Il binario usa 0 e 1."
+  },
+  {
+    "q": "[Tech] “repository”: cosa significa?",
+    "options": [
+      "processore che esegue istruzioni",
+      "raccolta organizzata di file di un progetto",
+      "interfaccia per usare funzioni o servizi",
+      "tecnologia per collegamenti a corto raggio"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Qual è la rappresentazione binaria del numero 99?",
+    "options": [
+      "1100010",
+      "1100100",
+      "1100011 (4)",
+      "1100011"
+    ],
+    "correct": 3,
+    "difficulty": "hard",
+    "explain": "Il binario usa 0 e 1."
+  },
+  {
+    "q": "Qual è la rappresentazione binaria del numero 49?",
+    "options": [
+      "110001",
+      "110000",
+      "100011",
+      "110010"
+    ],
+    "correct": 0,
+    "difficulty": "hard",
+    "explain": "Il binario usa 0 e 1."
+  },
+  {
+    "q": "[Tech] Seleziona la definizione corretta di “phishing”.",
+    "options": [
+      "parte visibile all’utente di un’app",
+      "truffa per rubare credenziali fingendosi un servizio affidabile",
+      "programma per navigare sul web",
+      "raccolta organizzata di file di un progetto"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Tech] In questo quiz, “IDE” vuol dire…",
+    "options": [
+      "quantità di dati trasferibili per unità di tempo",
+      "ambiente di sviluppo integrato",
+      "sistema per organizzare e interrogare dati",
+      "memoria veloce temporanea"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Tech] Qual è il significato di “dataset”?",
+    "options": [
+      "insieme di dati usato per analisi o training",
+      "ambiente di sviluppo integrato",
+      "procedura per risolvere un problema",
+      "copia di sicurezza dei dati"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Qual è la rappresentazione binaria del numero 170?",
+    "options": [
+      "10101001",
+      "10101010",
+      "01010101",
+      "10101011"
+    ],
+    "correct": 1,
+    "difficulty": "hard",
+    "explain": "Il binario usa 0 e 1."
+  },
+  {
+    "q": "[Tech] In questo quiz, “update” vuol dire…",
+    "options": [
+      "aggiornamento software",
+      "gestione delle versioni di un progetto",
+      "tecnologia di rete senza fili",
+      "parte visibile all’utente di un’app"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Qual è la rappresentazione binaria del numero 223?",
+    "options": [
+      "11111011",
+      "11100000",
+      "11011110",
+      "11011111"
+    ],
+    "correct": 3,
+    "difficulty": "hard",
+    "explain": "Il binario usa 0 e 1."
+  },
+  {
+    "q": "[Tech] Che cos'è “interprete”?",
+    "options": [
+      "sistema di controllo versione distribuito",
+      "computer che fornisce servizi ad altri computer",
+      "indirizzo di una risorsa sul web",
+      "programma che esegue codice traducendolo al volo"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Qual è la rappresentazione binaria del numero 200?",
+    "options": [
+      "00010011",
+      "11001001",
+      "11000111",
+      "11001000"
+    ],
+    "correct": 3,
+    "difficulty": "hard",
+    "explain": "Il binario usa 0 e 1."
+  },
+  {
+    "q": "Qual è la rappresentazione binaria del numero 222?",
+    "options": [
+      "11011101",
+      "11011111",
+      "01111011",
+      "11011110"
+    ],
+    "correct": 3,
+    "difficulty": "hard",
+    "explain": "Il binario usa 0 e 1."
+  },
+  {
+    "q": "[Tech] “backup” si definisce come…",
+    "options": [
+      "programma che traduce codice in eseguibile",
+      "linguaggio per interrogare database relazionali",
+      "memoria veloce temporanea",
+      "copia di sicurezza dei dati"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Tech] Qual è il significato di “interprete”?",
+    "options": [
+      "programma che esegue codice traducendolo al volo",
+      "programma che traduce codice in eseguibile",
+      "software dannoso",
+      "sistema che filtra il traffico di rete"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Tech] Indica la descrizione corretta di “libreria”.",
+    "options": [
+      "sistema che filtra il traffico di rete",
+      "computer che fornisce servizi ad altri computer",
+      "servizio che traduce nomi di dominio in indirizzi IP",
+      "insieme di funzioni riutilizzabili"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Tech] Indica la descrizione corretta di “backend”.",
+    "options": [
+      "insieme di dati usato per analisi o training",
+      "servizio che traduce nomi di dominio in indirizzi IP",
+      "parte server/logica di un’app",
+      "struttura/libreria per costruire software"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Qual è la rappresentazione binaria del numero 133?",
+    "options": [
+      "10000101",
+      "10000100",
+      "10000110",
+      "10100001"
+    ],
+    "correct": 0,
+    "difficulty": "hard",
+    "explain": "Il binario usa 0 e 1."
+  },
+  {
+    "q": "[Tech] Seleziona la definizione corretta di “backup”.",
+    "options": [
+      "servizi e risorse accessibili via internet",
+      "parte visibile all’utente di un’app",
+      "copia di sicurezza dei dati",
+      "interfaccia per usare funzioni o servizi"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Tech] Il termine “overfitting” indica…",
+    "options": [
+      "tecnologia per collegamenti a corto raggio",
+      "modello troppo adattato ai dati di training",
+      "programma per navigare sul web",
+      "piccolo dato salvato dal sito nel browser"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Tech] Che cos'è “open source”?",
+    "options": [
+      "tecniche per apprendere modelli dai dati",
+      "errore in un programma",
+      "programma che traduce codice in eseguibile",
+      "software il cui codice sorgente è accessibile e modificabile"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Tech] Che cos'è “compilatore”?",
+    "options": [
+      "insieme di dati usato per analisi o training",
+      "errore in un programma",
+      "software dannoso",
+      "programma che traduce codice in eseguibile"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Qual è la rappresentazione binaria del numero 184?",
+    "options": [
+      "10110111",
+      "10111000",
+      "10111001",
+      "00011101"
+    ],
+    "correct": 1,
+    "difficulty": "hard",
+    "explain": "Il binario usa 0 e 1."
+  },
+  {
+    "q": "Qual è la rappresentazione binaria del numero 21?",
+    "options": [
+      "10101 (4)",
+      "10110",
+      "10101",
+      "10100"
+    ],
+    "correct": 2,
+    "difficulty": "hard",
+    "explain": "Il binario usa 0 e 1."
+  },
+  {
+    "q": "Qual è la rappresentazione binaria del numero 238?",
+    "options": [
+      "11101110",
+      "11101101",
+      "01110111",
+      "11101111"
+    ],
+    "correct": 0,
+    "difficulty": "hard",
+    "explain": "Il binario usa 0 e 1."
+  },
+  {
+    "q": "Qual è la rappresentazione binaria del numero 251?",
+    "options": [
+      "11111100",
+      "11011111",
+      "11111010",
+      "11111011"
+    ],
+    "correct": 3,
+    "difficulty": "hard",
+    "explain": "Il binario usa 0 e 1."
+  },
+  {
+    "q": "[Tech] In breve, “client” è…",
+    "options": [
+      "software il cui codice sorgente è accessibile e modificabile",
+      "raccolta organizzata di file di un progetto",
+      "programma che esegue codice traducendolo al volo",
+      "programma/dispositivo che usa un servizio (server)"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Tech] In questo quiz, “dataset” vuol dire…",
+    "options": [
+      "test di un modello su dati non visti",
+      "servizi e risorse accessibili via internet",
+      "insieme di dati usato per analisi o training",
+      "parte visibile all’utente di un’app"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Qual è la rappresentazione binaria del numero 185?",
+    "options": [
+      "10111000",
+      "10111010",
+      "10111001",
+      "10011101"
+    ],
+    "correct": 2,
+    "difficulty": "hard",
+    "explain": "Il binario usa 0 e 1."
+  },
+  {
+    "q": "[Tech] In breve, “cloud” è…",
+    "options": [
+      "programma per navigare sul web",
+      "servizi e risorse accessibili via internet",
+      "aggiornamento software",
+      "memoria veloce temporanea"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Qual è la rappresentazione binaria del numero 149?",
+    "options": [
+      "10010101",
+      "10101001",
+      "10010100",
+      "10010110"
+    ],
+    "correct": 0,
+    "difficulty": "hard",
+    "explain": "Il binario usa 0 e 1."
+  },
+  {
+    "q": "Qual è la rappresentazione binaria del numero 245?",
+    "options": [
+      "11110100",
+      "10101111",
+      "11110110",
+      "11110101"
+    ],
+    "correct": 3,
+    "difficulty": "hard",
+    "explain": "Il binario usa 0 e 1."
+  },
+  {
+    "q": "Qual è la rappresentazione binaria del numero 104?",
+    "options": [
+      "1101000",
+      "1100111",
+      "0001011",
+      "1101001"
+    ],
+    "correct": 0,
+    "difficulty": "hard",
+    "explain": "Il binario usa 0 e 1."
+  },
+  {
+    "q": "[Tech] Completa: “algoritmo” = …",
+    "options": [
+      "tecnica per rendere un messaggio leggibile solo a chi ha la chiave",
+      "procedura per risolvere un problema",
+      "modello troppo adattato ai dati di training",
+      "password lunga con caratteri vari, non facilmente intuibile"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Tech] In breve, “RAM” è…",
+    "options": [
+      "memoria veloce temporanea",
+      "test di un modello su dati non visti",
+      "raccolta organizzata di file di un progetto",
+      "dispositivo che instrada dati tra reti"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Tech] Completa: “update” = …",
+    "options": [
+      "aggiornamento software",
+      "sistema di controllo versione distribuito",
+      "unità di archiviazione a stato solido",
+      "indirizzo numerico di un dispositivo in rete"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Tech] Il termine “2FA” indica…",
+    "options": [
+      "insieme di dati usato per analisi o training",
+      "autenticazione a due fattori",
+      "test di un modello su dati non visti",
+      "sistema che filtra il traffico di rete"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Tech] “framework” si definisce come…",
+    "options": [
+      "modello troppo adattato ai dati di training",
+      "struttura/libreria per costruire software",
+      "insieme di dati usato per analisi o training",
+      "software dannoso"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Qual è la rappresentazione binaria del numero 147?",
+    "options": [
+      "10010010",
+      "10010011",
+      "10010100",
+      "11001001"
+    ],
+    "correct": 1,
+    "difficulty": "hard",
+    "explain": "Il binario usa 0 e 1."
+  },
+  {
+    "q": "[Tech] “IDE” si definisce come…",
+    "options": [
+      "insieme di dati usato per analisi o training",
+      "test di un modello su dati non visti",
+      "dispositivo che collega una rete a internet",
+      "ambiente di sviluppo integrato"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Tech] Qual è il significato di “RAM”?",
+    "options": [
+      "test di un modello su dati non visti",
+      "memoria veloce temporanea",
+      "truffa per rubare credenziali fingendosi un servizio affidabile",
+      "struttura/libreria per costruire software"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Tech] Che cos'è “bandwidth”?",
+    "options": [
+      "ambiente di sviluppo integrato",
+      "struttura/libreria per costruire software",
+      "quantità di dati trasferibili per unità di tempo",
+      "tecniche per apprendere modelli dai dati"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Qual è la rappresentazione binaria del numero 11?",
+    "options": [
+      "1010",
+      "1100",
+      "1011",
+      "1101"
+    ],
+    "correct": 2,
+    "difficulty": "hard",
+    "explain": "Il binario usa 0 e 1."
+  },
+  {
+    "q": "[Tech] Qual è il significato di “URL”?",
+    "options": [
+      "indirizzo di una risorsa sul web",
+      "truffa per rubare credenziali fingendosi un servizio affidabile",
+      "unità di archiviazione a stato solido",
+      "software il cui codice sorgente è accessibile e modificabile"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Tech] “CPU”: cosa significa?",
+    "options": [
+      "computer che fornisce servizi ad altri computer",
+      "parte server/logica di un’app",
+      "processore che esegue istruzioni",
+      "truffa per rubare credenziali fingendosi un servizio affidabile"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Tech] “versionamento” si definisce come…",
+    "options": [
+      "programma per navigare sul web",
+      "interfaccia per usare funzioni o servizi",
+      "gestione delle versioni di un progetto",
+      "tecniche per apprendere modelli dai dati"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Qual è la rappresentazione binaria del numero 94?",
+    "options": [
+      "1011101",
+      "1011110",
+      "1011111",
+      "0111101"
+    ],
+    "correct": 1,
+    "difficulty": "hard",
+    "explain": "Il binario usa 0 e 1."
+  },
+  {
+    "q": "[Tech] Il termine “Git” indica…",
+    "options": [
+      "sistema di controllo versione distribuito",
+      "quantità di dati trasferibili per unità di tempo",
+      "interfaccia per usare funzioni o servizi",
+      "programma che traduce codice in eseguibile"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Qual è la rappresentazione binaria del numero 179?",
+    "options": [
+      "11001101",
+      "10110011",
+      "10110010",
+      "10110100"
+    ],
+    "correct": 1,
+    "difficulty": "hard",
+    "explain": "Il binario usa 0 e 1."
+  },
+  {
+    "q": "Qual è la rappresentazione binaria del numero 53?",
+    "options": [
+      "110101",
+      "110100",
+      "101011",
+      "110110"
+    ],
+    "correct": 0,
+    "difficulty": "hard",
+    "explain": "Il binario usa 0 e 1."
+  },
+  {
+    "q": "[Tech] Che cos'è “cloud”?",
+    "options": [
+      "programma/dispositivo che usa un servizio (server)",
+      "sistema per organizzare e interrogare dati",
+      "servizi e risorse accessibili via internet",
+      "raccolta organizzata di file di un progetto"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Tech] “dataset” si definisce come…",
+    "options": [
+      "software il cui codice sorgente è accessibile e modificabile",
+      "piccolo dato salvato dal sito nel browser",
+      "insieme di dati usato per analisi o training",
+      "tecnica per rendere un messaggio leggibile solo a chi ha la chiave"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Tech] Seleziona la definizione corretta di “CPU”.",
+    "options": [
+      "parte visibile all’utente di un’app",
+      "ritardo nella risposta di un sistema",
+      "processore che esegue istruzioni",
+      "gestione delle versioni di un progetto"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Tech] Seleziona la definizione corretta di “malware”.",
+    "options": [
+      "software dannoso",
+      "dispositivo che instrada dati tra reti",
+      "parte server/logica di un’app",
+      "sistema che filtra il traffico di rete"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Tech] Completa: “RAM” = …",
+    "options": [
+      "programma per navigare sul web",
+      "parte visibile all’utente di un’app",
+      "errore in un programma",
+      "memoria veloce temporanea"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Tech] Qual è il significato di “database”?",
+    "options": [
+      "computer che fornisce servizi ad altri computer",
+      "programma/dispositivo che usa un servizio (server)",
+      "sistema per organizzare e interrogare dati",
+      "truffa per rubare credenziali fingendosi un servizio affidabile"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Tech] In questo quiz, “URL” vuol dire…",
+    "options": [
+      "indirizzo di una risorsa sul web",
+      "raccolta organizzata di file di un progetto",
+      "errore in un programma",
+      "programma che esegue codice traducendolo al volo"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Tech] Completa: “Bluetooth” = …",
+    "options": [
+      "raccolta organizzata di file di un progetto",
+      "quantità di dati trasferibili per unità di tempo",
+      "procedura per risolvere un problema",
+      "tecnologia per collegamenti a corto raggio"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Qual è la rappresentazione binaria del numero 22?",
+    "options": [
+      "10110",
+      "01101",
+      "10101",
+      "10111"
+    ],
+    "correct": 0,
+    "difficulty": "hard",
+    "explain": "Il binario usa 0 e 1."
+  },
+  {
+    "q": "[Tech] Il termine “phishing” indica…",
+    "options": [
+      "dispositivo che collega una rete a internet",
+      "test di un modello su dati non visti",
+      "truffa per rubare credenziali fingendosi un servizio affidabile",
+      "dispositivo che instrada dati tra reti"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Tech] In questo quiz, “IP” vuol dire…",
+    "options": [
+      "indirizzo numerico di un dispositivo in rete",
+      "raccolta organizzata di file di un progetto",
+      "ambiente di sviluppo integrato",
+      "dispositivo che collega una rete a internet"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Tech] Completa: “malware” = …",
+    "options": [
+      "insieme di dati usato per analisi o training",
+      "software dannoso",
+      "autenticazione a due fattori",
+      "copia di sicurezza dei dati"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Tech] Il termine “frontend” indica…",
+    "options": [
+      "indirizzo numerico di un dispositivo in rete",
+      "parte visibile all’utente di un’app",
+      "unità di archiviazione a stato solido",
+      "sistema di controllo versione distribuito"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Tech] In questo quiz, “frontend” vuol dire…",
+    "options": [
+      "parte visibile all’utente di un’app",
+      "indirizzo di una risorsa sul web",
+      "sistema per organizzare e interrogare dati",
+      "software dannoso"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Qual è la rappresentazione binaria del numero 159?",
+    "options": [
+      "10011110",
+      "11111001",
+      "10011111",
+      "10100000"
+    ],
+    "correct": 2,
+    "difficulty": "hard",
+    "explain": "Il binario usa 0 e 1."
+  },
+  {
+    "q": "[Tech] Seleziona la definizione corretta di “update”.",
+    "options": [
+      "aggiornamento software",
+      "indirizzo di una risorsa sul web",
+      "procedura per risolvere un problema",
+      "dispositivo che collega una rete a internet"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Tech] Qual è il significato di “browser”?",
+    "options": [
+      "programma per navigare sul web",
+      "tecnologia di rete senza fili",
+      "password lunga con caratteri vari, non facilmente intuibile",
+      "sistema di controllo versione distribuito"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Tech] In breve, “algoritmo” è…",
+    "options": [
+      "sistema che filtra il traffico di rete",
+      "procedura per risolvere un problema",
+      "parte visibile all’utente di un’app",
+      "dispositivo che collega una rete a internet"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Tech] “Git” si definisce come…",
+    "options": [
+      "unità di archiviazione a stato solido",
+      "servizio che traduce nomi di dominio in indirizzi IP",
+      "gestione delle versioni di un progetto",
+      "sistema di controllo versione distribuito"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Tech] “router”: cosa significa?",
+    "options": [
+      "dispositivo che instrada dati tra reti",
+      "errore in un programma",
+      "parte visibile all’utente di un’app",
+      "tecnologia per collegamenti a corto raggio"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Qual è la rappresentazione binaria del numero 144?",
+    "options": [
+      "10010001",
+      "10001111",
+      "00001001",
+      "10010000"
+    ],
+    "correct": 3,
+    "difficulty": "hard",
+    "explain": "Il binario usa 0 e 1."
+  },
+  {
+    "q": "[Tech] Che cos'è “latency”?",
+    "options": [
+      "computer che fornisce servizi ad altri computer",
+      "procedura per risolvere un problema",
+      "ritardo nella risposta di un sistema",
+      "aggiornamento software"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Qual è la rappresentazione binaria del numero 207?",
+    "options": [
+      "11010000",
+      "11110011",
+      "11001111",
+      "11001110"
+    ],
+    "correct": 2,
+    "difficulty": "hard",
+    "explain": "Il binario usa 0 e 1."
+  },
+  {
+    "q": "[Tech] Che cos'è “frontend”?",
+    "options": [
+      "processore che esegue istruzioni",
+      "dispositivo che collega una rete a internet",
+      "parte visibile all’utente di un’app",
+      "insieme di dati usato per analisi o training"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Qual è la rappresentazione binaria del numero 14?",
+    "options": [
+      "1101",
+      "0111",
+      "1110",
+      "1111"
+    ],
+    "correct": 2,
+    "difficulty": "hard",
+    "explain": "Il binario usa 0 e 1."
+  },
+  {
+    "q": "Qual è la rappresentazione binaria del numero 96?",
+    "options": [
+      "1100001",
+      "0000011",
+      "1011111",
+      "1100000"
+    ],
+    "correct": 3,
+    "difficulty": "hard",
+    "explain": "Il binario usa 0 e 1."
+  },
+  {
+    "q": "Qual è la rappresentazione binaria del numero 117?",
+    "options": [
+      "1010111",
+      "1110100",
+      "1110110",
+      "1110101"
+    ],
+    "correct": 3,
+    "difficulty": "hard",
+    "explain": "Il binario usa 0 e 1."
+  },
+  {
+    "q": "Qual è la rappresentazione binaria del numero 255?",
+    "options": [
+      "11111111 (4)",
+      "100000000",
+      "11111110",
+      "11111111"
+    ],
+    "correct": 3,
+    "difficulty": "hard",
+    "explain": "Il binario usa 0 e 1."
+  },
+  {
+    "q": "Qual è la rappresentazione binaria del numero 198?",
+    "options": [
+      "11000101",
+      "11000111",
+      "11000110",
+      "01100011"
+    ],
+    "correct": 2,
+    "difficulty": "hard",
+    "explain": "Il binario usa 0 e 1."
+  },
+  {
+    "q": "Qual è la rappresentazione binaria del numero 108?",
+    "options": [
+      "0011011",
+      "1101101",
+      "1101100",
+      "1101011"
+    ],
+    "correct": 2,
+    "difficulty": "hard",
+    "explain": "Il binario usa 0 e 1."
+  },
+  {
+    "q": "[Tech] Indica la descrizione corretta di “bandwidth”.",
+    "options": [
+      "software dannoso",
+      "quantità di dati trasferibili per unità di tempo",
+      "programma/dispositivo che usa un servizio (server)",
+      "ambiente di sviluppo integrato"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Tech] Indica la descrizione corretta di “dataset”.",
+    "options": [
+      "insieme di dati usato per analisi o training",
+      "insieme di funzioni riutilizzabili",
+      "procedura per risolvere un problema",
+      "programma/dispositivo che usa un servizio (server)"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Qual è la rappresentazione binaria del numero 199?",
+    "options": [
+      "11000111",
+      "11001000",
+      "11100011",
+      "11000110"
+    ],
+    "correct": 0,
+    "difficulty": "hard",
+    "explain": "Il binario usa 0 e 1."
+  },
+  {
+    "q": "[Tech] Qual è il significato di “firewall”?",
+    "options": [
+      "sistema che filtra il traffico di rete",
+      "test di un modello su dati non visti",
+      "programma/dispositivo che usa un servizio (server)",
+      "password lunga con caratteri vari, non facilmente intuibile"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Tech] Seleziona la definizione corretta di “Wi‑Fi”.",
+    "options": [
+      "tecnologia di rete senza fili",
+      "programma che traduce codice in eseguibile",
+      "insieme di dati usato per analisi o training",
+      "parte visibile all’utente di un’app"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Tech] In breve, “modem” è…",
+    "options": [
+      "sistema di controllo versione distribuito",
+      "software dannoso",
+      "linguaggio per interrogare database relazionali",
+      "dispositivo che collega una rete a internet"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Tech] Indica la descrizione corretta di “Bluetooth”.",
+    "options": [
+      "programma per navigare sul web",
+      "ambiente di sviluppo integrato",
+      "computer che fornisce servizi ad altri computer",
+      "tecnologia per collegamenti a corto raggio"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Tech] Qual è il significato di “SQL”?",
+    "options": [
+      "linguaggio per interrogare database relazionali",
+      "indirizzo numerico di un dispositivo in rete",
+      "programma che traduce codice in eseguibile",
+      "struttura/libreria per costruire software"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Tech] “SQL” si definisce come…",
+    "options": [
+      "linguaggio per interrogare database relazionali",
+      "tecniche per apprendere modelli dai dati",
+      "indirizzo di una risorsa sul web",
+      "errore in un programma"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Tech] Che cos'è “URL”?",
+    "options": [
+      "ambiente di sviluppo integrato",
+      "indirizzo di una risorsa sul web",
+      "parte server/logica di un’app",
+      "dispositivo che instrada dati tra reti"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Tech] Indica la descrizione corretta di “validazione”.",
+    "options": [
+      "aggiornamento software",
+      "parte visibile all’utente di un’app",
+      "test di un modello su dati non visti",
+      "truffa per rubare credenziali fingendosi un servizio affidabile"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Tech] Completa: “router” = …",
+    "options": [
+      "indirizzo numerico di un dispositivo in rete",
+      "sistema per organizzare e interrogare dati",
+      "ambiente di sviluppo integrato",
+      "dispositivo che instrada dati tra reti"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Tech] Il termine “backup” indica…",
+    "options": [
+      "procedura per risolvere un problema",
+      "struttura/libreria per costruire software",
+      "copia di sicurezza dei dati",
+      "processore che esegue istruzioni"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Qual è la rappresentazione binaria del numero 71?",
+    "options": [
+      "1000111",
+      "1000110",
+      "1110001",
+      "1001000"
+    ],
+    "correct": 0,
+    "difficulty": "hard",
+    "explain": "Il binario usa 0 e 1."
+  },
+  {
+    "q": "Qual è la rappresentazione binaria del numero 109?",
+    "options": [
+      "1011011",
+      "1101100",
+      "1101101",
+      "1101110"
+    ],
+    "correct": 2,
+    "difficulty": "hard",
+    "explain": "Il binario usa 0 e 1."
+  },
+  {
+    "q": "[Tech] Seleziona la definizione corretta di “database”.",
+    "options": [
+      "parte server/logica di un’app",
+      "servizio che traduce nomi di dominio in indirizzi IP",
+      "sistema per organizzare e interrogare dati",
+      "copia di sicurezza dei dati"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Tech] Indica la descrizione corretta di “cookie”.",
+    "options": [
+      "autenticazione a due fattori",
+      "piccolo dato salvato dal sito nel browser",
+      "computer che fornisce servizi ad altri computer",
+      "struttura/libreria per costruire software"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Tech] “Git”: cosa significa?",
+    "options": [
+      "computer che fornisce servizi ad altri computer",
+      "tecnologia di rete senza fili",
+      "sistema di controllo versione distribuito",
+      "dispositivo che instrada dati tra reti"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Tech] Completa: “client” = …",
+    "options": [
+      "programma/dispositivo che usa un servizio (server)",
+      "indirizzo di una risorsa sul web",
+      "ritardo nella risposta di un sistema",
+      "insieme di dati usato per analisi o training"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Tech] Seleziona la definizione corretta di “DNS”.",
+    "options": [
+      "servizio che traduce nomi di dominio in indirizzi IP",
+      "dispositivo che instrada dati tra reti",
+      "linguaggio per interrogare database relazionali",
+      "gestione delle versioni di un progetto"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Tech] In questo quiz, “SQL” vuol dire…",
+    "options": [
+      "servizio che traduce nomi di dominio in indirizzi IP",
+      "procedura per risolvere un problema",
+      "linguaggio per interrogare database relazionali",
+      "insieme di dati usato per analisi o training"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Qual è la rappresentazione binaria del numero 51?",
+    "options": [
+      "110010",
+      "110011 (4)",
+      "110011",
+      "110100"
+    ],
+    "correct": 2,
+    "difficulty": "hard",
+    "explain": "Il binario usa 0 e 1."
+  },
+  {
+    "q": "[Tech] “algoritmo”: cosa significa?",
+    "options": [
+      "tecnica per rendere un messaggio leggibile solo a chi ha la chiave",
+      "programma che traduce codice in eseguibile",
+      "procedura per risolvere un problema",
+      "sistema di controllo versione distribuito"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Tech] Completa: “framework” = …",
+    "options": [
+      "linguaggio per interrogare database relazionali",
+      "struttura/libreria per costruire software",
+      "copia di sicurezza dei dati",
+      "gestione delle versioni di un progetto"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Qual è la rappresentazione binaria del numero 158?",
+    "options": [
+      "10011110",
+      "10011101",
+      "01111001",
+      "10011111"
+    ],
+    "correct": 0,
+    "difficulty": "hard",
+    "explain": "Il binario usa 0 e 1."
+  },
+  {
+    "q": "[Tech] In questo quiz, “client” vuol dire…",
+    "options": [
+      "programma/dispositivo che usa un servizio (server)",
+      "raccolta organizzata di file di un progetto",
+      "truffa per rubare credenziali fingendosi un servizio affidabile",
+      "modello troppo adattato ai dati di training"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Qual è la rappresentazione binaria del numero 83?",
+    "options": [
+      "1010100",
+      "1100101",
+      "1010011",
+      "1010010"
+    ],
+    "correct": 2,
+    "difficulty": "hard",
+    "explain": "Il binario usa 0 e 1."
+  },
+  {
+    "q": "Qual è la rappresentazione binaria del numero 178?",
+    "options": [
+      "01001101",
+      "10110010",
+      "10110001",
+      "10110011"
+    ],
+    "correct": 1,
+    "difficulty": "hard",
+    "explain": "Il binario usa 0 e 1."
+  },
+  {
+    "q": "[Tech] Il termine “libreria” indica…",
+    "options": [
+      "tecnologia per collegamenti a corto raggio",
+      "dispositivo che collega una rete a internet",
+      "insieme di funzioni riutilizzabili",
+      "sistema che filtra il traffico di rete"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Tech] In breve, “database” è…",
+    "options": [
+      "ambiente di sviluppo integrato",
+      "password lunga con caratteri vari, non facilmente intuibile",
+      "sistema per organizzare e interrogare dati",
+      "quantità di dati trasferibili per unità di tempo"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Tech] Indica la descrizione corretta di “algoritmo”.",
+    "options": [
+      "raccolta organizzata di file di un progetto",
+      "piccolo dato salvato dal sito nel browser",
+      "software il cui codice sorgente è accessibile e modificabile",
+      "procedura per risolvere un problema"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Tech] “client” si definisce come…",
+    "options": [
+      "computer che fornisce servizi ad altri computer",
+      "linguaggio per interrogare database relazionali",
+      "dispositivo che instrada dati tra reti",
+      "programma/dispositivo che usa un servizio (server)"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Qual è la rappresentazione binaria del numero 26?",
+    "options": [
+      "11001",
+      "01011",
+      "11011",
+      "11010"
+    ],
+    "correct": 3,
+    "difficulty": "hard",
+    "explain": "Il binario usa 0 e 1."
+  },
+  {
+    "q": "[Tech] Qual è il significato di “frontend”?",
+    "options": [
+      "insieme di funzioni riutilizzabili",
+      "parte visibile all’utente di un’app",
+      "linguaggio per interrogare database relazionali",
+      "gestione delle versioni di un progetto"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Tech] In breve, “repository” è…",
+    "options": [
+      "modello troppo adattato ai dati di training",
+      "raccolta organizzata di file di un progetto",
+      "computer che fornisce servizi ad altri computer",
+      "insieme di funzioni riutilizzabili"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Tech] Qual è il significato di “DNS”?",
+    "options": [
+      "servizio che traduce nomi di dominio in indirizzi IP",
+      "test di un modello su dati non visti",
+      "sistema che filtra il traffico di rete",
+      "copia di sicurezza dei dati"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Tech] “URL”: cosa significa?",
+    "options": [
+      "indirizzo di una risorsa sul web",
+      "software il cui codice sorgente è accessibile e modificabile",
+      "memoria veloce temporanea",
+      "struttura/libreria per costruire software"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Tech] Il termine “validazione” indica…",
+    "options": [
+      "software il cui codice sorgente è accessibile e modificabile",
+      "programma che traduce codice in eseguibile",
+      "test di un modello su dati non visti",
+      "indirizzo numerico di un dispositivo in rete"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Qual è la rappresentazione binaria del numero 135?",
+    "options": [
+      "10000111",
+      "10000110",
+      "10001000",
+      "11100001"
+    ],
+    "correct": 0,
+    "difficulty": "hard",
+    "explain": "Il binario usa 0 e 1."
+  },
+  {
+    "q": "[Tech] Qual è il significato di “Bluetooth”?",
+    "options": [
+      "tecnica per rendere un messaggio leggibile solo a chi ha la chiave",
+      "quantità di dati trasferibili per unità di tempo",
+      "processore che esegue istruzioni",
+      "tecnologia per collegamenti a corto raggio"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Qual è la rappresentazione binaria del numero 105?",
+    "options": [
+      "1001011",
+      "1101001",
+      "1101010",
+      "1101000"
+    ],
+    "correct": 1,
+    "difficulty": "hard",
+    "explain": "Il binario usa 0 e 1."
+  },
+  {
+    "q": "[Tech] Completa: “API” = …",
+    "options": [
+      "servizio che traduce nomi di dominio in indirizzi IP",
+      "software dannoso",
+      "sistema di controllo versione distribuito",
+      "interfaccia per usare funzioni o servizi"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Tech] Completa: “SSD” = …",
+    "options": [
+      "computer che fornisce servizi ad altri computer",
+      "interfaccia per usare funzioni o servizi",
+      "unità di archiviazione a stato solido",
+      "sistema di controllo versione distribuito"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Tech] Indica la descrizione corretta di “IDE”.",
+    "options": [
+      "dispositivo che instrada dati tra reti",
+      "insieme di dati usato per analisi o training",
+      "ambiente di sviluppo integrato",
+      "raccolta organizzata di file di un progetto"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Tech] Il termine “IDE” indica…",
+    "options": [
+      "ambiente di sviluppo integrato",
+      "memoria veloce temporanea",
+      "software dannoso",
+      "modello troppo adattato ai dati di training"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Tech] Qual è il significato di “malware”?",
+    "options": [
+      "sistema che filtra il traffico di rete",
+      "test di un modello su dati non visti",
+      "software dannoso",
+      "linguaggio per interrogare database relazionali"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Tech] Seleziona la definizione corretta di “libreria”.",
+    "options": [
+      "insieme di funzioni riutilizzabili",
+      "insieme di dati usato per analisi o training",
+      "struttura/libreria per costruire software",
+      "piccolo dato salvato dal sito nel browser"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Tech] In questo quiz, “database” vuol dire…",
+    "options": [
+      "ambiente di sviluppo integrato",
+      "sistema per organizzare e interrogare dati",
+      "raccolta organizzata di file di un progetto",
+      "sistema che filtra il traffico di rete"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Tech] In breve, “crittografia” è…",
+    "options": [
+      "ambiente di sviluppo integrato",
+      "servizi e risorse accessibili via internet",
+      "copia di sicurezza dei dati",
+      "tecnica per rendere un messaggio leggibile solo a chi ha la chiave"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Tech] Indica la descrizione corretta di “password forte”.",
+    "options": [
+      "servizi e risorse accessibili via internet",
+      "test di un modello su dati non visti",
+      "unità di archiviazione a stato solido",
+      "password lunga con caratteri vari, non facilmente intuibile"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Qual è la rappresentazione binaria del numero 86?",
+    "options": [
+      "0110101",
+      "1010111",
+      "1010110",
+      "1010101"
+    ],
+    "correct": 2,
+    "difficulty": "hard",
+    "explain": "Il binario usa 0 e 1."
+  },
+  {
+    "q": "Qual è la rappresentazione binaria del numero 126?",
+    "options": [
+      "1111101",
+      "1111110",
+      "1111111",
+      "0111111"
+    ],
+    "correct": 1,
+    "difficulty": "hard",
+    "explain": "Il binario usa 0 e 1."
+  },
+  {
+    "q": "[Tech] Il termine “framework” indica…",
+    "options": [
+      "test di un modello su dati non visti",
+      "servizi e risorse accessibili via internet",
+      "struttura/libreria per costruire software",
+      "processore che esegue istruzioni"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Qual è la rappresentazione binaria del numero 240?",
+    "options": [
+      "11110001",
+      "11110000",
+      "00001111",
+      "11101111"
+    ],
+    "correct": 1,
+    "difficulty": "hard",
+    "explain": "Il binario usa 0 e 1."
+  },
+  {
+    "q": "[Tech] Che cos'è “Git”?",
+    "options": [
+      "insieme di funzioni riutilizzabili",
+      "sistema di controllo versione distribuito",
+      "software il cui codice sorgente è accessibile e modificabile",
+      "programma che esegue codice traducendolo al volo"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Tech] In questo quiz, “API” vuol dire…",
+    "options": [
+      "interfaccia per usare funzioni o servizi",
+      "raccolta organizzata di file di un progetto",
+      "parte visibile all’utente di un’app",
+      "procedura per risolvere un problema"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Qual è la rappresentazione binaria del numero 227?",
+    "options": [
+      "11100010",
+      "11100100",
+      "11100011",
+      "11000111"
+    ],
+    "correct": 2,
+    "difficulty": "hard",
+    "explain": "Il binario usa 0 e 1."
+  },
+  {
+    "q": "[Tech] Indica la descrizione corretta di “modem”.",
+    "options": [
+      "ritardo nella risposta di un sistema",
+      "servizio che traduce nomi di dominio in indirizzi IP",
+      "piccolo dato salvato dal sito nel browser",
+      "dispositivo che collega una rete a internet"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Qual è la rappresentazione binaria del numero 247?",
+    "options": [
+      "11111000",
+      "11110111",
+      "11101111",
+      "11110110"
+    ],
+    "correct": 1,
+    "difficulty": "hard",
+    "explain": "Il binario usa 0 e 1."
+  },
+  {
+    "q": "[Tech] Il termine “bandwidth” indica…",
+    "options": [
+      "quantità di dati trasferibili per unità di tempo",
+      "modello troppo adattato ai dati di training",
+      "ambiente di sviluppo integrato",
+      "autenticazione a due fattori"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Tech] In questo quiz, “browser” vuol dire…",
+    "options": [
+      "quantità di dati trasferibili per unità di tempo",
+      "password lunga con caratteri vari, non facilmente intuibile",
+      "programma per navigare sul web",
+      "tecnica per rendere un messaggio leggibile solo a chi ha la chiave"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Tech] “versionamento”: cosa significa?",
+    "options": [
+      "processore che esegue istruzioni",
+      "software il cui codice sorgente è accessibile e modificabile",
+      "gestione delle versioni di un progetto",
+      "errore in un programma"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Tech] Indica la descrizione corretta di “client”.",
+    "options": [
+      "test di un modello su dati non visti",
+      "programma/dispositivo che usa un servizio (server)",
+      "unità di archiviazione a stato solido",
+      "sistema che filtra il traffico di rete"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Qual è la rappresentazione binaria del numero 210?",
+    "options": [
+      "11010010",
+      "11010001",
+      "11010011",
+      "01001011"
+    ],
+    "correct": 0,
+    "difficulty": "hard",
+    "explain": "Il binario usa 0 e 1."
+  },
+  {
+    "q": "[Tech] Qual è il significato di “update”?",
+    "options": [
+      "test di un modello su dati non visti",
+      "servizio che traduce nomi di dominio in indirizzi IP",
+      "insieme di dati usato per analisi o training",
+      "aggiornamento software"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Tech] Che cos'è “libreria”?",
+    "options": [
+      "sistema che filtra il traffico di rete",
+      "insieme di funzioni riutilizzabili",
+      "test di un modello su dati non visti",
+      "dispositivo che collega una rete a internet"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Tech] Il termine “interprete” indica…",
+    "options": [
+      "tecnica per rendere un messaggio leggibile solo a chi ha la chiave",
+      "programma che esegue codice traducendolo al volo",
+      "parte visibile all’utente di un’app",
+      "indirizzo numerico di un dispositivo in rete"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Tech] “machine learning” si definisce come…",
+    "options": [
+      "tecniche per apprendere modelli dai dati",
+      "programma/dispositivo che usa un servizio (server)",
+      "programma che traduce codice in eseguibile",
+      "memoria veloce temporanea"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Tech] Qual è il significato di “2FA”?",
+    "options": [
+      "dispositivo che collega una rete a internet",
+      "struttura/libreria per costruire software",
+      "memoria veloce temporanea",
+      "autenticazione a due fattori"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Tech] Completa: “password forte” = …",
+    "options": [
+      "password lunga con caratteri vari, non facilmente intuibile",
+      "tecniche per apprendere modelli dai dati",
+      "interfaccia per usare funzioni o servizi",
+      "parte server/logica di un’app"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Tech] “cloud” si definisce come…",
+    "options": [
+      "truffa per rubare credenziali fingendosi un servizio affidabile",
+      "servizi e risorse accessibili via internet",
+      "ambiente di sviluppo integrato",
+      "aggiornamento software"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Tech] “password forte”: cosa significa?",
+    "options": [
+      "raccolta organizzata di file di un progetto",
+      "password lunga con caratteri vari, non facilmente intuibile",
+      "parte server/logica di un’app",
+      "sistema di controllo versione distribuito"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Tech] Che cos'è “Wi‑Fi”?",
+    "options": [
+      "memoria veloce temporanea",
+      "programma/dispositivo che usa un servizio (server)",
+      "ritardo nella risposta di un sistema",
+      "tecnologia di rete senza fili"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Tech] In questo quiz, “compilatore” vuol dire…",
+    "options": [
+      "modello troppo adattato ai dati di training",
+      "sistema che filtra il traffico di rete",
+      "dispositivo che collega una rete a internet",
+      "programma che traduce codice in eseguibile"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Qual è la rappresentazione binaria del numero 221?",
+    "options": [
+      "11011100",
+      "11011110",
+      "10111011",
+      "11011101"
+    ],
+    "correct": 3,
+    "difficulty": "hard",
+    "explain": "Il binario usa 0 e 1."
+  },
+  {
+    "q": "[Tech] Qual è il significato di “compilatore”?",
+    "options": [
+      "password lunga con caratteri vari, non facilmente intuibile",
+      "programma che traduce codice in eseguibile",
+      "modello troppo adattato ai dati di training",
+      "tecnica per rendere un messaggio leggibile solo a chi ha la chiave"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Qual è la rappresentazione binaria del numero 216?",
+    "options": [
+      "00011011",
+      "11011000",
+      "11010111",
+      "11011001"
+    ],
+    "correct": 1,
+    "difficulty": "hard",
+    "explain": "Il binario usa 0 e 1."
+  },
+  {
+    "q": "Qual è la rappresentazione binaria del numero 148?",
+    "options": [
+      "10010011",
+      "10010100",
+      "00101001",
+      "10010101"
+    ],
+    "correct": 1,
+    "difficulty": "hard",
+    "explain": "Il binario usa 0 e 1."
+  },
+  {
+    "q": "[Tech] “compilatore” si definisce come…",
+    "options": [
+      "software il cui codice sorgente è accessibile e modificabile",
+      "programma che traduce codice in eseguibile",
+      "procedura per risolvere un problema",
+      "linguaggio per interrogare database relazionali"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Tech] “API”: cosa significa?",
+    "options": [
+      "interfaccia per usare funzioni o servizi",
+      "servizio che traduce nomi di dominio in indirizzi IP",
+      "software dannoso",
+      "programma che esegue codice traducendolo al volo"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Qual è la rappresentazione binaria del numero 113?",
+    "options": [
+      "1110010",
+      "1110000",
+      "1110001",
+      "1000111"
+    ],
+    "correct": 2,
+    "difficulty": "hard",
+    "explain": "Il binario usa 0 e 1."
+  },
+  {
+    "q": "[Tech] Il termine “cloud” indica…",
+    "options": [
+      "servizi e risorse accessibili via internet",
+      "tecnologia per collegamenti a corto raggio",
+      "programma che traduce codice in eseguibile",
+      "linguaggio per interrogare database relazionali"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Tech] In breve, “versionamento” è…",
+    "options": [
+      "gestione delle versioni di un progetto",
+      "processore che esegue istruzioni",
+      "copia di sicurezza dei dati",
+      "dispositivo che instrada dati tra reti"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Tech] Che cos'è “backup”?",
+    "options": [
+      "servizio che traduce nomi di dominio in indirizzi IP",
+      "insieme di dati usato per analisi o training",
+      "software dannoso",
+      "copia di sicurezza dei dati"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Tech] Il termine “cookie” indica…",
+    "options": [
+      "password lunga con caratteri vari, non facilmente intuibile",
+      "quantità di dati trasferibili per unità di tempo",
+      "software dannoso",
+      "piccolo dato salvato dal sito nel browser"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Tech] In questo quiz, “versionamento” vuol dire…",
+    "options": [
+      "programma che esegue codice traducendolo al volo",
+      "parte visibile all’utente di un’app",
+      "gestione delle versioni di un progetto",
+      "programma/dispositivo che usa un servizio (server)"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Qual è la rappresentazione binaria del numero 165?",
+    "options": [
+      "10100101 (4)",
+      "10100100",
+      "10100110",
+      "10100101"
+    ],
+    "correct": 3,
+    "difficulty": "hard",
+    "explain": "Il binario usa 0 e 1."
+  },
+  {
+    "q": "[Tech] Che cos'è “2FA”?",
+    "options": [
+      "autenticazione a due fattori",
+      "servizio che traduce nomi di dominio in indirizzi IP",
+      "dispositivo che instrada dati tra reti",
+      "test di un modello su dati non visti"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Tech] In breve, “phishing” è…",
+    "options": [
+      "memoria veloce temporanea",
+      "truffa per rubare credenziali fingendosi un servizio affidabile",
+      "programma che esegue codice traducendolo al volo",
+      "tecnica per rendere un messaggio leggibile solo a chi ha la chiave"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Qual è la rappresentazione binaria del numero 239?",
+    "options": [
+      "11101110",
+      "11110000",
+      "11101111",
+      "11110111"
+    ],
+    "correct": 2,
+    "difficulty": "hard",
+    "explain": "Il binario usa 0 e 1."
+  },
+  {
+    "q": "[Tech] Il termine “modem” indica…",
+    "options": [
+      "programma che traduce codice in eseguibile",
+      "test di un modello su dati non visti",
+      "sistema di controllo versione distribuito",
+      "dispositivo che collega una rete a internet"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Qual è la rappresentazione binaria del numero 114?",
+    "options": [
+      "1110001",
+      "1110011",
+      "1110010",
+      "0100111"
+    ],
+    "correct": 2,
+    "difficulty": "hard",
+    "explain": "Il binario usa 0 e 1."
+  },
+  {
+    "q": "[Tech] “IP”: cosa significa?",
+    "options": [
+      "interfaccia per usare funzioni o servizi",
+      "tecnologia per collegamenti a corto raggio",
+      "indirizzo numerico di un dispositivo in rete",
+      "programma che esegue codice traducendolo al volo"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Qual è la rappresentazione binaria del numero 85?",
+    "options": [
+      "1010101",
+      "1010100",
+      "1010101 (4)",
+      "1010110"
+    ],
+    "correct": 0,
+    "difficulty": "hard",
+    "explain": "Il binario usa 0 e 1."
+  },
+  {
+    "q": "Qual è la rappresentazione binaria del numero 91?",
+    "options": [
+      "1011100",
+      "1101101",
+      "1011011",
+      "1011010"
+    ],
+    "correct": 2,
+    "difficulty": "hard",
+    "explain": "Il binario usa 0 e 1."
+  },
+  {
+    "q": "Qual è la rappresentazione binaria del numero 40?",
+    "options": [
+      "101001",
+      "101000",
+      "000101",
+      "100111"
+    ],
+    "correct": 1,
+    "difficulty": "hard",
+    "explain": "Il binario usa 0 e 1."
+  },
+  {
+    "q": "Qual è la rappresentazione binaria del numero 90?",
+    "options": [
+      "0101101",
+      "1011001",
+      "1011010",
+      "1011011"
+    ],
+    "correct": 2,
+    "difficulty": "hard",
+    "explain": "Il binario usa 0 e 1."
+  },
+  {
+    "q": "Qual è la rappresentazione binaria del numero 52?",
+    "options": [
+      "110101",
+      "001011",
+      "110100",
+      "110011"
+    ],
+    "correct": 2,
+    "difficulty": "hard",
+    "explain": "Il binario usa 0 e 1."
+  },
+  {
+    "q": "Qual è la rappresentazione binaria del numero 89?",
+    "options": [
+      "1011010",
+      "1001101",
+      "1011001",
+      "1011000"
+    ],
+    "correct": 2,
+    "difficulty": "hard",
+    "explain": "Il binario usa 0 e 1."
+  },
+  {
+    "q": "[Tech] Che cos'è “repository”?",
+    "options": [
+      "raccolta organizzata di file di un progetto",
+      "tecnologia di rete senza fili",
+      "processore che esegue istruzioni",
+      "dispositivo che instrada dati tra reti"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Qual è la rappresentazione binaria del numero 34?",
+    "options": [
+      "100011",
+      "100001",
+      "010001",
+      "100010"
+    ],
+    "correct": 3,
+    "difficulty": "hard",
+    "explain": "Il binario usa 0 e 1."
+  },
+  {
+    "q": "[Tech] Indica la descrizione corretta di “malware”.",
+    "options": [
+      "modello troppo adattato ai dati di training",
+      "programma/dispositivo che usa un servizio (server)",
+      "insieme di dati usato per analisi o training",
+      "software dannoso"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Tech] In questo quiz, “libreria” vuol dire…",
+    "options": [
+      "raccolta organizzata di file di un progetto",
+      "insieme di funzioni riutilizzabili",
+      "piccolo dato salvato dal sito nel browser",
+      "password lunga con caratteri vari, non facilmente intuibile"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Tech] Il termine “SSD” indica…",
+    "options": [
+      "sistema per organizzare e interrogare dati",
+      "software il cui codice sorgente è accessibile e modificabile",
+      "unità di archiviazione a stato solido",
+      "tecnologia di rete senza fili"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Tech] Indica la descrizione corretta di “RAM”.",
+    "options": [
+      "memoria veloce temporanea",
+      "sistema di controllo versione distribuito",
+      "programma che esegue codice traducendolo al volo",
+      "computer che fornisce servizi ad altri computer"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Qual è la rappresentazione binaria del numero 230?",
+    "options": [
+      "11100101",
+      "11100111",
+      "11100110",
+      "01100111"
+    ],
+    "correct": 2,
+    "difficulty": "hard",
+    "explain": "Il binario usa 0 e 1."
+  },
+  {
+    "q": "Qual è la rappresentazione binaria del numero 103?",
+    "options": [
+      "1100111",
+      "1110011",
+      "1101000",
+      "1100110"
+    ],
+    "correct": 0,
+    "difficulty": "hard",
+    "explain": "Il binario usa 0 e 1."
+  },
+  {
+    "q": "[Tech] Indica la descrizione corretta di “frontend”.",
+    "options": [
+      "parte server/logica di un’app",
+      "computer che fornisce servizi ad altri computer",
+      "parte visibile all’utente di un’app",
+      "memoria veloce temporanea"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Tech] In questo quiz, “bandwidth” vuol dire…",
+    "options": [
+      "parte visibile all’utente di un’app",
+      "quantità di dati trasferibili per unità di tempo",
+      "aggiornamento software",
+      "tecnologia per collegamenti a corto raggio"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Tech] Seleziona la definizione corretta di “router”.",
+    "options": [
+      "dispositivo che instrada dati tra reti",
+      "errore in un programma",
+      "programma che esegue codice traducendolo al volo",
+      "tecnica per rendere un messaggio leggibile solo a chi ha la chiave"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Qual è la rappresentazione binaria del numero 118?",
+    "options": [
+      "1110110",
+      "1110111",
+      "0110111",
+      "1110101"
+    ],
+    "correct": 0,
+    "difficulty": "hard",
+    "explain": "Il binario usa 0 e 1."
+  },
+  {
+    "q": "Qual è la rappresentazione binaria del numero 76?",
+    "options": [
+      "1001101",
+      "0011001",
+      "1001100",
+      "1001011"
+    ],
+    "correct": 2,
+    "difficulty": "hard",
+    "explain": "Il binario usa 0 e 1."
+  },
+  {
+    "q": "[Tech] “RAM”: cosa significa?",
+    "options": [
+      "software il cui codice sorgente è accessibile e modificabile",
+      "memoria veloce temporanea",
+      "autenticazione a due fattori",
+      "copia di sicurezza dei dati"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Tech] Che cos'è “validazione”?",
+    "options": [
+      "tecniche per apprendere modelli dai dati",
+      "dispositivo che collega una rete a internet",
+      "autenticazione a due fattori",
+      "test di un modello su dati non visti"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Tech] In questo quiz, “cookie” vuol dire…",
+    "options": [
+      "piccolo dato salvato dal sito nel browser",
+      "insieme di dati usato per analisi o training",
+      "linguaggio per interrogare database relazionali",
+      "procedura per risolvere un problema"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Qual è la rappresentazione binaria del numero 164?",
+    "options": [
+      "00100101",
+      "10100011",
+      "10100100",
+      "10100101"
+    ],
+    "correct": 2,
+    "difficulty": "hard",
+    "explain": "Il binario usa 0 e 1."
+  },
+  {
+    "q": "[Tech] In breve, “backup” è…",
+    "options": [
+      "parte server/logica di un’app",
+      "programma/dispositivo che usa un servizio (server)",
+      "memoria veloce temporanea",
+      "copia di sicurezza dei dati"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Tech] Seleziona la definizione corretta di “modem”.",
+    "options": [
+      "computer che fornisce servizi ad altri computer",
+      "programma/dispositivo che usa un servizio (server)",
+      "dispositivo che collega una rete a internet",
+      "linguaggio per interrogare database relazionali"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Tech] Indica la descrizione corretta di “repository”.",
+    "options": [
+      "programma che traduce codice in eseguibile",
+      "raccolta organizzata di file di un progetto",
+      "tecnologia di rete senza fili",
+      "quantità di dati trasferibili per unità di tempo"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Tech] “bandwidth”: cosa significa?",
+    "options": [
+      "indirizzo di una risorsa sul web",
+      "dispositivo che collega una rete a internet",
+      "insieme di dati usato per analisi o training",
+      "quantità di dati trasferibili per unità di tempo"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Tech] “SSD”: cosa significa?",
+    "options": [
+      "indirizzo numerico di un dispositivo in rete",
+      "unità di archiviazione a stato solido",
+      "ritardo nella risposta di un sistema",
+      "tecnica per rendere un messaggio leggibile solo a chi ha la chiave"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Tech] Seleziona la definizione corretta di “browser”.",
+    "options": [
+      "software il cui codice sorgente è accessibile e modificabile",
+      "tecnica per rendere un messaggio leggibile solo a chi ha la chiave",
+      "programma per navigare sul web",
+      "servizio che traduce nomi di dominio in indirizzi IP"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Qual è la rappresentazione binaria del numero 208?",
+    "options": [
+      "11001111",
+      "00001011",
+      "11010001",
+      "11010000"
+    ],
+    "correct": 3,
+    "difficulty": "hard",
+    "explain": "Il binario usa 0 e 1."
+  },
+  {
+    "q": "[Tech] Completa: “URL” = …",
+    "options": [
+      "programma che esegue codice traducendolo al volo",
+      "tecniche per apprendere modelli dai dati",
+      "servizio che traduce nomi di dominio in indirizzi IP",
+      "indirizzo di una risorsa sul web"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Tech] Qual è il significato di “phishing”?",
+    "options": [
+      "ritardo nella risposta di un sistema",
+      "truffa per rubare credenziali fingendosi un servizio affidabile",
+      "raccolta organizzata di file di un progetto",
+      "aggiornamento software"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Tech] Il termine “dataset” indica…",
+    "options": [
+      "truffa per rubare credenziali fingendosi un servizio affidabile",
+      "servizi e risorse accessibili via internet",
+      "indirizzo numerico di un dispositivo in rete",
+      "insieme di dati usato per analisi o training"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Qual è la rappresentazione binaria del numero 28?",
+    "options": [
+      "00111",
+      "11101",
+      "11011",
+      "11100"
+    ],
+    "correct": 3,
+    "difficulty": "hard",
+    "explain": "Il binario usa 0 e 1."
+  },
+  {
+    "q": "[Tech] “server”: cosa significa?",
+    "options": [
+      "indirizzo numerico di un dispositivo in rete",
+      "servizi e risorse accessibili via internet",
+      "raccolta organizzata di file di un progetto",
+      "computer che fornisce servizi ad altri computer"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Tech] Indica la descrizione corretta di “router”.",
+    "options": [
+      "insieme di dati usato per analisi o training",
+      "unità di archiviazione a stato solido",
+      "sistema di controllo versione distribuito",
+      "dispositivo che instrada dati tra reti"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Tech] Seleziona la definizione corretta di “cookie”.",
+    "options": [
+      "piccolo dato salvato dal sito nel browser",
+      "gestione delle versioni di un progetto",
+      "quantità di dati trasferibili per unità di tempo",
+      "modello troppo adattato ai dati di training"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Tech] Qual è il significato di “IP”?",
+    "options": [
+      "indirizzo numerico di un dispositivo in rete",
+      "memoria veloce temporanea",
+      "sistema per organizzare e interrogare dati",
+      "programma che esegue codice traducendolo al volo"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Tech] In breve, “IDE” è…",
+    "options": [
+      "programma per navigare sul web",
+      "indirizzo numerico di un dispositivo in rete",
+      "ambiente di sviluppo integrato",
+      "software il cui codice sorgente è accessibile e modificabile"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Qual è la rappresentazione binaria del numero 74?",
+    "options": [
+      "0101001",
+      "1001011",
+      "1001010",
+      "1001001"
+    ],
+    "correct": 2,
+    "difficulty": "hard",
+    "explain": "Il binario usa 0 e 1."
+  },
+  {
+    "q": "Qual è la rappresentazione binaria del numero 182?",
+    "options": [
+      "01101101",
+      "10110101",
+      "10110111",
+      "10110110"
+    ],
+    "correct": 3,
+    "difficulty": "hard",
+    "explain": "Il binario usa 0 e 1."
+  },
+  {
+    "q": "Qual è la rappresentazione binaria del numero 73?",
+    "options": [
+      "1001001",
+      "1001010",
+      "1001000",
+      "1001001 (4)"
+    ],
+    "correct": 0,
+    "difficulty": "hard",
+    "explain": "Il binario usa 0 e 1."
+  },
+  {
+    "q": "[Tech] “Bluetooth”: cosa significa?",
+    "options": [
+      "dispositivo che collega una rete a internet",
+      "software dannoso",
+      "software il cui codice sorgente è accessibile e modificabile",
+      "tecnologia per collegamenti a corto raggio"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Tech] In breve, “update” è…",
+    "options": [
+      "aggiornamento software",
+      "insieme di funzioni riutilizzabili",
+      "insieme di dati usato per analisi o training",
+      "programma per navigare sul web"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Tech] Che cos'è “DNS”?",
+    "options": [
+      "servizio che traduce nomi di dominio in indirizzi IP",
+      "sistema per organizzare e interrogare dati",
+      "ambiente di sviluppo integrato",
+      "interfaccia per usare funzioni o servizi"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Qual è la rappresentazione binaria del numero 177?",
+    "options": [
+      "10110010",
+      "10110001",
+      "10001101",
+      "10110000"
+    ],
+    "correct": 1,
+    "difficulty": "hard",
+    "explain": "Il binario usa 0 e 1."
+  },
+  {
+    "q": "[Tech] Seleziona la definizione corretta di “2FA”.",
+    "options": [
+      "autenticazione a due fattori",
+      "dispositivo che collega una rete a internet",
+      "software il cui codice sorgente è accessibile e modificabile",
+      "indirizzo di una risorsa sul web"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Qual è la rappresentazione binaria del numero 166?",
+    "options": [
+      "10100110",
+      "10100111",
+      "01100101",
+      "10100101"
+    ],
+    "correct": 0,
+    "difficulty": "hard",
+    "explain": "Il binario usa 0 e 1."
+  },
+  {
+    "q": "[Tech] Seleziona la definizione corretta di “SQL”.",
+    "options": [
+      "linguaggio per interrogare database relazionali",
+      "password lunga con caratteri vari, non facilmente intuibile",
+      "dispositivo che instrada dati tra reti",
+      "gestione delle versioni di un progetto"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Tech] Indica la descrizione corretta di “latency”.",
+    "options": [
+      "unità di archiviazione a stato solido",
+      "ritardo nella risposta di un sistema",
+      "dispositivo che collega una rete a internet",
+      "tecnologia di rete senza fili"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Qual è la rappresentazione binaria del numero 46?",
+    "options": [
+      "101110",
+      "101101",
+      "101111",
+      "011101"
+    ],
+    "correct": 0,
+    "difficulty": "hard",
+    "explain": "Il binario usa 0 e 1."
+  },
+  {
+    "q": "[Tech] In questo quiz, “backend” vuol dire…",
+    "options": [
+      "tecnica per rendere un messaggio leggibile solo a chi ha la chiave",
+      "ritardo nella risposta di un sistema",
+      "insieme di dati usato per analisi o training",
+      "parte server/logica di un’app"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Tech] “backend”: cosa significa?",
+    "options": [
+      "indirizzo numerico di un dispositivo in rete",
+      "programma che esegue codice traducendolo al volo",
+      "parte server/logica di un’app",
+      "dispositivo che collega una rete a internet"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Tech] “crittografia”: cosa significa?",
+    "options": [
+      "servizio che traduce nomi di dominio in indirizzi IP",
+      "sistema che filtra il traffico di rete",
+      "parte server/logica di un’app",
+      "tecnica per rendere un messaggio leggibile solo a chi ha la chiave"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Qual è la rappresentazione binaria del numero 68?",
+    "options": [
+      "0010001",
+      "1000100",
+      "1000011",
+      "1000101"
+    ],
+    "correct": 1,
+    "difficulty": "hard",
+    "explain": "Il binario usa 0 e 1."
+  },
+  {
+    "q": "[Tech] In questo quiz, “cloud” vuol dire…",
+    "options": [
+      "aggiornamento software",
+      "struttura/libreria per costruire software",
+      "servizi e risorse accessibili via internet",
+      "procedura per risolvere un problema"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Tech] Completa: “IDE” = …",
+    "options": [
+      "software dannoso",
+      "aggiornamento software",
+      "struttura/libreria per costruire software",
+      "ambiente di sviluppo integrato"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Tech] Che cos'è “SSD”?",
+    "options": [
+      "aggiornamento software",
+      "unità di archiviazione a stato solido",
+      "processore che esegue istruzioni",
+      "software dannoso"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Tech] Seleziona la definizione corretta di “URL”.",
+    "options": [
+      "linguaggio per interrogare database relazionali",
+      "interfaccia per usare funzioni o servizi",
+      "memoria veloce temporanea",
+      "indirizzo di una risorsa sul web"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Tech] Completa: “DNS” = …",
+    "options": [
+      "servizio che traduce nomi di dominio in indirizzi IP",
+      "modello troppo adattato ai dati di training",
+      "software il cui codice sorgente è accessibile e modificabile",
+      "insieme di funzioni riutilizzabili"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Tech] Indica la descrizione corretta di “firewall”.",
+    "options": [
+      "gestione delle versioni di un progetto",
+      "sistema che filtra il traffico di rete",
+      "struttura/libreria per costruire software",
+      "software dannoso"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Tech] “database” si definisce come…",
+    "options": [
+      "unità di archiviazione a stato solido",
+      "programma/dispositivo che usa un servizio (server)",
+      "tecnologia di rete senza fili",
+      "sistema per organizzare e interrogare dati"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Qual è la rappresentazione binaria del numero 6?",
+    "options": [
+      "110",
+      "101",
+      "111",
+      "011"
+    ],
+    "correct": 0,
+    "difficulty": "hard",
+    "explain": "Il binario usa 0 e 1."
+  },
+  {
+    "q": "[Tech] In breve, “DNS” è…",
+    "options": [
+      "servizio che traduce nomi di dominio in indirizzi IP",
+      "ritardo nella risposta di un sistema",
+      "tecniche per apprendere modelli dai dati",
+      "linguaggio per interrogare database relazionali"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Qual è la rappresentazione binaria del numero 214?",
+    "options": [
+      "11010110",
+      "01101011",
+      "11010101",
+      "11010111"
+    ],
+    "correct": 0,
+    "difficulty": "hard",
+    "explain": "Il binario usa 0 e 1."
+  },
+  {
+    "q": "[Tech] “latency”: cosa significa?",
+    "options": [
+      "test di un modello su dati non visti",
+      "programma/dispositivo che usa un servizio (server)",
+      "quantità di dati trasferibili per unità di tempo",
+      "ritardo nella risposta di un sistema"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Tech] Indica la descrizione corretta di “database”.",
+    "options": [
+      "sistema per organizzare e interrogare dati",
+      "parte visibile all’utente di un’app",
+      "dispositivo che collega una rete a internet",
+      "tecnica per rendere un messaggio leggibile solo a chi ha la chiave"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Tech] Seleziona la definizione corretta di “RAM”.",
+    "options": [
+      "programma che esegue codice traducendolo al volo",
+      "tecnologia di rete senza fili",
+      "processore che esegue istruzioni",
+      "memoria veloce temporanea"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Tech] In breve, “password forte” è…",
+    "options": [
+      "programma/dispositivo che usa un servizio (server)",
+      "unità di archiviazione a stato solido",
+      "password lunga con caratteri vari, non facilmente intuibile",
+      "interfaccia per usare funzioni o servizi"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Tech] Completa: “modem” = …",
+    "options": [
+      "insieme di funzioni riutilizzabili",
+      "tecnologia di rete senza fili",
+      "dispositivo che collega una rete a internet",
+      "indirizzo di una risorsa sul web"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Qual è la rappresentazione binaria del numero 150?",
+    "options": [
+      "01101001",
+      "10010110",
+      "10010101",
+      "10010111"
+    ],
+    "correct": 1,
+    "difficulty": "hard",
+    "explain": "Il binario usa 0 e 1."
+  },
+  {
+    "q": "Qual è la rappresentazione binaria del numero 128?",
+    "options": [
+      "10000000",
+      "10000001",
+      "00000001",
+      "1111111"
+    ],
+    "correct": 0,
+    "difficulty": "hard",
+    "explain": "Il binario usa 0 e 1."
+  },
+  {
+    "q": "[Tech] Qual è il significato di “backup”?",
+    "options": [
+      "linguaggio per interrogare database relazionali",
+      "sistema per organizzare e interrogare dati",
+      "programma che traduce codice in eseguibile",
+      "copia di sicurezza dei dati"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Tech] In questo quiz, “CPU” vuol dire…",
+    "options": [
+      "processore che esegue istruzioni",
+      "unità di archiviazione a stato solido",
+      "autenticazione a due fattori",
+      "sistema di controllo versione distribuito"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Tech] Il termine “update” indica…",
+    "options": [
+      "parte visibile all’utente di un’app",
+      "aggiornamento software",
+      "sistema che filtra il traffico di rete",
+      "tecniche per apprendere modelli dai dati"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Qual è la rappresentazione binaria del numero 36?",
+    "options": [
+      "100011",
+      "001001",
+      "100101",
+      "100100"
+    ],
+    "correct": 3,
+    "difficulty": "hard",
+    "explain": "Il binario usa 0 e 1."
+  },
+  {
+    "q": "Qual è la rappresentazione binaria del numero 15?",
+    "options": [
+      "1111 (4)",
+      "1111",
+      "1110",
+      "10000"
+    ],
+    "correct": 1,
+    "difficulty": "hard",
+    "explain": "Il binario usa 0 e 1."
+  },
+  {
+    "q": "Qual è la rappresentazione binaria del numero 157?",
+    "options": [
+      "10011100",
+      "10111001",
+      "10011110",
+      "10011101"
+    ],
+    "correct": 3,
+    "difficulty": "hard",
+    "explain": "Il binario usa 0 e 1."
+  },
+  {
+    "q": "[Tech] Completa: “latency” = …",
+    "options": [
+      "tecnica per rendere un messaggio leggibile solo a chi ha la chiave",
+      "sistema per organizzare e interrogare dati",
+      "ritardo nella risposta di un sistema",
+      "programma/dispositivo che usa un servizio (server)"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Tech] “dataset”: cosa significa?",
+    "options": [
+      "programma che esegue codice traducendolo al volo",
+      "servizi e risorse accessibili via internet",
+      "insieme di funzioni riutilizzabili",
+      "insieme di dati usato per analisi o training"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Qual è la rappresentazione binaria del numero 3?",
+    "options": [
+      "10",
+      "100",
+      "11 (4)",
+      "11"
+    ],
+    "correct": 3,
+    "difficulty": "hard",
+    "explain": "Il binario usa 0 e 1."
+  },
+  {
+    "q": "[Tech] Completa: “crittografia” = …",
+    "options": [
+      "tecnica per rendere un messaggio leggibile solo a chi ha la chiave",
+      "struttura/libreria per costruire software",
+      "programma/dispositivo che usa un servizio (server)",
+      "errore in un programma"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Tech] Che cos'è “crittografia”?",
+    "options": [
+      "autenticazione a due fattori",
+      "sistema per organizzare e interrogare dati",
+      "quantità di dati trasferibili per unità di tempo",
+      "tecnica per rendere un messaggio leggibile solo a chi ha la chiave"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Tech] “cookie”: cosa significa?",
+    "options": [
+      "piccolo dato salvato dal sito nel browser",
+      "dispositivo che instrada dati tra reti",
+      "programma/dispositivo che usa un servizio (server)",
+      "unità di archiviazione a stato solido"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Qual è la rappresentazione binaria del numero 202?",
+    "options": [
+      "11001001",
+      "11001010",
+      "01010011",
+      "11001011"
+    ],
+    "correct": 1,
+    "difficulty": "hard",
+    "explain": "Il binario usa 0 e 1."
+  },
+  {
+    "q": "[Tech] “DNS”: cosa significa?",
+    "options": [
+      "indirizzo numerico di un dispositivo in rete",
+      "insieme di funzioni riutilizzabili",
+      "autenticazione a due fattori",
+      "servizio che traduce nomi di dominio in indirizzi IP"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Tech] “frontend”: cosa significa?",
+    "options": [
+      "dispositivo che collega una rete a internet",
+      "parte visibile all’utente di un’app",
+      "programma che traduce codice in eseguibile",
+      "dispositivo che instrada dati tra reti"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Qual è la rappresentazione binaria del numero 242?",
+    "options": [
+      "11110010",
+      "11110001",
+      "01001111",
+      "11110011"
+    ],
+    "correct": 0,
+    "difficulty": "hard",
+    "explain": "Il binario usa 0 e 1."
+  },
+  {
+    "q": "[Tech] Seleziona la definizione corretta di “password forte”.",
+    "options": [
+      "programma che traduce codice in eseguibile",
+      "password lunga con caratteri vari, non facilmente intuibile",
+      "tecnica per rendere un messaggio leggibile solo a chi ha la chiave",
+      "memoria veloce temporanea"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Tech] In questo quiz, “Wi‑Fi” vuol dire…",
+    "options": [
+      "indirizzo di una risorsa sul web",
+      "tecnologia di rete senza fili",
+      "gestione delle versioni di un progetto",
+      "aggiornamento software"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Qual è la rappresentazione binaria del numero 72?",
+    "options": [
+      "1001000",
+      "1001001",
+      "1000111",
+      "0001001"
+    ],
+    "correct": 0,
+    "difficulty": "hard",
+    "explain": "Il binario usa 0 e 1."
+  },
+  {
+    "q": "[Tech] “firewall” si definisce come…",
+    "options": [
+      "errore in un programma",
+      "piccolo dato salvato dal sito nel browser",
+      "memoria veloce temporanea",
+      "sistema che filtra il traffico di rete"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Qual è la rappresentazione binaria del numero 98?",
+    "options": [
+      "1100010",
+      "1100001",
+      "1100011",
+      "0100011"
+    ],
+    "correct": 0,
+    "difficulty": "hard",
+    "explain": "Il binario usa 0 e 1."
+  },
+  {
+    "q": "[Tech] In questo quiz, “SSD” vuol dire…",
+    "options": [
+      "quantità di dati trasferibili per unità di tempo",
+      "unità di archiviazione a stato solido",
+      "insieme di funzioni riutilizzabili",
+      "parte visibile all’utente di un’app"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Tech] Il termine “algoritmo” indica…",
+    "options": [
+      "procedura per risolvere un problema",
+      "indirizzo di una risorsa sul web",
+      "copia di sicurezza dei dati",
+      "autenticazione a due fattori"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Tech] “backup”: cosa significa?",
+    "options": [
+      "memoria veloce temporanea",
+      "linguaggio per interrogare database relazionali",
+      "test di un modello su dati non visti",
+      "copia di sicurezza dei dati"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Tech] “browser” si definisce come…",
+    "options": [
+      "programma per navigare sul web",
+      "computer che fornisce servizi ad altri computer",
+      "truffa per rubare credenziali fingendosi un servizio affidabile",
+      "struttura/libreria per costruire software"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Tech] Qual è il significato di “open source”?",
+    "options": [
+      "truffa per rubare credenziali fingendosi un servizio affidabile",
+      "software il cui codice sorgente è accessibile e modificabile",
+      "servizio che traduce nomi di dominio in indirizzi IP",
+      "insieme di funzioni riutilizzabili"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Tech] Seleziona la definizione corretta di “crittografia”.",
+    "options": [
+      "ritardo nella risposta di un sistema",
+      "tecnologia per collegamenti a corto raggio",
+      "tecnica per rendere un messaggio leggibile solo a chi ha la chiave",
+      "servizio che traduce nomi di dominio in indirizzi IP"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Qual è la rappresentazione binaria del numero 142?",
+    "options": [
+      "01110001",
+      "10001111",
+      "10001101",
+      "10001110"
+    ],
+    "correct": 3,
+    "difficulty": "hard",
+    "explain": "Il binario usa 0 e 1."
+  },
+  {
+    "q": "Qual è la rappresentazione binaria del numero 121?",
+    "options": [
+      "1111000",
+      "1111010",
+      "1111001",
+      "1001111"
+    ],
+    "correct": 2,
+    "difficulty": "hard",
+    "explain": "Il binario usa 0 e 1."
+  },
+  {
+    "q": "[Tech] Seleziona la definizione corretta di “Bluetooth”.",
+    "options": [
+      "interfaccia per usare funzioni o servizi",
+      "tecniche per apprendere modelli dai dati",
+      "piccolo dato salvato dal sito nel browser",
+      "tecnologia per collegamenti a corto raggio"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Qual è la rappresentazione binaria del numero 141?",
+    "options": [
+      "10110001",
+      "10001100",
+      "10001101",
+      "10001110"
+    ],
+    "correct": 2,
+    "difficulty": "hard",
+    "explain": "Il binario usa 0 e 1."
+  },
+  {
+    "q": "[Tech] Qual è il significato di “Git”?",
+    "options": [
+      "aggiornamento software",
+      "copia di sicurezza dei dati",
+      "indirizzo numerico di un dispositivo in rete",
+      "sistema di controllo versione distribuito"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Tech] In breve, “interprete” è…",
+    "options": [
+      "gestione delle versioni di un progetto",
+      "quantità di dati trasferibili per unità di tempo",
+      "programma che esegue codice traducendolo al volo",
+      "sistema per organizzare e interrogare dati"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Tech] “2FA” si definisce come…",
+    "options": [
+      "quantità di dati trasferibili per unità di tempo",
+      "computer che fornisce servizi ad altri computer",
+      "insieme di funzioni riutilizzabili",
+      "autenticazione a due fattori"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Tech] Qual è il significato di “SSD”?",
+    "options": [
+      "quantità di dati trasferibili per unità di tempo",
+      "insieme di funzioni riutilizzabili",
+      "indirizzo numerico di un dispositivo in rete",
+      "unità di archiviazione a stato solido"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Tech] Qual è il significato di “repository”?",
+    "options": [
+      "raccolta organizzata di file di un progetto",
+      "tecniche per apprendere modelli dai dati",
+      "errore in un programma",
+      "computer che fornisce servizi ad altri computer"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Tech] Qual è il significato di “versionamento”?",
+    "options": [
+      "servizi e risorse accessibili via internet",
+      "gestione delle versioni di un progetto",
+      "ritardo nella risposta di un sistema",
+      "programma/dispositivo che usa un servizio (server)"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Tech] Qual è il significato di “cloud”?",
+    "options": [
+      "aggiornamento software",
+      "gestione delle versioni di un progetto",
+      "sistema di controllo versione distribuito",
+      "servizi e risorse accessibili via internet"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Tech] “firewall”: cosa significa?",
+    "options": [
+      "dispositivo che instrada dati tra reti",
+      "insieme di funzioni riutilizzabili",
+      "sistema che filtra il traffico di rete",
+      "interfaccia per usare funzioni o servizi"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Tech] Indica la descrizione corretta di “browser”.",
+    "options": [
+      "ambiente di sviluppo integrato",
+      "dispositivo che collega una rete a internet",
+      "ritardo nella risposta di un sistema",
+      "programma per navigare sul web"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Qual è la rappresentazione binaria del numero 123?",
+    "options": [
+      "1111010",
+      "1111100",
+      "1101111",
+      "1111011"
+    ],
+    "correct": 3,
+    "difficulty": "hard",
+    "explain": "Il binario usa 0 e 1."
+  },
+  {
+    "q": "Qual è la rappresentazione binaria del numero 189?",
+    "options": [
+      "10111101",
+      "10111101 (4)",
+      "10111100",
+      "10111110"
+    ],
+    "correct": 0,
+    "difficulty": "hard",
+    "explain": "Il binario usa 0 e 1."
+  },
+  {
+    "q": "[Tech] Completa: “2FA” = …",
+    "options": [
+      "dispositivo che collega una rete a internet",
+      "raccolta organizzata di file di un progetto",
+      "autenticazione a due fattori",
+      "errore in un programma"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Tech] Completa: “firewall” = …",
+    "options": [
+      "sistema che filtra il traffico di rete",
+      "modello troppo adattato ai dati di training",
+      "errore in un programma",
+      "dispositivo che collega una rete a internet"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Qual è la rappresentazione binaria del numero 41?",
+    "options": [
+      "101001",
+      "100101",
+      "101010",
+      "101000"
+    ],
+    "correct": 0,
+    "difficulty": "hard",
+    "explain": "Il binario usa 0 e 1."
+  },
+  {
+    "q": "Qual è la rappresentazione binaria del numero 180?",
+    "options": [
+      "00101101",
+      "10110101",
+      "10110011",
+      "10110100"
+    ],
+    "correct": 3,
+    "difficulty": "hard",
+    "explain": "Il binario usa 0 e 1."
+  },
+  {
+    "q": "[Tech] “open source”: cosa significa?",
+    "options": [
+      "software il cui codice sorgente è accessibile e modificabile",
+      "gestione delle versioni di un progetto",
+      "indirizzo numerico di un dispositivo in rete",
+      "raccolta organizzata di file di un progetto"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Tech] Completa: “Wi‑Fi” = …",
+    "options": [
+      "indirizzo numerico di un dispositivo in rete",
+      "tecnologia di rete senza fili",
+      "tecnologia per collegamenti a corto raggio",
+      "memoria veloce temporanea"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Tech] Completa: “overfitting” = …",
+    "options": [
+      "parte visibile all’utente di un’app",
+      "modello troppo adattato ai dati di training",
+      "insieme di dati usato per analisi o training",
+      "dispositivo che instrada dati tra reti"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Qual è la rappresentazione binaria del numero 77?",
+    "options": [
+      "1001101",
+      "1001110",
+      "1011001",
+      "1001100"
+    ],
+    "correct": 0,
+    "difficulty": "hard",
+    "explain": "Il binario usa 0 e 1."
+  },
+  {
+    "q": "[Tech] “malware”: cosa significa?",
+    "options": [
+      "software il cui codice sorgente è accessibile e modificabile",
+      "software dannoso",
+      "tecnica per rendere un messaggio leggibile solo a chi ha la chiave",
+      "dispositivo che collega una rete a internet"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Tech] Qual è il significato di “validazione”?",
+    "options": [
+      "test di un modello su dati non visti",
+      "dispositivo che collega una rete a internet",
+      "unità di archiviazione a stato solido",
+      "truffa per rubare credenziali fingendosi un servizio affidabile"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Tech] Il termine “IP” indica…",
+    "options": [
+      "parte visibile all’utente di un’app",
+      "sistema che filtra il traffico di rete",
+      "indirizzo numerico di un dispositivo in rete",
+      "quantità di dati trasferibili per unità di tempo"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Qual è la rappresentazione binaria del numero 192?",
+    "options": [
+      "11000000",
+      "10111111",
+      "11000001",
+      "00000011"
+    ],
+    "correct": 0,
+    "difficulty": "hard",
+    "explain": "Il binario usa 0 e 1."
+  },
+  {
+    "q": "[Tech] Che cos'è “framework”?",
+    "options": [
+      "sistema per organizzare e interrogare dati",
+      "memoria veloce temporanea",
+      "struttura/libreria per costruire software",
+      "tecniche per apprendere modelli dai dati"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Qual è la rappresentazione binaria del numero 220?",
+    "options": [
+      "00111011",
+      "11011100",
+      "11011101",
+      "11011011"
+    ],
+    "correct": 1,
+    "difficulty": "hard",
+    "explain": "Il binario usa 0 e 1."
+  },
+  {
+    "q": "[Tech] Che cos'è “RAM”?",
+    "options": [
+      "gestione delle versioni di un progetto",
+      "aggiornamento software",
+      "memoria veloce temporanea",
+      "errore in un programma"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Tech] Indica la descrizione corretta di “SSD”.",
+    "options": [
+      "processore che esegue istruzioni",
+      "linguaggio per interrogare database relazionali",
+      "sistema che filtra il traffico di rete",
+      "unità di archiviazione a stato solido"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Tech] Seleziona la definizione corretta di “IDE”.",
+    "options": [
+      "processore che esegue istruzioni",
+      "interfaccia per usare funzioni o servizi",
+      "raccolta organizzata di file di un progetto",
+      "ambiente di sviluppo integrato"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Tech] In breve, “frontend” è…",
+    "options": [
+      "programma che traduce codice in eseguibile",
+      "parte visibile all’utente di un’app",
+      "memoria veloce temporanea",
+      "sistema per organizzare e interrogare dati"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Tech] In questo quiz, “2FA” vuol dire…",
+    "options": [
+      "modello troppo adattato ai dati di training",
+      "autenticazione a due fattori",
+      "struttura/libreria per costruire software",
+      "indirizzo di una risorsa sul web"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Tech] “database”: cosa significa?",
+    "options": [
+      "ambiente di sviluppo integrato",
+      "programma che esegue codice traducendolo al volo",
+      "sistema per organizzare e interrogare dati",
+      "dispositivo che instrada dati tra reti"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Tech] Indica la descrizione corretta di “phishing”.",
+    "options": [
+      "piccolo dato salvato dal sito nel browser",
+      "truffa per rubare credenziali fingendosi un servizio affidabile",
+      "programma che traduce codice in eseguibile",
+      "sistema che filtra il traffico di rete"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Qual è la rappresentazione binaria del numero 129?",
+    "options": [
+      "10000001 (4)",
+      "10000001",
+      "10000010",
+      "10000000"
+    ],
+    "correct": 1,
+    "difficulty": "hard",
+    "explain": "Il binario usa 0 e 1."
+  },
+  {
+    "q": "[Tech] “server” si definisce come…",
+    "options": [
+      "modello troppo adattato ai dati di training",
+      "indirizzo numerico di un dispositivo in rete",
+      "computer che fornisce servizi ad altri computer",
+      "copia di sicurezza dei dati"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Qual è la rappresentazione binaria del numero 161?",
+    "options": [
+      "10100001",
+      "10100010",
+      "10000101",
+      "10100000"
+    ],
+    "correct": 0,
+    "difficulty": "hard",
+    "explain": "Il binario usa 0 e 1."
+  },
+  {
+    "q": "[Tech] Seleziona la definizione corretta di “open source”.",
+    "options": [
+      "software dannoso",
+      "sistema per organizzare e interrogare dati",
+      "tecnologia per collegamenti a corto raggio",
+      "software il cui codice sorgente è accessibile e modificabile"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Tech] Completa: “frontend” = …",
+    "options": [
+      "aggiornamento software",
+      "tecnica per rendere un messaggio leggibile solo a chi ha la chiave",
+      "test di un modello su dati non visti",
+      "parte visibile all’utente di un’app"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Tech] Qual è il significato di “IDE”?",
+    "options": [
+      "servizio che traduce nomi di dominio in indirizzi IP",
+      "processore che esegue istruzioni",
+      "ambiente di sviluppo integrato",
+      "programma che traduce codice in eseguibile"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Tech] Completa: “compilatore” = …",
+    "options": [
+      "sistema che filtra il traffico di rete",
+      "software dannoso",
+      "procedura per risolvere un problema",
+      "programma che traduce codice in eseguibile"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Qual è la rappresentazione binaria del numero 18?",
+    "options": [
+      "10011",
+      "01001",
+      "10010",
+      "10001"
+    ],
+    "correct": 2,
+    "difficulty": "hard",
+    "explain": "Il binario usa 0 e 1."
+  },
+  {
+    "q": "[Tech] In breve, “Bluetooth” è…",
+    "options": [
+      "computer che fornisce servizi ad altri computer",
+      "servizio che traduce nomi di dominio in indirizzi IP",
+      "unità di archiviazione a stato solido",
+      "tecnologia per collegamenti a corto raggio"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Qual è la rappresentazione binaria del numero 5?",
+    "options": [
+      "100",
+      "110",
+      "101",
+      "101 (4)"
+    ],
+    "correct": 2,
+    "difficulty": "hard",
+    "explain": "Il binario usa 0 e 1."
+  },
+  {
+    "q": "Qual è la rappresentazione binaria del numero 78?",
+    "options": [
+      "0111001",
+      "1001110",
+      "1001101",
+      "1001111"
+    ],
+    "correct": 1,
+    "difficulty": "hard",
+    "explain": "Il binario usa 0 e 1."
+  },
+  {
+    "q": "[Tech] Il termine “compilatore” indica…",
+    "options": [
+      "password lunga con caratteri vari, non facilmente intuibile",
+      "insieme di funzioni riutilizzabili",
+      "parte visibile all’utente di un’app",
+      "programma che traduce codice in eseguibile"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Tech] “validazione”: cosa significa?",
+    "options": [
+      "test di un modello su dati non visti",
+      "sistema per organizzare e interrogare dati",
+      "linguaggio per interrogare database relazionali",
+      "truffa per rubare credenziali fingendosi un servizio affidabile"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Tech] “update” si definisce come…",
+    "options": [
+      "programma che traduce codice in eseguibile",
+      "aggiornamento software",
+      "dispositivo che collega una rete a internet",
+      "test di un modello su dati non visti"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Qual è la rappresentazione binaria del numero 219?",
+    "options": [
+      "11011011 (4)",
+      "11011011",
+      "11011010",
+      "11011100"
+    ],
+    "correct": 1,
+    "difficulty": "hard",
+    "explain": "Il binario usa 0 e 1."
+  },
+  {
+    "q": "[Tech] “modem”: cosa significa?",
+    "options": [
+      "dispositivo che collega una rete a internet",
+      "processore che esegue istruzioni",
+      "struttura/libreria per costruire software",
+      "tecniche per apprendere modelli dai dati"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Tech] In questo quiz, “crittografia” vuol dire…",
+    "options": [
+      "tecnica per rendere un messaggio leggibile solo a chi ha la chiave",
+      "programma che traduce codice in eseguibile",
+      "ritardo nella risposta di un sistema",
+      "insieme di dati usato per analisi o training"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Qual è la rappresentazione binaria del numero 81?",
+    "options": [
+      "1010010",
+      "1010000",
+      "1000101",
+      "1010001"
+    ],
+    "correct": 3,
+    "difficulty": "hard",
+    "explain": "Il binario usa 0 e 1."
+  },
+  {
+    "q": "Qual è la rappresentazione binaria del numero 151?",
+    "options": [
+      "10011000",
+      "10010111",
+      "11101001",
+      "10010110"
+    ],
+    "correct": 1,
+    "difficulty": "hard",
+    "explain": "Il binario usa 0 e 1."
+  },
+  {
+    "q": "[Tech] Il termine “SQL” indica…",
+    "options": [
+      "dispositivo che collega una rete a internet",
+      "servizio che traduce nomi di dominio in indirizzi IP",
+      "computer che fornisce servizi ad altri computer",
+      "linguaggio per interrogare database relazionali"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Tech] Indica la descrizione corretta di “versionamento”.",
+    "options": [
+      "gestione delle versioni di un progetto",
+      "tecnica per rendere un messaggio leggibile solo a chi ha la chiave",
+      "software dannoso",
+      "servizi e risorse accessibili via internet"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Tech] “phishing” si definisce come…",
+    "options": [
+      "programma/dispositivo che usa un servizio (server)",
+      "procedura per risolvere un problema",
+      "truffa per rubare credenziali fingendosi un servizio affidabile",
+      "errore in un programma"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Tech] Che cos'è “machine learning”?",
+    "options": [
+      "gestione delle versioni di un progetto",
+      "tecniche per apprendere modelli dai dati",
+      "aggiornamento software",
+      "struttura/libreria per costruire software"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Qual è la rappresentazione binaria del numero 63?",
+    "options": [
+      "1000000",
+      "111110",
+      "111111 (4)",
+      "111111"
+    ],
+    "correct": 3,
+    "difficulty": "hard",
+    "explain": "Il binario usa 0 e 1."
+  },
+  {
+    "q": "Qual è la rappresentazione binaria del numero 172?",
+    "options": [
+      "10101101",
+      "00110101",
+      "10101100",
+      "10101011"
+    ],
+    "correct": 2,
+    "difficulty": "hard",
+    "explain": "Il binario usa 0 e 1."
+  },
+  {
+    "q": "[Tech] “Wi‑Fi”: cosa significa?",
+    "options": [
+      "aggiornamento software",
+      "tecnologia di rete senza fili",
+      "indirizzo numerico di un dispositivo in rete",
+      "ambiente di sviluppo integrato"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Tech] Qual è il significato di “modem”?",
+    "options": [
+      "piccolo dato salvato dal sito nel browser",
+      "dispositivo che collega una rete a internet",
+      "parte server/logica di un’app",
+      "gestione delle versioni di un progetto"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Tech] Qual è il significato di “cookie”?",
+    "options": [
+      "modello troppo adattato ai dati di training",
+      "dispositivo che collega una rete a internet",
+      "struttura/libreria per costruire software",
+      "piccolo dato salvato dal sito nel browser"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Tech] “update”: cosa significa?",
+    "options": [
+      "piccolo dato salvato dal sito nel browser",
+      "aggiornamento software",
+      "tecnica per rendere un messaggio leggibile solo a chi ha la chiave",
+      "sistema per organizzare e interrogare dati"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Qual è la rappresentazione binaria del numero 246?",
+    "options": [
+      "11110111",
+      "11110110",
+      "11110101",
+      "01101111"
+    ],
+    "correct": 1,
+    "difficulty": "hard",
+    "explain": "Il binario usa 0 e 1."
+  },
+  {
+    "q": "[Tech] Seleziona la definizione corretta di “IP”.",
+    "options": [
+      "linguaggio per interrogare database relazionali",
+      "indirizzo numerico di un dispositivo in rete",
+      "aggiornamento software",
+      "procedura per risolvere un problema"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Qual è la rappresentazione binaria del numero 69?",
+    "options": [
+      "1000101",
+      "1010001",
+      "1000110",
+      "1000100"
+    ],
+    "correct": 0,
+    "difficulty": "hard",
+    "explain": "Il binario usa 0 e 1."
+  },
+  {
+    "q": "[Tech] In questo quiz, “open source” vuol dire…",
+    "options": [
+      "software il cui codice sorgente è accessibile e modificabile",
+      "sistema per organizzare e interrogare dati",
+      "test di un modello su dati non visti",
+      "ritardo nella risposta di un sistema"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Tech] Indica la descrizione corretta di “API”.",
+    "options": [
+      "indirizzo di una risorsa sul web",
+      "interfaccia per usare funzioni o servizi",
+      "software il cui codice sorgente è accessibile e modificabile",
+      "unità di archiviazione a stato solido"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Qual è la rappresentazione binaria del numero 110?",
+    "options": [
+      "0111011",
+      "1101111",
+      "1101101",
+      "1101110"
+    ],
+    "correct": 3,
+    "difficulty": "hard",
+    "explain": "Il binario usa 0 e 1."
+  },
+  {
+    "q": "Qual è la rappresentazione binaria del numero 10?",
+    "options": [
+      "0101",
+      "1001",
+      "1010",
+      "1011"
+    ],
+    "correct": 2,
+    "difficulty": "hard",
+    "explain": "Il binario usa 0 e 1."
+  },
+  {
+    "q": "Qual è la rappresentazione binaria del numero 30?",
+    "options": [
+      "11110",
+      "01111",
+      "11111",
+      "11101"
+    ],
+    "correct": 0,
+    "difficulty": "hard",
+    "explain": "Il binario usa 0 e 1."
+  },
+  {
+    "q": "[Tech] “2FA”: cosa significa?",
+    "options": [
+      "dispositivo che collega una rete a internet",
+      "ambiente di sviluppo integrato",
+      "autenticazione a due fattori",
+      "programma/dispositivo che usa un servizio (server)"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Qual è la rappresentazione binaria del numero 124?",
+    "options": [
+      "1111011",
+      "1111101",
+      "0011111",
+      "1111100"
+    ],
+    "correct": 3,
+    "difficulty": "hard",
+    "explain": "Il binario usa 0 e 1."
+  },
+  {
+    "q": "Qual è la rappresentazione binaria del numero 101?",
+    "options": [
+      "1010011",
+      "1100101",
+      "1100110",
+      "1100100"
+    ],
+    "correct": 1,
+    "difficulty": "hard",
+    "explain": "Il binario usa 0 e 1."
+  },
+  {
+    "q": "[Tech] Il termine “CPU” indica…",
+    "options": [
+      "processore che esegue istruzioni",
+      "quantità di dati trasferibili per unità di tempo",
+      "tecnologia di rete senza fili",
+      "tecnologia per collegamenti a corto raggio"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Qual è la rappresentazione binaria del numero 125?",
+    "options": [
+      "1111110",
+      "1111101",
+      "1011111",
+      "1111100"
+    ],
+    "correct": 1,
+    "difficulty": "hard",
+    "explain": "Il binario usa 0 e 1."
+  },
+  {
+    "q": "Qual è la rappresentazione binaria del numero 35?",
+    "options": [
+      "100100",
+      "100010",
+      "110001",
+      "100011"
+    ],
+    "correct": 3,
+    "difficulty": "hard",
+    "explain": "Il binario usa 0 e 1."
+  },
+  {
+    "q": "[Tech] “latency” si definisce come…",
+    "options": [
+      "copia di sicurezza dei dati",
+      "tecnica per rendere un messaggio leggibile solo a chi ha la chiave",
+      "ritardo nella risposta di un sistema",
+      "password lunga con caratteri vari, non facilmente intuibile"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Qual è la rappresentazione binaria del numero 8?",
+    "options": [
+      "0001",
+      "1001",
+      "111",
+      "1000"
+    ],
+    "correct": 3,
+    "difficulty": "hard",
+    "explain": "Il binario usa 0 e 1."
+  },
+  {
+    "q": "[Tech] Il termine “API” indica…",
+    "options": [
+      "interfaccia per usare funzioni o servizi",
+      "errore in un programma",
+      "sistema di controllo versione distribuito",
+      "ritardo nella risposta di un sistema"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Tech] Qual è il significato di “CPU”?",
+    "options": [
+      "dispositivo che collega una rete a internet",
+      "processore che esegue istruzioni",
+      "tecnologia di rete senza fili",
+      "raccolta organizzata di file di un progetto"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Qual è la rappresentazione binaria del numero 252?",
+    "options": [
+      "00111111",
+      "11111011",
+      "11111101",
+      "11111100"
+    ],
+    "correct": 3,
+    "difficulty": "hard",
+    "explain": "Il binario usa 0 e 1."
+  },
+  {
+    "q": "[Tech] Che cos'è “firewall”?",
+    "options": [
+      "computer che fornisce servizi ad altri computer",
+      "errore in un programma",
+      "truffa per rubare credenziali fingendosi un servizio affidabile",
+      "sistema che filtra il traffico di rete"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Tech] “password forte” si definisce come…",
+    "options": [
+      "tecnologia per collegamenti a corto raggio",
+      "test di un modello su dati non visti",
+      "modello troppo adattato ai dati di training",
+      "password lunga con caratteri vari, non facilmente intuibile"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Tech] “frontend” si definisce come…",
+    "options": [
+      "parte visibile all’utente di un’app",
+      "gestione delle versioni di un progetto",
+      "programma che traduce codice in eseguibile",
+      "quantità di dati trasferibili per unità di tempo"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Tech] Qual è il significato di “crittografia”?",
+    "options": [
+      "programma/dispositivo che usa un servizio (server)",
+      "tecnica per rendere un messaggio leggibile solo a chi ha la chiave",
+      "sistema che filtra il traffico di rete",
+      "modello troppo adattato ai dati di training"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Qual è la rappresentazione binaria del numero 45?",
+    "options": [
+      "101110",
+      "101101 (4)",
+      "101101",
+      "101100"
+    ],
+    "correct": 2,
+    "difficulty": "hard",
+    "explain": "Il binario usa 0 e 1."
+  },
+  {
+    "q": "[Tech] Il termine “backend” indica…",
+    "options": [
+      "parte server/logica di un’app",
+      "struttura/libreria per costruire software",
+      "quantità di dati trasferibili per unità di tempo",
+      "servizi e risorse accessibili via internet"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Qual è la rappresentazione binaria del numero 57?",
+    "options": [
+      "111010",
+      "111001",
+      "111000",
+      "100111"
+    ],
+    "correct": 1,
+    "difficulty": "hard",
+    "explain": "Il binario usa 0 e 1."
+  },
+  {
+    "q": "[Tech] Indica la descrizione corretta di “open source”.",
+    "options": [
+      "dispositivo che collega una rete a internet",
+      "programma che esegue codice traducendolo al volo",
+      "copia di sicurezza dei dati",
+      "software il cui codice sorgente è accessibile e modificabile"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Tech] In questo quiz, “repository” vuol dire…",
+    "options": [
+      "raccolta organizzata di file di un progetto",
+      "programma che esegue codice traducendolo al volo",
+      "indirizzo numerico di un dispositivo in rete",
+      "ritardo nella risposta di un sistema"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Tech] “IDE”: cosa significa?",
+    "options": [
+      "ambiente di sviluppo integrato",
+      "tecnica per rendere un messaggio leggibile solo a chi ha la chiave",
+      "linguaggio per interrogare database relazionali",
+      "gestione delle versioni di un progetto"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Qual è la rappresentazione binaria del numero 75?",
+    "options": [
+      "1001011",
+      "1101001",
+      "1001010",
+      "1001100"
+    ],
+    "correct": 0,
+    "difficulty": "hard",
+    "explain": "Il binario usa 0 e 1."
+  },
+  {
+    "q": "[Tech] Che cos'è “IP”?",
+    "options": [
+      "indirizzo di una risorsa sul web",
+      "dispositivo che collega una rete a internet",
+      "indirizzo numerico di un dispositivo in rete",
+      "tecniche per apprendere modelli dai dati"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Tech] “API” si definisce come…",
+    "options": [
+      "ambiente di sviluppo integrato",
+      "programma/dispositivo che usa un servizio (server)",
+      "interfaccia per usare funzioni o servizi",
+      "servizio che traduce nomi di dominio in indirizzi IP"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Tech] “framework”: cosa significa?",
+    "options": [
+      "quantità di dati trasferibili per unità di tempo",
+      "insieme di funzioni riutilizzabili",
+      "struttura/libreria per costruire software",
+      "password lunga con caratteri vari, non facilmente intuibile"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Tech] “Bluetooth” si definisce come…",
+    "options": [
+      "parte visibile all’utente di un’app",
+      "ambiente di sviluppo integrato",
+      "tecnologia per collegamenti a corto raggio",
+      "password lunga con caratteri vari, non facilmente intuibile"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Tech] Qual è il significato di “client”?",
+    "options": [
+      "dispositivo che collega una rete a internet",
+      "indirizzo numerico di un dispositivo in rete",
+      "autenticazione a due fattori",
+      "programma/dispositivo che usa un servizio (server)"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Tech] “IP” si definisce come…",
+    "options": [
+      "truffa per rubare credenziali fingendosi un servizio affidabile",
+      "tecnologia per collegamenti a corto raggio",
+      "indirizzo numerico di un dispositivo in rete",
+      "gestione delle versioni di un progetto"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Tech] Seleziona la definizione corretta di “bug”.",
+    "options": [
+      "dispositivo che collega una rete a internet",
+      "errore in un programma",
+      "programma che esegue codice traducendolo al volo",
+      "servizio che traduce nomi di dominio in indirizzi IP"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Qual è la rappresentazione binaria del numero 100?",
+    "options": [
+      "1100100",
+      "1100101",
+      "1100011",
+      "0010011"
+    ],
+    "correct": 0,
+    "difficulty": "hard",
+    "explain": "Il binario usa 0 e 1."
+  },
+  {
+    "q": "Qual è la rappresentazione binaria del numero 29?",
+    "options": [
+      "10111",
+      "11110",
+      "11100",
+      "11101"
+    ],
+    "correct": 3,
+    "difficulty": "hard",
+    "explain": "Il binario usa 0 e 1."
+  },
+  {
+    "q": "[Tech] Qual è il significato di “server”?",
+    "options": [
+      "piccolo dato salvato dal sito nel browser",
+      "servizi e risorse accessibili via internet",
+      "computer che fornisce servizi ad altri computer",
+      "programma per navigare sul web"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Tech] Che cos'è “bug”?",
+    "options": [
+      "ambiente di sviluppo integrato",
+      "modello troppo adattato ai dati di training",
+      "errore in un programma",
+      "computer che fornisce servizi ad altri computer"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Tech] Il termine “crittografia” indica…",
+    "options": [
+      "aggiornamento software",
+      "tecnica per rendere un messaggio leggibile solo a chi ha la chiave",
+      "tecniche per apprendere modelli dai dati",
+      "parte server/logica di un’app"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Tech] Indica la descrizione corretta di “CPU”.",
+    "options": [
+      "dispositivo che collega una rete a internet",
+      "sistema che filtra il traffico di rete",
+      "processore che esegue istruzioni",
+      "software dannoso"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Qual è la rappresentazione binaria del numero 50?",
+    "options": [
+      "010011",
+      "110010",
+      "110011",
+      "110001"
+    ],
+    "correct": 1,
+    "difficulty": "hard",
+    "explain": "Il binario usa 0 e 1."
+  },
+  {
+    "q": "Qual è la rappresentazione binaria del numero 97?",
+    "options": [
+      "1000011",
+      "1100001",
+      "1100000",
+      "1100010"
+    ],
+    "correct": 1,
+    "difficulty": "hard",
+    "explain": "Il binario usa 0 e 1."
+  },
+  {
+    "q": "[Tech] In breve, “overfitting” è…",
+    "options": [
+      "truffa per rubare credenziali fingendosi un servizio affidabile",
+      "tecnologia di rete senza fili",
+      "modello troppo adattato ai dati di training",
+      "struttura/libreria per costruire software"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Tech] Completa: “interprete” = …",
+    "options": [
+      "programma che esegue codice traducendolo al volo",
+      "ritardo nella risposta di un sistema",
+      "programma per navigare sul web",
+      "parte server/logica di un’app"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Tech] In breve, “framework” è…",
+    "options": [
+      "struttura/libreria per costruire software",
+      "unità di archiviazione a stato solido",
+      "password lunga con caratteri vari, non facilmente intuibile",
+      "dispositivo che instrada dati tra reti"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Tech] In questo quiz, “Git” vuol dire…",
+    "options": [
+      "sistema di controllo versione distribuito",
+      "programma/dispositivo che usa un servizio (server)",
+      "sistema per organizzare e interrogare dati",
+      "ambiente di sviluppo integrato"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Qual è la rappresentazione binaria del numero 4?",
+    "options": [
+      "101",
+      "100",
+      "11",
+      "001"
+    ],
+    "correct": 1,
+    "difficulty": "hard",
+    "explain": "Il binario usa 0 e 1."
+  },
+  {
+    "q": "Qual è la rappresentazione binaria del numero 183?",
+    "options": [
+      "10111000",
+      "10110111",
+      "11101101",
+      "10110110"
+    ],
+    "correct": 1,
+    "difficulty": "hard",
+    "explain": "Il binario usa 0 e 1."
+  },
+  {
+    "q": "[Tech] Il termine “latency” indica…",
+    "options": [
+      "insieme di funzioni riutilizzabili",
+      "ritardo nella risposta di un sistema",
+      "interfaccia per usare funzioni o servizi",
+      "dispositivo che collega una rete a internet"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Qual è la rappresentazione binaria del numero 234?",
+    "options": [
+      "11101001",
+      "11101010",
+      "01010111",
+      "11101011"
+    ],
+    "correct": 1,
+    "difficulty": "hard",
+    "explain": "Il binario usa 0 e 1."
+  },
+  {
+    "q": "[Tech] In questo quiz, “phishing” vuol dire…",
+    "options": [
+      "autenticazione a due fattori",
+      "software il cui codice sorgente è accessibile e modificabile",
+      "struttura/libreria per costruire software",
+      "truffa per rubare credenziali fingendosi un servizio affidabile"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Qual è la rappresentazione binaria del numero 2?",
+    "options": [
+      "1",
+      "11",
+      "10",
+      "01"
+    ],
+    "correct": 2,
+    "difficulty": "hard",
+    "explain": "Il binario usa 0 e 1."
+  },
+  {
+    "q": "[Tech] Il termine “bug” indica…",
+    "options": [
+      "programma/dispositivo che usa un servizio (server)",
+      "tecniche per apprendere modelli dai dati",
+      "servizi e risorse accessibili via internet",
+      "errore in un programma"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Tech] Che cos'è “router”?",
+    "options": [
+      "autenticazione a due fattori",
+      "insieme di dati usato per analisi o training",
+      "programma che traduce codice in eseguibile",
+      "dispositivo che instrada dati tra reti"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Tech] In breve, “validazione” è…",
+    "options": [
+      "dispositivo che collega una rete a internet",
+      "test di un modello su dati non visti",
+      "autenticazione a due fattori",
+      "aggiornamento software"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Tech] In questo quiz, “Bluetooth” vuol dire…",
+    "options": [
+      "tecnologia per collegamenti a corto raggio",
+      "processore che esegue istruzioni",
+      "dispositivo che instrada dati tra reti",
+      "sistema per organizzare e interrogare dati"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Tech] “interprete” si definisce come…",
+    "options": [
+      "insieme di funzioni riutilizzabili",
+      "servizio che traduce nomi di dominio in indirizzi IP",
+      "tecnologia di rete senza fili",
+      "programma che esegue codice traducendolo al volo"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Qual è la rappresentazione binaria del numero 33?",
+    "options": [
+      "100010",
+      "100000",
+      "100001 (4)",
+      "100001"
+    ],
+    "correct": 3,
+    "difficulty": "hard",
+    "explain": "Il binario usa 0 e 1."
+  },
+  {
+    "q": "Qual è la rappresentazione binaria del numero 64?",
+    "options": [
+      "111111",
+      "1000000",
+      "1000001",
+      "0000001"
+    ],
+    "correct": 1,
+    "difficulty": "hard",
+    "explain": "Il binario usa 0 e 1."
+  },
+  {
+    "q": "Qual è la rappresentazione binaria del numero 19?",
+    "options": [
+      "10011",
+      "11001",
+      "10010",
+      "10100"
+    ],
+    "correct": 0,
+    "difficulty": "hard",
+    "explain": "Il binario usa 0 e 1."
+  },
+  {
+    "q": "[Tech] In breve, “latency” è…",
+    "options": [
+      "errore in un programma",
+      "computer che fornisce servizi ad altri computer",
+      "ritardo nella risposta di un sistema",
+      "raccolta organizzata di file di un progetto"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Qual è la rappresentazione binaria del numero 156?",
+    "options": [
+      "10011101",
+      "00111001",
+      "10011100",
+      "10011011"
+    ],
+    "correct": 2,
+    "difficulty": "hard",
+    "explain": "Il binario usa 0 e 1."
+  },
+  {
+    "q": "[Tech] Seleziona la definizione corretta di “compilatore”.",
+    "options": [
+      "indirizzo numerico di un dispositivo in rete",
+      "programma che traduce codice in eseguibile",
+      "dispositivo che collega una rete a internet",
+      "tecnologia di rete senza fili"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Tech] In questo quiz, “interprete” vuol dire…",
+    "options": [
+      "programma che esegue codice traducendolo al volo",
+      "autenticazione a due fattori",
+      "raccolta organizzata di file di un progetto",
+      "tecniche per apprendere modelli dai dati"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Tech] In breve, “machine learning” è…",
+    "options": [
+      "tecnica per rendere un messaggio leggibile solo a chi ha la chiave",
+      "tecniche per apprendere modelli dai dati",
+      "modello troppo adattato ai dati di training",
+      "programma/dispositivo che usa un servizio (server)"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Qual è la rappresentazione binaria del numero 9?",
+    "options": [
+      "1001 (4)",
+      "1010",
+      "1000",
+      "1001"
+    ],
+    "correct": 3,
+    "difficulty": "hard",
+    "explain": "Il binario usa 0 e 1."
+  },
+  {
+    "q": "[Tech] Che cos'è “update”?",
+    "options": [
+      "aggiornamento software",
+      "indirizzo di una risorsa sul web",
+      "quantità di dati trasferibili per unità di tempo",
+      "interfaccia per usare funzioni o servizi"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Qual è la rappresentazione binaria del numero 203?",
+    "options": [
+      "11010011",
+      "11001011",
+      "11001010",
+      "11001100"
+    ],
+    "correct": 1,
+    "difficulty": "hard",
+    "explain": "Il binario usa 0 e 1."
+  },
+  {
+    "q": "Qual è la rappresentazione binaria del numero 249?",
+    "options": [
+      "11111000",
+      "11111010",
+      "10011111",
+      "11111001"
+    ],
+    "correct": 3,
+    "difficulty": "hard",
+    "explain": "Il binario usa 0 e 1."
+  },
+  {
+    "q": "Qual è la rappresentazione binaria del numero 167?",
+    "options": [
+      "10100110",
+      "10101000",
+      "10100111",
+      "11100101"
+    ],
+    "correct": 2,
+    "difficulty": "hard",
+    "explain": "Il binario usa 0 e 1."
+  },
+  {
+    "q": "[Tech] In breve, “Git” è…",
+    "options": [
+      "procedura per risolvere un problema",
+      "truffa per rubare credenziali fingendosi un servizio affidabile",
+      "password lunga con caratteri vari, non facilmente intuibile",
+      "sistema di controllo versione distribuito"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Qual è la rappresentazione binaria del numero 82?",
+    "options": [
+      "1010011",
+      "1010010",
+      "1010001",
+      "0100101"
+    ],
+    "correct": 1,
+    "difficulty": "hard",
+    "explain": "Il binario usa 0 e 1."
+  },
+  {
+    "q": "[Tech] Indica la descrizione corretta di “update”.",
+    "options": [
+      "servizio che traduce nomi di dominio in indirizzi IP",
+      "aggiornamento software",
+      "sistema per organizzare e interrogare dati",
+      "software dannoso"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Qual è la rappresentazione binaria del numero 229?",
+    "options": [
+      "11100100",
+      "11100101",
+      "10100111",
+      "11100110"
+    ],
+    "correct": 1,
+    "difficulty": "hard",
+    "explain": "Il binario usa 0 e 1."
+  },
+  {
+    "q": "Qual è la rappresentazione binaria del numero 250?",
+    "options": [
+      "11111011",
+      "11111001",
+      "01011111",
+      "11111010"
+    ],
+    "correct": 3,
+    "difficulty": "hard",
+    "explain": "Il binario usa 0 e 1."
+  },
+  {
+    "q": "Qual è la rappresentazione binaria del numero 236?",
+    "options": [
+      "11101100",
+      "00110111",
+      "11101011",
+      "11101101"
+    ],
+    "correct": 0,
+    "difficulty": "hard",
+    "explain": "Il binario usa 0 e 1."
+  },
+  {
+    "q": "Qual è la rappresentazione binaria del numero 190?",
+    "options": [
+      "10111111",
+      "10111101",
+      "10111110",
+      "01111101"
+    ],
+    "correct": 2,
+    "difficulty": "hard",
+    "explain": "Il binario usa 0 e 1."
+  },
+  {
+    "q": "[Tech] Il termine “Bluetooth” indica…",
+    "options": [
+      "parte visibile all’utente di un’app",
+      "servizi e risorse accessibili via internet",
+      "tecnologia per collegamenti a corto raggio",
+      "programma/dispositivo che usa un servizio (server)"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Tech] “repository” si definisce come…",
+    "options": [
+      "truffa per rubare credenziali fingendosi un servizio affidabile",
+      "gestione delle versioni di un progetto",
+      "raccolta organizzata di file di un progetto",
+      "software dannoso"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Tech] Il termine “machine learning” indica…",
+    "options": [
+      "struttura/libreria per costruire software",
+      "linguaggio per interrogare database relazionali",
+      "programma per navigare sul web",
+      "tecniche per apprendere modelli dai dati"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Qual è la rappresentazione binaria del numero 127?",
+    "options": [
+      "1111111 (4)",
+      "1111111",
+      "10000000",
+      "1111110"
+    ],
+    "correct": 1,
+    "difficulty": "hard",
+    "explain": "Il binario usa 0 e 1."
+  },
+  {
+    "q": "Qual è la rappresentazione binaria del numero 138?",
+    "options": [
+      "10001011",
+      "10001010",
+      "01010001",
+      "10001001"
+    ],
+    "correct": 1,
+    "difficulty": "hard",
+    "explain": "Il binario usa 0 e 1."
+  },
+  {
+    "q": "[Tech] Indica la descrizione corretta di “framework”.",
+    "options": [
+      "quantità di dati trasferibili per unità di tempo",
+      "parte visibile all’utente di un’app",
+      "errore in un programma",
+      "struttura/libreria per costruire software"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Tech] “backend” si definisce come…",
+    "options": [
+      "truffa per rubare credenziali fingendosi un servizio affidabile",
+      "sistema che filtra il traffico di rete",
+      "programma/dispositivo che usa un servizio (server)",
+      "parte server/logica di un’app"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Tech] Il termine “database” indica…",
+    "options": [
+      "parte server/logica di un’app",
+      "computer che fornisce servizi ad altri computer",
+      "tecnologia di rete senza fili",
+      "sistema per organizzare e interrogare dati"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Qual è la rappresentazione binaria del numero 194?",
+    "options": [
+      "01000011",
+      "11000011",
+      "11000010",
+      "11000001"
+    ],
+    "correct": 2,
+    "difficulty": "hard",
+    "explain": "Il binario usa 0 e 1."
+  },
+  {
+    "q": "[Tech] Seleziona la definizione corretta di “algoritmo”.",
+    "options": [
+      "raccolta organizzata di file di un progetto",
+      "procedura per risolvere un problema",
+      "errore in un programma",
+      "processore che esegue istruzioni"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Tech] In breve, “2FA” è…",
+    "options": [
+      "password lunga con caratteri vari, non facilmente intuibile",
+      "processore che esegue istruzioni",
+      "test di un modello su dati non visti",
+      "autenticazione a due fattori"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Qual è la rappresentazione binaria del numero 80?",
+    "options": [
+      "0000101",
+      "1010000",
+      "1001111",
+      "1010001"
+    ],
+    "correct": 1,
+    "difficulty": "hard",
+    "explain": "Il binario usa 0 e 1."
+  },
+  {
+    "q": "[Tech] Indica la descrizione corretta di “crittografia”.",
+    "options": [
+      "indirizzo numerico di un dispositivo in rete",
+      "autenticazione a due fattori",
+      "ambiente di sviluppo integrato",
+      "tecnica per rendere un messaggio leggibile solo a chi ha la chiave"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Tech] “router” si definisce come…",
+    "options": [
+      "dispositivo che instrada dati tra reti",
+      "errore in un programma",
+      "memoria veloce temporanea",
+      "raccolta organizzata di file di un progetto"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Qual è la rappresentazione binaria del numero 61?",
+    "options": [
+      "111110",
+      "111101",
+      "101111",
+      "111100"
+    ],
+    "correct": 1,
+    "difficulty": "hard",
+    "explain": "Il binario usa 0 e 1."
+  },
+  {
+    "q": "[Tech] Che cos'è “cookie”?",
+    "options": [
+      "piccolo dato salvato dal sito nel browser",
+      "quantità di dati trasferibili per unità di tempo",
+      "parte visibile all’utente di un’app",
+      "servizio che traduce nomi di dominio in indirizzi IP"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  }
+]

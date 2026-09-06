@@ -1,0 +1,3302 @@
+[
+  {
+    "q": "Coding: che cos'è una array/lista? (variante 235)",
+    "options": [
+      "Controllo che decide tra due strade (if/else)",
+      "Errore nel programma",
+      "Collezione ordinata di elementi",
+      "Blocco di codice riutilizzabile che esegue un compito"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding (variante 41): quale è un linguaggio di programmazione?",
+    "options": [
+      "Windows (sistema)",
+      "Photoshop",
+      "Python",
+      "Excel (programma)"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding: che cos'è una bug? (variante 58)",
+    "options": [
+      "Controllo che decide tra due strade (if/else)",
+      "Blocco di codice riutilizzabile che esegue un compito",
+      "Errore nel programma",
+      "Istruzione che ripete un blocco di codice"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding (variante 162): quale è un linguaggio di programmazione?",
+    "options": [
+      "Excel (programma)",
+      "Python",
+      "Photoshop",
+      "Windows (sistema)"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding (variante 238): quale è un linguaggio di programmazione?",
+    "options": [
+      "Python",
+      "Windows (sistema)",
+      "Photoshop",
+      "Excel (programma)"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding: che cos'è una condizione? (variante 78)",
+    "options": [
+      "Istruzione che ripete un blocco di codice",
+      "Collezione ordinata di elementi",
+      "Controllo che decide tra due strade (if/else)",
+      "Blocco di codice riutilizzabile che esegue un compito"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding: che cos'è una variabile? (variante 139)",
+    "options": [
+      "Errore nel programma",
+      "Blocco di codice riutilizzabile che esegue un compito",
+      "Contenitore che memorizza un valore",
+      "Collezione ordinata di elementi"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding (variante 75): quale è un linguaggio di programmazione?",
+    "options": [
+      "Photoshop",
+      "Windows (sistema)",
+      "Python",
+      "Excel (programma)"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding: che cos'è una bug? (variante 194)",
+    "options": [
+      "Istruzione che ripete un blocco di codice",
+      "Controllo che decide tra due strade (if/else)",
+      "Collezione ordinata di elementi",
+      "Errore nel programma"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding: che cos'è una array/lista? (variante 223)",
+    "options": [
+      "Blocco di codice riutilizzabile che esegue un compito",
+      "Controllo che decide tra due strade (if/else)",
+      "Collezione ordinata di elementi",
+      "Contenitore che memorizza un valore"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding: che cos'è una loop? (variante 188)",
+    "options": [
+      "Collezione ordinata di elementi",
+      "Contenitore che memorizza un valore",
+      "Istruzione che ripete un blocco di codice",
+      "Controllo che decide tra due strade (if/else)"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding: che cos'è una funzione? (variante 170)",
+    "options": [
+      "Errore nel programma",
+      "Blocco di codice riutilizzabile che esegue un compito",
+      "Istruzione che ripete un blocco di codice",
+      "Controllo che decide tra due strade (if/else)"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding (variante 184): quale è un linguaggio di programmazione?",
+    "options": [
+      "Python",
+      "Photoshop",
+      "Excel (programma)",
+      "Windows (sistema)"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding (variante 208): quale è un linguaggio di programmazione?",
+    "options": [
+      "Photoshop",
+      "Windows (sistema)",
+      "Excel (programma)",
+      "Python"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding: che cos'è una funzione? (variante 206)",
+    "options": [
+      "Contenitore che memorizza un valore",
+      "Istruzione che ripete un blocco di codice",
+      "Controllo che decide tra due strade (if/else)",
+      "Blocco di codice riutilizzabile che esegue un compito"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding: che cos'è una funzione? (variante 264)",
+    "options": [
+      "Blocco di codice riutilizzabile che esegue un compito",
+      "Collezione ordinata di elementi",
+      "Istruzione che ripete un blocco di codice",
+      "Errore nel programma"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding (variante 103): quale è un linguaggio di programmazione?",
+    "options": [
+      "Photoshop",
+      "Windows (sistema)",
+      "Excel (programma)",
+      "Python"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding (variante 46): quale è un linguaggio di programmazione?",
+    "options": [
+      "Excel (programma)",
+      "Windows (sistema)",
+      "Photoshop",
+      "Python"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding: che cos'è una bug? (variante 34)",
+    "options": [
+      "Collezione ordinata di elementi",
+      "Errore nel programma",
+      "Controllo che decide tra due strade (if/else)",
+      "Istruzione che ripete un blocco di codice"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding: che cos'è una funzione? (variante 209)",
+    "options": [
+      "Contenitore che memorizza un valore",
+      "Blocco di codice riutilizzabile che esegue un compito",
+      "Collezione ordinata di elementi",
+      "Istruzione che ripete un blocco di codice"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding: che cos'è una loop? (variante 245)",
+    "options": [
+      "Blocco di codice riutilizzabile che esegue un compito",
+      "Istruzione che ripete un blocco di codice",
+      "Collezione ordinata di elementi",
+      "Controllo che decide tra due strade (if/else)"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding (variante 195): quale è un linguaggio di programmazione?",
+    "options": [
+      "Python",
+      "Excel (programma)",
+      "Photoshop",
+      "Windows (sistema)"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding: che cos'è una loop? (variante 39)",
+    "options": [
+      "Istruzione che ripete un blocco di codice",
+      "Contenitore che memorizza un valore",
+      "Blocco di codice riutilizzabile che esegue un compito",
+      "Collezione ordinata di elementi"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding (variante 201): quale è un linguaggio di programmazione?",
+    "options": [
+      "Windows (sistema)",
+      "Photoshop",
+      "Python",
+      "Excel (programma)"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding: che cos'è una array/lista? (variante 138)",
+    "options": [
+      "Collezione ordinata di elementi",
+      "Errore nel programma",
+      "Controllo che decide tra due strade (if/else)",
+      "Blocco di codice riutilizzabile che esegue un compito"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding (variante 149): quale è un linguaggio di programmazione?",
+    "options": [
+      "Photoshop",
+      "Python",
+      "Excel (programma)",
+      "Windows (sistema)"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding: che cos'è una condizione? (variante 174)",
+    "options": [
+      "Istruzione che ripete un blocco di codice",
+      "Contenitore che memorizza un valore",
+      "Blocco di codice riutilizzabile che esegue un compito",
+      "Controllo che decide tra due strade (if/else)"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding (variante 24): quale è un linguaggio di programmazione?",
+    "options": [
+      "Python",
+      "Windows (sistema)",
+      "Photoshop",
+      "Excel (programma)"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding (variante 218): quale è un linguaggio di programmazione?",
+    "options": [
+      "Excel (programma)",
+      "Python",
+      "Windows (sistema)",
+      "Photoshop"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding (variante 27): quale è un linguaggio di programmazione?",
+    "options": [
+      "Photoshop",
+      "Windows (sistema)",
+      "Python",
+      "Excel (programma)"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding: che cos'è una array/lista? (variante 102)",
+    "options": [
+      "Errore nel programma",
+      "Istruzione che ripete un blocco di codice",
+      "Contenitore che memorizza un valore",
+      "Collezione ordinata di elementi"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding (variante 120): quale è un linguaggio di programmazione?",
+    "options": [
+      "Python",
+      "Photoshop",
+      "Excel (programma)",
+      "Windows (sistema)"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding (variante 126): quale è un linguaggio di programmazione?",
+    "options": [
+      "Photoshop",
+      "Windows (sistema)",
+      "Excel (programma)",
+      "Python"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding: che cos'è una loop? (variante 198)",
+    "options": [
+      "Errore nel programma",
+      "Istruzione che ripete un blocco di codice",
+      "Collezione ordinata di elementi",
+      "Controllo che decide tra due strade (if/else)"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding (variante 178): quale è un linguaggio di programmazione?",
+    "options": [
+      "Python",
+      "Excel (programma)",
+      "Photoshop",
+      "Windows (sistema)"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding: che cos'è una loop? (variante 31)",
+    "options": [
+      "Controllo che decide tra due strade (if/else)",
+      "Collezione ordinata di elementi",
+      "Istruzione che ripete un blocco di codice",
+      "Errore nel programma"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding: che cos'è una bug? (variante 254)",
+    "options": [
+      "Errore nel programma",
+      "Istruzione che ripete un blocco di codice",
+      "Collezione ordinata di elementi",
+      "Controllo che decide tra due strade (if/else)"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding: che cos'è una loop? (variante 267)",
+    "options": [
+      "Errore nel programma",
+      "Blocco di codice riutilizzabile che esegue un compito",
+      "Istruzione che ripete un blocco di codice",
+      "Contenitore che memorizza un valore"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding: che cos'è una condizione? (variante 169)",
+    "options": [
+      "Controllo che decide tra due strade (if/else)",
+      "Collezione ordinata di elementi",
+      "Errore nel programma",
+      "Blocco di codice riutilizzabile che esegue un compito"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding: che cos'è una array/lista? (variante 276)",
+    "options": [
+      "Istruzione che ripete un blocco di codice",
+      "Controllo che decide tra due strade (if/else)",
+      "Errore nel programma",
+      "Collezione ordinata di elementi"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding (variante 66): quale è un linguaggio di programmazione?",
+    "options": [
+      "Python",
+      "Windows (sistema)",
+      "Excel (programma)",
+      "Photoshop"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding: che cos'è una condizione? (variante 14)",
+    "options": [
+      "Controllo che decide tra due strade (if/else)",
+      "Contenitore che memorizza un valore",
+      "Errore nel programma",
+      "Blocco di codice riutilizzabile che esegue un compito"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding (variante 253): quale è un linguaggio di programmazione?",
+    "options": [
+      "Windows (sistema)",
+      "Python",
+      "Photoshop",
+      "Excel (programma)"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding: che cos'è una loop? (variante 269)",
+    "options": [
+      "Istruzione che ripete un blocco di codice",
+      "Controllo che decide tra due strade (if/else)",
+      "Contenitore che memorizza un valore",
+      "Collezione ordinata di elementi"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding (variante 87): quale è un linguaggio di programmazione?",
+    "options": [
+      "Python",
+      "Windows (sistema)",
+      "Excel (programma)",
+      "Photoshop"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding: che cos'è una array/lista? (variante 187)",
+    "options": [
+      "Istruzione che ripete un blocco di codice",
+      "Blocco di codice riutilizzabile che esegue un compito",
+      "Contenitore che memorizza un valore",
+      "Collezione ordinata di elementi"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding (variante 185): quale è un linguaggio di programmazione?",
+    "options": [
+      "Photoshop",
+      "Python",
+      "Excel (programma)",
+      "Windows (sistema)"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding: che cos'è una funzione? (variante 115)",
+    "options": [
+      "Istruzione che ripete un blocco di codice",
+      "Controllo che decide tra due strade (if/else)",
+      "Contenitore che memorizza un valore",
+      "Blocco di codice riutilizzabile che esegue un compito"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding (variante 212): quale è un linguaggio di programmazione?",
+    "options": [
+      "Photoshop",
+      "Windows (sistema)",
+      "Excel (programma)",
+      "Python"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding: che cos'è una array/lista? (variante 173)",
+    "options": [
+      "Blocco di codice riutilizzabile che esegue un compito",
+      "Collezione ordinata di elementi",
+      "Controllo che decide tra due strade (if/else)",
+      "Errore nel programma"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding: che cos'è una bug? (variante 185)",
+    "options": [
+      "Errore nel programma",
+      "Blocco di codice riutilizzabile che esegue un compito",
+      "Controllo che decide tra due strade (if/else)",
+      "Istruzione che ripete un blocco di codice"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding (variante 210): quale è un linguaggio di programmazione?",
+    "options": [
+      "Python",
+      "Photoshop",
+      "Excel (programma)",
+      "Windows (sistema)"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding: che cos'è una array/lista? (variante 45)",
+    "options": [
+      "Contenitore che memorizza un valore",
+      "Collezione ordinata di elementi",
+      "Blocco di codice riutilizzabile che esegue un compito",
+      "Istruzione che ripete un blocco di codice"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding (variante 38): quale è un linguaggio di programmazione?",
+    "options": [
+      "Python",
+      "Excel (programma)",
+      "Windows (sistema)",
+      "Photoshop"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding: che cos'è una condizione? (variante 287)",
+    "options": [
+      "Blocco di codice riutilizzabile che esegue un compito",
+      "Controllo che decide tra due strade (if/else)",
+      "Contenitore che memorizza un valore",
+      "Istruzione che ripete un blocco di codice"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding: che cos'è una array/lista? (variante 163)",
+    "options": [
+      "Controllo che decide tra due strade (if/else)",
+      "Errore nel programma",
+      "Contenitore che memorizza un valore",
+      "Collezione ordinata di elementi"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding (variante 205): quale è un linguaggio di programmazione?",
+    "options": [
+      "Photoshop",
+      "Python",
+      "Excel (programma)",
+      "Windows (sistema)"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding (variante 30): quale è un linguaggio di programmazione?",
+    "options": [
+      "Photoshop",
+      "Windows (sistema)",
+      "Excel (programma)",
+      "Python"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding: che cos'è una variabile? (variante 227)",
+    "options": [
+      "Blocco di codice riutilizzabile che esegue un compito",
+      "Istruzione che ripete un blocco di codice",
+      "Collezione ordinata di elementi",
+      "Contenitore che memorizza un valore"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding: che cos'è una loop? (variante 233)",
+    "options": [
+      "Errore nel programma",
+      "Collezione ordinata di elementi",
+      "Contenitore che memorizza un valore",
+      "Istruzione che ripete un blocco di codice"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding (variante 181): quale è un linguaggio di programmazione?",
+    "options": [
+      "Excel (programma)",
+      "Photoshop",
+      "Python",
+      "Windows (sistema)"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding (variante 145): quale è un linguaggio di programmazione?",
+    "options": [
+      "Python",
+      "Windows (sistema)",
+      "Photoshop",
+      "Excel (programma)"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding (variante 134): quale è un linguaggio di programmazione?",
+    "options": [
+      "Windows (sistema)",
+      "Photoshop",
+      "Python",
+      "Excel (programma)"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding: che cos'è una condizione? (variante 89)",
+    "options": [
+      "Contenitore che memorizza un valore",
+      "Controllo che decide tra due strade (if/else)",
+      "Errore nel programma",
+      "Collezione ordinata di elementi"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding: che cos'è una bug? (variante 243)",
+    "options": [
+      "Controllo che decide tra due strade (if/else)",
+      "Errore nel programma",
+      "Istruzione che ripete un blocco di codice",
+      "Blocco di codice riutilizzabile che esegue un compito"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding (variante 233): quale è un linguaggio di programmazione?",
+    "options": [
+      "Excel (programma)",
+      "Photoshop",
+      "Windows (sistema)",
+      "Python"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding (variante 129): quale è un linguaggio di programmazione?",
+    "options": [
+      "Photoshop",
+      "Python",
+      "Windows (sistema)",
+      "Excel (programma)"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding: che cos'è una loop? (variante 268)",
+    "options": [
+      "Errore nel programma",
+      "Istruzione che ripete un blocco di codice",
+      "Collezione ordinata di elementi",
+      "Controllo che decide tra due strade (if/else)"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding (variante 104): quale è un linguaggio di programmazione?",
+    "options": [
+      "Photoshop",
+      "Excel (programma)",
+      "Python",
+      "Windows (sistema)"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding: che cos'è una array/lista? (variante 82)",
+    "options": [
+      "Collezione ordinata di elementi",
+      "Errore nel programma",
+      "Istruzione che ripete un blocco di codice",
+      "Controllo che decide tra due strade (if/else)"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding: che cos'è una array/lista? (variante 189)",
+    "options": [
+      "Istruzione che ripete un blocco di codice",
+      "Contenitore che memorizza un valore",
+      "Blocco di codice riutilizzabile che esegue un compito",
+      "Collezione ordinata di elementi"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding: che cos'è una funzione? (variante 279)",
+    "options": [
+      "Controllo che decide tra due strade (if/else)",
+      "Collezione ordinata di elementi",
+      "Errore nel programma",
+      "Blocco di codice riutilizzabile che esegue un compito"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding (variante 78): quale è un linguaggio di programmazione?",
+    "options": [
+      "Excel (programma)",
+      "Python",
+      "Photoshop",
+      "Windows (sistema)"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding (variante 82): quale è un linguaggio di programmazione?",
+    "options": [
+      "Photoshop",
+      "Windows (sistema)",
+      "Python",
+      "Excel (programma)"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding: che cos'è una variabile? (variante 247)",
+    "options": [
+      "Istruzione che ripete un blocco di codice",
+      "Errore nel programma",
+      "Contenitore che memorizza un valore",
+      "Blocco di codice riutilizzabile che esegue un compito"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding (variante 100): quale è un linguaggio di programmazione?",
+    "options": [
+      "Photoshop",
+      "Python",
+      "Windows (sistema)",
+      "Excel (programma)"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding: che cos'è una loop? (variante 162)",
+    "options": [
+      "Blocco di codice riutilizzabile che esegue un compito",
+      "Contenitore che memorizza un valore",
+      "Collezione ordinata di elementi",
+      "Istruzione che ripete un blocco di codice"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding (variante 90): quale è un linguaggio di programmazione?",
+    "options": [
+      "Photoshop",
+      "Python",
+      "Excel (programma)",
+      "Windows (sistema)"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding (variante 165): quale è un linguaggio di programmazione?",
+    "options": [
+      "Windows (sistema)",
+      "Python",
+      "Photoshop",
+      "Excel (programma)"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding (variante 31): quale è un linguaggio di programmazione?",
+    "options": [
+      "Windows (sistema)",
+      "Photoshop",
+      "Excel (programma)",
+      "Python"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding: che cos'è una variabile? (variante 9)",
+    "options": [
+      "Contenitore che memorizza un valore",
+      "Collezione ordinata di elementi",
+      "Blocco di codice riutilizzabile che esegue un compito",
+      "Istruzione che ripete un blocco di codice"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding (variante 207): quale è un linguaggio di programmazione?",
+    "options": [
+      "Python",
+      "Windows (sistema)",
+      "Photoshop",
+      "Excel (programma)"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding (variante 240): quale è un linguaggio di programmazione?",
+    "options": [
+      "Python",
+      "Photoshop",
+      "Excel (programma)",
+      "Windows (sistema)"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding (variante 97): quale è un linguaggio di programmazione?",
+    "options": [
+      "Photoshop",
+      "Python",
+      "Excel (programma)",
+      "Windows (sistema)"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding (variante 139): quale è un linguaggio di programmazione?",
+    "options": [
+      "Excel (programma)",
+      "Python",
+      "Photoshop",
+      "Windows (sistema)"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding: che cos'è una bug? (variante 244)",
+    "options": [
+      "Collezione ordinata di elementi",
+      "Controllo che decide tra due strade (if/else)",
+      "Istruzione che ripete un blocco di codice",
+      "Errore nel programma"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding (variante 109): quale è un linguaggio di programmazione?",
+    "options": [
+      "Windows (sistema)",
+      "Excel (programma)",
+      "Photoshop",
+      "Python"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding (variante 121): quale è un linguaggio di programmazione?",
+    "options": [
+      "Python",
+      "Windows (sistema)",
+      "Excel (programma)",
+      "Photoshop"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding (variante 45): quale è un linguaggio di programmazione?",
+    "options": [
+      "Python",
+      "Windows (sistema)",
+      "Photoshop",
+      "Excel (programma)"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding: che cos'è una variabile? (variante 291)",
+    "options": [
+      "Errore nel programma",
+      "Collezione ordinata di elementi",
+      "Istruzione che ripete un blocco di codice",
+      "Contenitore che memorizza un valore"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding (variante 148): quale è un linguaggio di programmazione?",
+    "options": [
+      "Excel (programma)",
+      "Photoshop",
+      "Windows (sistema)",
+      "Python"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding (variante 167): quale è un linguaggio di programmazione?",
+    "options": [
+      "Excel (programma)",
+      "Windows (sistema)",
+      "Photoshop",
+      "Python"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding (variante 116): quale è un linguaggio di programmazione?",
+    "options": [
+      "Python",
+      "Photoshop",
+      "Windows (sistema)",
+      "Excel (programma)"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding: che cos'è una bug? (variante 193)",
+    "options": [
+      "Collezione ordinata di elementi",
+      "Contenitore che memorizza un valore",
+      "Controllo che decide tra due strade (if/else)",
+      "Errore nel programma"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding: che cos'è una bug? (variante 77)",
+    "options": [
+      "Contenitore che memorizza un valore",
+      "Errore nel programma",
+      "Collezione ordinata di elementi",
+      "Controllo che decide tra due strade (if/else)"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding: che cos'è una variabile? (variante 69)",
+    "options": [
+      "Istruzione che ripete un blocco di codice",
+      "Controllo che decide tra due strade (if/else)",
+      "Collezione ordinata di elementi",
+      "Contenitore che memorizza un valore"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding: che cos'è una array/lista? (variante 183)",
+    "options": [
+      "Errore nel programma",
+      "Contenitore che memorizza un valore",
+      "Istruzione che ripete un blocco di codice",
+      "Collezione ordinata di elementi"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding: che cos'è una loop? (variante 224)",
+    "options": [
+      "Errore nel programma",
+      "Istruzione che ripete un blocco di codice",
+      "Contenitore che memorizza un valore",
+      "Blocco di codice riutilizzabile che esegue un compito"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding (variante 79): quale è un linguaggio di programmazione?",
+    "options": [
+      "Excel (programma)",
+      "Python",
+      "Windows (sistema)",
+      "Photoshop"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding: che cos'è una bug? (variante 35)",
+    "options": [
+      "Errore nel programma",
+      "Istruzione che ripete un blocco di codice",
+      "Blocco di codice riutilizzabile che esegue un compito",
+      "Controllo che decide tra due strade (if/else)"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding: che cos'è una array/lista? (variante 52)",
+    "options": [
+      "Errore nel programma",
+      "Contenitore che memorizza un valore",
+      "Collezione ordinata di elementi",
+      "Istruzione che ripete un blocco di codice"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding (variante 61): quale è un linguaggio di programmazione?",
+    "options": [
+      "Windows (sistema)",
+      "Python",
+      "Excel (programma)",
+      "Photoshop"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding: che cos'è una array/lista? (variante 150)",
+    "options": [
+      "Collezione ordinata di elementi",
+      "Controllo che decide tra due strade (if/else)",
+      "Errore nel programma",
+      "Contenitore che memorizza un valore"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding: che cos'è una funzione? (variante 62)",
+    "options": [
+      "Contenitore che memorizza un valore",
+      "Controllo che decide tra due strade (if/else)",
+      "Blocco di codice riutilizzabile che esegue un compito",
+      "Collezione ordinata di elementi"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding: che cos'è una bug? (variante 29)",
+    "options": [
+      "Contenitore che memorizza un valore",
+      "Blocco di codice riutilizzabile che esegue un compito",
+      "Controllo che decide tra due strade (if/else)",
+      "Errore nel programma"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding (variante 131): quale è un linguaggio di programmazione?",
+    "options": [
+      "Python",
+      "Excel (programma)",
+      "Windows (sistema)",
+      "Photoshop"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding: che cos'è una condizione? (variante 257)",
+    "options": [
+      "Blocco di codice riutilizzabile che esegue un compito",
+      "Contenitore che memorizza un valore",
+      "Istruzione che ripete un blocco di codice",
+      "Controllo che decide tra due strade (if/else)"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding (variante 260): quale è un linguaggio di programmazione?",
+    "options": [
+      "Windows (sistema)",
+      "Excel (programma)",
+      "Photoshop",
+      "Python"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding: che cos'è una array/lista? (variante 231)",
+    "options": [
+      "Collezione ordinata di elementi",
+      "Controllo che decide tra due strade (if/else)",
+      "Errore nel programma",
+      "Istruzione che ripete un blocco di codice"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding (variante 65): quale è un linguaggio di programmazione?",
+    "options": [
+      "Windows (sistema)",
+      "Python",
+      "Photoshop",
+      "Excel (programma)"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding (variante 133): quale è un linguaggio di programmazione?",
+    "options": [
+      "Photoshop",
+      "Python",
+      "Excel (programma)",
+      "Windows (sistema)"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding (variante 19): quale è un linguaggio di programmazione?",
+    "options": [
+      "Excel (programma)",
+      "Windows (sistema)",
+      "Python",
+      "Photoshop"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding: che cos'è una variabile? (variante 24)",
+    "options": [
+      "Contenitore che memorizza un valore",
+      "Istruzione che ripete un blocco di codice",
+      "Controllo che decide tra due strade (if/else)",
+      "Blocco di codice riutilizzabile che esegue un compito"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding (variante 243): quale è un linguaggio di programmazione?",
+    "options": [
+      "Excel (programma)",
+      "Python",
+      "Photoshop",
+      "Windows (sistema)"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding (variante 239): quale è un linguaggio di programmazione?",
+    "options": [
+      "Windows (sistema)",
+      "Python",
+      "Photoshop",
+      "Excel (programma)"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding (variante 73): quale è un linguaggio di programmazione?",
+    "options": [
+      "Windows (sistema)",
+      "Photoshop",
+      "Excel (programma)",
+      "Python"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding: che cos'è una funzione? (variante 265)",
+    "options": [
+      "Collezione ordinata di elementi",
+      "Istruzione che ripete un blocco di codice",
+      "Contenitore che memorizza un valore",
+      "Blocco di codice riutilizzabile che esegue un compito"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding (variante 49): quale è un linguaggio di programmazione?",
+    "options": [
+      "Windows (sistema)",
+      "Photoshop",
+      "Python",
+      "Excel (programma)"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding (variante 200): quale è un linguaggio di programmazione?",
+    "options": [
+      "Windows (sistema)",
+      "Excel (programma)",
+      "Python",
+      "Photoshop"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding: che cos'è una variabile? (variante 7)",
+    "options": [
+      "Errore nel programma",
+      "Controllo che decide tra due strade (if/else)",
+      "Istruzione che ripete un blocco di codice",
+      "Contenitore che memorizza un valore"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding (variante 80): quale è un linguaggio di programmazione?",
+    "options": [
+      "Python",
+      "Photoshop",
+      "Windows (sistema)",
+      "Excel (programma)"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding (variante 141): quale è un linguaggio di programmazione?",
+    "options": [
+      "Excel (programma)",
+      "Windows (sistema)",
+      "Photoshop",
+      "Python"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding: che cos'è una array/lista? (variante 26)",
+    "options": [
+      "Collezione ordinata di elementi",
+      "Istruzione che ripete un blocco di codice",
+      "Contenitore che memorizza un valore",
+      "Controllo che decide tra due strade (if/else)"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding (variante 12): quale è un linguaggio di programmazione?",
+    "options": [
+      "Python",
+      "Photoshop",
+      "Excel (programma)",
+      "Windows (sistema)"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding: che cos'è una funzione? (variante 3)",
+    "options": [
+      "Contenitore che memorizza un valore",
+      "Istruzione che ripete un blocco di codice",
+      "Blocco di codice riutilizzabile che esegue un compito",
+      "Controllo che decide tra due strade (if/else)"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding: che cos'è una bug? (variante 22)",
+    "options": [
+      "Errore nel programma",
+      "Controllo che decide tra due strade (if/else)",
+      "Istruzione che ripete un blocco di codice",
+      "Blocco di codice riutilizzabile che esegue un compito"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding: che cos'è una bug? (variante 211)",
+    "options": [
+      "Blocco di codice riutilizzabile che esegue un compito",
+      "Contenitore che memorizza un valore",
+      "Collezione ordinata di elementi",
+      "Errore nel programma"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding (variante 175): quale è un linguaggio di programmazione?",
+    "options": [
+      "Windows (sistema)",
+      "Photoshop",
+      "Excel (programma)",
+      "Python"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding (variante 125): quale è un linguaggio di programmazione?",
+    "options": [
+      "Windows (sistema)",
+      "Python",
+      "Photoshop",
+      "Excel (programma)"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding (variante 248): quale è un linguaggio di programmazione?",
+    "options": [
+      "Excel (programma)",
+      "Windows (sistema)",
+      "Python",
+      "Photoshop"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding (variante 227): quale è un linguaggio di programmazione?",
+    "options": [
+      "Photoshop",
+      "Windows (sistema)",
+      "Excel (programma)",
+      "Python"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding: che cos'è una array/lista? (variante 147)",
+    "options": [
+      "Errore nel programma",
+      "Blocco di codice riutilizzabile che esegue un compito",
+      "Collezione ordinata di elementi",
+      "Contenitore che memorizza un valore"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding: che cos'è una array/lista? (variante 294)",
+    "options": [
+      "Errore nel programma",
+      "Contenitore che memorizza un valore",
+      "Collezione ordinata di elementi",
+      "Istruzione che ripete un blocco di codice"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding: che cos'è una variabile? (variante 212)",
+    "options": [
+      "Errore nel programma",
+      "Contenitore che memorizza un valore",
+      "Istruzione che ripete un blocco di codice",
+      "Collezione ordinata di elementi"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding: che cos'è una variabile? (variante 64)",
+    "options": [
+      "Contenitore che memorizza un valore",
+      "Controllo che decide tra due strade (if/else)",
+      "Blocco di codice riutilizzabile che esegue un compito",
+      "Istruzione che ripete un blocco di codice"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding: che cos'è una array/lista? (variante 298)",
+    "options": [
+      "Controllo che decide tra due strade (if/else)",
+      "Errore nel programma",
+      "Istruzione che ripete un blocco di codice",
+      "Collezione ordinata di elementi"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding: che cos'è una variabile? (variante 216)",
+    "options": [
+      "Blocco di codice riutilizzabile che esegue un compito",
+      "Istruzione che ripete un blocco di codice",
+      "Contenitore che memorizza un valore",
+      "Collezione ordinata di elementi"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding: che cos'è una variabile? (variante 228)",
+    "options": [
+      "Collezione ordinata di elementi",
+      "Controllo che decide tra due strade (if/else)",
+      "Contenitore che memorizza un valore",
+      "Errore nel programma"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding: che cos'è una array/lista? (variante 258)",
+    "options": [
+      "Blocco di codice riutilizzabile che esegue un compito",
+      "Collezione ordinata di elementi",
+      "Istruzione che ripete un blocco di codice",
+      "Contenitore che memorizza un valore"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding (variante 122): quale è un linguaggio di programmazione?",
+    "options": [
+      "Photoshop",
+      "Windows (sistema)",
+      "Excel (programma)",
+      "Python"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding (variante 161): quale è un linguaggio di programmazione?",
+    "options": [
+      "Excel (programma)",
+      "Photoshop",
+      "Python",
+      "Windows (sistema)"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding (variante 16): quale è un linguaggio di programmazione?",
+    "options": [
+      "Python",
+      "Windows (sistema)",
+      "Photoshop",
+      "Excel (programma)"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding: che cos'è una variabile? (variante 48)",
+    "options": [
+      "Contenitore che memorizza un valore",
+      "Istruzione che ripete un blocco di codice",
+      "Errore nel programma",
+      "Blocco di codice riutilizzabile che esegue un compito"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding (variante 206): quale è un linguaggio di programmazione?",
+    "options": [
+      "Python",
+      "Windows (sistema)",
+      "Excel (programma)",
+      "Photoshop"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding (variante 68): quale è un linguaggio di programmazione?",
+    "options": [
+      "Photoshop",
+      "Excel (programma)",
+      "Windows (sistema)",
+      "Python"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding (variante 211): quale è un linguaggio di programmazione?",
+    "options": [
+      "Windows (sistema)",
+      "Excel (programma)",
+      "Photoshop",
+      "Python"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding: che cos'è una bug? (variante 108)",
+    "options": [
+      "Collezione ordinata di elementi",
+      "Istruzione che ripete un blocco di codice",
+      "Errore nel programma",
+      "Controllo che decide tra due strade (if/else)"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding (variante 23): quale è un linguaggio di programmazione?",
+    "options": [
+      "Python",
+      "Photoshop",
+      "Excel (programma)",
+      "Windows (sistema)"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding: che cos'è una funzione? (variante 10)",
+    "options": [
+      "Istruzione che ripete un blocco di codice",
+      "Controllo che decide tra due strade (if/else)",
+      "Blocco di codice riutilizzabile che esegue un compito",
+      "Errore nel programma"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding (variante 144): quale è un linguaggio di programmazione?",
+    "options": [
+      "Photoshop",
+      "Windows (sistema)",
+      "Excel (programma)",
+      "Python"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding: che cos'è una variabile? (variante 101)",
+    "options": [
+      "Contenitore che memorizza un valore",
+      "Collezione ordinata di elementi",
+      "Errore nel programma",
+      "Istruzione che ripete un blocco di codice"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding: che cos'è una array/lista? (variante 37)",
+    "options": [
+      "Collezione ordinata di elementi",
+      "Contenitore che memorizza un valore",
+      "Istruzione che ripete un blocco di codice",
+      "Errore nel programma"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding: che cos'è una array/lista? (variante 270)",
+    "options": [
+      "Contenitore che memorizza un valore",
+      "Blocco di codice riutilizzabile che esegue un compito",
+      "Controllo che decide tra due strade (if/else)",
+      "Collezione ordinata di elementi"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding: che cos'è una loop? (variante 230)",
+    "options": [
+      "Contenitore che memorizza un valore",
+      "Errore nel programma",
+      "Istruzione che ripete un blocco di codice",
+      "Blocco di codice riutilizzabile che esegue un compito"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding (variante 172): quale è un linguaggio di programmazione?",
+    "options": [
+      "Python",
+      "Photoshop",
+      "Windows (sistema)",
+      "Excel (programma)"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding (variante 76): quale è un linguaggio di programmazione?",
+    "options": [
+      "Python",
+      "Windows (sistema)",
+      "Photoshop",
+      "Excel (programma)"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding: che cos'è una condizione? (variante 203)",
+    "options": [
+      "Contenitore che memorizza un valore",
+      "Istruzione che ripete un blocco di codice",
+      "Controllo che decide tra due strade (if/else)",
+      "Errore nel programma"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding: che cos'è una condizione? (variante 68)",
+    "options": [
+      "Controllo che decide tra due strade (if/else)",
+      "Collezione ordinata di elementi",
+      "Istruzione che ripete un blocco di codice",
+      "Errore nel programma"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding (variante 14): quale è un linguaggio di programmazione?",
+    "options": [
+      "Python",
+      "Excel (programma)",
+      "Photoshop",
+      "Windows (sistema)"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding (variante 20): quale è un linguaggio di programmazione?",
+    "options": [
+      "Python",
+      "Excel (programma)",
+      "Windows (sistema)",
+      "Photoshop"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding: che cos'è una array/lista? (variante 178)",
+    "options": [
+      "Errore nel programma",
+      "Contenitore che memorizza un valore",
+      "Collezione ordinata di elementi",
+      "Blocco di codice riutilizzabile che esegue un compito"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding (variante 221): quale è un linguaggio di programmazione?",
+    "options": [
+      "Python",
+      "Windows (sistema)",
+      "Excel (programma)",
+      "Photoshop"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding: che cos'è una variabile? (variante 46)",
+    "options": [
+      "Errore nel programma",
+      "Collezione ordinata di elementi",
+      "Contenitore che memorizza un valore",
+      "Istruzione che ripete un blocco di codice"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding: che cos'è una array/lista? (variante 210)",
+    "options": [
+      "Collezione ordinata di elementi",
+      "Contenitore che memorizza un valore",
+      "Controllo che decide tra due strade (if/else)",
+      "Errore nel programma"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding: che cos'è una variabile? (variante 6)",
+    "options": [
+      "Contenitore che memorizza un valore",
+      "Errore nel programma",
+      "Blocco di codice riutilizzabile che esegue un compito",
+      "Collezione ordinata di elementi"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding (variante 7): quale è un linguaggio di programmazione?",
+    "options": [
+      "Photoshop",
+      "Excel (programma)",
+      "Python",
+      "Windows (sistema)"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding: che cos'è una array/lista? (variante 295)",
+    "options": [
+      "Controllo che decide tra due strade (if/else)",
+      "Collezione ordinata di elementi",
+      "Errore nel programma",
+      "Contenitore che memorizza un valore"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding: che cos'è una variabile? (variante 129)",
+    "options": [
+      "Errore nel programma",
+      "Collezione ordinata di elementi",
+      "Contenitore che memorizza un valore",
+      "Istruzione che ripete un blocco di codice"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding (variante 153): quale è un linguaggio di programmazione?",
+    "options": [
+      "Excel (programma)",
+      "Photoshop",
+      "Windows (sistema)",
+      "Python"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding (variante 112): quale è un linguaggio di programmazione?",
+    "options": [
+      "Excel (programma)",
+      "Photoshop",
+      "Python",
+      "Windows (sistema)"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding (variante 199): quale è un linguaggio di programmazione?",
+    "options": [
+      "Windows (sistema)",
+      "Excel (programma)",
+      "Python",
+      "Photoshop"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding: che cos'è una array/lista? (variante 215)",
+    "options": [
+      "Collezione ordinata di elementi",
+      "Istruzione che ripete un blocco di codice",
+      "Errore nel programma",
+      "Contenitore che memorizza un valore"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding (variante 228): quale è un linguaggio di programmazione?",
+    "options": [
+      "Excel (programma)",
+      "Windows (sistema)",
+      "Photoshop",
+      "Python"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding: che cos'è una funzione? (variante 99)",
+    "options": [
+      "Contenitore che memorizza un valore",
+      "Collezione ordinata di elementi",
+      "Blocco di codice riutilizzabile che esegue un compito",
+      "Istruzione che ripete un blocco di codice"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding: che cos'è una bug? (variante 241)",
+    "options": [
+      "Contenitore che memorizza un valore",
+      "Collezione ordinata di elementi",
+      "Errore nel programma",
+      "Controllo che decide tra due strade (if/else)"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding: che cos'è una funzione? (variante 43)",
+    "options": [
+      "Blocco di codice riutilizzabile che esegue un compito",
+      "Istruzione che ripete un blocco di codice",
+      "Contenitore che memorizza un valore",
+      "Errore nel programma"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding: che cos'è una array/lista? (variante 155)",
+    "options": [
+      "Collezione ordinata di elementi",
+      "Istruzione che ripete un blocco di codice",
+      "Errore nel programma",
+      "Contenitore che memorizza un valore"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding: che cos'è una variabile? (variante 79)",
+    "options": [
+      "Controllo che decide tra due strade (if/else)",
+      "Blocco di codice riutilizzabile che esegue un compito",
+      "Contenitore che memorizza un valore",
+      "Istruzione che ripete un blocco di codice"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding: che cos'è una bug? (variante 275)",
+    "options": [
+      "Collezione ordinata di elementi",
+      "Errore nel programma",
+      "Contenitore che memorizza un valore",
+      "Controllo che decide tra due strade (if/else)"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding: che cos'è una funzione? (variante 186)",
+    "options": [
+      "Istruzione che ripete un blocco di codice",
+      "Collezione ordinata di elementi",
+      "Blocco di codice riutilizzabile che esegue un compito",
+      "Contenitore che memorizza un valore"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding (variante 234): quale è un linguaggio di programmazione?",
+    "options": [
+      "Python",
+      "Photoshop",
+      "Windows (sistema)",
+      "Excel (programma)"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding: che cos'è una bug? (variante 18)",
+    "options": [
+      "Errore nel programma",
+      "Istruzione che ripete un blocco di codice",
+      "Contenitore che memorizza un valore",
+      "Controllo che decide tra due strade (if/else)"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding: che cos'è una condizione? (variante 16)",
+    "options": [
+      "Istruzione che ripete un blocco di codice",
+      "Controllo che decide tra due strade (if/else)",
+      "Blocco di codice riutilizzabile che esegue un compito",
+      "Collezione ordinata di elementi"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding (variante 52): quale è un linguaggio di programmazione?",
+    "options": [
+      "Python",
+      "Windows (sistema)",
+      "Photoshop",
+      "Excel (programma)"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding: che cos'è una variabile? (variante 260)",
+    "options": [
+      "Errore nel programma",
+      "Istruzione che ripete un blocco di codice",
+      "Collezione ordinata di elementi",
+      "Contenitore che memorizza un valore"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding: che cos'è una loop? (variante 32)",
+    "options": [
+      "Errore nel programma",
+      "Collezione ordinata di elementi",
+      "Istruzione che ripete un blocco di codice",
+      "Contenitore che memorizza un valore"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding: che cos'è una loop? (variante 72)",
+    "options": [
+      "Blocco di codice riutilizzabile che esegue un compito",
+      "Contenitore che memorizza un valore",
+      "Istruzione che ripete un blocco di codice",
+      "Controllo che decide tra due strade (if/else)"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding: che cos'è una variabile? (variante 182)",
+    "options": [
+      "Contenitore che memorizza un valore",
+      "Collezione ordinata di elementi",
+      "Istruzione che ripete un blocco di codice",
+      "Blocco di codice riutilizzabile che esegue un compito"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding: che cos'è una variabile? (variante 255)",
+    "options": [
+      "Istruzione che ripete un blocco di codice",
+      "Contenitore che memorizza un valore",
+      "Blocco di codice riutilizzabile che esegue un compito",
+      "Errore nel programma"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding (variante 50): quale è un linguaggio di programmazione?",
+    "options": [
+      "Windows (sistema)",
+      "Python",
+      "Photoshop",
+      "Excel (programma)"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding (variante 37): quale è un linguaggio di programmazione?",
+    "options": [
+      "Windows (sistema)",
+      "Excel (programma)",
+      "Python",
+      "Photoshop"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding (variante 252): quale è un linguaggio di programmazione?",
+    "options": [
+      "Photoshop",
+      "Python",
+      "Excel (programma)",
+      "Windows (sistema)"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding: che cos'è una variabile? (variante 196)",
+    "options": [
+      "Errore nel programma",
+      "Controllo che decide tra due strade (if/else)",
+      "Contenitore che memorizza un valore",
+      "Collezione ordinata di elementi"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding: che cos'è una array/lista? (variante 67)",
+    "options": [
+      "Controllo che decide tra due strade (if/else)",
+      "Blocco di codice riutilizzabile che esegue un compito",
+      "Errore nel programma",
+      "Collezione ordinata di elementi"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding (variante 203): quale è un linguaggio di programmazione?",
+    "options": [
+      "Excel (programma)",
+      "Photoshop",
+      "Windows (sistema)",
+      "Python"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding (variante 222): quale è un linguaggio di programmazione?",
+    "options": [
+      "Photoshop",
+      "Windows (sistema)",
+      "Excel (programma)",
+      "Python"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding: che cos'è una bug? (variante 60)",
+    "options": [
+      "Errore nel programma",
+      "Istruzione che ripete un blocco di codice",
+      "Contenitore che memorizza un valore",
+      "Controllo che decide tra due strade (if/else)"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding: che cos'è una condizione? (variante 278)",
+    "options": [
+      "Controllo che decide tra due strade (if/else)",
+      "Contenitore che memorizza un valore",
+      "Errore nel programma",
+      "Istruzione che ripete un blocco di codice"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding: che cos'è una condizione? (variante 234)",
+    "options": [
+      "Blocco di codice riutilizzabile che esegue un compito",
+      "Controllo che decide tra due strade (if/else)",
+      "Istruzione che ripete un blocco di codice",
+      "Contenitore che memorizza un valore"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding: che cos'è una array/lista? (variante 168)",
+    "options": [
+      "Istruzione che ripete un blocco di codice",
+      "Collezione ordinata di elementi",
+      "Errore nel programma",
+      "Contenitore che memorizza un valore"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding: che cos'è una funzione? (variante 297)",
+    "options": [
+      "Contenitore che memorizza un valore",
+      "Blocco di codice riutilizzabile che esegue un compito",
+      "Controllo che decide tra due strade (if/else)",
+      "Errore nel programma"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding (variante 247): quale è un linguaggio di programmazione?",
+    "options": [
+      "Photoshop",
+      "Windows (sistema)",
+      "Python",
+      "Excel (programma)"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding (variante 9): quale è un linguaggio di programmazione?",
+    "options": [
+      "Windows (sistema)",
+      "Python",
+      "Excel (programma)",
+      "Photoshop"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding: che cos'è una loop? (variante 192)",
+    "options": [
+      "Controllo che decide tra due strade (if/else)",
+      "Collezione ordinata di elementi",
+      "Istruzione che ripete un blocco di codice",
+      "Blocco di codice riutilizzabile che esegue un compito"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding (variante 92): quale è un linguaggio di programmazione?",
+    "options": [
+      "Photoshop",
+      "Python",
+      "Excel (programma)",
+      "Windows (sistema)"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding: che cos'è una bug? (variante 121)",
+    "options": [
+      "Errore nel programma",
+      "Istruzione che ripete un blocco di codice",
+      "Contenitore che memorizza un valore",
+      "Controllo che decide tra due strade (if/else)"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding (variante 33): quale è un linguaggio di programmazione?",
+    "options": [
+      "Excel (programma)",
+      "Photoshop",
+      "Windows (sistema)",
+      "Python"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding: che cos'è una variabile? (variante 131)",
+    "options": [
+      "Blocco di codice riutilizzabile che esegue un compito",
+      "Contenitore che memorizza un valore",
+      "Collezione ordinata di elementi",
+      "Errore nel programma"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding (variante 21): quale è un linguaggio di programmazione?",
+    "options": [
+      "Photoshop",
+      "Excel (programma)",
+      "Windows (sistema)",
+      "Python"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding: che cos'è una variabile? (variante 44)",
+    "options": [
+      "Errore nel programma",
+      "Blocco di codice riutilizzabile che esegue un compito",
+      "Controllo che decide tra due strade (if/else)",
+      "Contenitore che memorizza un valore"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding: che cos'è una loop? (variante 236)",
+    "options": [
+      "Contenitore che memorizza un valore",
+      "Istruzione che ripete un blocco di codice",
+      "Blocco di codice riutilizzabile che esegue un compito",
+      "Collezione ordinata di elementi"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding: che cos'è una funzione? (variante 160)",
+    "options": [
+      "Blocco di codice riutilizzabile che esegue un compito",
+      "Collezione ordinata di elementi",
+      "Controllo che decide tra due strade (if/else)",
+      "Istruzione che ripete un blocco di codice"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding: che cos'è una loop? (variante 272)",
+    "options": [
+      "Contenitore che memorizza un valore",
+      "Blocco di codice riutilizzabile che esegue un compito",
+      "Collezione ordinata di elementi",
+      "Istruzione che ripete un blocco di codice"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding (variante 196): quale è un linguaggio di programmazione?",
+    "options": [
+      "Windows (sistema)",
+      "Python",
+      "Photoshop",
+      "Excel (programma)"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding (variante 59): quale è un linguaggio di programmazione?",
+    "options": [
+      "Windows (sistema)",
+      "Photoshop",
+      "Excel (programma)",
+      "Python"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding (variante 166): quale è un linguaggio di programmazione?",
+    "options": [
+      "Python",
+      "Windows (sistema)",
+      "Photoshop",
+      "Excel (programma)"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding (variante 53): quale è un linguaggio di programmazione?",
+    "options": [
+      "Excel (programma)",
+      "Python",
+      "Photoshop",
+      "Windows (sistema)"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding: che cos'è una array/lista? (variante 119)",
+    "options": [
+      "Istruzione che ripete un blocco di codice",
+      "Controllo che decide tra due strade (if/else)",
+      "Errore nel programma",
+      "Collezione ordinata di elementi"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding (variante 157): quale è un linguaggio di programmazione?",
+    "options": [
+      "Excel (programma)",
+      "Photoshop",
+      "Python",
+      "Windows (sistema)"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding (variante 39): quale è un linguaggio di programmazione?",
+    "options": [
+      "Photoshop",
+      "Windows (sistema)",
+      "Python",
+      "Excel (programma)"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding: che cos'è una bug? (variante 65)",
+    "options": [
+      "Istruzione che ripete un blocco di codice",
+      "Collezione ordinata di elementi",
+      "Errore nel programma",
+      "Contenitore che memorizza un valore"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding: che cos'è una variabile? (variante 133)",
+    "options": [
+      "Blocco di codice riutilizzabile che esegue un compito",
+      "Controllo che decide tra due strade (if/else)",
+      "Istruzione che ripete un blocco di codice",
+      "Contenitore che memorizza un valore"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding: che cos'è una condizione? (variante 91)",
+    "options": [
+      "Istruzione che ripete un blocco di codice",
+      "Controllo che decide tra due strade (if/else)",
+      "Blocco di codice riutilizzabile che esegue un compito",
+      "Contenitore che memorizza un valore"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding (variante 138): quale è un linguaggio di programmazione?",
+    "options": [
+      "Windows (sistema)",
+      "Photoshop",
+      "Excel (programma)",
+      "Python"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding (variante 159): quale è un linguaggio di programmazione?",
+    "options": [
+      "Excel (programma)",
+      "Python",
+      "Windows (sistema)",
+      "Photoshop"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding: che cos'è una loop? (variante 204)",
+    "options": [
+      "Blocco di codice riutilizzabile che esegue un compito",
+      "Errore nel programma",
+      "Contenitore che memorizza un valore",
+      "Istruzione che ripete un blocco di codice"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding (variante 113): quale è un linguaggio di programmazione?",
+    "options": [
+      "Python",
+      "Excel (programma)",
+      "Windows (sistema)",
+      "Photoshop"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding: che cos'è una variabile? (variante 94)",
+    "options": [
+      "Errore nel programma",
+      "Istruzione che ripete un blocco di codice",
+      "Contenitore che memorizza un valore",
+      "Collezione ordinata di elementi"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding (variante 119): quale è un linguaggio di programmazione?",
+    "options": [
+      "Excel (programma)",
+      "Photoshop",
+      "Python",
+      "Windows (sistema)"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding: che cos'è una bug? (variante 123)",
+    "options": [
+      "Controllo che decide tra due strade (if/else)",
+      "Contenitore che memorizza un valore",
+      "Blocco di codice riutilizzabile che esegue un compito",
+      "Errore nel programma"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding: che cos'è una funzione? (variante 17)",
+    "options": [
+      "Istruzione che ripete un blocco di codice",
+      "Controllo che decide tra due strade (if/else)",
+      "Blocco di codice riutilizzabile che esegue un compito",
+      "Contenitore che memorizza un valore"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding (variante 11): quale è un linguaggio di programmazione?",
+    "options": [
+      "Excel (programma)",
+      "Python",
+      "Photoshop",
+      "Windows (sistema)"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding (variante 246): quale è un linguaggio di programmazione?",
+    "options": [
+      "Windows (sistema)",
+      "Python",
+      "Photoshop",
+      "Excel (programma)"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding: che cos'è una bug? (variante 61)",
+    "options": [
+      "Errore nel programma",
+      "Blocco di codice riutilizzabile che esegue un compito",
+      "Controllo che decide tra due strade (if/else)",
+      "Collezione ordinata di elementi"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding: che cos'è una bug? (variante 8)",
+    "options": [
+      "Controllo che decide tra due strade (if/else)",
+      "Collezione ordinata di elementi",
+      "Contenitore che memorizza un valore",
+      "Errore nel programma"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding: che cos'è una funzione? (variante 54)",
+    "options": [
+      "Controllo che decide tra due strade (if/else)",
+      "Errore nel programma",
+      "Blocco di codice riutilizzabile che esegue un compito",
+      "Contenitore che memorizza un valore"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding: che cos'è una bug? (variante 171)",
+    "options": [
+      "Blocco di codice riutilizzabile che esegue un compito",
+      "Errore nel programma",
+      "Collezione ordinata di elementi",
+      "Controllo che decide tra due strade (if/else)"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding (variante 237): quale è un linguaggio di programmazione?",
+    "options": [
+      "Excel (programma)",
+      "Photoshop",
+      "Python",
+      "Windows (sistema)"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding: che cos'è una condizione? (variante 136)",
+    "options": [
+      "Contenitore che memorizza un valore",
+      "Blocco di codice riutilizzabile che esegue un compito",
+      "Errore nel programma",
+      "Controllo che decide tra due strade (if/else)"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding: che cos'è una condizione? (variante 76)",
+    "options": [
+      "Errore nel programma",
+      "Blocco di codice riutilizzabile che esegue un compito",
+      "Contenitore che memorizza un valore",
+      "Controllo che decide tra due strade (if/else)"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding (variante 101): quale è un linguaggio di programmazione?",
+    "options": [
+      "Windows (sistema)",
+      "Excel (programma)",
+      "Python",
+      "Photoshop"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding (variante 106): quale è un linguaggio di programmazione?",
+    "options": [
+      "Windows (sistema)",
+      "Photoshop",
+      "Python",
+      "Excel (programma)"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding: che cos'è una funzione? (variante 100)",
+    "options": [
+      "Contenitore che memorizza un valore",
+      "Istruzione che ripete un blocco di codice",
+      "Blocco di codice riutilizzabile che esegue un compito",
+      "Errore nel programma"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding (variante 67): quale è un linguaggio di programmazione?",
+    "options": [
+      "Photoshop",
+      "Python",
+      "Windows (sistema)",
+      "Excel (programma)"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding: che cos'è una loop? (variante 25)",
+    "options": [
+      "Controllo che decide tra due strade (if/else)",
+      "Istruzione che ripete un blocco di codice",
+      "Collezione ordinata di elementi",
+      "Errore nel programma"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding (variante 51): quale è un linguaggio di programmazione?",
+    "options": [
+      "Excel (programma)",
+      "Python",
+      "Photoshop",
+      "Windows (sistema)"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding (variante 55): quale è un linguaggio di programmazione?",
+    "options": [
+      "Photoshop",
+      "Python",
+      "Excel (programma)",
+      "Windows (sistema)"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding (variante 18): quale è un linguaggio di programmazione?",
+    "options": [
+      "Windows (sistema)",
+      "Photoshop",
+      "Python",
+      "Excel (programma)"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding (variante 137): quale è un linguaggio di programmazione?",
+    "options": [
+      "Photoshop",
+      "Python",
+      "Excel (programma)",
+      "Windows (sistema)"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding (variante 96): quale è un linguaggio di programmazione?",
+    "options": [
+      "Windows (sistema)",
+      "Excel (programma)",
+      "Photoshop",
+      "Python"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding: che cos'è una funzione? (variante 141)",
+    "options": [
+      "Istruzione che ripete un blocco di codice",
+      "Collezione ordinata di elementi",
+      "Controllo che decide tra due strade (if/else)",
+      "Blocco di codice riutilizzabile che esegue un compito"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding: che cos'è una loop? (variante 177)",
+    "options": [
+      "Collezione ordinata di elementi",
+      "Controllo che decide tra due strade (if/else)",
+      "Istruzione che ripete un blocco di codice",
+      "Errore nel programma"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding (variante 143): quale è un linguaggio di programmazione?",
+    "options": [
+      "Python",
+      "Windows (sistema)",
+      "Photoshop",
+      "Excel (programma)"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding: che cos'è una array/lista? (variante 149)",
+    "options": [
+      "Controllo che decide tra due strade (if/else)",
+      "Errore nel programma",
+      "Blocco di codice riutilizzabile che esegue un compito",
+      "Collezione ordinata di elementi"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding: che cos'è una funzione? (variante 40)",
+    "options": [
+      "Errore nel programma",
+      "Blocco di codice riutilizzabile che esegue un compito",
+      "Contenitore che memorizza un valore",
+      "Istruzione che ripete un blocco di codice"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding (variante 8): quale è un linguaggio di programmazione?",
+    "options": [
+      "Python",
+      "Excel (programma)",
+      "Photoshop",
+      "Windows (sistema)"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding (variante 10): quale è un linguaggio di programmazione?",
+    "options": [
+      "Windows (sistema)",
+      "Python",
+      "Excel (programma)",
+      "Photoshop"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding (variante 83): quale è un linguaggio di programmazione?",
+    "options": [
+      "Python",
+      "Windows (sistema)",
+      "Excel (programma)",
+      "Photoshop"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding: che cos'è una bug? (variante 96)",
+    "options": [
+      "Collezione ordinata di elementi",
+      "Istruzione che ripete un blocco di codice",
+      "Errore nel programma",
+      "Contenitore che memorizza un valore"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding: che cos'è una condizione? (variante 56)",
+    "options": [
+      "Errore nel programma",
+      "Contenitore che memorizza un valore",
+      "Controllo che decide tra due strade (if/else)",
+      "Blocco di codice riutilizzabile che esegue un compito"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding: che cos'è una loop? (variante 180)",
+    "options": [
+      "Collezione ordinata di elementi",
+      "Contenitore che memorizza un valore",
+      "Istruzione che ripete un blocco di codice",
+      "Errore nel programma"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding: che cos'è una funzione? (variante 184)",
+    "options": [
+      "Blocco di codice riutilizzabile che esegue un compito",
+      "Errore nel programma",
+      "Contenitore che memorizza un valore",
+      "Collezione ordinata di elementi"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding: che cos'è una array/lista? (variante 165)",
+    "options": [
+      "Blocco di codice riutilizzabile che esegue un compito",
+      "Collezione ordinata di elementi",
+      "Errore nel programma",
+      "Istruzione che ripete un blocco di codice"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding: che cos'è una bug? (variante 73)",
+    "options": [
+      "Errore nel programma",
+      "Blocco di codice riutilizzabile che esegue un compito",
+      "Collezione ordinata di elementi",
+      "Controllo che decide tra due strade (if/else)"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding: che cos'è una variabile? (variante 113)",
+    "options": [
+      "Contenitore che memorizza un valore",
+      "Blocco di codice riutilizzabile che esegue un compito",
+      "Istruzione che ripete un blocco di codice",
+      "Errore nel programma"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding: che cos'è una condizione? (variante 176)",
+    "options": [
+      "Controllo che decide tra due strade (if/else)",
+      "Istruzione che ripete un blocco di codice",
+      "Contenitore che memorizza un valore",
+      "Collezione ordinata di elementi"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding: che cos'è una loop? (variante 200)",
+    "options": [
+      "Collezione ordinata di elementi",
+      "Istruzione che ripete un blocco di codice",
+      "Contenitore che memorizza un valore",
+      "Controllo che decide tra due strade (if/else)"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding (variante 3): quale è un linguaggio di programmazione?",
+    "options": [
+      "Excel (programma)",
+      "Windows (sistema)",
+      "Python",
+      "Photoshop"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding: che cos'è una bug? (variante 5)",
+    "options": [
+      "Istruzione che ripete un blocco di codice",
+      "Contenitore che memorizza un valore",
+      "Collezione ordinata di elementi",
+      "Errore nel programma"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding: che cos'è una condizione? (variante 151)",
+    "options": [
+      "Controllo che decide tra due strade (if/else)",
+      "Errore nel programma",
+      "Blocco di codice riutilizzabile che esegue un compito",
+      "Collezione ordinata di elementi"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding (variante 177): quale è un linguaggio di programmazione?",
+    "options": [
+      "Windows (sistema)",
+      "Python",
+      "Photoshop",
+      "Excel (programma)"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding (variante 224): quale è un linguaggio di programmazione?",
+    "options": [
+      "Photoshop",
+      "Python",
+      "Windows (sistema)",
+      "Excel (programma)"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding (variante 150): quale è un linguaggio di programmazione?",
+    "options": [
+      "Photoshop",
+      "Windows (sistema)",
+      "Python",
+      "Excel (programma)"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding: che cos'è una condizione? (variante 30)",
+    "options": [
+      "Istruzione che ripete un blocco di codice",
+      "Errore nel programma",
+      "Blocco di codice riutilizzabile che esegue un compito",
+      "Controllo che decide tra due strade (if/else)"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding: che cos'è una loop? (variante 181)",
+    "options": [
+      "Controllo che decide tra due strade (if/else)",
+      "Errore nel programma",
+      "Istruzione che ripete un blocco di codice",
+      "Blocco di codice riutilizzabile che esegue un compito"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding: che cos'è una loop? (variante 75)",
+    "options": [
+      "Contenitore che memorizza un valore",
+      "Istruzione che ripete un blocco di codice",
+      "Controllo che decide tra due strade (if/else)",
+      "Errore nel programma"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding: che cos'è una condizione? (variante 88)",
+    "options": [
+      "Istruzione che ripete un blocco di codice",
+      "Contenitore che memorizza un valore",
+      "Blocco di codice riutilizzabile che esegue un compito",
+      "Controllo che decide tra due strade (if/else)"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding (variante 235): quale è un linguaggio di programmazione?",
+    "options": [
+      "Excel (programma)",
+      "Windows (sistema)",
+      "Python",
+      "Photoshop"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding: che cos'è una array/lista? (variante 125)",
+    "options": [
+      "Contenitore che memorizza un valore",
+      "Collezione ordinata di elementi",
+      "Istruzione che ripete un blocco di codice",
+      "Controllo che decide tra due strade (if/else)"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding (variante 214): quale è un linguaggio di programmazione?",
+    "options": [
+      "Windows (sistema)",
+      "Python",
+      "Photoshop",
+      "Excel (programma)"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding: che cos'è una array/lista? (variante 23)",
+    "options": [
+      "Errore nel programma",
+      "Istruzione che ripete un blocco di codice",
+      "Collezione ordinata di elementi",
+      "Controllo che decide tra due strade (if/else)"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding (variante 245): quale è un linguaggio di programmazione?",
+    "options": [
+      "Photoshop",
+      "Excel (programma)",
+      "Windows (sistema)",
+      "Python"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding: che cos'è una condizione? (variante 21)",
+    "options": [
+      "Istruzione che ripete un blocco di codice",
+      "Blocco di codice riutilizzabile che esegue un compito",
+      "Contenitore che memorizza un valore",
+      "Controllo che decide tra due strade (if/else)"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding: che cos'è una array/lista? (variante 292)",
+    "options": [
+      "Errore nel programma",
+      "Collezione ordinata di elementi",
+      "Contenitore che memorizza un valore",
+      "Controllo che decide tra due strade (if/else)"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding (variante 15): quale è un linguaggio di programmazione?",
+    "options": [
+      "Photoshop",
+      "Windows (sistema)",
+      "Python",
+      "Excel (programma)"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding: che cos'è una variabile? (variante 122)",
+    "options": [
+      "Controllo che decide tra due strade (if/else)",
+      "Istruzione che ripete un blocco di codice",
+      "Blocco di codice riutilizzabile che esegue un compito",
+      "Contenitore che memorizza un valore"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding (variante 84): quale è un linguaggio di programmazione?",
+    "options": [
+      "Windows (sistema)",
+      "Excel (programma)",
+      "Python",
+      "Photoshop"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding: che cos'è una loop? (variante 90)",
+    "options": [
+      "Istruzione che ripete un blocco di codice",
+      "Collezione ordinata di elementi",
+      "Errore nel programma",
+      "Blocco di codice riutilizzabile che esegue un compito"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding: che cos'è una funzione? (variante 4)",
+    "options": [
+      "Blocco di codice riutilizzabile che esegue un compito",
+      "Collezione ordinata di elementi",
+      "Controllo che decide tra due strade (if/else)",
+      "Contenitore che memorizza un valore"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding (variante 202): quale è un linguaggio di programmazione?",
+    "options": [
+      "Photoshop",
+      "Python",
+      "Excel (programma)",
+      "Windows (sistema)"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding: che cos'è una loop? (variante 179)",
+    "options": [
+      "Errore nel programma",
+      "Controllo che decide tra due strade (if/else)",
+      "Istruzione che ripete un blocco di codice",
+      "Blocco di codice riutilizzabile che esegue un compito"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding: che cos'è una loop? (variante 296)",
+    "options": [
+      "Errore nel programma",
+      "Controllo che decide tra due strade (if/else)",
+      "Contenitore che memorizza un valore",
+      "Istruzione che ripete un blocco di codice"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding (variante 204): quale è un linguaggio di programmazione?",
+    "options": [
+      "Photoshop",
+      "Windows (sistema)",
+      "Python",
+      "Excel (programma)"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding (variante 198): quale è un linguaggio di programmazione?",
+    "options": [
+      "Excel (programma)",
+      "Photoshop",
+      "Python",
+      "Windows (sistema)"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding (variante 127): quale è un linguaggio di programmazione?",
+    "options": [
+      "Windows (sistema)",
+      "Python",
+      "Excel (programma)",
+      "Photoshop"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding (variante 188): quale è un linguaggio di programmazione?",
+    "options": [
+      "Python",
+      "Excel (programma)",
+      "Windows (sistema)",
+      "Photoshop"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding: che cos'è una funzione? (variante 152)",
+    "options": [
+      "Istruzione che ripete un blocco di codice",
+      "Controllo che decide tra due strade (if/else)",
+      "Blocco di codice riutilizzabile che esegue un compito",
+      "Errore nel programma"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding: che cos'è una funzione? (variante 167)",
+    "options": [
+      "Controllo che decide tra due strade (if/else)",
+      "Contenitore che memorizza un valore",
+      "Blocco di codice riutilizzabile che esegue un compito",
+      "Collezione ordinata di elementi"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding: che cos'è una array/lista? (variante 238)",
+    "options": [
+      "Contenitore che memorizza un valore",
+      "Controllo che decide tra due strade (if/else)",
+      "Collezione ordinata di elementi",
+      "Istruzione che ripete un blocco di codice"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Coding: che cos'è una loop? (variante 208)",
+    "options": [
+      "Istruzione che ripete un blocco di codice",
+      "Contenitore che memorizza un valore",
+      "Controllo che decide tra due strade (if/else)",
+      "Blocco di codice riutilizzabile che esegue un compito"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  }
+]

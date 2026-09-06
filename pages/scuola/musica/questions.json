@@ -1,0 +1,3302 @@
+[
+  {
+    "q": "In musica, che cos'è tempo? (variante 37)",
+    "options": [
+      "Qualità che distingue due strumenti",
+      "Intervallo tra due note di frequenza doppia",
+      "Velocità del brano (bpm)",
+      "Organizzazione degli accenti nel tempo"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "In musica, che cos'è armonia? (variante 114)",
+    "options": [
+      "Velocità del brano (bpm)",
+      "Unità di misura delimitata da stanghette",
+      "Qualità che distingue due strumenti",
+      "Combinazione di suoni simultanei (accordi)"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "In musica, che cos'è tempo? (variante 237)",
+    "options": [
+      "Organizzazione degli accenti nel tempo",
+      "Velocità del brano (bpm)",
+      "Qualità che distingue due strumenti",
+      "Suono di più note insieme"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Strumenti (variante 85): quale appartiene agli archi?",
+    "options": [
+      "Flauto",
+      "Violino",
+      "Timpani",
+      "Tromba"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "In musica, che cos'è timbro? (variante 25)",
+    "options": [
+      "Combinazione di suoni simultanei (accordi)",
+      "Qualità che distingue due strumenti",
+      "Intervallo tra due note di frequenza doppia",
+      "Successione di note percepita come un'unità"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Strumenti (variante 71): quale appartiene agli archi?",
+    "options": [
+      "Flauto",
+      "Violino",
+      "Tromba",
+      "Timpani"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Teoria musicale (variante 158): quante note ha la scala diatonica (do re mi fa sol la si)?",
+    "options": [
+      "12",
+      "8",
+      "7",
+      "5"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "In musica, che cos'è tempo? (variante 191)",
+    "options": [
+      "Organizzazione degli accenti nel tempo",
+      "Velocità del brano (bpm)",
+      "Combinazione di suoni simultanei (accordi)",
+      "Unità di misura delimitata da stanghette"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Teoria musicale (variante 140): quante note ha la scala diatonica (do re mi fa sol la si)?",
+    "options": [
+      "5",
+      "8",
+      "7",
+      "12"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "In musica, che cos'è ritmo? (variante 117)",
+    "options": [
+      "Intervallo tra due note di frequenza doppia",
+      "Successione di note percepita come un'unità",
+      "Organizzazione degli accenti nel tempo",
+      "Velocità del brano (bpm)"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Teoria musicale (variante 152): quante note ha la scala diatonica (do re mi fa sol la si)?",
+    "options": [
+      "8",
+      "7",
+      "5",
+      "12"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Strumenti (variante 122): quale appartiene agli archi?",
+    "options": [
+      "Timpani",
+      "Flauto",
+      "Tromba",
+      "Violino"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "In musica, che cos'è armonia? (variante 182)",
+    "options": [
+      "Suono di più note insieme",
+      "Combinazione di suoni simultanei (accordi)",
+      "Intervallo tra due note di frequenza doppia",
+      "Unità di misura delimitata da stanghette"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "In musica, che cos'è battuta? (variante 103)",
+    "options": [
+      "Suono di più note insieme",
+      "Qualità che distingue due strumenti",
+      "Unità di misura delimitata da stanghette",
+      "Velocità del brano (bpm)"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Teoria musicale (variante 14): quante note ha la scala diatonica (do re mi fa sol la si)?",
+    "options": [
+      "12",
+      "8",
+      "5",
+      "7"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "In musica, che cos'è timbro? (variante 98)",
+    "options": [
+      "Qualità che distingue due strumenti",
+      "Combinazione di suoni simultanei (accordi)",
+      "Suono di più note insieme",
+      "Successione di note percepita come un'unità"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "In musica, che cos'è melodia? (variante 110)",
+    "options": [
+      "Intervallo tra due note di frequenza doppia",
+      "Successione di note percepita come un'unità",
+      "Organizzazione degli accenti nel tempo",
+      "Qualità che distingue due strumenti"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Teoria musicale (variante 8): quante note ha la scala diatonica (do re mi fa sol la si)?",
+    "options": [
+      "5",
+      "8",
+      "12",
+      "7"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "In musica, che cos'è melodia? (variante 232)",
+    "options": [
+      "Intervallo tra due note di frequenza doppia",
+      "Successione di note percepita come un'unità",
+      "Suono di più note insieme",
+      "Qualità che distingue due strumenti"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "In musica, che cos'è accordo? (variante 164)",
+    "options": [
+      "Combinazione di suoni simultanei (accordi)",
+      "Organizzazione degli accenti nel tempo",
+      "Velocità del brano (bpm)",
+      "Suono di più note insieme"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "In musica, che cos'è battuta? (variante 137)",
+    "options": [
+      "Combinazione di suoni simultanei (accordi)",
+      "Intervallo tra due note di frequenza doppia",
+      "Unità di misura delimitata da stanghette",
+      "Suono di più note insieme"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "In musica, che cos'è ottava? (variante 109)",
+    "options": [
+      "Intervallo tra due note di frequenza doppia",
+      "Suono di più note insieme",
+      "Qualità che distingue due strumenti",
+      "Combinazione di suoni simultanei (accordi)"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "In musica, che cos'è tempo? (variante 58)",
+    "options": [
+      "Combinazione di suoni simultanei (accordi)",
+      "Successione di note percepita come un'unità",
+      "Organizzazione degli accenti nel tempo",
+      "Velocità del brano (bpm)"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Teoria musicale (variante 149): quante note ha la scala diatonica (do re mi fa sol la si)?",
+    "options": [
+      "7",
+      "5",
+      "8",
+      "12"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "In musica, che cos'è tempo? (variante 197)",
+    "options": [
+      "Successione di note percepita come un'unità",
+      "Intervallo tra due note di frequenza doppia",
+      "Qualità che distingue due strumenti",
+      "Velocità del brano (bpm)"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Teoria musicale (variante 133): quante note ha la scala diatonica (do re mi fa sol la si)?",
+    "options": [
+      "8",
+      "12",
+      "5",
+      "7"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Teoria musicale (variante 135): quante note ha la scala diatonica (do re mi fa sol la si)?",
+    "options": [
+      "5",
+      "8",
+      "12",
+      "7"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Strumenti (variante 24): quale appartiene agli archi?",
+    "options": [
+      "Timpani",
+      "Violino",
+      "Tromba",
+      "Flauto"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Teoria musicale (variante 24): quante note ha la scala diatonica (do re mi fa sol la si)?",
+    "options": [
+      "8",
+      "7",
+      "12",
+      "5"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "In musica, che cos'è accordo? (variante 192)",
+    "options": [
+      "Qualità che distingue due strumenti",
+      "Suono di più note insieme",
+      "Combinazione di suoni simultanei (accordi)",
+      "Organizzazione degli accenti nel tempo"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Teoria musicale (variante 77): quante note ha la scala diatonica (do re mi fa sol la si)?",
+    "options": [
+      "5",
+      "12",
+      "7",
+      "8"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Strumenti (variante 77): quale appartiene agli archi?",
+    "options": [
+      "Tromba",
+      "Timpani",
+      "Flauto",
+      "Violino"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "In musica, che cos'è tempo? (variante 100)",
+    "options": [
+      "Intervallo tra due note di frequenza doppia",
+      "Successione di note percepita come un'unità",
+      "Velocità del brano (bpm)",
+      "Unità di misura delimitata da stanghette"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "In musica, che cos'è accordo? (variante 125)",
+    "options": [
+      "Combinazione di suoni simultanei (accordi)",
+      "Organizzazione degli accenti nel tempo",
+      "Suono di più note insieme",
+      "Successione di note percepita come un'unità"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "In musica, che cos'è ottava? (variante 211)",
+    "options": [
+      "Combinazione di suoni simultanei (accordi)",
+      "Organizzazione degli accenti nel tempo",
+      "Intervallo tra due note di frequenza doppia",
+      "Suono di più note insieme"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Strumenti (variante 1): quale appartiene agli archi?",
+    "options": [
+      "Tromba",
+      "Violino",
+      "Timpani",
+      "Flauto"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "In musica, che cos'è ritmo? (variante 71)",
+    "options": [
+      "Combinazione di suoni simultanei (accordi)",
+      "Unità di misura delimitata da stanghette",
+      "Suono di più note insieme",
+      "Organizzazione degli accenti nel tempo"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Teoria musicale (variante 42): quante note ha la scala diatonica (do re mi fa sol la si)?",
+    "options": [
+      "7",
+      "8",
+      "12",
+      "5"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Strumenti (variante 23): quale appartiene agli archi?",
+    "options": [
+      "Tromba",
+      "Timpani",
+      "Flauto",
+      "Violino"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Strumenti (variante 129): quale appartiene agli archi?",
+    "options": [
+      "Flauto",
+      "Timpani",
+      "Tromba",
+      "Violino"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "In musica, che cos'è timbro? (variante 127)",
+    "options": [
+      "Qualità che distingue due strumenti",
+      "Organizzazione degli accenti nel tempo",
+      "Unità di misura delimitata da stanghette",
+      "Velocità del brano (bpm)"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Strumenti (variante 15): quale appartiene agli archi?",
+    "options": [
+      "Timpani",
+      "Tromba",
+      "Violino",
+      "Flauto"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Teoria musicale (variante 62): quante note ha la scala diatonica (do re mi fa sol la si)?",
+    "options": [
+      "12",
+      "8",
+      "7",
+      "5"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Strumenti (variante 100): quale appartiene agli archi?",
+    "options": [
+      "Violino",
+      "Flauto",
+      "Timpani",
+      "Tromba"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "In musica, che cos'è timbro? (variante 60)",
+    "options": [
+      "Combinazione di suoni simultanei (accordi)",
+      "Successione di note percepita come un'unità",
+      "Qualità che distingue due strumenti",
+      "Suono di più note insieme"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Strumenti (variante 128): quale appartiene agli archi?",
+    "options": [
+      "Tromba",
+      "Flauto",
+      "Violino",
+      "Timpani"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Teoria musicale (variante 85): quante note ha la scala diatonica (do re mi fa sol la si)?",
+    "options": [
+      "8",
+      "12",
+      "5",
+      "7"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Teoria musicale (variante 59): quante note ha la scala diatonica (do re mi fa sol la si)?",
+    "options": [
+      "8",
+      "5",
+      "7",
+      "12"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "In musica, che cos'è battuta? (variante 47)",
+    "options": [
+      "Combinazione di suoni simultanei (accordi)",
+      "Suono di più note insieme",
+      "Organizzazione degli accenti nel tempo",
+      "Unità di misura delimitata da stanghette"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Strumenti (variante 8): quale appartiene agli archi?",
+    "options": [
+      "Timpani",
+      "Tromba",
+      "Violino",
+      "Flauto"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "In musica, che cos'è melodia? (variante 136)",
+    "options": [
+      "Organizzazione degli accenti nel tempo",
+      "Successione di note percepita come un'unità",
+      "Unità di misura delimitata da stanghette",
+      "Velocità del brano (bpm)"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Strumenti (variante 160): quale appartiene agli archi?",
+    "options": [
+      "Violino",
+      "Timpani",
+      "Tromba",
+      "Flauto"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Teoria musicale (variante 71): quante note ha la scala diatonica (do re mi fa sol la si)?",
+    "options": [
+      "7",
+      "8",
+      "12",
+      "5"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Teoria musicale (variante 65): quante note ha la scala diatonica (do re mi fa sol la si)?",
+    "options": [
+      "7",
+      "8",
+      "5",
+      "12"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "In musica, che cos'è timbro? (variante 228)",
+    "options": [
+      "Intervallo tra due note di frequenza doppia",
+      "Successione di note percepita come un'unità",
+      "Velocità del brano (bpm)",
+      "Qualità che distingue due strumenti"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "In musica, che cos'è melodia? (variante 231)",
+    "options": [
+      "Intervallo tra due note di frequenza doppia",
+      "Combinazione di suoni simultanei (accordi)",
+      "Organizzazione degli accenti nel tempo",
+      "Successione di note percepita come un'unità"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Teoria musicale (variante 82): quante note ha la scala diatonica (do re mi fa sol la si)?",
+    "options": [
+      "5",
+      "7",
+      "12",
+      "8"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Strumenti (variante 158): quale appartiene agli archi?",
+    "options": [
+      "Flauto",
+      "Timpani",
+      "Tromba",
+      "Violino"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Strumenti (variante 84): quale appartiene agli archi?",
+    "options": [
+      "Flauto",
+      "Timpani",
+      "Violino",
+      "Tromba"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "In musica, che cos'è ritmo? (variante 214)",
+    "options": [
+      "Combinazione di suoni simultanei (accordi)",
+      "Qualità che distingue due strumenti",
+      "Organizzazione degli accenti nel tempo",
+      "Suono di più note insieme"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Strumenti (variante 87): quale appartiene agli archi?",
+    "options": [
+      "Timpani",
+      "Tromba",
+      "Violino",
+      "Flauto"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "In musica, che cos'è melodia? (variante 101)",
+    "options": [
+      "Intervallo tra due note di frequenza doppia",
+      "Velocità del brano (bpm)",
+      "Qualità che distingue due strumenti",
+      "Successione di note percepita come un'unità"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Strumenti (variante 113): quale appartiene agli archi?",
+    "options": [
+      "Tromba",
+      "Violino",
+      "Timpani",
+      "Flauto"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Teoria musicale (variante 143): quante note ha la scala diatonica (do re mi fa sol la si)?",
+    "options": [
+      "8",
+      "7",
+      "5",
+      "12"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "In musica, che cos'è battuta? (variante 130)",
+    "options": [
+      "Intervallo tra due note di frequenza doppia",
+      "Combinazione di suoni simultanei (accordi)",
+      "Unità di misura delimitata da stanghette",
+      "Qualità che distingue due strumenti"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "In musica, che cos'è timbro? (variante 70)",
+    "options": [
+      "Qualità che distingue due strumenti",
+      "Velocità del brano (bpm)",
+      "Organizzazione degli accenti nel tempo",
+      "Intervallo tra due note di frequenza doppia"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "In musica, che cos'è armonia? (variante 97)",
+    "options": [
+      "Successione di note percepita come un'unità",
+      "Intervallo tra due note di frequenza doppia",
+      "Suono di più note insieme",
+      "Combinazione di suoni simultanei (accordi)"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "In musica, che cos'è ritmo? (variante 65)",
+    "options": [
+      "Qualità che distingue due strumenti",
+      "Combinazione di suoni simultanei (accordi)",
+      "Intervallo tra due note di frequenza doppia",
+      "Organizzazione degli accenti nel tempo"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Strumenti (variante 63): quale appartiene agli archi?",
+    "options": [
+      "Timpani",
+      "Flauto",
+      "Tromba",
+      "Violino"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "In musica, che cos'è armonia? (variante 121)",
+    "options": [
+      "Intervallo tra due note di frequenza doppia",
+      "Combinazione di suoni simultanei (accordi)",
+      "Velocità del brano (bpm)",
+      "Organizzazione degli accenti nel tempo"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Strumenti (variante 135): quale appartiene agli archi?",
+    "options": [
+      "Flauto",
+      "Tromba",
+      "Violino",
+      "Timpani"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Teoria musicale (variante 147): quante note ha la scala diatonica (do re mi fa sol la si)?",
+    "options": [
+      "5",
+      "8",
+      "7",
+      "12"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Teoria musicale (variante 90): quante note ha la scala diatonica (do re mi fa sol la si)?",
+    "options": [
+      "8",
+      "12",
+      "5",
+      "7"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "In musica, che cos'è armonia? (variante 139)",
+    "options": [
+      "Combinazione di suoni simultanei (accordi)",
+      "Qualità che distingue due strumenti",
+      "Unità di misura delimitata da stanghette",
+      "Successione di note percepita come un'unità"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "In musica, che cos'è ritmo? (variante 210)",
+    "options": [
+      "Intervallo tra due note di frequenza doppia",
+      "Velocità del brano (bpm)",
+      "Organizzazione degli accenti nel tempo",
+      "Suono di più note insieme"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Strumenti (variante 37): quale appartiene agli archi?",
+    "options": [
+      "Tromba",
+      "Flauto",
+      "Violino",
+      "Timpani"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Teoria musicale (variante 4): quante note ha la scala diatonica (do re mi fa sol la si)?",
+    "options": [
+      "8",
+      "7",
+      "12",
+      "5"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "In musica, che cos'è accordo? (variante 34)",
+    "options": [
+      "Suono di più note insieme",
+      "Organizzazione degli accenti nel tempo",
+      "Combinazione di suoni simultanei (accordi)",
+      "Intervallo tra due note di frequenza doppia"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "In musica, che cos'è tempo? (variante 7)",
+    "options": [
+      "Combinazione di suoni simultanei (accordi)",
+      "Qualità che distingue due strumenti",
+      "Velocità del brano (bpm)",
+      "Organizzazione degli accenti nel tempo"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "In musica, che cos'è ottava? (variante 35)",
+    "options": [
+      "Suono di più note insieme",
+      "Intervallo tra due note di frequenza doppia",
+      "Combinazione di suoni simultanei (accordi)",
+      "Organizzazione degli accenti nel tempo"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Strumenti (variante 53): quale appartiene agli archi?",
+    "options": [
+      "Timpani",
+      "Violino",
+      "Tromba",
+      "Flauto"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "In musica, che cos'è accordo? (variante 8)",
+    "options": [
+      "Combinazione di suoni simultanei (accordi)",
+      "Velocità del brano (bpm)",
+      "Suono di più note insieme",
+      "Unità di misura delimitata da stanghette"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "In musica, che cos'è melodia? (variante 186)",
+    "options": [
+      "Intervallo tra due note di frequenza doppia",
+      "Successione di note percepita come un'unità",
+      "Combinazione di suoni simultanei (accordi)",
+      "Qualità che distingue due strumenti"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "In musica, che cos'è ottava? (variante 82)",
+    "options": [
+      "Unità di misura delimitata da stanghette",
+      "Qualità che distingue due strumenti",
+      "Intervallo tra due note di frequenza doppia",
+      "Suono di più note insieme"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "In musica, che cos'è accordo? (variante 89)",
+    "options": [
+      "Successione di note percepita come un'unità",
+      "Intervallo tra due note di frequenza doppia",
+      "Suono di più note insieme",
+      "Qualità che distingue due strumenti"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "In musica, che cos'è timbro? (variante 50)",
+    "options": [
+      "Velocità del brano (bpm)",
+      "Successione di note percepita come un'unità",
+      "Suono di più note insieme",
+      "Qualità che distingue due strumenti"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Strumenti (variante 154): quale appartiene agli archi?",
+    "options": [
+      "Timpani",
+      "Tromba",
+      "Flauto",
+      "Violino"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Teoria musicale (variante 47): quante note ha la scala diatonica (do re mi fa sol la si)?",
+    "options": [
+      "8",
+      "7",
+      "5",
+      "12"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "In musica, che cos'è melodia? (variante 129)",
+    "options": [
+      "Organizzazione degli accenti nel tempo",
+      "Successione di note percepita come un'unità",
+      "Velocità del brano (bpm)",
+      "Qualità che distingue due strumenti"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Strumenti (variante 22): quale appartiene agli archi?",
+    "options": [
+      "Violino",
+      "Flauto",
+      "Timpani",
+      "Tromba"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "In musica, che cos'è tempo? (variante 27)",
+    "options": [
+      "Organizzazione degli accenti nel tempo",
+      "Intervallo tra due note di frequenza doppia",
+      "Velocità del brano (bpm)",
+      "Qualità che distingue due strumenti"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "In musica, che cos'è ottava? (variante 208)",
+    "options": [
+      "Intervallo tra due note di frequenza doppia",
+      "Combinazione di suoni simultanei (accordi)",
+      "Unità di misura delimitata da stanghette",
+      "Velocità del brano (bpm)"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "In musica, che cos'è tempo? (variante 160)",
+    "options": [
+      "Suono di più note insieme",
+      "Velocità del brano (bpm)",
+      "Unità di misura delimitata da stanghette",
+      "Combinazione di suoni simultanei (accordi)"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "In musica, che cos'è accordo? (variante 218)",
+    "options": [
+      "Velocità del brano (bpm)",
+      "Suono di più note insieme",
+      "Successione di note percepita come un'unità",
+      "Qualità che distingue due strumenti"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Teoria musicale (variante 116): quante note ha la scala diatonica (do re mi fa sol la si)?",
+    "options": [
+      "5",
+      "8",
+      "12",
+      "7"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "In musica, che cos'è battuta? (variante 33)",
+    "options": [
+      "Successione di note percepita come un'unità",
+      "Unità di misura delimitata da stanghette",
+      "Suono di più note insieme",
+      "Qualità che distingue due strumenti"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "In musica, che cos'è ottava? (variante 150)",
+    "options": [
+      "Intervallo tra due note di frequenza doppia",
+      "Successione di note percepita come un'unità",
+      "Suono di più note insieme",
+      "Unità di misura delimitata da stanghette"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "In musica, che cos'è battuta? (variante 155)",
+    "options": [
+      "Unità di misura delimitata da stanghette",
+      "Qualità che distingue due strumenti",
+      "Organizzazione degli accenti nel tempo",
+      "Suono di più note insieme"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Strumenti (variante 134): quale appartiene agli archi?",
+    "options": [
+      "Flauto",
+      "Tromba",
+      "Violino",
+      "Timpani"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "In musica, che cos'è ritmo? (variante 144)",
+    "options": [
+      "Qualità che distingue due strumenti",
+      "Successione di note percepita come un'unità",
+      "Organizzazione degli accenti nel tempo",
+      "Unità di misura delimitata da stanghette"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Teoria musicale (variante 46): quante note ha la scala diatonica (do re mi fa sol la si)?",
+    "options": [
+      "8",
+      "5",
+      "7",
+      "12"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Strumenti (variante 82): quale appartiene agli archi?",
+    "options": [
+      "Timpani",
+      "Flauto",
+      "Tromba",
+      "Violino"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "In musica, che cos'è battuta? (variante 226)",
+    "options": [
+      "Combinazione di suoni simultanei (accordi)",
+      "Unità di misura delimitata da stanghette",
+      "Organizzazione degli accenti nel tempo",
+      "Successione di note percepita come un'unità"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "In musica, che cos'è ritmo? (variante 233)",
+    "options": [
+      "Unità di misura delimitata da stanghette",
+      "Successione di note percepita come un'unità",
+      "Organizzazione degli accenti nel tempo",
+      "Combinazione di suoni simultanei (accordi)"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Strumenti (variante 97): quale appartiene agli archi?",
+    "options": [
+      "Violino",
+      "Tromba",
+      "Timpani",
+      "Flauto"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Teoria musicale (variante 37): quante note ha la scala diatonica (do re mi fa sol la si)?",
+    "options": [
+      "12",
+      "5",
+      "7",
+      "8"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "In musica, che cos'è timbro? (variante 22)",
+    "options": [
+      "Qualità che distingue due strumenti",
+      "Suono di più note insieme",
+      "Unità di misura delimitata da stanghette",
+      "Intervallo tra due note di frequenza doppia"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "In musica, che cos'è tempo? (variante 185)",
+    "options": [
+      "Velocità del brano (bpm)",
+      "Qualità che distingue due strumenti",
+      "Intervallo tra due note di frequenza doppia",
+      "Successione di note percepita come un'unità"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "In musica, che cos'è accordo? (variante 62)",
+    "options": [
+      "Suono di più note insieme",
+      "Organizzazione degli accenti nel tempo",
+      "Velocità del brano (bpm)",
+      "Intervallo tra due note di frequenza doppia"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "In musica, che cos'è accordo? (variante 221)",
+    "options": [
+      "Suono di più note insieme",
+      "Successione di note percepita come un'unità",
+      "Velocità del brano (bpm)",
+      "Intervallo tra due note di frequenza doppia"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Teoria musicale (variante 91): quante note ha la scala diatonica (do re mi fa sol la si)?",
+    "options": [
+      "8",
+      "7",
+      "5",
+      "12"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "In musica, che cos'è battuta? (variante 26)",
+    "options": [
+      "Unità di misura delimitata da stanghette",
+      "Qualità che distingue due strumenti",
+      "Suono di più note insieme",
+      "Velocità del brano (bpm)"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Teoria musicale (variante 31): quante note ha la scala diatonica (do re mi fa sol la si)?",
+    "options": [
+      "7",
+      "12",
+      "5",
+      "8"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Teoria musicale (variante 54): quante note ha la scala diatonica (do re mi fa sol la si)?",
+    "options": [
+      "12",
+      "8",
+      "7",
+      "5"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "In musica, che cos'è armonia? (variante 84)",
+    "options": [
+      "Successione di note percepita come un'unità",
+      "Organizzazione degli accenti nel tempo",
+      "Combinazione di suoni simultanei (accordi)",
+      "Unità di misura delimitata da stanghette"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "In musica, che cos'è accordo? (variante 230)",
+    "options": [
+      "Successione di note percepita come un'unità",
+      "Intervallo tra due note di frequenza doppia",
+      "Unità di misura delimitata da stanghette",
+      "Suono di più note insieme"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Strumenti (variante 150): quale appartiene agli archi?",
+    "options": [
+      "Timpani",
+      "Tromba",
+      "Violino",
+      "Flauto"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Strumenti (variante 47): quale appartiene agli archi?",
+    "options": [
+      "Flauto",
+      "Tromba",
+      "Violino",
+      "Timpani"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Strumenti (variante 62): quale appartiene agli archi?",
+    "options": [
+      "Violino",
+      "Tromba",
+      "Flauto",
+      "Timpani"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Strumenti (variante 38): quale appartiene agli archi?",
+    "options": [
+      "Timpani",
+      "Tromba",
+      "Flauto",
+      "Violino"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Strumenti (variante 138): quale appartiene agli archi?",
+    "options": [
+      "Timpani",
+      "Tromba",
+      "Flauto",
+      "Violino"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Strumenti (variante 73): quale appartiene agli archi?",
+    "options": [
+      "Flauto",
+      "Tromba",
+      "Timpani",
+      "Violino"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Strumenti (variante 20): quale appartiene agli archi?",
+    "options": [
+      "Timpani",
+      "Tromba",
+      "Flauto",
+      "Violino"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Strumenti (variante 151): quale appartiene agli archi?",
+    "options": [
+      "Tromba",
+      "Flauto",
+      "Timpani",
+      "Violino"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Strumenti (variante 12): quale appartiene agli archi?",
+    "options": [
+      "Timpani",
+      "Violino",
+      "Tromba",
+      "Flauto"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "In musica, che cos'è tempo? (variante 106)",
+    "options": [
+      "Velocità del brano (bpm)",
+      "Organizzazione degli accenti nel tempo",
+      "Qualità che distingue due strumenti",
+      "Successione di note percepita come un'unità"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Strumenti (variante 19): quale appartiene agli archi?",
+    "options": [
+      "Flauto",
+      "Timpani",
+      "Violino",
+      "Tromba"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "In musica, che cos'è melodia? (variante 171)",
+    "options": [
+      "Organizzazione degli accenti nel tempo",
+      "Successione di note percepita come un'unità",
+      "Velocità del brano (bpm)",
+      "Combinazione di suoni simultanei (accordi)"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "In musica, che cos'è melodia? (variante 77)",
+    "options": [
+      "Suono di più note insieme",
+      "Intervallo tra due note di frequenza doppia",
+      "Qualità che distingue due strumenti",
+      "Successione di note percepita come un'unità"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Strumenti (variante 148): quale appartiene agli archi?",
+    "options": [
+      "Tromba",
+      "Violino",
+      "Flauto",
+      "Timpani"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "In musica, che cos'è accordo? (variante 79)",
+    "options": [
+      "Suono di più note insieme",
+      "Qualità che distingue due strumenti",
+      "Unità di misura delimitata da stanghette",
+      "Successione di note percepita come un'unità"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Strumenti (variante 114): quale appartiene agli archi?",
+    "options": [
+      "Flauto",
+      "Violino",
+      "Tromba",
+      "Timpani"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Teoria musicale (variante 131): quante note ha la scala diatonica (do re mi fa sol la si)?",
+    "options": [
+      "12",
+      "8",
+      "7",
+      "5"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Teoria musicale (variante 51): quante note ha la scala diatonica (do re mi fa sol la si)?",
+    "options": [
+      "12",
+      "8",
+      "7",
+      "5"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "In musica, che cos'è timbro? (variante 64)",
+    "options": [
+      "Intervallo tra due note di frequenza doppia",
+      "Suono di più note insieme",
+      "Qualità che distingue due strumenti",
+      "Combinazione di suoni simultanei (accordi)"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Strumenti (variante 69): quale appartiene agli archi?",
+    "options": [
+      "Flauto",
+      "Tromba",
+      "Violino",
+      "Timpani"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Strumenti (variante 89): quale appartiene agli archi?",
+    "options": [
+      "Tromba",
+      "Flauto",
+      "Violino",
+      "Timpani"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "In musica, che cos'è armonia? (variante 102)",
+    "options": [
+      "Suono di più note insieme",
+      "Velocità del brano (bpm)",
+      "Combinazione di suoni simultanei (accordi)",
+      "Unità di misura delimitata da stanghette"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "In musica, che cos'è ottava? (variante 23)",
+    "options": [
+      "Combinazione di suoni simultanei (accordi)",
+      "Successione di note percepita come un'unità",
+      "Unità di misura delimitata da stanghette",
+      "Intervallo tra due note di frequenza doppia"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "In musica, che cos'è battuta? (variante 16)",
+    "options": [
+      "Organizzazione degli accenti nel tempo",
+      "Qualità che distingue due strumenti",
+      "Unità di misura delimitata da stanghette",
+      "Successione di note percepita come un'unità"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Teoria musicale (variante 73): quante note ha la scala diatonica (do re mi fa sol la si)?",
+    "options": [
+      "12",
+      "5",
+      "7",
+      "8"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "In musica, che cos'è timbro? (variante 81)",
+    "options": [
+      "Qualità che distingue due strumenti",
+      "Unità di misura delimitata da stanghette",
+      "Combinazione di suoni simultanei (accordi)",
+      "Suono di più note insieme"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "In musica, che cos'è armonia? (variante 176)",
+    "options": [
+      "Successione di note percepita come un'unità",
+      "Combinazione di suoni simultanei (accordi)",
+      "Velocità del brano (bpm)",
+      "Qualità che distingue due strumenti"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Strumenti (variante 132): quale appartiene agli archi?",
+    "options": [
+      "Violino",
+      "Timpani",
+      "Tromba",
+      "Flauto"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "In musica, che cos'è armonia? (variante 190)",
+    "options": [
+      "Successione di note percepita come un'unità",
+      "Velocità del brano (bpm)",
+      "Suono di più note insieme",
+      "Combinazione di suoni simultanei (accordi)"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "In musica, che cos'è battuta? (variante 75)",
+    "options": [
+      "Successione di note percepita come un'unità",
+      "Suono di più note insieme",
+      "Unità di misura delimitata da stanghette",
+      "Velocità del brano (bpm)"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "In musica, che cos'è accordo? (variante 93)",
+    "options": [
+      "Intervallo tra due note di frequenza doppia",
+      "Suono di più note insieme",
+      "Successione di note percepita come un'unità",
+      "Combinazione di suoni simultanei (accordi)"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Teoria musicale (variante 34): quante note ha la scala diatonica (do re mi fa sol la si)?",
+    "options": [
+      "5",
+      "7",
+      "12",
+      "8"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Teoria musicale (variante 5): quante note ha la scala diatonica (do re mi fa sol la si)?",
+    "options": [
+      "7",
+      "12",
+      "8",
+      "5"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Strumenti (variante 58): quale appartiene agli archi?",
+    "options": [
+      "Timpani",
+      "Tromba",
+      "Flauto",
+      "Violino"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Strumenti (variante 10): quale appartiene agli archi?",
+    "options": [
+      "Flauto",
+      "Timpani",
+      "Tromba",
+      "Violino"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "In musica, che cos'è accordo? (variante 151)",
+    "options": [
+      "Successione di note percepita come un'unità",
+      "Combinazione di suoni simultanei (accordi)",
+      "Suono di più note insieme",
+      "Qualità che distingue due strumenti"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "In musica, che cos'è ritmo? (variante 134)",
+    "options": [
+      "Intervallo tra due note di frequenza doppia",
+      "Velocità del brano (bpm)",
+      "Successione di note percepita come un'unità",
+      "Organizzazione degli accenti nel tempo"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Strumenti (variante 104): quale appartiene agli archi?",
+    "options": [
+      "Flauto",
+      "Tromba",
+      "Violino",
+      "Timpani"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Strumenti (variante 159): quale appartiene agli archi?",
+    "options": [
+      "Timpani",
+      "Violino",
+      "Flauto",
+      "Tromba"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Teoria musicale (variante 57): quante note ha la scala diatonica (do re mi fa sol la si)?",
+    "options": [
+      "5",
+      "8",
+      "12",
+      "7"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "In musica, che cos'è ritmo? (variante 36)",
+    "options": [
+      "Organizzazione degli accenti nel tempo",
+      "Intervallo tra due note di frequenza doppia",
+      "Combinazione di suoni simultanei (accordi)",
+      "Qualità che distingue due strumenti"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Strumenti (variante 130): quale appartiene agli archi?",
+    "options": [
+      "Violino",
+      "Flauto",
+      "Tromba",
+      "Timpani"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "In musica, che cos'è ottava? (variante 43)",
+    "options": [
+      "Suono di più note insieme",
+      "Qualità che distingue due strumenti",
+      "Intervallo tra due note di frequenza doppia",
+      "Successione di note percepita come un'unità"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Strumenti (variante 35): quale appartiene agli archi?",
+    "options": [
+      "Timpani",
+      "Violino",
+      "Tromba",
+      "Flauto"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "In musica, che cos'è ottava? (variante 170)",
+    "options": [
+      "Successione di note percepita come un'unità",
+      "Suono di più note insieme",
+      "Intervallo tra due note di frequenza doppia",
+      "Organizzazione degli accenti nel tempo"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "In musica, che cos'è ottava? (variante 156)",
+    "options": [
+      "Organizzazione degli accenti nel tempo",
+      "Intervallo tra due note di frequenza doppia",
+      "Velocità del brano (bpm)",
+      "Suono di più note insieme"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "In musica, che cos'è armonia? (variante 157)",
+    "options": [
+      "Unità di misura delimitata da stanghette",
+      "Successione di note percepita come un'unità",
+      "Combinazione di suoni simultanei (accordi)",
+      "Qualità che distingue due strumenti"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "In musica, che cos'è armonia? (variante 68)",
+    "options": [
+      "Successione di note percepita come un'unità",
+      "Suono di più note insieme",
+      "Combinazione di suoni simultanei (accordi)",
+      "Qualità che distingue due strumenti"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Teoria musicale (variante 127): quante note ha la scala diatonica (do re mi fa sol la si)?",
+    "options": [
+      "8",
+      "5",
+      "12",
+      "7"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "In musica, che cos'è tempo? (variante 10)",
+    "options": [
+      "Velocità del brano (bpm)",
+      "Intervallo tra due note di frequenza doppia",
+      "Unità di misura delimitata da stanghette",
+      "Successione di note percepita come un'unità"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Teoria musicale (variante 139): quante note ha la scala diatonica (do re mi fa sol la si)?",
+    "options": [
+      "12",
+      "8",
+      "5",
+      "7"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "In musica, che cos'è timbro? (variante 9)",
+    "options": [
+      "Qualità che distingue due strumenti",
+      "Unità di misura delimitata da stanghette",
+      "Velocità del brano (bpm)",
+      "Intervallo tra due note di frequenza doppia"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "In musica, che cos'è accordo? (variante 215)",
+    "options": [
+      "Suono di più note insieme",
+      "Organizzazione degli accenti nel tempo",
+      "Unità di misura delimitata da stanghette",
+      "Velocità del brano (bpm)"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Teoria musicale (variante 15): quante note ha la scala diatonica (do re mi fa sol la si)?",
+    "options": [
+      "5",
+      "7",
+      "12",
+      "8"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Teoria musicale (variante 124): quante note ha la scala diatonica (do re mi fa sol la si)?",
+    "options": [
+      "8",
+      "5",
+      "7",
+      "12"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Teoria musicale (variante 32): quante note ha la scala diatonica (do re mi fa sol la si)?",
+    "options": [
+      "5",
+      "7",
+      "12",
+      "8"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "In musica, che cos'è ritmo? (variante 159)",
+    "options": [
+      "Intervallo tra due note di frequenza doppia",
+      "Velocità del brano (bpm)",
+      "Suono di più note insieme",
+      "Organizzazione degli accenti nel tempo"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "In musica, che cos'è battuta? (variante 142)",
+    "options": [
+      "Qualità che distingue due strumenti",
+      "Unità di misura delimitata da stanghette",
+      "Successione di note percepita come un'unità",
+      "Suono di più note insieme"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Teoria musicale (variante 160): quante note ha la scala diatonica (do re mi fa sol la si)?",
+    "options": [
+      "12",
+      "7",
+      "8",
+      "5"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "In musica, che cos'è timbro? (variante 115)",
+    "options": [
+      "Qualità che distingue due strumenti",
+      "Organizzazione degli accenti nel tempo",
+      "Successione di note percepita come un'unità",
+      "Intervallo tra due note di frequenza doppia"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Strumenti (variante 40): quale appartiene agli archi?",
+    "options": [
+      "Violino",
+      "Flauto",
+      "Timpani",
+      "Tromba"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Teoria musicale (variante 79): quante note ha la scala diatonica (do re mi fa sol la si)?",
+    "options": [
+      "8",
+      "7",
+      "5",
+      "12"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "In musica, che cos'è timbro? (variante 212)",
+    "options": [
+      "Velocità del brano (bpm)",
+      "Qualità che distingue due strumenti",
+      "Unità di misura delimitata da stanghette",
+      "Intervallo tra due note di frequenza doppia"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Teoria musicale (variante 121): quante note ha la scala diatonica (do re mi fa sol la si)?",
+    "options": [
+      "7",
+      "8",
+      "5",
+      "12"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Strumenti (variante 49): quale appartiene agli archi?",
+    "options": [
+      "Flauto",
+      "Tromba",
+      "Violino",
+      "Timpani"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "In musica, che cos'è tempo? (variante 166)",
+    "options": [
+      "Organizzazione degli accenti nel tempo",
+      "Suono di più note insieme",
+      "Successione di note percepita come un'unità",
+      "Velocità del brano (bpm)"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Strumenti (variante 42): quale appartiene agli archi?",
+    "options": [
+      "Flauto",
+      "Timpani",
+      "Tromba",
+      "Violino"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "In musica, che cos'è battuta? (variante 133)",
+    "options": [
+      "Unità di misura delimitata da stanghette",
+      "Intervallo tra due note di frequenza doppia",
+      "Qualità che distingue due strumenti",
+      "Combinazione di suoni simultanei (accordi)"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Strumenti (variante 118): quale appartiene agli archi?",
+    "options": [
+      "Violino",
+      "Flauto",
+      "Timpani",
+      "Tromba"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Teoria musicale (variante 126): quante note ha la scala diatonica (do re mi fa sol la si)?",
+    "options": [
+      "8",
+      "7",
+      "5",
+      "12"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "In musica, che cos'è ritmo? (variante 69)",
+    "options": [
+      "Qualità che distingue due strumenti",
+      "Unità di misura delimitata da stanghette",
+      "Organizzazione degli accenti nel tempo",
+      "Combinazione di suoni simultanei (accordi)"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Strumenti (variante 106): quale appartiene agli archi?",
+    "options": [
+      "Tromba",
+      "Flauto",
+      "Violino",
+      "Timpani"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Teoria musicale (variante 7): quante note ha la scala diatonica (do re mi fa sol la si)?",
+    "options": [
+      "12",
+      "5",
+      "7",
+      "8"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Strumenti (variante 59): quale appartiene agli archi?",
+    "options": [
+      "Tromba",
+      "Timpani",
+      "Flauto",
+      "Violino"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Teoria musicale (variante 60): quante note ha la scala diatonica (do re mi fa sol la si)?",
+    "options": [
+      "12",
+      "8",
+      "7",
+      "5"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "In musica, che cos'è ottava? (variante 99)",
+    "options": [
+      "Unità di misura delimitata da stanghette",
+      "Velocità del brano (bpm)",
+      "Intervallo tra due note di frequenza doppia",
+      "Organizzazione degli accenti nel tempo"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Teoria musicale (variante 58): quante note ha la scala diatonica (do re mi fa sol la si)?",
+    "options": [
+      "8",
+      "7",
+      "12",
+      "5"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "In musica, che cos'è melodia? (variante 132)",
+    "options": [
+      "Successione di note percepita come un'unità",
+      "Suono di più note insieme",
+      "Unità di misura delimitata da stanghette",
+      "Combinazione di suoni simultanei (accordi)"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Strumenti (variante 70): quale appartiene agli archi?",
+    "options": [
+      "Flauto",
+      "Tromba",
+      "Timpani",
+      "Violino"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "In musica, che cos'è timbro? (variante 88)",
+    "options": [
+      "Successione di note percepita come un'unità",
+      "Suono di più note insieme",
+      "Qualità che distingue due strumenti",
+      "Velocità del brano (bpm)"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Teoria musicale (variante 128): quante note ha la scala diatonica (do re mi fa sol la si)?",
+    "options": [
+      "5",
+      "7",
+      "12",
+      "8"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Teoria musicale (variante 86): quante note ha la scala diatonica (do re mi fa sol la si)?",
+    "options": [
+      "7",
+      "8",
+      "5",
+      "12"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "In musica, che cos'è accordo? (variante 45)",
+    "options": [
+      "Qualità che distingue due strumenti",
+      "Unità di misura delimitata da stanghette",
+      "Suono di più note insieme",
+      "Organizzazione degli accenti nel tempo"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Strumenti (variante 36): quale appartiene agli archi?",
+    "options": [
+      "Flauto",
+      "Tromba",
+      "Violino",
+      "Timpani"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Strumenti (variante 86): quale appartiene agli archi?",
+    "options": [
+      "Tromba",
+      "Flauto",
+      "Violino",
+      "Timpani"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "In musica, che cos'è tempo? (variante 227)",
+    "options": [
+      "Successione di note percepita come un'unità",
+      "Intervallo tra due note di frequenza doppia",
+      "Organizzazione degli accenti nel tempo",
+      "Velocità del brano (bpm)"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Teoria musicale (variante 20): quante note ha la scala diatonica (do re mi fa sol la si)?",
+    "options": [
+      "12",
+      "7",
+      "8",
+      "5"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Strumenti (variante 17): quale appartiene agli archi?",
+    "options": [
+      "Tromba",
+      "Timpani",
+      "Violino",
+      "Flauto"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Strumenti (variante 141): quale appartiene agli archi?",
+    "options": [
+      "Timpani",
+      "Tromba",
+      "Flauto",
+      "Violino"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Teoria musicale (variante 142): quante note ha la scala diatonica (do re mi fa sol la si)?",
+    "options": [
+      "8",
+      "12",
+      "5",
+      "7"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Strumenti (variante 64): quale appartiene agli archi?",
+    "options": [
+      "Timpani",
+      "Violino",
+      "Flauto",
+      "Tromba"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "In musica, che cos'è tempo? (variante 44)",
+    "options": [
+      "Suono di più note insieme",
+      "Intervallo tra due note di frequenza doppia",
+      "Velocità del brano (bpm)",
+      "Combinazione di suoni simultanei (accordi)"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "In musica, che cos'è tempo? (variante 80)",
+    "options": [
+      "Qualità che distingue due strumenti",
+      "Successione di note percepita come un'unità",
+      "Unità di misura delimitata da stanghette",
+      "Velocità del brano (bpm)"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Strumenti (variante 33): quale appartiene agli archi?",
+    "options": [
+      "Flauto",
+      "Violino",
+      "Timpani",
+      "Tromba"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Teoria musicale (variante 22): quante note ha la scala diatonica (do re mi fa sol la si)?",
+    "options": [
+      "12",
+      "5",
+      "7",
+      "8"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "In musica, che cos'è accordo? (variante 173)",
+    "options": [
+      "Velocità del brano (bpm)",
+      "Qualità che distingue due strumenti",
+      "Suono di più note insieme",
+      "Organizzazione degli accenti nel tempo"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "In musica, che cos'è timbro? (variante 138)",
+    "options": [
+      "Velocità del brano (bpm)",
+      "Unità di misura delimitata da stanghette",
+      "Qualità che distingue due strumenti",
+      "Suono di più note insieme"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "In musica, che cos'è ritmo? (variante 111)",
+    "options": [
+      "Velocità del brano (bpm)",
+      "Successione di note percepita come un'unità",
+      "Qualità che distingue due strumenti",
+      "Organizzazione degli accenti nel tempo"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "In musica, che cos'è ottava? (variante 94)",
+    "options": [
+      "Successione di note percepita come un'unità",
+      "Unità di misura delimitata da stanghette",
+      "Intervallo tra due note di frequenza doppia",
+      "Qualità che distingue due strumenti"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Strumenti (variante 142): quale appartiene agli archi?",
+    "options": [
+      "Flauto",
+      "Tromba",
+      "Violino",
+      "Timpani"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "In musica, che cos'è timbro? (variante 120)",
+    "options": [
+      "Qualità che distingue due strumenti",
+      "Combinazione di suoni simultanei (accordi)",
+      "Velocità del brano (bpm)",
+      "Unità di misura delimitata da stanghette"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Strumenti (variante 139): quale appartiene agli archi?",
+    "options": [
+      "Tromba",
+      "Flauto",
+      "Violino",
+      "Timpani"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Teoria musicale (variante 17): quante note ha la scala diatonica (do re mi fa sol la si)?",
+    "options": [
+      "5",
+      "7",
+      "12",
+      "8"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Strumenti (variante 43): quale appartiene agli archi?",
+    "options": [
+      "Timpani",
+      "Tromba",
+      "Violino",
+      "Flauto"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Strumenti (variante 127): quale appartiene agli archi?",
+    "options": [
+      "Timpani",
+      "Tromba",
+      "Flauto",
+      "Violino"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Teoria musicale (variante 29): quante note ha la scala diatonica (do re mi fa sol la si)?",
+    "options": [
+      "12",
+      "7",
+      "5",
+      "8"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Strumenti (variante 76): quale appartiene agli archi?",
+    "options": [
+      "Flauto",
+      "Tromba",
+      "Timpani",
+      "Violino"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "In musica, che cos'è accordo? (variante 189)",
+    "options": [
+      "Unità di misura delimitata da stanghette",
+      "Qualità che distingue due strumenti",
+      "Suono di più note insieme",
+      "Organizzazione degli accenti nel tempo"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "In musica, che cos'è ritmo? (variante 119)",
+    "options": [
+      "Intervallo tra due note di frequenza doppia",
+      "Successione di note percepita come un'unità",
+      "Organizzazione degli accenti nel tempo",
+      "Suono di più note insieme"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "In musica, che cos'è ritmo? (variante 161)",
+    "options": [
+      "Successione di note percepita come un'unità",
+      "Qualità che distingue due strumenti",
+      "Organizzazione degli accenti nel tempo",
+      "Velocità del brano (bpm)"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Teoria musicale (variante 87): quante note ha la scala diatonica (do re mi fa sol la si)?",
+    "options": [
+      "5",
+      "12",
+      "7",
+      "8"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Strumenti (variante 145): quale appartiene agli archi?",
+    "options": [
+      "Flauto",
+      "Violino",
+      "Tromba",
+      "Timpani"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Strumenti (variante 52): quale appartiene agli archi?",
+    "options": [
+      "Violino",
+      "Timpani",
+      "Tromba",
+      "Flauto"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Strumenti (variante 140): quale appartiene agli archi?",
+    "options": [
+      "Flauto",
+      "Tromba",
+      "Violino",
+      "Timpani"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "In musica, che cos'è battuta? (variante 209)",
+    "options": [
+      "Suono di più note insieme",
+      "Intervallo tra due note di frequenza doppia",
+      "Combinazione di suoni simultanei (accordi)",
+      "Unità di misura delimitata da stanghette"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "In musica, che cos'è ritmo? (variante 239)",
+    "options": [
+      "Unità di misura delimitata da stanghette",
+      "Combinazione di suoni simultanei (accordi)",
+      "Velocità del brano (bpm)",
+      "Organizzazione degli accenti nel tempo"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Strumenti (variante 94): quale appartiene agli archi?",
+    "options": [
+      "Tromba",
+      "Flauto",
+      "Violino",
+      "Timpani"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "In musica, che cos'è armonia? (variante 225)",
+    "options": [
+      "Intervallo tra due note di frequenza doppia",
+      "Unità di misura delimitata da stanghette",
+      "Velocità del brano (bpm)",
+      "Combinazione di suoni simultanei (accordi)"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "In musica, che cos'è accordo? (variante 56)",
+    "options": [
+      "Intervallo tra due note di frequenza doppia",
+      "Velocità del brano (bpm)",
+      "Suono di più note insieme",
+      "Qualità che distingue due strumenti"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Teoria musicale (variante 53): quante note ha la scala diatonica (do re mi fa sol la si)?",
+    "options": [
+      "7",
+      "5",
+      "8",
+      "12"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "In musica, che cos'è melodia? (variante 38)",
+    "options": [
+      "Qualità che distingue due strumenti",
+      "Successione di note percepita come un'unità",
+      "Organizzazione degli accenti nel tempo",
+      "Intervallo tra due note di frequenza doppia"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "In musica, che cos'è armonia? (variante 118)",
+    "options": [
+      "Organizzazione degli accenti nel tempo",
+      "Qualità che distingue due strumenti",
+      "Combinazione di suoni simultanei (accordi)",
+      "Velocità del brano (bpm)"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "In musica, che cos'è battuta? (variante 76)",
+    "options": [
+      "Intervallo tra due note di frequenza doppia",
+      "Unità di misura delimitata da stanghette",
+      "Velocità del brano (bpm)",
+      "Organizzazione degli accenti nel tempo"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Strumenti (variante 108): quale appartiene agli archi?",
+    "options": [
+      "Flauto",
+      "Tromba",
+      "Violino",
+      "Timpani"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "In musica, che cos'è accordo? (variante 236)",
+    "options": [
+      "Suono di più note insieme",
+      "Successione di note percepita come un'unità",
+      "Velocità del brano (bpm)",
+      "Intervallo tra due note di frequenza doppia"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Strumenti (variante 103): quale appartiene agli archi?",
+    "options": [
+      "Violino",
+      "Flauto",
+      "Timpani",
+      "Tromba"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Strumenti (variante 45): quale appartiene agli archi?",
+    "options": [
+      "Violino",
+      "Flauto",
+      "Timpani",
+      "Tromba"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Strumenti (variante 90): quale appartiene agli archi?",
+    "options": [
+      "Tromba",
+      "Flauto",
+      "Timpani",
+      "Violino"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "In musica, che cos'è timbro? (variante 222)",
+    "options": [
+      "Velocità del brano (bpm)",
+      "Qualità che distingue due strumenti",
+      "Combinazione di suoni simultanei (accordi)",
+      "Intervallo tra due note di frequenza doppia"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "In musica, che cos'è armonia? (variante 145)",
+    "options": [
+      "Unità di misura delimitata da stanghette",
+      "Qualità che distingue due strumenti",
+      "Intervallo tra due note di frequenza doppia",
+      "Combinazione di suoni simultanei (accordi)"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Teoria musicale (variante 125): quante note ha la scala diatonica (do re mi fa sol la si)?",
+    "options": [
+      "5",
+      "12",
+      "8",
+      "7"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "In musica, che cos'è accordo? (variante 172)",
+    "options": [
+      "Intervallo tra due note di frequenza doppia",
+      "Combinazione di suoni simultanei (accordi)",
+      "Suono di più note insieme",
+      "Unità di misura delimitata da stanghette"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "In musica, che cos'è melodia? (variante 11)",
+    "options": [
+      "Organizzazione degli accenti nel tempo",
+      "Successione di note percepita come un'unità",
+      "Suono di più note insieme",
+      "Intervallo tra due note di frequenza doppia"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Strumenti (variante 2): quale appartiene agli archi?",
+    "options": [
+      "Flauto",
+      "Violino",
+      "Tromba",
+      "Timpani"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Teoria musicale (variante 95): quante note ha la scala diatonica (do re mi fa sol la si)?",
+    "options": [
+      "5",
+      "7",
+      "8",
+      "12"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "In musica, che cos'è tempo? (variante 48)",
+    "options": [
+      "Organizzazione degli accenti nel tempo",
+      "Suono di più note insieme",
+      "Velocità del brano (bpm)",
+      "Combinazione di suoni simultanei (accordi)"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "In musica, che cos'è ottava? (variante 131)",
+    "options": [
+      "Suono di più note insieme",
+      "Combinazione di suoni simultanei (accordi)",
+      "Intervallo tra due note di frequenza doppia",
+      "Velocità del brano (bpm)"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Teoria musicale (variante 97): quante note ha la scala diatonica (do re mi fa sol la si)?",
+    "options": [
+      "5",
+      "7",
+      "8",
+      "12"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "In musica, che cos'è battuta? (variante 224)",
+    "options": [
+      "Successione di note percepita come un'unità",
+      "Unità di misura delimitata da stanghette",
+      "Intervallo tra due note di frequenza doppia",
+      "Qualità che distingue due strumenti"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Strumenti (variante 60): quale appartiene agli archi?",
+    "options": [
+      "Timpani",
+      "Flauto",
+      "Tromba",
+      "Violino"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Teoria musicale (variante 101): quante note ha la scala diatonica (do re mi fa sol la si)?",
+    "options": [
+      "5",
+      "12",
+      "7",
+      "8"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Teoria musicale (variante 41): quante note ha la scala diatonica (do re mi fa sol la si)?",
+    "options": [
+      "7",
+      "5",
+      "12",
+      "8"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Teoria musicale (variante 63): quante note ha la scala diatonica (do re mi fa sol la si)?",
+    "options": [
+      "12",
+      "7",
+      "5",
+      "8"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Strumenti (variante 3): quale appartiene agli archi?",
+    "options": [
+      "Violino",
+      "Flauto",
+      "Timpani",
+      "Tromba"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Teoria musicale (variante 94): quante note ha la scala diatonica (do re mi fa sol la si)?",
+    "options": [
+      "7",
+      "8",
+      "12",
+      "5"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Teoria musicale (variante 109): quante note ha la scala diatonica (do re mi fa sol la si)?",
+    "options": [
+      "8",
+      "12",
+      "7",
+      "5"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "In musica, che cos'è melodia? (variante 55)",
+    "options": [
+      "Combinazione di suoni simultanei (accordi)",
+      "Successione di note percepita come un'unità",
+      "Unità di misura delimitata da stanghette",
+      "Organizzazione degli accenti nel tempo"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "In musica, che cos'è battuta? (variante 40)",
+    "options": [
+      "Unità di misura delimitata da stanghette",
+      "Suono di più note insieme",
+      "Successione di note percepita come un'unità",
+      "Velocità del brano (bpm)"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Teoria musicale (variante 69): quante note ha la scala diatonica (do re mi fa sol la si)?",
+    "options": [
+      "5",
+      "7",
+      "8",
+      "12"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Strumenti (variante 119): quale appartiene agli archi?",
+    "options": [
+      "Timpani",
+      "Tromba",
+      "Flauto",
+      "Violino"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "In musica, che cos'è timbro? (variante 42)",
+    "options": [
+      "Qualità che distingue due strumenti",
+      "Organizzazione degli accenti nel tempo",
+      "Combinazione di suoni simultanei (accordi)",
+      "Suono di più note insieme"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Strumenti (variante 66): quale appartiene agli archi?",
+    "options": [
+      "Timpani",
+      "Violino",
+      "Flauto",
+      "Tromba"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "In musica, che cos'è armonia? (variante 188)",
+    "options": [
+      "Unità di misura delimitata da stanghette",
+      "Combinazione di suoni simultanei (accordi)",
+      "Successione di note percepita come un'unità",
+      "Qualità che distingue due strumenti"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Teoria musicale (variante 80): quante note ha la scala diatonica (do re mi fa sol la si)?",
+    "options": [
+      "8",
+      "7",
+      "12",
+      "5"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "In musica, che cos'è battuta? (variante 95)",
+    "options": [
+      "Successione di note percepita come un'unità",
+      "Qualità che distingue due strumenti",
+      "Suono di più note insieme",
+      "Unità di misura delimitata da stanghette"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "In musica, che cos'è ottava? (variante 46)",
+    "options": [
+      "Qualità che distingue due strumenti",
+      "Unità di misura delimitata da stanghette",
+      "Successione di note percepita come un'unità",
+      "Intervallo tra due note di frequenza doppia"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Teoria musicale (variante 118): quante note ha la scala diatonica (do re mi fa sol la si)?",
+    "options": [
+      "5",
+      "7",
+      "8",
+      "12"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Teoria musicale (variante 55): quante note ha la scala diatonica (do re mi fa sol la si)?",
+    "options": [
+      "7",
+      "5",
+      "8",
+      "12"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "In musica, che cos'è ritmo? (variante 167)",
+    "options": [
+      "Unità di misura delimitata da stanghette",
+      "Suono di più note insieme",
+      "Successione di note percepita come un'unità",
+      "Organizzazione degli accenti nel tempo"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Strumenti (variante 46): quale appartiene agli archi?",
+    "options": [
+      "Violino",
+      "Flauto",
+      "Timpani",
+      "Tromba"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "In musica, che cos'è battuta? (variante 202)",
+    "options": [
+      "Velocità del brano (bpm)",
+      "Unità di misura delimitata da stanghette",
+      "Combinazione di suoni simultanei (accordi)",
+      "Suono di più note insieme"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Teoria musicale (variante 12): quante note ha la scala diatonica (do re mi fa sol la si)?",
+    "options": [
+      "8",
+      "5",
+      "12",
+      "7"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Teoria musicale (variante 28): quante note ha la scala diatonica (do re mi fa sol la si)?",
+    "options": [
+      "12",
+      "8",
+      "7",
+      "5"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "In musica, che cos'è ottava? (variante 141)",
+    "options": [
+      "Suono di più note insieme",
+      "Successione di note percepita come un'unità",
+      "Qualità che distingue due strumenti",
+      "Intervallo tra due note di frequenza doppia"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Strumenti (variante 25): quale appartiene agli archi?",
+    "options": [
+      "Tromba",
+      "Violino",
+      "Timpani",
+      "Flauto"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "In musica, che cos'è battuta? (variante 108)",
+    "options": [
+      "Unità di misura delimitata da stanghette",
+      "Velocità del brano (bpm)",
+      "Combinazione di suoni simultanei (accordi)",
+      "Successione di note percepita come un'unità"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Teoria musicale (variante 113): quante note ha la scala diatonica (do re mi fa sol la si)?",
+    "options": [
+      "8",
+      "5",
+      "7",
+      "12"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "In musica, che cos'è tempo? (variante 187)",
+    "options": [
+      "Combinazione di suoni simultanei (accordi)",
+      "Successione di note percepita come un'unità",
+      "Organizzazione degli accenti nel tempo",
+      "Velocità del brano (bpm)"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Teoria musicale (variante 84): quante note ha la scala diatonica (do re mi fa sol la si)?",
+    "options": [
+      "5",
+      "8",
+      "12",
+      "7"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Strumenti (variante 61): quale appartiene agli archi?",
+    "options": [
+      "Timpani",
+      "Flauto",
+      "Tromba",
+      "Violino"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Teoria musicale (variante 137): quante note ha la scala diatonica (do re mi fa sol la si)?",
+    "options": [
+      "5",
+      "12",
+      "7",
+      "8"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Strumenti (variante 124): quale appartiene agli archi?",
+    "options": [
+      "Flauto",
+      "Timpani",
+      "Tromba",
+      "Violino"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "In musica, che cos'è ritmo? (variante 113)",
+    "options": [
+      "Suono di più note insieme",
+      "Successione di note percepita come un'unità",
+      "Qualità che distingue due strumenti",
+      "Organizzazione degli accenti nel tempo"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Strumenti (variante 9): quale appartiene agli archi?",
+    "options": [
+      "Flauto",
+      "Violino",
+      "Timpani",
+      "Tromba"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Teoria musicale (variante 75): quante note ha la scala diatonica (do re mi fa sol la si)?",
+    "options": [
+      "5",
+      "7",
+      "8",
+      "12"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Strumenti (variante 99): quale appartiene agli archi?",
+    "options": [
+      "Flauto",
+      "Tromba",
+      "Violino",
+      "Timpani"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "In musica, che cos'è armonia? (variante 216)",
+    "options": [
+      "Qualità che distingue due strumenti",
+      "Unità di misura delimitata da stanghette",
+      "Intervallo tra due note di frequenza doppia",
+      "Combinazione di suoni simultanei (accordi)"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Strumenti (variante 18): quale appartiene agli archi?",
+    "options": [
+      "Tromba",
+      "Violino",
+      "Flauto",
+      "Timpani"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "In musica, che cos'è accordo? (variante 179)",
+    "options": [
+      "Qualità che distingue due strumenti",
+      "Velocità del brano (bpm)",
+      "Suono di più note insieme",
+      "Intervallo tra due note di frequenza doppia"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "In musica, che cos'è timbro? (variante 12)",
+    "options": [
+      "Qualità che distingue due strumenti",
+      "Organizzazione degli accenti nel tempo",
+      "Intervallo tra due note di frequenza doppia",
+      "Unità di misura delimitata da stanghette"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Teoria musicale (variante 104): quante note ha la scala diatonica (do re mi fa sol la si)?",
+    "options": [
+      "7",
+      "5",
+      "12",
+      "8"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Strumenti (variante 115): quale appartiene agli archi?",
+    "options": [
+      "Tromba",
+      "Timpani",
+      "Flauto",
+      "Violino"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Strumenti (variante 50): quale appartiene agli archi?",
+    "options": [
+      "Timpani",
+      "Tromba",
+      "Violino",
+      "Flauto"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Teoria musicale (variante 39): quante note ha la scala diatonica (do re mi fa sol la si)?",
+    "options": [
+      "7",
+      "5",
+      "12",
+      "8"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  }
+]

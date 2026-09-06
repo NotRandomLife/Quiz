@@ -1,0 +1,6002 @@
+[
+  {
+    "q": "Area di un rettangolo con base 21 cm e altezza 62 cm?",
+    "options": [
+      "166 cm²",
+      "1312 cm²",
+      "83 cm²",
+      "1302 cm²"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "Area: base×altezza."
+  },
+  {
+    "q": "Area di un rettangolo con base 11 cm e altezza 23 cm?",
+    "options": [
+      "253 cm²",
+      "68 cm²",
+      "263 cm²",
+      "34 cm²"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explain": "Area: base×altezza."
+  },
+  {
+    "q": "Area di un triangolo con base 74 cm e altezza 52 cm?",
+    "options": [
+      "1924 cm²",
+      "3848 cm²",
+      "1929 cm²",
+      "1925 cm²"
+    ],
+    "correct": 0,
+    "difficulty": "medium",
+    "explain": "Area: (b×h)/2."
+  },
+  {
+    "q": "Perimetro di un quadrato di lato 66 cm?",
+    "options": [
+      "268 cm",
+      "132 cm",
+      "264 cm",
+      "4356 cm"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "Perimetro: 4×lato."
+  },
+  {
+    "q": "Volume di un cubo con lato 4 cm?",
+    "options": [
+      "96 cm³",
+      "68 cm³",
+      "64 cm³",
+      "16 cm³"
+    ],
+    "correct": 2,
+    "difficulty": "medium",
+    "explain": "Volume: lato³."
+  },
+  {
+    "q": "Area di un triangolo con base 34 cm e altezza 25 cm?",
+    "options": [
+      "426 cm²",
+      "850 cm²",
+      "430 cm²",
+      "425 cm²"
+    ],
+    "correct": 3,
+    "difficulty": "medium",
+    "explain": "Area: (b×h)/2."
+  },
+  {
+    "q": "Perimetro di un quadrato di lato 43 cm?",
+    "options": [
+      "176 cm",
+      "86 cm",
+      "1849 cm",
+      "172 cm"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "Perimetro: 4×lato."
+  },
+  {
+    "q": "Perimetro di un quadrato di lato 44 cm?",
+    "options": [
+      "180 cm",
+      "176 cm",
+      "1936 cm",
+      "88 cm"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "Perimetro: 4×lato."
+  },
+  {
+    "q": "Perimetro di un quadrato di lato 75 cm?",
+    "options": [
+      "150 cm",
+      "300 cm",
+      "5625 cm",
+      "304 cm"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "Perimetro: 4×lato."
+  },
+  {
+    "q": "Area di un triangolo con base 63 cm e altezza 8 cm?",
+    "options": [
+      "253 cm²",
+      "257 cm²",
+      "252 cm²",
+      "504 cm²"
+    ],
+    "correct": 2,
+    "difficulty": "medium",
+    "explain": "Area: (b×h)/2."
+  },
+  {
+    "q": "Volume di un cubo con lato 25 cm?",
+    "options": [
+      "15625 cm³",
+      "3750 cm³",
+      "625 cm³",
+      "15650 cm³"
+    ],
+    "correct": 0,
+    "difficulty": "medium",
+    "explain": "Volume: lato³."
+  },
+  {
+    "q": "Volume di un cubo con lato 9 cm?",
+    "options": [
+      "729 cm³",
+      "81 cm³",
+      "486 cm³",
+      "738 cm³"
+    ],
+    "correct": 0,
+    "difficulty": "medium",
+    "explain": "Volume: lato³."
+  },
+  {
+    "q": "Area di un triangolo con base 24 cm e altezza 49 cm?",
+    "options": [
+      "588 cm²",
+      "1176 cm²",
+      "589 cm²",
+      "593 cm²"
+    ],
+    "correct": 0,
+    "difficulty": "medium",
+    "explain": "Area: (b×h)/2."
+  },
+  {
+    "q": "Area di un rettangolo con base 14 cm e altezza 41 cm?",
+    "options": [
+      "55 cm²",
+      "584 cm²",
+      "110 cm²",
+      "574 cm²"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "Area: base×altezza."
+  },
+  {
+    "q": "In un triangolo: angoli 30° e 80°. Terzo angolo?",
+    "options": [
+      "80°",
+      "110°",
+      "180°",
+      "70°"
+    ],
+    "correct": 3,
+    "difficulty": "medium",
+    "explain": "Somma angoli: 180°."
+  },
+  {
+    "q": "Perimetro di un quadrato di lato 63 cm?",
+    "options": [
+      "256 cm",
+      "3969 cm",
+      "252 cm",
+      "126 cm"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "Perimetro: 4×lato."
+  },
+  {
+    "q": "Area di un rettangolo con base 15 cm e altezza 23 cm?",
+    "options": [
+      "355 cm²",
+      "38 cm²",
+      "345 cm²",
+      "76 cm²"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "Area: base×altezza."
+  },
+  {
+    "q": "Area di un rettangolo con base 67 cm e altezza 3 cm?",
+    "options": [
+      "211 cm²",
+      "201 cm²",
+      "140 cm²",
+      "70 cm²"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "Area: base×altezza."
+  },
+  {
+    "q": "Volume di un cubo con lato 12 cm?",
+    "options": [
+      "1740 cm³",
+      "144 cm³",
+      "1728 cm³",
+      "864 cm³"
+    ],
+    "correct": 2,
+    "difficulty": "medium",
+    "explain": "Volume: lato³."
+  },
+  {
+    "q": "Perimetro di un rettangolo di lati 20 cm e 24 cm?",
+    "options": [
+      "88 cm",
+      "90 cm",
+      "480 cm",
+      "44 cm"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explain": "Perimetro: 2(a+b)."
+  },
+  {
+    "q": "Perimetro di un rettangolo di lati 26 cm e 11 cm?",
+    "options": [
+      "76 cm",
+      "37 cm",
+      "74 cm",
+      "286 cm"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "Perimetro: 2(a+b)."
+  },
+  {
+    "q": "Perimetro di un quadrato di lato 57 cm?",
+    "options": [
+      "3249 cm",
+      "114 cm",
+      "228 cm",
+      "232 cm"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "Perimetro: 4×lato."
+  },
+  {
+    "q": "Area di un rettangolo con base 50 cm e altezza 64 cm?",
+    "options": [
+      "3210 cm²",
+      "114 cm²",
+      "3200 cm²",
+      "228 cm²"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "Area: base×altezza."
+  },
+  {
+    "q": "In un triangolo: angoli 70° e 80°. Terzo angolo?",
+    "options": [
+      "40°",
+      "30°",
+      "150°",
+      "180°"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "Somma angoli: 180°."
+  },
+  {
+    "q": "Volume di un cubo con lato 6 cm?",
+    "options": [
+      "222 cm³",
+      "216 cm³ (4)",
+      "36 cm³",
+      "216 cm³"
+    ],
+    "correct": 3,
+    "difficulty": "medium",
+    "explain": "Volume: lato³."
+  },
+  {
+    "q": "Perimetro di un rettangolo di lati 37 cm e 17 cm?",
+    "options": [
+      "110 cm",
+      "54 cm",
+      "629 cm",
+      "108 cm"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "Perimetro: 2(a+b)."
+  },
+  {
+    "q": "Area di un triangolo con base 75 cm e altezza 18 cm?",
+    "options": [
+      "680 cm²",
+      "675 cm²",
+      "676 cm²",
+      "1350 cm²"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "Area: (b×h)/2."
+  },
+  {
+    "q": "In un triangolo: angoli 60° e 80°. Terzo angolo?",
+    "options": [
+      "180°",
+      "40°",
+      "140°",
+      "50°"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "Somma angoli: 180°."
+  },
+  {
+    "q": "Perimetro di un rettangolo di lati 4 cm e 37 cm?",
+    "options": [
+      "41 cm",
+      "148 cm",
+      "82 cm",
+      "84 cm"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "Perimetro: 2(a+b)."
+  },
+  {
+    "q": "Volume di un cubo con lato 5 cm?",
+    "options": [
+      "25 cm³",
+      "125 cm³",
+      "130 cm³",
+      "150 cm³"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "Volume: lato³."
+  },
+  {
+    "q": "Volume di un cubo con lato 16 cm?",
+    "options": [
+      "1536 cm³",
+      "4096 cm³",
+      "4112 cm³",
+      "256 cm³"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "Volume: lato³."
+  },
+  {
+    "q": "Area di un rettangolo con base 30 cm e altezza 54 cm?",
+    "options": [
+      "1620 cm²",
+      "1630 cm²",
+      "84 cm²",
+      "168 cm²"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explain": "Area: base×altezza."
+  },
+  {
+    "q": "In un triangolo: angoli 90° e 45°. Terzo angolo?",
+    "options": [
+      "180°",
+      "45°",
+      "55°",
+      "135°"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "Somma angoli: 180°."
+  },
+  {
+    "q": "Area di un rettangolo con base 46 cm e altezza 16 cm?",
+    "options": [
+      "62 cm²",
+      "746 cm²",
+      "124 cm²",
+      "736 cm²"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "Area: base×altezza."
+  },
+  {
+    "q": "Area di un triangolo con base 4 cm e altezza 58 cm?",
+    "options": [
+      "232 cm²",
+      "116 cm²",
+      "117 cm²",
+      "121 cm²"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "Area: (b×h)/2."
+  },
+  {
+    "q": "Perimetro di un quadrato di lato 15 cm?",
+    "options": [
+      "64 cm",
+      "60 cm",
+      "225 cm",
+      "30 cm"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "Perimetro: 4×lato."
+  },
+  {
+    "q": "Area di un triangolo con base 60 cm e altezza 46 cm?",
+    "options": [
+      "1385 cm²",
+      "1381 cm²",
+      "2760 cm²",
+      "1380 cm²"
+    ],
+    "correct": 3,
+    "difficulty": "medium",
+    "explain": "Area: (b×h)/2."
+  },
+  {
+    "q": "Area di un rettangolo con base 15 cm e altezza 14 cm?",
+    "options": [
+      "58 cm²",
+      "220 cm²",
+      "210 cm²",
+      "29 cm²"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "Area: base×altezza."
+  },
+  {
+    "q": "Area di un triangolo con base 67 cm e altezza 2 cm?",
+    "options": [
+      "72 cm²",
+      "67 cm²",
+      "68 cm²",
+      "134 cm²"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "Area: (b×h)/2."
+  },
+  {
+    "q": "Perimetro di un rettangolo di lati 52 cm e 18 cm?",
+    "options": [
+      "142 cm",
+      "70 cm",
+      "936 cm",
+      "140 cm"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "Perimetro: 2(a+b)."
+  },
+  {
+    "q": "Area di un rettangolo con base 67 cm e altezza 40 cm?",
+    "options": [
+      "2680 cm²",
+      "2690 cm²",
+      "214 cm²",
+      "107 cm²"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explain": "Area: base×altezza."
+  },
+  {
+    "q": "Perimetro di un rettangolo di lati 24 cm e 10 cm?",
+    "options": [
+      "70 cm",
+      "68 cm",
+      "34 cm",
+      "240 cm"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "Perimetro: 2(a+b)."
+  },
+  {
+    "q": "Perimetro di un quadrato di lato 59 cm?",
+    "options": [
+      "118 cm",
+      "3481 cm",
+      "236 cm",
+      "240 cm"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "Perimetro: 4×lato."
+  },
+  {
+    "q": "Perimetro di un quadrato di lato 78 cm?",
+    "options": [
+      "6084 cm",
+      "316 cm",
+      "312 cm",
+      "156 cm"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "Perimetro: 4×lato."
+  },
+  {
+    "q": "Perimetro di un rettangolo di lati 19 cm e 54 cm?",
+    "options": [
+      "148 cm",
+      "1026 cm",
+      "73 cm",
+      "146 cm"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "Perimetro: 2(a+b)."
+  },
+  {
+    "q": "Volume di un cubo con lato 21 cm?",
+    "options": [
+      "441 cm³",
+      "9282 cm³",
+      "2646 cm³",
+      "9261 cm³"
+    ],
+    "correct": 3,
+    "difficulty": "medium",
+    "explain": "Volume: lato³."
+  },
+  {
+    "q": "Perimetro di un rettangolo di lati 27 cm e 11 cm?",
+    "options": [
+      "78 cm",
+      "297 cm",
+      "76 cm",
+      "38 cm"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "Perimetro: 2(a+b)."
+  },
+  {
+    "q": "In un triangolo: angoli 90° e 40°. Terzo angolo?",
+    "options": [
+      "60°",
+      "50°",
+      "180°",
+      "130°"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "Somma angoli: 180°."
+  },
+  {
+    "q": "In un triangolo: angoli 45° e 50°. Terzo angolo?",
+    "options": [
+      "85° (4)",
+      "95°",
+      "85°",
+      "180°"
+    ],
+    "correct": 2,
+    "difficulty": "medium",
+    "explain": "Somma angoli: 180°."
+  },
+  {
+    "q": "Perimetro di un rettangolo di lati 5 cm e 31 cm?",
+    "options": [
+      "74 cm",
+      "155 cm",
+      "72 cm",
+      "36 cm"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "Perimetro: 2(a+b)."
+  },
+  {
+    "q": "Volume di un cubo con lato 18 cm?",
+    "options": [
+      "5832 cm³",
+      "5850 cm³",
+      "324 cm³",
+      "1944 cm³"
+    ],
+    "correct": 0,
+    "difficulty": "medium",
+    "explain": "Volume: lato³."
+  },
+  {
+    "q": "Perimetro di un quadrato di lato 65 cm?",
+    "options": [
+      "130 cm",
+      "4225 cm",
+      "264 cm",
+      "260 cm"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "Perimetro: 4×lato."
+  },
+  {
+    "q": "Area di un rettangolo con base 8 cm e altezza 19 cm?",
+    "options": [
+      "27 cm²",
+      "162 cm²",
+      "152 cm²",
+      "54 cm²"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "Area: base×altezza."
+  },
+  {
+    "q": "Volume di un cubo con lato 3 cm?",
+    "options": [
+      "30 cm³",
+      "27 cm³",
+      "9 cm³",
+      "54 cm³"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "Volume: lato³."
+  },
+  {
+    "q": "Perimetro di un rettangolo di lati 5 cm e 24 cm?",
+    "options": [
+      "29 cm",
+      "60 cm",
+      "120 cm",
+      "58 cm"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "Perimetro: 2(a+b)."
+  },
+  {
+    "q": "Area di un rettangolo con base 46 cm e altezza 23 cm?",
+    "options": [
+      "138 cm²",
+      "69 cm²",
+      "1068 cm²",
+      "1058 cm²"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "Area: base×altezza."
+  },
+  {
+    "q": "Volume di un cubo con lato 10 cm?",
+    "options": [
+      "100 cm³",
+      "1010 cm³",
+      "600 cm³",
+      "1000 cm³"
+    ],
+    "correct": 3,
+    "difficulty": "medium",
+    "explain": "Volume: lato³."
+  },
+  {
+    "q": "Area di un rettangolo con base 34 cm e altezza 42 cm?",
+    "options": [
+      "76 cm²",
+      "1428 cm²",
+      "1438 cm²",
+      "152 cm²"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "Area: base×altezza."
+  },
+  {
+    "q": "Area di un triangolo con base 20 cm e altezza 45 cm?",
+    "options": [
+      "900 cm²",
+      "455 cm²",
+      "451 cm²",
+      "450 cm²"
+    ],
+    "correct": 3,
+    "difficulty": "medium",
+    "explain": "Area: (b×h)/2."
+  },
+  {
+    "q": "In un triangolo: angoli 40° e 60°. Terzo angolo?",
+    "options": [
+      "100°",
+      "90°",
+      "180°",
+      "80°"
+    ],
+    "correct": 3,
+    "difficulty": "medium",
+    "explain": "Somma angoli: 180°."
+  },
+  {
+    "q": "Perimetro di un rettangolo di lati 36 cm e 26 cm?",
+    "options": [
+      "936 cm",
+      "62 cm",
+      "126 cm",
+      "124 cm"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "Perimetro: 2(a+b)."
+  },
+  {
+    "q": "Volume di un cubo con lato 8 cm?",
+    "options": [
+      "384 cm³",
+      "512 cm³",
+      "64 cm³",
+      "520 cm³"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "Volume: lato³."
+  },
+  {
+    "q": "Perimetro di un rettangolo di lati 26 cm e 42 cm?",
+    "options": [
+      "138 cm",
+      "136 cm",
+      "68 cm",
+      "1092 cm"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "Perimetro: 2(a+b)."
+  },
+  {
+    "q": "Perimetro di un rettangolo di lati 11 cm e 32 cm?",
+    "options": [
+      "43 cm",
+      "352 cm",
+      "86 cm",
+      "88 cm"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "Perimetro: 2(a+b)."
+  },
+  {
+    "q": "Area di un rettangolo con base 48 cm e altezza 15 cm?",
+    "options": [
+      "730 cm²",
+      "63 cm²",
+      "720 cm²",
+      "126 cm²"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "Area: base×altezza."
+  },
+  {
+    "q": "Area di un rettangolo con base 34 cm e altezza 14 cm?",
+    "options": [
+      "476 cm²",
+      "48 cm²",
+      "96 cm²",
+      "486 cm²"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explain": "Area: base×altezza."
+  },
+  {
+    "q": "Perimetro di un rettangolo di lati 4 cm e 34 cm?",
+    "options": [
+      "38 cm",
+      "78 cm",
+      "76 cm",
+      "136 cm"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "Perimetro: 2(a+b)."
+  },
+  {
+    "q": "Area di un rettangolo con base 44 cm e altezza 34 cm?",
+    "options": [
+      "1506 cm²",
+      "156 cm²",
+      "78 cm²",
+      "1496 cm²"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "Area: base×altezza."
+  },
+  {
+    "q": "Volume di un cubo con lato 28 cm?",
+    "options": [
+      "21980 cm³",
+      "4704 cm³",
+      "784 cm³",
+      "21952 cm³"
+    ],
+    "correct": 3,
+    "difficulty": "medium",
+    "explain": "Volume: lato³."
+  },
+  {
+    "q": "Perimetro di un quadrato di lato 21 cm?",
+    "options": [
+      "42 cm",
+      "441 cm",
+      "88 cm",
+      "84 cm"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "Perimetro: 4×lato."
+  },
+  {
+    "q": "Perimetro di un quadrato di lato 14 cm?",
+    "options": [
+      "28 cm",
+      "60 cm",
+      "196 cm",
+      "56 cm"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "Perimetro: 4×lato."
+  },
+  {
+    "q": "Area di un rettangolo con base 10 cm e altezza 21 cm?",
+    "options": [
+      "210 cm²",
+      "31 cm²",
+      "220 cm²",
+      "62 cm²"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explain": "Area: base×altezza."
+  },
+  {
+    "q": "Perimetro di un rettangolo di lati 45 cm e 3 cm?",
+    "options": [
+      "48 cm",
+      "98 cm",
+      "135 cm",
+      "96 cm"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "Perimetro: 2(a+b)."
+  },
+  {
+    "q": "Area di un triangolo con base 48 cm e altezza 36 cm?",
+    "options": [
+      "1728 cm²",
+      "869 cm²",
+      "864 cm²",
+      "865 cm²"
+    ],
+    "correct": 2,
+    "difficulty": "medium",
+    "explain": "Area: (b×h)/2."
+  },
+  {
+    "q": "Area di un rettangolo con base 3 cm e altezza 65 cm?",
+    "options": [
+      "136 cm²",
+      "205 cm²",
+      "195 cm²",
+      "68 cm²"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "Area: base×altezza."
+  },
+  {
+    "q": "Perimetro di un quadrato di lato 58 cm?",
+    "options": [
+      "116 cm",
+      "232 cm",
+      "3364 cm",
+      "236 cm"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "Perimetro: 4×lato."
+  },
+  {
+    "q": "In un triangolo: angoli 80° e 40°. Terzo angolo?",
+    "options": [
+      "120°",
+      "60°",
+      "70°",
+      "180°"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "Somma angoli: 180°."
+  },
+  {
+    "q": "Volume di un cubo con lato 20 cm?",
+    "options": [
+      "8000 cm³",
+      "400 cm³",
+      "2400 cm³",
+      "8020 cm³"
+    ],
+    "correct": 0,
+    "difficulty": "medium",
+    "explain": "Volume: lato³."
+  },
+  {
+    "q": "Perimetro di un quadrato di lato 25 cm?",
+    "options": [
+      "100 cm",
+      "104 cm",
+      "625 cm",
+      "50 cm"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explain": "Perimetro: 4×lato."
+  },
+  {
+    "q": "Area di un triangolo con base 35 cm e altezza 28 cm?",
+    "options": [
+      "980 cm²",
+      "491 cm²",
+      "490 cm²",
+      "495 cm²"
+    ],
+    "correct": 2,
+    "difficulty": "medium",
+    "explain": "Area: (b×h)/2."
+  },
+  {
+    "q": "Area di un triangolo con base 57 cm e altezza 42 cm?",
+    "options": [
+      "1202 cm²",
+      "2394 cm²",
+      "1198 cm²",
+      "1197 cm²"
+    ],
+    "correct": 3,
+    "difficulty": "medium",
+    "explain": "Area: (b×h)/2."
+  },
+  {
+    "q": "Perimetro di un rettangolo di lati 34 cm e 40 cm?",
+    "options": [
+      "148 cm",
+      "74 cm",
+      "150 cm",
+      "1360 cm"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explain": "Perimetro: 2(a+b)."
+  },
+  {
+    "q": "Perimetro di un rettangolo di lati 14 cm e 32 cm?",
+    "options": [
+      "92 cm",
+      "448 cm",
+      "46 cm",
+      "94 cm"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explain": "Perimetro: 2(a+b)."
+  },
+  {
+    "q": "Area di un rettangolo con base 42 cm e altezza 12 cm?",
+    "options": [
+      "54 cm²",
+      "108 cm²",
+      "514 cm²",
+      "504 cm²"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "Area: base×altezza."
+  },
+  {
+    "q": "Perimetro di un quadrato di lato 73 cm?",
+    "options": [
+      "296 cm",
+      "5329 cm",
+      "146 cm",
+      "292 cm"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "Perimetro: 4×lato."
+  },
+  {
+    "q": "Area di un triangolo con base 80 cm e altezza 60 cm?",
+    "options": [
+      "4800 cm²",
+      "2400 cm²",
+      "2405 cm²",
+      "2401 cm²"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "Area: (b×h)/2."
+  },
+  {
+    "q": "Area di un rettangolo con base 8 cm e altezza 9 cm?",
+    "options": [
+      "17 cm²",
+      "82 cm²",
+      "34 cm²",
+      "72 cm²"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "Area: base×altezza."
+  },
+  {
+    "q": "Perimetro di un quadrato di lato 70 cm?",
+    "options": [
+      "4900 cm",
+      "284 cm",
+      "140 cm",
+      "280 cm"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "Perimetro: 4×lato."
+  },
+  {
+    "q": "Area di un rettangolo con base 14 cm e altezza 16 cm?",
+    "options": [
+      "234 cm²",
+      "60 cm²",
+      "224 cm²",
+      "30 cm²"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "Area: base×altezza."
+  },
+  {
+    "q": "Area di un triangolo con base 4 cm e altezza 27 cm?",
+    "options": [
+      "59 cm²",
+      "54 cm²",
+      "108 cm²",
+      "55 cm²"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "Area: (b×h)/2."
+  },
+  {
+    "q": "Area di un triangolo con base 79 cm e altezza 46 cm?",
+    "options": [
+      "1822 cm²",
+      "1818 cm²",
+      "3634 cm²",
+      "1817 cm²"
+    ],
+    "correct": 3,
+    "difficulty": "medium",
+    "explain": "Area: (b×h)/2."
+  },
+  {
+    "q": "Area di un triangolo con base 56 cm e altezza 51 cm?",
+    "options": [
+      "1428 cm²",
+      "1433 cm²",
+      "1429 cm²",
+      "2856 cm²"
+    ],
+    "correct": 0,
+    "difficulty": "medium",
+    "explain": "Area: (b×h)/2."
+  },
+  {
+    "q": "Perimetro di un rettangolo di lati 45 cm e 22 cm?",
+    "options": [
+      "990 cm",
+      "134 cm",
+      "67 cm",
+      "136 cm"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "Perimetro: 2(a+b)."
+  },
+  {
+    "q": "Area di un triangolo con base 68 cm e altezza 57 cm?",
+    "options": [
+      "1938 cm²",
+      "1939 cm²",
+      "3876 cm²",
+      "1943 cm²"
+    ],
+    "correct": 0,
+    "difficulty": "medium",
+    "explain": "Area: (b×h)/2."
+  },
+  {
+    "q": "Perimetro di un quadrato di lato 42 cm?",
+    "options": [
+      "84 cm",
+      "1764 cm",
+      "168 cm",
+      "172 cm"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "Perimetro: 4×lato."
+  },
+  {
+    "q": "Perimetro di un rettangolo di lati 17 cm e 8 cm?",
+    "options": [
+      "50 cm",
+      "25 cm",
+      "136 cm",
+      "52 cm"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explain": "Perimetro: 2(a+b)."
+  },
+  {
+    "q": "Area di un rettangolo con base 35 cm e altezza 13 cm?",
+    "options": [
+      "96 cm²",
+      "48 cm²",
+      "455 cm²",
+      "465 cm²"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "Area: base×altezza."
+  },
+  {
+    "q": "Area di un rettangolo con base 68 cm e altezza 41 cm?",
+    "options": [
+      "2788 cm²",
+      "2798 cm²",
+      "218 cm²",
+      "109 cm²"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explain": "Area: base×altezza."
+  },
+  {
+    "q": "Perimetro di un rettangolo di lati 50 cm e 33 cm?",
+    "options": [
+      "166 cm",
+      "168 cm",
+      "83 cm",
+      "1650 cm"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explain": "Perimetro: 2(a+b)."
+  },
+  {
+    "q": "Area di un rettangolo con base 14 cm e altezza 52 cm?",
+    "options": [
+      "738 cm²",
+      "728 cm²",
+      "132 cm²",
+      "66 cm²"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "Area: base×altezza."
+  },
+  {
+    "q": "Perimetro di un quadrato di lato 6 cm?",
+    "options": [
+      "12 cm",
+      "36 cm",
+      "28 cm",
+      "24 cm"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "Perimetro: 4×lato."
+  },
+  {
+    "q": "In un triangolo: angoli 80° e 20°. Terzo angolo?",
+    "options": [
+      "100°",
+      "180°",
+      "80°",
+      "90°"
+    ],
+    "correct": 2,
+    "difficulty": "medium",
+    "explain": "Somma angoli: 180°."
+  },
+  {
+    "q": "In un triangolo: angoli 30° e 45°. Terzo angolo?",
+    "options": [
+      "75°",
+      "115°",
+      "180°",
+      "105°"
+    ],
+    "correct": 3,
+    "difficulty": "medium",
+    "explain": "Somma angoli: 180°."
+  },
+  {
+    "q": "Perimetro di un quadrato di lato 79 cm?",
+    "options": [
+      "320 cm",
+      "158 cm",
+      "316 cm",
+      "6241 cm"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "Perimetro: 4×lato."
+  },
+  {
+    "q": "Perimetro di un quadrato di lato 7 cm?",
+    "options": [
+      "32 cm",
+      "49 cm",
+      "14 cm",
+      "28 cm"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "Perimetro: 4×lato."
+  },
+  {
+    "q": "Perimetro di un quadrato di lato 4 cm?",
+    "options": [
+      "20 cm",
+      "8 cm",
+      "16 cm (4)",
+      "16 cm"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "Perimetro: 4×lato."
+  },
+  {
+    "q": "Perimetro di un quadrato di lato 80 cm?",
+    "options": [
+      "324 cm",
+      "6400 cm",
+      "320 cm",
+      "160 cm"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "Perimetro: 4×lato."
+  },
+  {
+    "q": "Area di un rettangolo con base 57 cm e altezza 30 cm?",
+    "options": [
+      "1720 cm²",
+      "174 cm²",
+      "1710 cm²",
+      "87 cm²"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "Area: base×altezza."
+  },
+  {
+    "q": "Perimetro di un quadrato di lato 68 cm?",
+    "options": [
+      "276 cm",
+      "136 cm",
+      "4624 cm",
+      "272 cm"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "Perimetro: 4×lato."
+  },
+  {
+    "q": "Area di un rettangolo con base 45 cm e altezza 15 cm?",
+    "options": [
+      "675 cm²",
+      "120 cm²",
+      "60 cm²",
+      "685 cm²"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explain": "Area: base×altezza."
+  },
+  {
+    "q": "Area di un triangolo con base 66 cm e altezza 25 cm?",
+    "options": [
+      "825 cm²",
+      "830 cm²",
+      "826 cm²",
+      "1650 cm²"
+    ],
+    "correct": 0,
+    "difficulty": "medium",
+    "explain": "Area: (b×h)/2."
+  },
+  {
+    "q": "Volume di un cubo con lato 29 cm?",
+    "options": [
+      "841 cm³",
+      "24389 cm³",
+      "5046 cm³",
+      "24418 cm³"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "Volume: lato³."
+  },
+  {
+    "q": "Perimetro di un quadrato di lato 8 cm?",
+    "options": [
+      "36 cm",
+      "64 cm",
+      "32 cm",
+      "16 cm"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "Perimetro: 4×lato."
+  },
+  {
+    "q": "In un triangolo: angoli 50° e 70°. Terzo angolo?",
+    "options": [
+      "180°",
+      "120°",
+      "60°",
+      "70°"
+    ],
+    "correct": 2,
+    "difficulty": "medium",
+    "explain": "Somma angoli: 180°."
+  },
+  {
+    "q": "Area di un triangolo con base 74 cm e altezza 50 cm?",
+    "options": [
+      "1851 cm²",
+      "1855 cm²",
+      "3700 cm²",
+      "1850 cm²"
+    ],
+    "correct": 3,
+    "difficulty": "medium",
+    "explain": "Area: (b×h)/2."
+  },
+  {
+    "q": "Area di un rettangolo con base 15 cm e altezza 57 cm?",
+    "options": [
+      "72 cm²",
+      "144 cm²",
+      "865 cm²",
+      "855 cm²"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "Area: base×altezza."
+  },
+  {
+    "q": "In un triangolo: angoli 60° e 90°. Terzo angolo?",
+    "options": [
+      "180°",
+      "40°",
+      "150°",
+      "30°"
+    ],
+    "correct": 3,
+    "difficulty": "medium",
+    "explain": "Somma angoli: 180°."
+  },
+  {
+    "q": "Perimetro di un rettangolo di lati 23 cm e 19 cm?",
+    "options": [
+      "42 cm",
+      "84 cm",
+      "86 cm",
+      "437 cm"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "Perimetro: 2(a+b)."
+  },
+  {
+    "q": "Area di un rettangolo con base 24 cm e altezza 38 cm?",
+    "options": [
+      "922 cm²",
+      "912 cm²",
+      "124 cm²",
+      "62 cm²"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "Area: base×altezza."
+  },
+  {
+    "q": "Area di un triangolo con base 26 cm e altezza 18 cm?",
+    "options": [
+      "239 cm²",
+      "468 cm²",
+      "234 cm²",
+      "235 cm²"
+    ],
+    "correct": 2,
+    "difficulty": "medium",
+    "explain": "Area: (b×h)/2."
+  },
+  {
+    "q": "Perimetro di un quadrato di lato 33 cm?",
+    "options": [
+      "136 cm",
+      "66 cm",
+      "1089 cm",
+      "132 cm"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "Perimetro: 4×lato."
+  },
+  {
+    "q": "Area di un triangolo con base 64 cm e altezza 53 cm?",
+    "options": [
+      "3392 cm²",
+      "1701 cm²",
+      "1697 cm²",
+      "1696 cm²"
+    ],
+    "correct": 3,
+    "difficulty": "medium",
+    "explain": "Area: (b×h)/2."
+  },
+  {
+    "q": "Perimetro di un rettangolo di lati 38 cm e 3 cm?",
+    "options": [
+      "114 cm",
+      "41 cm",
+      "84 cm",
+      "82 cm"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "Perimetro: 2(a+b)."
+  },
+  {
+    "q": "Area di un rettangolo con base 67 cm e altezza 44 cm?",
+    "options": [
+      "111 cm²",
+      "222 cm²",
+      "2958 cm²",
+      "2948 cm²"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "Area: base×altezza."
+  },
+  {
+    "q": "Perimetro di un rettangolo di lati 44 cm e 60 cm?",
+    "options": [
+      "104 cm",
+      "208 cm",
+      "210 cm",
+      "2640 cm"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "Perimetro: 2(a+b)."
+  },
+  {
+    "q": "Perimetro di un rettangolo di lati 24 cm e 30 cm?",
+    "options": [
+      "108 cm",
+      "110 cm",
+      "720 cm",
+      "54 cm"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explain": "Perimetro: 2(a+b)."
+  },
+  {
+    "q": "Perimetro di un quadrato di lato 40 cm?",
+    "options": [
+      "80 cm",
+      "160 cm",
+      "1600 cm",
+      "164 cm"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "Perimetro: 4×lato."
+  },
+  {
+    "q": "Area di un triangolo con base 40 cm e altezza 23 cm?",
+    "options": [
+      "920 cm²",
+      "465 cm²",
+      "461 cm²",
+      "460 cm²"
+    ],
+    "correct": 3,
+    "difficulty": "medium",
+    "explain": "Area: (b×h)/2."
+  },
+  {
+    "q": "Area di un rettangolo con base 21 cm e altezza 33 cm?",
+    "options": [
+      "703 cm²",
+      "54 cm²",
+      "108 cm²",
+      "693 cm²"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "Area: base×altezza."
+  },
+  {
+    "q": "Perimetro di un rettangolo di lati 17 cm e 20 cm?",
+    "options": [
+      "76 cm",
+      "37 cm",
+      "74 cm",
+      "340 cm"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "Perimetro: 2(a+b)."
+  },
+  {
+    "q": "Volume di un cubo con lato 2 cm?",
+    "options": [
+      "10 cm³",
+      "4 cm³",
+      "8 cm³",
+      "24 cm³"
+    ],
+    "correct": 2,
+    "difficulty": "medium",
+    "explain": "Volume: lato³."
+  },
+  {
+    "q": "Volume di un cubo con lato 11 cm?",
+    "options": [
+      "121 cm³",
+      "726 cm³",
+      "1342 cm³",
+      "1331 cm³"
+    ],
+    "correct": 3,
+    "difficulty": "medium",
+    "explain": "Volume: lato³."
+  },
+  {
+    "q": "Volume di un cubo con lato 22 cm?",
+    "options": [
+      "484 cm³",
+      "10648 cm³",
+      "2904 cm³",
+      "10670 cm³"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "Volume: lato³."
+  },
+  {
+    "q": "Perimetro di un rettangolo di lati 28 cm e 12 cm?",
+    "options": [
+      "40 cm",
+      "82 cm",
+      "80 cm",
+      "336 cm"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "Perimetro: 2(a+b)."
+  },
+  {
+    "q": "Perimetro di un rettangolo di lati 17 cm e 35 cm?",
+    "options": [
+      "595 cm",
+      "52 cm",
+      "104 cm",
+      "106 cm"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "Perimetro: 2(a+b)."
+  },
+  {
+    "q": "Area di un triangolo con base 30 cm e altezza 2 cm?",
+    "options": [
+      "30 cm²",
+      "60 cm²",
+      "31 cm²",
+      "35 cm²"
+    ],
+    "correct": 0,
+    "difficulty": "medium",
+    "explain": "Area: (b×h)/2."
+  },
+  {
+    "q": "Area di un rettangolo con base 16 cm e altezza 64 cm?",
+    "options": [
+      "1034 cm²",
+      "80 cm²",
+      "160 cm²",
+      "1024 cm²"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "Area: base×altezza."
+  },
+  {
+    "q": "Perimetro di un quadrato di lato 10 cm?",
+    "options": [
+      "44 cm",
+      "20 cm",
+      "100 cm",
+      "40 cm"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "Perimetro: 4×lato."
+  },
+  {
+    "q": "Area di un rettangolo con base 38 cm e altezza 23 cm?",
+    "options": [
+      "874 cm²",
+      "61 cm²",
+      "884 cm²",
+      "122 cm²"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explain": "Area: base×altezza."
+  },
+  {
+    "q": "In un triangolo: angoli 20° e 40°. Terzo angolo?",
+    "options": [
+      "120°",
+      "180°",
+      "60°",
+      "130°"
+    ],
+    "correct": 0,
+    "difficulty": "medium",
+    "explain": "Somma angoli: 180°."
+  },
+  {
+    "q": "Perimetro di un quadrato di lato 18 cm?",
+    "options": [
+      "324 cm",
+      "36 cm",
+      "76 cm",
+      "72 cm"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "Perimetro: 4×lato."
+  },
+  {
+    "q": "Perimetro di un quadrato di lato 56 cm?",
+    "options": [
+      "228 cm",
+      "112 cm",
+      "224 cm",
+      "3136 cm"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "Perimetro: 4×lato."
+  },
+  {
+    "q": "Area di un triangolo con base 39 cm e altezza 6 cm?",
+    "options": [
+      "234 cm²",
+      "118 cm²",
+      "122 cm²",
+      "117 cm²"
+    ],
+    "correct": 3,
+    "difficulty": "medium",
+    "explain": "Area: (b×h)/2."
+  },
+  {
+    "q": "Area di un triangolo con base 70 cm e altezza 6 cm?",
+    "options": [
+      "210 cm²",
+      "215 cm²",
+      "211 cm²",
+      "420 cm²"
+    ],
+    "correct": 0,
+    "difficulty": "medium",
+    "explain": "Area: (b×h)/2."
+  },
+  {
+    "q": "Volume di un cubo con lato 27 cm?",
+    "options": [
+      "729 cm³",
+      "19683 cm³",
+      "4374 cm³",
+      "19710 cm³"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "Volume: lato³."
+  },
+  {
+    "q": "Area di un rettangolo con base 69 cm e altezza 18 cm?",
+    "options": [
+      "1242 cm²",
+      "1252 cm²",
+      "174 cm²",
+      "87 cm²"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explain": "Area: base×altezza."
+  },
+  {
+    "q": "Area di un triangolo con base 55 cm e altezza 36 cm?",
+    "options": [
+      "1980 cm²",
+      "995 cm²",
+      "991 cm²",
+      "990 cm²"
+    ],
+    "correct": 3,
+    "difficulty": "medium",
+    "explain": "Area: (b×h)/2."
+  },
+  {
+    "q": "Volume di un cubo con lato 13 cm?",
+    "options": [
+      "169 cm³",
+      "2197 cm³",
+      "2210 cm³",
+      "1014 cm³"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "Volume: lato³."
+  },
+  {
+    "q": "Area di un rettangolo con base 61 cm e altezza 69 cm?",
+    "options": [
+      "4209 cm²",
+      "4219 cm²",
+      "260 cm²",
+      "130 cm²"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explain": "Area: base×altezza."
+  },
+  {
+    "q": "Volume di un cubo con lato 7 cm?",
+    "options": [
+      "350 cm³",
+      "294 cm³",
+      "49 cm³",
+      "343 cm³"
+    ],
+    "correct": 3,
+    "difficulty": "medium",
+    "explain": "Volume: lato³."
+  },
+  {
+    "q": "Perimetro di un rettangolo di lati 17 cm e 47 cm?",
+    "options": [
+      "130 cm",
+      "799 cm",
+      "128 cm",
+      "64 cm"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "Perimetro: 2(a+b)."
+  },
+  {
+    "q": "Perimetro di un rettangolo di lati 59 cm e 48 cm?",
+    "options": [
+      "2832 cm",
+      "107 cm",
+      "214 cm",
+      "216 cm"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "Perimetro: 2(a+b)."
+  },
+  {
+    "q": "Perimetro di un quadrato di lato 67 cm?",
+    "options": [
+      "4489 cm",
+      "134 cm",
+      "268 cm",
+      "272 cm"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "Perimetro: 4×lato."
+  },
+  {
+    "q": "Perimetro di un quadrato di lato 72 cm?",
+    "options": [
+      "144 cm",
+      "292 cm",
+      "5184 cm",
+      "288 cm"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "Perimetro: 4×lato."
+  },
+  {
+    "q": "Area di un triangolo con base 42 cm e altezza 20 cm?",
+    "options": [
+      "421 cm²",
+      "425 cm²",
+      "420 cm²",
+      "840 cm²"
+    ],
+    "correct": 2,
+    "difficulty": "medium",
+    "explain": "Area: (b×h)/2."
+  },
+  {
+    "q": "Area di un rettangolo con base 44 cm e altezza 37 cm?",
+    "options": [
+      "1638 cm²",
+      "81 cm²",
+      "1628 cm²",
+      "162 cm²"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "Area: base×altezza."
+  },
+  {
+    "q": "In un triangolo: angoli 70° e 20°. Terzo angolo?",
+    "options": [
+      "100°",
+      "180°",
+      "90° (4)",
+      "90°"
+    ],
+    "correct": 3,
+    "difficulty": "medium",
+    "explain": "Somma angoli: 180°."
+  },
+  {
+    "q": "Perimetro di un rettangolo di lati 57 cm e 28 cm?",
+    "options": [
+      "1596 cm",
+      "172 cm",
+      "85 cm",
+      "170 cm"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "Perimetro: 2(a+b)."
+  },
+  {
+    "q": "Area di un rettangolo con base 26 cm e altezza 52 cm?",
+    "options": [
+      "156 cm²",
+      "78 cm²",
+      "1352 cm²",
+      "1362 cm²"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "Area: base×altezza."
+  },
+  {
+    "q": "In un triangolo: angoli 80° e 45°. Terzo angolo?",
+    "options": [
+      "125°",
+      "55°",
+      "180°",
+      "65°"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "Somma angoli: 180°."
+  },
+  {
+    "q": "Area di un triangolo con base 14 cm e altezza 51 cm?",
+    "options": [
+      "357 cm²",
+      "714 cm²",
+      "362 cm²",
+      "358 cm²"
+    ],
+    "correct": 0,
+    "difficulty": "medium",
+    "explain": "Area: (b×h)/2."
+  },
+  {
+    "q": "Area di un rettangolo con base 12 cm e altezza 65 cm?",
+    "options": [
+      "790 cm²",
+      "154 cm²",
+      "77 cm²",
+      "780 cm²"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "Area: base×altezza."
+  },
+  {
+    "q": "Area di un triangolo con base 6 cm e altezza 5 cm?",
+    "options": [
+      "16 cm²",
+      "20 cm²",
+      "15 cm²",
+      "30 cm²"
+    ],
+    "correct": 2,
+    "difficulty": "medium",
+    "explain": "Area: (b×h)/2."
+  },
+  {
+    "q": "Area di un rettangolo con base 34 cm e altezza 3 cm?",
+    "options": [
+      "37 cm²",
+      "102 cm²",
+      "112 cm²",
+      "74 cm²"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "Area: base×altezza."
+  },
+  {
+    "q": "Area di un triangolo con base 8 cm e altezza 23 cm?",
+    "options": [
+      "97 cm²",
+      "184 cm²",
+      "93 cm²",
+      "92 cm²"
+    ],
+    "correct": 3,
+    "difficulty": "medium",
+    "explain": "Area: (b×h)/2."
+  },
+  {
+    "q": "Perimetro di un quadrato di lato 51 cm?",
+    "options": [
+      "204 cm",
+      "2601 cm",
+      "208 cm",
+      "102 cm"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explain": "Perimetro: 4×lato."
+  },
+  {
+    "q": "Volume di un cubo con lato 24 cm?",
+    "options": [
+      "576 cm³",
+      "13848 cm³",
+      "13824 cm³",
+      "3456 cm³"
+    ],
+    "correct": 2,
+    "difficulty": "medium",
+    "explain": "Volume: lato³."
+  },
+  {
+    "q": "Perimetro di un quadrato di lato 45 cm?",
+    "options": [
+      "180 cm",
+      "184 cm",
+      "2025 cm",
+      "90 cm"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explain": "Perimetro: 4×lato."
+  },
+  {
+    "q": "Volume di un cubo con lato 19 cm?",
+    "options": [
+      "2166 cm³",
+      "6878 cm³",
+      "6859 cm³",
+      "361 cm³"
+    ],
+    "correct": 2,
+    "difficulty": "medium",
+    "explain": "Volume: lato³."
+  },
+  {
+    "q": "Area di un rettangolo con base 4 cm e altezza 62 cm?",
+    "options": [
+      "66 cm²",
+      "132 cm²",
+      "258 cm²",
+      "248 cm²"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "Area: base×altezza."
+  },
+  {
+    "q": "Area di un triangolo con base 69 cm e altezza 42 cm?",
+    "options": [
+      "2898 cm²",
+      "1449 cm²",
+      "1450 cm²",
+      "1454 cm²"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "Area: (b×h)/2."
+  },
+  {
+    "q": "Perimetro di un rettangolo di lati 46 cm e 32 cm?",
+    "options": [
+      "1472 cm",
+      "78 cm",
+      "158 cm",
+      "156 cm"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "Perimetro: 2(a+b)."
+  },
+  {
+    "q": "Area di un rettangolo con base 10 cm e altezza 48 cm?",
+    "options": [
+      "480 cm²",
+      "490 cm²",
+      "116 cm²",
+      "58 cm²"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explain": "Area: base×altezza."
+  },
+  {
+    "q": "In un triangolo: angoli 50° e 90°. Terzo angolo?",
+    "options": [
+      "50°",
+      "40°",
+      "180°",
+      "140°"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "Somma angoli: 180°."
+  },
+  {
+    "q": "Area di un rettangolo con base 55 cm e altezza 49 cm?",
+    "options": [
+      "208 cm²",
+      "104 cm²",
+      "2695 cm²",
+      "2705 cm²"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "Area: base×altezza."
+  },
+  {
+    "q": "Area di un triangolo con base 4 cm e altezza 34 cm?",
+    "options": [
+      "68 cm²",
+      "73 cm²",
+      "69 cm²",
+      "136 cm²"
+    ],
+    "correct": 0,
+    "difficulty": "medium",
+    "explain": "Area: (b×h)/2."
+  },
+  {
+    "q": "Perimetro di un rettangolo di lati 25 cm e 40 cm?",
+    "options": [
+      "132 cm",
+      "130 cm",
+      "65 cm",
+      "1000 cm"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "Perimetro: 2(a+b)."
+  },
+  {
+    "q": "Area di un rettangolo con base 55 cm e altezza 40 cm?",
+    "options": [
+      "190 cm²",
+      "95 cm²",
+      "2200 cm²",
+      "2210 cm²"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "Area: base×altezza."
+  },
+  {
+    "q": "Perimetro di un rettangolo di lati 5 cm e 41 cm?",
+    "options": [
+      "94 cm",
+      "46 cm",
+      "92 cm",
+      "205 cm"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "Perimetro: 2(a+b)."
+  },
+  {
+    "q": "Area di un rettangolo con base 68 cm e altezza 62 cm?",
+    "options": [
+      "4216 cm²",
+      "260 cm²",
+      "130 cm²",
+      "4226 cm²"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explain": "Area: base×altezza."
+  },
+  {
+    "q": "In un triangolo: angoli 40° e 50°. Terzo angolo?",
+    "options": [
+      "180°",
+      "90° (4)",
+      "90°",
+      "100°"
+    ],
+    "correct": 2,
+    "difficulty": "medium",
+    "explain": "Somma angoli: 180°."
+  },
+  {
+    "q": "Area di un triangolo con base 51 cm e altezza 36 cm?",
+    "options": [
+      "918 cm²",
+      "919 cm²",
+      "923 cm²",
+      "1836 cm²"
+    ],
+    "correct": 0,
+    "difficulty": "medium",
+    "explain": "Area: (b×h)/2."
+  },
+  {
+    "q": "Perimetro di un rettangolo di lati 17 cm e 10 cm?",
+    "options": [
+      "170 cm",
+      "54 cm",
+      "27 cm",
+      "56 cm"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "Perimetro: 2(a+b)."
+  },
+  {
+    "q": "Perimetro di un rettangolo di lati 57 cm e 59 cm?",
+    "options": [
+      "234 cm",
+      "116 cm",
+      "3363 cm",
+      "232 cm"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "Perimetro: 2(a+b)."
+  },
+  {
+    "q": "Perimetro di un rettangolo di lati 58 cm e 48 cm?",
+    "options": [
+      "2784 cm",
+      "106 cm",
+      "214 cm",
+      "212 cm"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "Perimetro: 2(a+b)."
+  },
+  {
+    "q": "Area di un triangolo con base 42 cm e altezza 16 cm?",
+    "options": [
+      "672 cm²",
+      "336 cm²",
+      "341 cm²",
+      "337 cm²"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "Area: (b×h)/2."
+  },
+  {
+    "q": "Area di un rettangolo con base 47 cm e altezza 69 cm?",
+    "options": [
+      "3253 cm²",
+      "3243 cm²",
+      "232 cm²",
+      "116 cm²"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "Area: base×altezza."
+  },
+  {
+    "q": "Area di un triangolo con base 58 cm e altezza 43 cm?",
+    "options": [
+      "1252 cm²",
+      "1247 cm²",
+      "2494 cm²",
+      "1248 cm²"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "Area: (b×h)/2."
+  },
+  {
+    "q": "Perimetro di un quadrato di lato 12 cm?",
+    "options": [
+      "24 cm",
+      "144 cm",
+      "52 cm",
+      "48 cm"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "Perimetro: 4×lato."
+  },
+  {
+    "q": "Perimetro di un rettangolo di lati 6 cm e 27 cm?",
+    "options": [
+      "66 cm",
+      "162 cm",
+      "68 cm",
+      "33 cm"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explain": "Perimetro: 2(a+b)."
+  },
+  {
+    "q": "Perimetro di un quadrato di lato 24 cm?",
+    "options": [
+      "576 cm",
+      "48 cm",
+      "100 cm",
+      "96 cm"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "Perimetro: 4×lato."
+  },
+  {
+    "q": "In un triangolo: angoli 40° e 45°. Terzo angolo?",
+    "options": [
+      "180°",
+      "95°",
+      "105°",
+      "85°"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "Somma angoli: 180°."
+  },
+  {
+    "q": "Perimetro di un rettangolo di lati 4 cm e 38 cm?",
+    "options": [
+      "86 cm",
+      "152 cm",
+      "84 cm",
+      "42 cm"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "Perimetro: 2(a+b)."
+  },
+  {
+    "q": "Perimetro di un rettangolo di lati 28 cm e 21 cm?",
+    "options": [
+      "588 cm",
+      "98 cm",
+      "100 cm",
+      "49 cm"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "Perimetro: 2(a+b)."
+  },
+  {
+    "q": "In un triangolo: angoli 90° e 50°. Terzo angolo?",
+    "options": [
+      "40°",
+      "140°",
+      "50°",
+      "180°"
+    ],
+    "correct": 0,
+    "difficulty": "medium",
+    "explain": "Somma angoli: 180°."
+  },
+  {
+    "q": "Area di un rettangolo con base 18 cm e altezza 39 cm?",
+    "options": [
+      "712 cm²",
+      "702 cm²",
+      "114 cm²",
+      "57 cm²"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "Area: base×altezza."
+  },
+  {
+    "q": "In un triangolo: angoli 20° e 60°. Terzo angolo?",
+    "options": [
+      "80°",
+      "100°",
+      "180°",
+      "110°"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "Somma angoli: 180°."
+  },
+  {
+    "q": "In un triangolo: angoli 70° e 50°. Terzo angolo?",
+    "options": [
+      "70°",
+      "60°",
+      "180°",
+      "120°"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "Somma angoli: 180°."
+  },
+  {
+    "q": "Perimetro di un rettangolo di lati 30 cm e 18 cm?",
+    "options": [
+      "48 cm",
+      "540 cm",
+      "96 cm",
+      "98 cm"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "Perimetro: 2(a+b)."
+  },
+  {
+    "q": "In un triangolo: angoli 90° e 20°. Terzo angolo?",
+    "options": [
+      "180°",
+      "70°",
+      "80°",
+      "110°"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "Somma angoli: 180°."
+  },
+  {
+    "q": "Volume di un cubo con lato 17 cm?",
+    "options": [
+      "4913 cm³",
+      "289 cm³",
+      "1734 cm³",
+      "4930 cm³"
+    ],
+    "correct": 0,
+    "difficulty": "medium",
+    "explain": "Volume: lato³."
+  },
+  {
+    "q": "Area di un rettangolo con base 26 cm e altezza 8 cm?",
+    "options": [
+      "68 cm²",
+      "34 cm²",
+      "218 cm²",
+      "208 cm²"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "Area: base×altezza."
+  },
+  {
+    "q": "Perimetro di un rettangolo di lati 25 cm e 33 cm?",
+    "options": [
+      "118 cm",
+      "58 cm",
+      "116 cm",
+      "825 cm"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "Perimetro: 2(a+b)."
+  },
+  {
+    "q": "Perimetro di un rettangolo di lati 13 cm e 59 cm?",
+    "options": [
+      "146 cm",
+      "144 cm",
+      "767 cm",
+      "72 cm"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "Perimetro: 2(a+b)."
+  },
+  {
+    "q": "Perimetro di un quadrato di lato 30 cm?",
+    "options": [
+      "900 cm",
+      "124 cm",
+      "120 cm",
+      "60 cm"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "Perimetro: 4×lato."
+  },
+  {
+    "q": "Area di un triangolo con base 50 cm e altezza 41 cm?",
+    "options": [
+      "2050 cm²",
+      "1026 cm²",
+      "1030 cm²",
+      "1025 cm²"
+    ],
+    "correct": 3,
+    "difficulty": "medium",
+    "explain": "Area: (b×h)/2."
+  },
+  {
+    "q": "Area di un triangolo con base 22 cm e altezza 21 cm?",
+    "options": [
+      "231 cm²",
+      "232 cm²",
+      "236 cm²",
+      "462 cm²"
+    ],
+    "correct": 0,
+    "difficulty": "medium",
+    "explain": "Area: (b×h)/2."
+  },
+  {
+    "q": "Area di un triangolo con base 8 cm e altezza 38 cm?",
+    "options": [
+      "157 cm²",
+      "153 cm²",
+      "304 cm²",
+      "152 cm²"
+    ],
+    "correct": 3,
+    "difficulty": "medium",
+    "explain": "Area: (b×h)/2."
+  },
+  {
+    "q": "Area di un rettangolo con base 30 cm e altezza 6 cm?",
+    "options": [
+      "190 cm²",
+      "180 cm²",
+      "36 cm²",
+      "72 cm²"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "Area: base×altezza."
+  },
+  {
+    "q": "Perimetro di un quadrato di lato 39 cm?",
+    "options": [
+      "78 cm",
+      "1521 cm",
+      "160 cm",
+      "156 cm"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "Perimetro: 4×lato."
+  },
+  {
+    "q": "Area di un rettangolo con base 29 cm e altezza 49 cm?",
+    "options": [
+      "1431 cm²",
+      "156 cm²",
+      "1421 cm²",
+      "78 cm²"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "Area: base×altezza."
+  },
+  {
+    "q": "Perimetro di un rettangolo di lati 50 cm e 23 cm?",
+    "options": [
+      "148 cm",
+      "146 cm",
+      "1150 cm",
+      "73 cm"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "Perimetro: 2(a+b)."
+  },
+  {
+    "q": "Area di un rettangolo con base 17 cm e altezza 66 cm?",
+    "options": [
+      "166 cm²",
+      "83 cm²",
+      "1132 cm²",
+      "1122 cm²"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "Area: base×altezza."
+  },
+  {
+    "q": "Perimetro di un quadrato di lato 35 cm?",
+    "options": [
+      "70 cm",
+      "144 cm",
+      "140 cm",
+      "1225 cm"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "Perimetro: 4×lato."
+  },
+  {
+    "q": "Volume di un cubo con lato 23 cm?",
+    "options": [
+      "3174 cm³",
+      "529 cm³",
+      "12190 cm³",
+      "12167 cm³"
+    ],
+    "correct": 3,
+    "difficulty": "medium",
+    "explain": "Volume: lato³."
+  },
+  {
+    "q": "Perimetro di un quadrato di lato 34 cm?",
+    "options": [
+      "1156 cm",
+      "136 cm",
+      "140 cm",
+      "68 cm"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "Perimetro: 4×lato."
+  },
+  {
+    "q": "Area di un triangolo con base 50 cm e altezza 7 cm?",
+    "options": [
+      "176 cm²",
+      "180 cm²",
+      "350 cm²",
+      "175 cm²"
+    ],
+    "correct": 3,
+    "difficulty": "medium",
+    "explain": "Area: (b×h)/2."
+  },
+  {
+    "q": "Area di un triangolo con base 78 cm e altezza 51 cm?",
+    "options": [
+      "3978 cm²",
+      "1989 cm²",
+      "1990 cm²",
+      "1994 cm²"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "Area: (b×h)/2."
+  },
+  {
+    "q": "Perimetro di un rettangolo di lati 44 cm e 35 cm?",
+    "options": [
+      "158 cm",
+      "1540 cm",
+      "160 cm",
+      "79 cm"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explain": "Perimetro: 2(a+b)."
+  },
+  {
+    "q": "In un triangolo: angoli 30° e 30°. Terzo angolo?",
+    "options": [
+      "180°",
+      "120°",
+      "130°",
+      "60°"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "Somma angoli: 180°."
+  },
+  {
+    "q": "Area di un triangolo con base 79 cm e altezza 38 cm?",
+    "options": [
+      "3002 cm²",
+      "1502 cm²",
+      "1506 cm²",
+      "1501 cm²"
+    ],
+    "correct": 3,
+    "difficulty": "medium",
+    "explain": "Area: (b×h)/2."
+  },
+  {
+    "q": "Area di un rettangolo con base 7 cm e altezza 8 cm?",
+    "options": [
+      "66 cm²",
+      "30 cm²",
+      "56 cm²",
+      "15 cm²"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "Area: base×altezza."
+  },
+  {
+    "q": "Perimetro di un rettangolo di lati 17 cm e 29 cm?",
+    "options": [
+      "94 cm",
+      "46 cm",
+      "493 cm",
+      "92 cm"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "Perimetro: 2(a+b)."
+  },
+  {
+    "q": "Perimetro di un rettangolo di lati 60 cm e 18 cm?",
+    "options": [
+      "1080 cm",
+      "78 cm",
+      "156 cm",
+      "158 cm"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "Perimetro: 2(a+b)."
+  },
+  {
+    "q": "Perimetro di un rettangolo di lati 16 cm e 46 cm?",
+    "options": [
+      "126 cm",
+      "124 cm",
+      "736 cm",
+      "62 cm"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "Perimetro: 2(a+b)."
+  },
+  {
+    "q": "Perimetro di un rettangolo di lati 55 cm e 21 cm?",
+    "options": [
+      "1155 cm",
+      "154 cm",
+      "152 cm",
+      "76 cm"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "Perimetro: 2(a+b)."
+  },
+  {
+    "q": "Perimetro di un rettangolo di lati 8 cm e 9 cm?",
+    "options": [
+      "36 cm",
+      "17 cm",
+      "72 cm",
+      "34 cm"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "Perimetro: 2(a+b)."
+  },
+  {
+    "q": "Perimetro di un quadrato di lato 23 cm?",
+    "options": [
+      "96 cm",
+      "46 cm",
+      "529 cm",
+      "92 cm"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "Perimetro: 4×lato."
+  },
+  {
+    "q": "Perimetro di un rettangolo di lati 4 cm e 8 cm?",
+    "options": [
+      "12 cm",
+      "32 cm",
+      "24 cm",
+      "26 cm"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "Perimetro: 2(a+b)."
+  },
+  {
+    "q": "Area di un triangolo con base 56 cm e altezza 25 cm?",
+    "options": [
+      "1400 cm²",
+      "705 cm²",
+      "701 cm²",
+      "700 cm²"
+    ],
+    "correct": 3,
+    "difficulty": "medium",
+    "explain": "Area: (b×h)/2."
+  },
+  {
+    "q": "Perimetro di un rettangolo di lati 24 cm e 48 cm?",
+    "options": [
+      "72 cm",
+      "144 cm",
+      "146 cm",
+      "1152 cm"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "Perimetro: 2(a+b)."
+  },
+  {
+    "q": "Area di un rettangolo con base 22 cm e altezza 46 cm?",
+    "options": [
+      "1012 cm²",
+      "136 cm²",
+      "68 cm²",
+      "1022 cm²"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explain": "Area: base×altezza."
+  },
+  {
+    "q": "In un triangolo: angoli 60° e 70°. Terzo angolo?",
+    "options": [
+      "60°",
+      "50°",
+      "180°",
+      "130°"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "Somma angoli: 180°."
+  },
+  {
+    "q": "Perimetro di un rettangolo di lati 57 cm e 15 cm?",
+    "options": [
+      "146 cm",
+      "144 cm",
+      "855 cm",
+      "72 cm"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "Perimetro: 2(a+b)."
+  },
+  {
+    "q": "In un triangolo: angoli 80° e 50°. Terzo angolo?",
+    "options": [
+      "60°",
+      "50°",
+      "130°",
+      "180°"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "Somma angoli: 180°."
+  },
+  {
+    "q": "Perimetro di un rettangolo di lati 7 cm e 11 cm?",
+    "options": [
+      "38 cm",
+      "18 cm",
+      "36 cm",
+      "77 cm"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "Perimetro: 2(a+b)."
+  },
+  {
+    "q": "Volume di un cubo con lato 15 cm?",
+    "options": [
+      "225 cm³",
+      "3390 cm³",
+      "3375 cm³",
+      "1350 cm³"
+    ],
+    "correct": 2,
+    "difficulty": "medium",
+    "explain": "Volume: lato³."
+  },
+  {
+    "q": "Area di un triangolo con base 38 cm e altezza 21 cm?",
+    "options": [
+      "400 cm²",
+      "798 cm²",
+      "404 cm²",
+      "399 cm²"
+    ],
+    "correct": 3,
+    "difficulty": "medium",
+    "explain": "Area: (b×h)/2."
+  },
+  {
+    "q": "Volume di un cubo con lato 30 cm?",
+    "options": [
+      "27030 cm³",
+      "900 cm³",
+      "5400 cm³",
+      "27000 cm³"
+    ],
+    "correct": 3,
+    "difficulty": "medium",
+    "explain": "Volume: lato³."
+  },
+  {
+    "q": "In un triangolo: angoli 45° e 45°. Terzo angolo?",
+    "options": [
+      "90°",
+      "180°",
+      "90° (4)",
+      "100°"
+    ],
+    "correct": 0,
+    "difficulty": "medium",
+    "explain": "Somma angoli: 180°."
+  },
+  {
+    "q": "In un triangolo: angoli 50° e 30°. Terzo angolo?",
+    "options": [
+      "100°",
+      "80°",
+      "180°",
+      "110°"
+    ],
+    "correct": 0,
+    "difficulty": "medium",
+    "explain": "Somma angoli: 180°."
+  },
+  {
+    "q": "Perimetro di un quadrato di lato 17 cm?",
+    "options": [
+      "34 cm",
+      "289 cm",
+      "72 cm",
+      "68 cm"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "Perimetro: 4×lato."
+  },
+  {
+    "q": "Perimetro di un quadrato di lato 47 cm?",
+    "options": [
+      "188 cm",
+      "192 cm",
+      "94 cm",
+      "2209 cm"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explain": "Perimetro: 4×lato."
+  },
+  {
+    "q": "Area di un triangolo con base 35 cm e altezza 36 cm?",
+    "options": [
+      "630 cm²",
+      "1260 cm²",
+      "631 cm²",
+      "635 cm²"
+    ],
+    "correct": 0,
+    "difficulty": "medium",
+    "explain": "Area: (b×h)/2."
+  },
+  {
+    "q": "Perimetro di un quadrato di lato 49 cm?",
+    "options": [
+      "200 cm",
+      "196 cm",
+      "98 cm",
+      "2401 cm"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "Perimetro: 4×lato."
+  },
+  {
+    "q": "Perimetro di un rettangolo di lati 21 cm e 9 cm?",
+    "options": [
+      "60 cm",
+      "30 cm",
+      "189 cm",
+      "62 cm"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explain": "Perimetro: 2(a+b)."
+  },
+  {
+    "q": "Perimetro di un rettangolo di lati 49 cm e 17 cm?",
+    "options": [
+      "132 cm",
+      "833 cm",
+      "134 cm",
+      "66 cm"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explain": "Perimetro: 2(a+b)."
+  },
+  {
+    "q": "Area di un triangolo con base 31 cm e altezza 8 cm?",
+    "options": [
+      "124 cm²",
+      "248 cm²",
+      "129 cm²",
+      "125 cm²"
+    ],
+    "correct": 0,
+    "difficulty": "medium",
+    "explain": "Area: (b×h)/2."
+  },
+  {
+    "q": "Area di un rettangolo con base 38 cm e altezza 55 cm?",
+    "options": [
+      "186 cm²",
+      "2100 cm²",
+      "2090 cm²",
+      "93 cm²"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "Area: base×altezza."
+  },
+  {
+    "q": "In un triangolo: angoli 60° e 50°. Terzo angolo?",
+    "options": [
+      "80°",
+      "70°",
+      "110°",
+      "180°"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "Somma angoli: 180°."
+  },
+  {
+    "q": "Area di un rettangolo con base 22 cm e altezza 4 cm?",
+    "options": [
+      "26 cm²",
+      "88 cm²",
+      "98 cm²",
+      "52 cm²"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "Area: base×altezza."
+  },
+  {
+    "q": "Perimetro di un rettangolo di lati 13 cm e 33 cm?",
+    "options": [
+      "94 cm",
+      "429 cm",
+      "46 cm",
+      "92 cm"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "Perimetro: 2(a+b)."
+  },
+  {
+    "q": "Perimetro di un rettangolo di lati 40 cm e 30 cm?",
+    "options": [
+      "142 cm",
+      "70 cm",
+      "1200 cm",
+      "140 cm"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "Perimetro: 2(a+b)."
+  },
+  {
+    "q": "In un triangolo: angoli 90° e 30°. Terzo angolo?",
+    "options": [
+      "120°",
+      "60°",
+      "70°",
+      "180°"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "Somma angoli: 180°."
+  },
+  {
+    "q": "Area di un rettangolo con base 49 cm e altezza 17 cm?",
+    "options": [
+      "132 cm²",
+      "833 cm²",
+      "843 cm²",
+      "66 cm²"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "Area: base×altezza."
+  },
+  {
+    "q": "Area di un triangolo con base 42 cm e altezza 33 cm?",
+    "options": [
+      "694 cm²",
+      "698 cm²",
+      "1386 cm²",
+      "693 cm²"
+    ],
+    "correct": 3,
+    "difficulty": "medium",
+    "explain": "Area: (b×h)/2."
+  },
+  {
+    "q": "Area di un triangolo con base 11 cm e altezza 40 cm?",
+    "options": [
+      "221 cm²",
+      "220 cm²",
+      "225 cm²",
+      "440 cm²"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "Area: (b×h)/2."
+  },
+  {
+    "q": "Area di un rettangolo con base 11 cm e altezza 30 cm?",
+    "options": [
+      "41 cm²",
+      "82 cm²",
+      "340 cm²",
+      "330 cm²"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "Area: base×altezza."
+  },
+  {
+    "q": "Perimetro di un rettangolo di lati 36 cm e 58 cm?",
+    "options": [
+      "94 cm",
+      "188 cm",
+      "190 cm",
+      "2088 cm"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "Perimetro: 2(a+b)."
+  },
+  {
+    "q": "Area di un rettangolo con base 65 cm e altezza 51 cm?",
+    "options": [
+      "116 cm²",
+      "3315 cm²",
+      "3325 cm²",
+      "232 cm²"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "Area: base×altezza."
+  },
+  {
+    "q": "Perimetro di un quadrato di lato 19 cm?",
+    "options": [
+      "38 cm",
+      "80 cm",
+      "76 cm",
+      "361 cm"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "Perimetro: 4×lato."
+  },
+  {
+    "q": "Area di un rettangolo con base 56 cm e altezza 5 cm?",
+    "options": [
+      "122 cm²",
+      "280 cm²",
+      "290 cm²",
+      "61 cm²"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "Area: base×altezza."
+  },
+  {
+    "q": "Area di un rettangolo con base 14 cm e altezza 15 cm?",
+    "options": [
+      "29 cm²",
+      "58 cm²",
+      "210 cm²",
+      "220 cm²"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "Area: base×altezza."
+  },
+  {
+    "q": "Perimetro di un rettangolo di lati 53 cm e 35 cm?",
+    "options": [
+      "1855 cm",
+      "88 cm",
+      "176 cm",
+      "178 cm"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "Perimetro: 2(a+b)."
+  },
+  {
+    "q": "Perimetro di un rettangolo di lati 20 cm e 31 cm?",
+    "options": [
+      "102 cm",
+      "620 cm",
+      "104 cm",
+      "51 cm"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explain": "Perimetro: 2(a+b)."
+  },
+  {
+    "q": "Area di un rettangolo con base 57 cm e altezza 5 cm?",
+    "options": [
+      "124 cm²",
+      "295 cm²",
+      "285 cm²",
+      "62 cm²"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "Area: base×altezza."
+  },
+  {
+    "q": "Area di un triangolo con base 37 cm e altezza 48 cm?",
+    "options": [
+      "893 cm²",
+      "888 cm²",
+      "1776 cm²",
+      "889 cm²"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "Area: (b×h)/2."
+  },
+  {
+    "q": "Area di un rettangolo con base 23 cm e altezza 68 cm?",
+    "options": [
+      "1564 cm²",
+      "91 cm²",
+      "182 cm²",
+      "1574 cm²"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explain": "Area: base×altezza."
+  },
+  {
+    "q": "Area di un triangolo con base 72 cm e altezza 2 cm?",
+    "options": [
+      "77 cm²",
+      "144 cm²",
+      "73 cm²",
+      "72 cm²"
+    ],
+    "correct": 3,
+    "difficulty": "medium",
+    "explain": "Area: (b×h)/2."
+  },
+  {
+    "q": "Perimetro di un rettangolo di lati 34 cm e 27 cm?",
+    "options": [
+      "918 cm",
+      "61 cm",
+      "122 cm",
+      "124 cm"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "Perimetro: 2(a+b)."
+  },
+  {
+    "q": "Area di un rettangolo con base 30 cm e altezza 22 cm?",
+    "options": [
+      "660 cm²",
+      "104 cm²",
+      "670 cm²",
+      "52 cm²"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explain": "Area: base×altezza."
+  },
+  {
+    "q": "Perimetro di un rettangolo di lati 37 cm e 59 cm?",
+    "options": [
+      "192 cm",
+      "96 cm",
+      "2183 cm",
+      "194 cm"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explain": "Perimetro: 2(a+b)."
+  },
+  {
+    "q": "Perimetro di un quadrato di lato 41 cm?",
+    "options": [
+      "82 cm",
+      "164 cm",
+      "168 cm",
+      "1681 cm"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "Perimetro: 4×lato."
+  },
+  {
+    "q": "Perimetro di un rettangolo di lati 10 cm e 27 cm?",
+    "options": [
+      "76 cm",
+      "37 cm",
+      "74 cm",
+      "270 cm"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "Perimetro: 2(a+b)."
+  },
+  {
+    "q": "Perimetro di un quadrato di lato 26 cm?",
+    "options": [
+      "108 cm",
+      "52 cm",
+      "676 cm",
+      "104 cm"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "Perimetro: 4×lato."
+  },
+  {
+    "q": "In un triangolo: angoli 20° e 20°. Terzo angolo?",
+    "options": [
+      "180°",
+      "150°",
+      "40°",
+      "140°"
+    ],
+    "correct": 3,
+    "difficulty": "medium",
+    "explain": "Somma angoli: 180°."
+  },
+  {
+    "q": "Area di un triangolo con base 48 cm e altezza 52 cm?",
+    "options": [
+      "1248 cm²",
+      "2496 cm²",
+      "1249 cm²",
+      "1253 cm²"
+    ],
+    "correct": 0,
+    "difficulty": "medium",
+    "explain": "Area: (b×h)/2."
+  },
+  {
+    "q": "Area di un triangolo con base 70 cm e altezza 22 cm?",
+    "options": [
+      "1540 cm²",
+      "771 cm²",
+      "775 cm²",
+      "770 cm²"
+    ],
+    "correct": 3,
+    "difficulty": "medium",
+    "explain": "Area: (b×h)/2."
+  },
+  {
+    "q": "Area di un rettangolo con base 9 cm e altezza 47 cm?",
+    "options": [
+      "56 cm²",
+      "433 cm²",
+      "112 cm²",
+      "423 cm²"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "Area: base×altezza."
+  },
+  {
+    "q": "Perimetro di un rettangolo di lati 37 cm e 5 cm?",
+    "options": [
+      "86 cm",
+      "42 cm",
+      "185 cm",
+      "84 cm"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "Perimetro: 2(a+b)."
+  },
+  {
+    "q": "Area di un triangolo con base 36 cm e altezza 59 cm?",
+    "options": [
+      "1062 cm²",
+      "2124 cm²",
+      "1067 cm²",
+      "1063 cm²"
+    ],
+    "correct": 0,
+    "difficulty": "medium",
+    "explain": "Area: (b×h)/2."
+  },
+  {
+    "q": "Area di un rettangolo con base 70 cm e altezza 38 cm?",
+    "options": [
+      "2670 cm²",
+      "216 cm²",
+      "2660 cm²",
+      "108 cm²"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "Area: base×altezza."
+  },
+  {
+    "q": "Perimetro di un rettangolo di lati 56 cm e 42 cm?",
+    "options": [
+      "98 cm",
+      "196 cm",
+      "2352 cm",
+      "198 cm"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "Perimetro: 2(a+b)."
+  },
+  {
+    "q": "In un triangolo: angoli 20° e 45°. Terzo angolo?",
+    "options": [
+      "180°",
+      "65°",
+      "115°",
+      "125°"
+    ],
+    "correct": 2,
+    "difficulty": "medium",
+    "explain": "Somma angoli: 180°."
+  },
+  {
+    "q": "In un triangolo: angoli 50° e 45°. Terzo angolo?",
+    "options": [
+      "85°",
+      "85° (4)",
+      "180°",
+      "95°"
+    ],
+    "correct": 0,
+    "difficulty": "medium",
+    "explain": "Somma angoli: 180°."
+  },
+  {
+    "q": "Area di un triangolo con base 66 cm e altezza 10 cm?",
+    "options": [
+      "660 cm²",
+      "330 cm²",
+      "331 cm²",
+      "335 cm²"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "Area: (b×h)/2."
+  },
+  {
+    "q": "Area di un triangolo con base 36 cm e altezza 40 cm?",
+    "options": [
+      "1440 cm²",
+      "720 cm²",
+      "721 cm²",
+      "725 cm²"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "Area: (b×h)/2."
+  },
+  {
+    "q": "Area di un rettangolo con base 29 cm e altezza 30 cm?",
+    "options": [
+      "59 cm²",
+      "870 cm²",
+      "118 cm²",
+      "880 cm²"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "Area: base×altezza."
+  },
+  {
+    "q": "Area di un triangolo con base 52 cm e altezza 12 cm?",
+    "options": [
+      "624 cm²",
+      "312 cm²",
+      "313 cm²",
+      "317 cm²"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "Area: (b×h)/2."
+  },
+  {
+    "q": "In un triangolo: angoli 45° e 70°. Terzo angolo?",
+    "options": [
+      "65°",
+      "180°",
+      "115°",
+      "75°"
+    ],
+    "correct": 0,
+    "difficulty": "medium",
+    "explain": "Somma angoli: 180°."
+  },
+  {
+    "q": "In un triangolo: angoli 40° e 20°. Terzo angolo?",
+    "options": [
+      "120°",
+      "130°",
+      "60°",
+      "180°"
+    ],
+    "correct": 0,
+    "difficulty": "medium",
+    "explain": "Somma angoli: 180°."
+  },
+  {
+    "q": "Area di un rettangolo con base 54 cm e altezza 46 cm?",
+    "options": [
+      "2484 cm²",
+      "200 cm²",
+      "100 cm²",
+      "2494 cm²"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explain": "Area: base×altezza."
+  },
+  {
+    "q": "Perimetro di un rettangolo di lati 41 cm e 39 cm?",
+    "options": [
+      "1599 cm",
+      "160 cm",
+      "80 cm",
+      "162 cm"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "Perimetro: 2(a+b)."
+  },
+  {
+    "q": "Area di un rettangolo con base 54 cm e altezza 30 cm?",
+    "options": [
+      "1620 cm²",
+      "168 cm²",
+      "84 cm²",
+      "1630 cm²"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explain": "Area: base×altezza."
+  },
+  {
+    "q": "In un triangolo: angoli 70° e 60°. Terzo angolo?",
+    "options": [
+      "60°",
+      "50°",
+      "180°",
+      "130°"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "Somma angoli: 180°."
+  },
+  {
+    "q": "Area di un rettangolo con base 43 cm e altezza 49 cm?",
+    "options": [
+      "2117 cm²",
+      "184 cm²",
+      "2107 cm²",
+      "92 cm²"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "Area: base×altezza."
+  },
+  {
+    "q": "Area di un rettangolo con base 61 cm e altezza 46 cm?",
+    "options": [
+      "2806 cm²",
+      "214 cm²",
+      "2816 cm²",
+      "107 cm²"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explain": "Area: base×altezza."
+  },
+  {
+    "q": "In un triangolo: angoli 40° e 80°. Terzo angolo?",
+    "options": [
+      "120°",
+      "70°",
+      "180°",
+      "60°"
+    ],
+    "correct": 3,
+    "difficulty": "medium",
+    "explain": "Somma angoli: 180°."
+  },
+  {
+    "q": "Area di un rettangolo con base 59 cm e altezza 60 cm?",
+    "options": [
+      "119 cm²",
+      "3540 cm²",
+      "238 cm²",
+      "3550 cm²"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "Area: base×altezza."
+  },
+  {
+    "q": "Area di un rettangolo con base 52 cm e altezza 63 cm?",
+    "options": [
+      "115 cm²",
+      "3276 cm²",
+      "3286 cm²",
+      "230 cm²"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "Area: base×altezza."
+  },
+  {
+    "q": "Area di un rettangolo con base 69 cm e altezza 61 cm?",
+    "options": [
+      "4219 cm²",
+      "260 cm²",
+      "4209 cm²",
+      "130 cm²"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "Area: base×altezza."
+  },
+  {
+    "q": "Area di un rettangolo con base 48 cm e altezza 19 cm?",
+    "options": [
+      "912 cm²",
+      "67 cm²",
+      "134 cm²",
+      "922 cm²"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explain": "Area: base×altezza."
+  },
+  {
+    "q": "Perimetro di un rettangolo di lati 18 cm e 52 cm?",
+    "options": [
+      "140 cm",
+      "936 cm",
+      "142 cm",
+      "70 cm"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explain": "Perimetro: 2(a+b)."
+  },
+  {
+    "q": "Area di un rettangolo con base 39 cm e altezza 31 cm?",
+    "options": [
+      "1219 cm²",
+      "1209 cm²",
+      "70 cm²",
+      "140 cm²"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "Area: base×altezza."
+  },
+  {
+    "q": "Perimetro di un rettangolo di lati 8 cm e 16 cm?",
+    "options": [
+      "128 cm",
+      "24 cm",
+      "48 cm",
+      "50 cm"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "Perimetro: 2(a+b)."
+  },
+  {
+    "q": "Perimetro di un rettangolo di lati 20 cm e 25 cm?",
+    "options": [
+      "500 cm",
+      "92 cm",
+      "45 cm",
+      "90 cm"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "Perimetro: 2(a+b)."
+  },
+  {
+    "q": "Area di un triangolo con base 76 cm e altezza 43 cm?",
+    "options": [
+      "1634 cm²",
+      "1639 cm²",
+      "1635 cm²",
+      "3268 cm²"
+    ],
+    "correct": 0,
+    "difficulty": "medium",
+    "explain": "Area: (b×h)/2."
+  },
+  {
+    "q": "Area di un triangolo con base 34 cm e altezza 38 cm?",
+    "options": [
+      "647 cm²",
+      "1292 cm²",
+      "651 cm²",
+      "646 cm²"
+    ],
+    "correct": 3,
+    "difficulty": "medium",
+    "explain": "Area: (b×h)/2."
+  },
+  {
+    "q": "Perimetro di un quadrato di lato 22 cm?",
+    "options": [
+      "88 cm",
+      "92 cm",
+      "484 cm",
+      "44 cm"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explain": "Perimetro: 4×lato."
+  },
+  {
+    "q": "Perimetro di un rettangolo di lati 9 cm e 53 cm?",
+    "options": [
+      "126 cm",
+      "62 cm",
+      "124 cm",
+      "477 cm"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "Perimetro: 2(a+b)."
+  },
+  {
+    "q": "Area di un rettangolo con base 27 cm e altezza 51 cm?",
+    "options": [
+      "1377 cm²",
+      "1387 cm²",
+      "156 cm²",
+      "78 cm²"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explain": "Area: base×altezza."
+  },
+  {
+    "q": "Area di un rettangolo con base 37 cm e altezza 16 cm?",
+    "options": [
+      "602 cm²",
+      "592 cm²",
+      "106 cm²",
+      "53 cm²"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "Area: base×altezza."
+  },
+  {
+    "q": "In un triangolo: angoli 50° e 50°. Terzo angolo?",
+    "options": [
+      "100°",
+      "90°",
+      "80°",
+      "180°"
+    ],
+    "correct": 2,
+    "difficulty": "medium",
+    "explain": "Somma angoli: 180°."
+  },
+  {
+    "q": "In un triangolo: angoli 80° e 30°. Terzo angolo?",
+    "options": [
+      "70°",
+      "180°",
+      "110°",
+      "80°"
+    ],
+    "correct": 0,
+    "difficulty": "medium",
+    "explain": "Somma angoli: 180°."
+  },
+  {
+    "q": "Area di un triangolo con base 16 cm e altezza 20 cm?",
+    "options": [
+      "160 cm²",
+      "161 cm²",
+      "165 cm²",
+      "320 cm²"
+    ],
+    "correct": 0,
+    "difficulty": "medium",
+    "explain": "Area: (b×h)/2."
+  },
+  {
+    "q": "Perimetro di un rettangolo di lati 17 cm e 30 cm?",
+    "options": [
+      "96 cm",
+      "47 cm",
+      "510 cm",
+      "94 cm"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "Perimetro: 2(a+b)."
+  },
+  {
+    "q": "Area di un triangolo con base 22 cm e altezza 23 cm?",
+    "options": [
+      "258 cm²",
+      "254 cm²",
+      "506 cm²",
+      "253 cm²"
+    ],
+    "correct": 3,
+    "difficulty": "medium",
+    "explain": "Area: (b×h)/2."
+  },
+  {
+    "q": "Perimetro di un rettangolo di lati 34 cm e 45 cm?",
+    "options": [
+      "160 cm",
+      "1530 cm",
+      "158 cm",
+      "79 cm"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "Perimetro: 2(a+b)."
+  },
+  {
+    "q": "Area di un triangolo con base 62 cm e altezza 30 cm?",
+    "options": [
+      "930 cm²",
+      "1860 cm²",
+      "931 cm²",
+      "935 cm²"
+    ],
+    "correct": 0,
+    "difficulty": "medium",
+    "explain": "Area: (b×h)/2."
+  },
+  {
+    "q": "In un triangolo: angoli 30° e 90°. Terzo angolo?",
+    "options": [
+      "60°",
+      "70°",
+      "120°",
+      "180°"
+    ],
+    "correct": 0,
+    "difficulty": "medium",
+    "explain": "Somma angoli: 180°."
+  },
+  {
+    "q": "Perimetro di un rettangolo di lati 26 cm e 25 cm?",
+    "options": [
+      "650 cm",
+      "102 cm",
+      "104 cm",
+      "51 cm"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "Perimetro: 2(a+b)."
+  },
+  {
+    "q": "Perimetro di un quadrato di lato 76 cm?",
+    "options": [
+      "308 cm",
+      "304 cm",
+      "152 cm",
+      "5776 cm"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "Perimetro: 4×lato."
+  },
+  {
+    "q": "In un triangolo: angoli 70° e 70°. Terzo angolo?",
+    "options": [
+      "50°",
+      "140°",
+      "40°",
+      "180°"
+    ],
+    "correct": 2,
+    "difficulty": "medium",
+    "explain": "Somma angoli: 180°."
+  },
+  {
+    "q": "Perimetro di un rettangolo di lati 30 cm e 25 cm?",
+    "options": [
+      "750 cm",
+      "110 cm",
+      "112 cm",
+      "55 cm"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "Perimetro: 2(a+b)."
+  },
+  {
+    "q": "Area di un rettangolo con base 6 cm e altezza 4 cm?",
+    "options": [
+      "24 cm²",
+      "34 cm²",
+      "20 cm²",
+      "10 cm²"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explain": "Area: base×altezza."
+  },
+  {
+    "q": "Area di un triangolo con base 9 cm e altezza 20 cm?",
+    "options": [
+      "90 cm²",
+      "91 cm²",
+      "95 cm²",
+      "180 cm²"
+    ],
+    "correct": 0,
+    "difficulty": "medium",
+    "explain": "Area: (b×h)/2."
+  },
+  {
+    "q": "Perimetro di un rettangolo di lati 26 cm e 33 cm?",
+    "options": [
+      "120 cm",
+      "858 cm",
+      "59 cm",
+      "118 cm"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "Perimetro: 2(a+b)."
+  },
+  {
+    "q": "Perimetro di un rettangolo di lati 47 cm e 47 cm?",
+    "options": [
+      "190 cm",
+      "2209 cm",
+      "188 cm",
+      "94 cm"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "Perimetro: 2(a+b)."
+  },
+  {
+    "q": "Area di un triangolo con base 35 cm e altezza 26 cm?",
+    "options": [
+      "455 cm²",
+      "910 cm²",
+      "460 cm²",
+      "456 cm²"
+    ],
+    "correct": 0,
+    "difficulty": "medium",
+    "explain": "Area: (b×h)/2."
+  },
+  {
+    "q": "Area di un rettangolo con base 22 cm e altezza 53 cm?",
+    "options": [
+      "1166 cm²",
+      "75 cm²",
+      "150 cm²",
+      "1176 cm²"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explain": "Area: base×altezza."
+  },
+  {
+    "q": "In un triangolo: angoli 30° e 70°. Terzo angolo?",
+    "options": [
+      "180°",
+      "90°",
+      "80°",
+      "100°"
+    ],
+    "correct": 2,
+    "difficulty": "medium",
+    "explain": "Somma angoli: 180°."
+  },
+  {
+    "q": "Perimetro di un rettangolo di lati 59 cm e 39 cm?",
+    "options": [
+      "98 cm",
+      "2301 cm",
+      "198 cm",
+      "196 cm"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "Perimetro: 2(a+b)."
+  },
+  {
+    "q": "Perimetro di un rettangolo di lati 55 cm e 52 cm?",
+    "options": [
+      "2860 cm",
+      "107 cm",
+      "216 cm",
+      "214 cm"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "Perimetro: 2(a+b)."
+  },
+  {
+    "q": "Perimetro di un rettangolo di lati 11 cm e 11 cm?",
+    "options": [
+      "44 cm",
+      "22 cm",
+      "46 cm",
+      "121 cm"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explain": "Perimetro: 2(a+b)."
+  },
+  {
+    "q": "Perimetro di un rettangolo di lati 50 cm e 36 cm?",
+    "options": [
+      "86 cm",
+      "174 cm",
+      "1800 cm",
+      "172 cm"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "Perimetro: 2(a+b)."
+  },
+  {
+    "q": "Perimetro di un rettangolo di lati 15 cm e 21 cm?",
+    "options": [
+      "72 cm",
+      "36 cm",
+      "74 cm",
+      "315 cm"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explain": "Perimetro: 2(a+b)."
+  },
+  {
+    "q": "Area di un rettangolo con base 46 cm e altezza 46 cm?",
+    "options": [
+      "92 cm²",
+      "2116 cm²",
+      "184 cm²",
+      "2126 cm²"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "Area: base×altezza."
+  },
+  {
+    "q": "Area di un triangolo con base 8 cm e altezza 32 cm?",
+    "options": [
+      "129 cm²",
+      "133 cm²",
+      "256 cm²",
+      "128 cm²"
+    ],
+    "correct": 3,
+    "difficulty": "medium",
+    "explain": "Area: (b×h)/2."
+  },
+  {
+    "q": "Area di un triangolo con base 52 cm e altezza 56 cm?",
+    "options": [
+      "1456 cm²",
+      "1457 cm²",
+      "1461 cm²",
+      "2912 cm²"
+    ],
+    "correct": 0,
+    "difficulty": "medium",
+    "explain": "Area: (b×h)/2."
+  },
+  {
+    "q": "Area di un rettangolo con base 18 cm e altezza 43 cm?",
+    "options": [
+      "774 cm²",
+      "61 cm²",
+      "122 cm²",
+      "784 cm²"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explain": "Area: base×altezza."
+  },
+  {
+    "q": "Area di un rettangolo con base 43 cm e altezza 54 cm?",
+    "options": [
+      "2322 cm²",
+      "194 cm²",
+      "97 cm²",
+      "2332 cm²"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explain": "Area: base×altezza."
+  },
+  {
+    "q": "Area di un rettangolo con base 47 cm e altezza 3 cm?",
+    "options": [
+      "141 cm²",
+      "50 cm²",
+      "100 cm²",
+      "151 cm²"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explain": "Area: base×altezza."
+  },
+  {
+    "q": "Area di un triangolo con base 70 cm e altezza 44 cm?",
+    "options": [
+      "1541 cm²",
+      "1545 cm²",
+      "3080 cm²",
+      "1540 cm²"
+    ],
+    "correct": 3,
+    "difficulty": "medium",
+    "explain": "Area: (b×h)/2."
+  },
+  {
+    "q": "Area di un triangolo con base 46 cm e altezza 32 cm?",
+    "options": [
+      "736 cm²",
+      "741 cm²",
+      "737 cm²",
+      "1472 cm²"
+    ],
+    "correct": 0,
+    "difficulty": "medium",
+    "explain": "Area: (b×h)/2."
+  },
+  {
+    "q": "Area di un triangolo con base 54 cm e altezza 58 cm?",
+    "options": [
+      "1571 cm²",
+      "3132 cm²",
+      "1566 cm²",
+      "1567 cm²"
+    ],
+    "correct": 2,
+    "difficulty": "medium",
+    "explain": "Area: (b×h)/2."
+  },
+  {
+    "q": "Area di un triangolo con base 6 cm e altezza 41 cm?",
+    "options": [
+      "246 cm²",
+      "123 cm²",
+      "128 cm²",
+      "124 cm²"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "Area: (b×h)/2."
+  },
+  {
+    "q": "In un triangolo: angoli 90° e 70°. Terzo angolo?",
+    "options": [
+      "30°",
+      "20°",
+      "180°",
+      "160°"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "Somma angoli: 180°."
+  },
+  {
+    "q": "In un triangolo: angoli 45° e 20°. Terzo angolo?",
+    "options": [
+      "125°",
+      "180°",
+      "115°",
+      "65°"
+    ],
+    "correct": 2,
+    "difficulty": "medium",
+    "explain": "Somma angoli: 180°."
+  },
+  {
+    "q": "Perimetro di un quadrato di lato 2 cm?",
+    "options": [
+      "8 cm",
+      "4 cm",
+      "12 cm",
+      "8 cm (4)"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explain": "Perimetro: 4×lato."
+  },
+  {
+    "q": "Volume di un cubo con lato 14 cm?",
+    "options": [
+      "1176 cm³",
+      "196 cm³",
+      "2758 cm³",
+      "2744 cm³"
+    ],
+    "correct": 3,
+    "difficulty": "medium",
+    "explain": "Volume: lato³."
+  },
+  {
+    "q": "Area di un rettangolo con base 60 cm e altezza 8 cm?",
+    "options": [
+      "68 cm²",
+      "480 cm²",
+      "490 cm²",
+      "136 cm²"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "Area: base×altezza."
+  },
+  {
+    "q": "Perimetro di un rettangolo di lati 43 cm e 21 cm?",
+    "options": [
+      "130 cm",
+      "128 cm",
+      "903 cm",
+      "64 cm"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "Perimetro: 2(a+b)."
+  },
+  {
+    "q": "Area di un rettangolo con base 60 cm e altezza 10 cm?",
+    "options": [
+      "610 cm²",
+      "70 cm²",
+      "140 cm²",
+      "600 cm²"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "Area: base×altezza."
+  },
+  {
+    "q": "Area di un triangolo con base 16 cm e altezza 24 cm?",
+    "options": [
+      "384 cm²",
+      "193 cm²",
+      "192 cm²",
+      "197 cm²"
+    ],
+    "correct": 2,
+    "difficulty": "medium",
+    "explain": "Area: (b×h)/2."
+  },
+  {
+    "q": "Area di un rettangolo con base 36 cm e altezza 14 cm?",
+    "options": [
+      "514 cm²",
+      "50 cm²",
+      "504 cm²",
+      "100 cm²"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "Area: base×altezza."
+  },
+  {
+    "q": "Area di un rettangolo con base 40 cm e altezza 66 cm?",
+    "options": [
+      "2640 cm²",
+      "2650 cm²",
+      "106 cm²",
+      "212 cm²"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explain": "Area: base×altezza."
+  },
+  {
+    "q": "In un triangolo: angoli 20° e 70°. Terzo angolo?",
+    "options": [
+      "180°",
+      "100°",
+      "90° (4)",
+      "90°"
+    ],
+    "correct": 3,
+    "difficulty": "medium",
+    "explain": "Somma angoli: 180°."
+  },
+  {
+    "q": "In un triangolo: angoli 90° e 80°. Terzo angolo?",
+    "options": [
+      "180°",
+      "10°",
+      "170°",
+      "20°"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "Somma angoli: 180°."
+  },
+  {
+    "q": "Area di un rettangolo con base 38 cm e altezza 33 cm?",
+    "options": [
+      "1264 cm²",
+      "1254 cm²",
+      "71 cm²",
+      "142 cm²"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "Area: base×altezza."
+  },
+  {
+    "q": "Area di un triangolo con base 13 cm e altezza 4 cm?",
+    "options": [
+      "52 cm²",
+      "27 cm²",
+      "31 cm²",
+      "26 cm²"
+    ],
+    "correct": 3,
+    "difficulty": "medium",
+    "explain": "Area: (b×h)/2."
+  },
+  {
+    "q": "Area di un rettangolo con base 11 cm e altezza 2 cm?",
+    "options": [
+      "32 cm²",
+      "26 cm²",
+      "13 cm²",
+      "22 cm²"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "Area: base×altezza."
+  },
+  {
+    "q": "In un triangolo: angoli 40° e 90°. Terzo angolo?",
+    "options": [
+      "50°",
+      "180°",
+      "60°",
+      "130°"
+    ],
+    "correct": 0,
+    "difficulty": "medium",
+    "explain": "Somma angoli: 180°."
+  },
+  {
+    "q": "Perimetro di un quadrato di lato 62 cm?",
+    "options": [
+      "248 cm",
+      "252 cm",
+      "3844 cm",
+      "124 cm"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explain": "Perimetro: 4×lato."
+  },
+  {
+    "q": "Perimetro di un rettangolo di lati 5 cm e 32 cm?",
+    "options": [
+      "74 cm",
+      "76 cm",
+      "37 cm",
+      "160 cm"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explain": "Perimetro: 2(a+b)."
+  },
+  {
+    "q": "Area di un triangolo con base 12 cm e altezza 50 cm?",
+    "options": [
+      "300 cm²",
+      "600 cm²",
+      "301 cm²",
+      "305 cm²"
+    ],
+    "correct": 0,
+    "difficulty": "medium",
+    "explain": "Area: (b×h)/2."
+  },
+  {
+    "q": "In un triangolo: angoli 80° e 60°. Terzo angolo?",
+    "options": [
+      "40°",
+      "50°",
+      "140°",
+      "180°"
+    ],
+    "correct": 0,
+    "difficulty": "medium",
+    "explain": "Somma angoli: 180°."
+  },
+  {
+    "q": "Area di un rettangolo con base 11 cm e altezza 27 cm?",
+    "options": [
+      "38 cm²",
+      "297 cm²",
+      "307 cm²",
+      "76 cm²"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "Area: base×altezza."
+  },
+  {
+    "q": "Perimetro di un rettangolo di lati 5 cm e 49 cm?",
+    "options": [
+      "110 cm",
+      "54 cm",
+      "245 cm",
+      "108 cm"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "Perimetro: 2(a+b)."
+  },
+  {
+    "q": "Perimetro di un rettangolo di lati 20 cm e 30 cm?",
+    "options": [
+      "50 cm",
+      "600 cm",
+      "100 cm",
+      "102 cm"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "Perimetro: 2(a+b)."
+  },
+  {
+    "q": "Perimetro di un quadrato di lato 5 cm?",
+    "options": [
+      "10 cm",
+      "25 cm",
+      "20 cm",
+      "24 cm"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "Perimetro: 4×lato."
+  },
+  {
+    "q": "Perimetro di un rettangolo di lati 21 cm e 7 cm?",
+    "options": [
+      "58 cm",
+      "56 cm",
+      "147 cm",
+      "28 cm"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "Perimetro: 2(a+b)."
+  },
+  {
+    "q": "Area di un triangolo con base 24 cm e altezza 31 cm?",
+    "options": [
+      "372 cm²",
+      "377 cm²",
+      "744 cm²",
+      "373 cm²"
+    ],
+    "correct": 0,
+    "difficulty": "medium",
+    "explain": "Area: (b×h)/2."
+  },
+  {
+    "q": "Perimetro di un rettangolo di lati 33 cm e 13 cm?",
+    "options": [
+      "429 cm",
+      "92 cm",
+      "46 cm",
+      "94 cm"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "Perimetro: 2(a+b)."
+  },
+  {
+    "q": "Area di un rettangolo con base 41 cm e altezza 30 cm?",
+    "options": [
+      "1230 cm²",
+      "1240 cm²",
+      "142 cm²",
+      "71 cm²"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explain": "Area: base×altezza."
+  },
+  {
+    "q": "Perimetro di un quadrato di lato 38 cm?",
+    "options": [
+      "156 cm",
+      "76 cm",
+      "152 cm",
+      "1444 cm"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "Perimetro: 4×lato."
+  },
+  {
+    "q": "Perimetro di un rettangolo di lati 44 cm e 8 cm?",
+    "options": [
+      "52 cm",
+      "106 cm",
+      "104 cm",
+      "352 cm"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "Perimetro: 2(a+b)."
+  },
+  {
+    "q": "Perimetro di un rettangolo di lati 30 cm e 49 cm?",
+    "options": [
+      "79 cm",
+      "160 cm",
+      "158 cm",
+      "1470 cm"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "Perimetro: 2(a+b)."
+  },
+  {
+    "q": "Area di un rettangolo con base 3 cm e altezza 64 cm?",
+    "options": [
+      "67 cm²",
+      "202 cm²",
+      "134 cm²",
+      "192 cm²"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "Area: base×altezza."
+  },
+  {
+    "q": "Perimetro di un rettangolo di lati 44 cm e 32 cm?",
+    "options": [
+      "154 cm",
+      "152 cm",
+      "1408 cm",
+      "76 cm"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "Perimetro: 2(a+b)."
+  },
+  {
+    "q": "Area di un triangolo con base 61 cm e altezza 56 cm?",
+    "options": [
+      "1713 cm²",
+      "3416 cm²",
+      "1708 cm²",
+      "1709 cm²"
+    ],
+    "correct": 2,
+    "difficulty": "medium",
+    "explain": "Area: (b×h)/2."
+  },
+  {
+    "q": "In un triangolo: angoli 80° e 70°. Terzo angolo?",
+    "options": [
+      "180°",
+      "40°",
+      "30°",
+      "150°"
+    ],
+    "correct": 2,
+    "difficulty": "medium",
+    "explain": "Somma angoli: 180°."
+  },
+  {
+    "q": "Perimetro di un rettangolo di lati 54 cm e 3 cm?",
+    "options": [
+      "162 cm",
+      "116 cm",
+      "114 cm",
+      "57 cm"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "Perimetro: 2(a+b)."
+  },
+  {
+    "q": "Perimetro di un rettangolo di lati 39 cm e 24 cm?",
+    "options": [
+      "128 cm",
+      "63 cm",
+      "126 cm",
+      "936 cm"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "Perimetro: 2(a+b)."
+  },
+  {
+    "q": "Area di un rettangolo con base 34 cm e altezza 58 cm?",
+    "options": [
+      "1982 cm²",
+      "184 cm²",
+      "92 cm²",
+      "1972 cm²"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "Area: base×altezza."
+  },
+  {
+    "q": "In un triangolo: angoli 50° e 20°. Terzo angolo?",
+    "options": [
+      "70°",
+      "110°",
+      "120°",
+      "180°"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "Somma angoli: 180°."
+  },
+  {
+    "q": "Perimetro di un rettangolo di lati 57 cm e 42 cm?",
+    "options": [
+      "99 cm",
+      "198 cm",
+      "2394 cm",
+      "200 cm"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "Perimetro: 2(a+b)."
+  },
+  {
+    "q": "Area di un rettangolo con base 9 cm e altezza 61 cm?",
+    "options": [
+      "559 cm²",
+      "70 cm²",
+      "549 cm²",
+      "140 cm²"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "Area: base×altezza."
+  },
+  {
+    "q": "Perimetro di un quadrato di lato 16 cm?",
+    "options": [
+      "68 cm",
+      "256 cm",
+      "64 cm",
+      "32 cm"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "Perimetro: 4×lato."
+  },
+  {
+    "q": "Perimetro di un rettangolo di lati 41 cm e 38 cm?",
+    "options": [
+      "160 cm",
+      "79 cm",
+      "1558 cm",
+      "158 cm"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "Perimetro: 2(a+b)."
+  },
+  {
+    "q": "Area di un rettangolo con base 33 cm e altezza 61 cm?",
+    "options": [
+      "188 cm²",
+      "2023 cm²",
+      "94 cm²",
+      "2013 cm²"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "Area: base×altezza."
+  },
+  {
+    "q": "Area di un triangolo con base 48 cm e altezza 34 cm?",
+    "options": [
+      "1632 cm²",
+      "816 cm²",
+      "821 cm²",
+      "817 cm²"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "Area: (b×h)/2."
+  },
+  {
+    "q": "In un triangolo: angoli 45° e 30°. Terzo angolo?",
+    "options": [
+      "105°",
+      "115°",
+      "75°",
+      "180°"
+    ],
+    "correct": 0,
+    "difficulty": "medium",
+    "explain": "Somma angoli: 180°."
+  },
+  {
+    "q": "Area di un triangolo con base 20 cm e altezza 43 cm?",
+    "options": [
+      "430 cm²",
+      "435 cm²",
+      "860 cm²",
+      "431 cm²"
+    ],
+    "correct": 0,
+    "difficulty": "medium",
+    "explain": "Area: (b×h)/2."
+  },
+  {
+    "q": "Perimetro di un quadrato di lato 48 cm?",
+    "options": [
+      "96 cm",
+      "196 cm",
+      "192 cm",
+      "2304 cm"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "Perimetro: 4×lato."
+  },
+  {
+    "q": "Perimetro di un rettangolo di lati 41 cm e 19 cm?",
+    "options": [
+      "779 cm",
+      "120 cm",
+      "122 cm",
+      "60 cm"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "Perimetro: 2(a+b)."
+  },
+  {
+    "q": "Perimetro di un rettangolo di lati 52 cm e 20 cm?",
+    "options": [
+      "146 cm",
+      "1040 cm",
+      "72 cm",
+      "144 cm"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "Perimetro: 2(a+b)."
+  },
+  {
+    "q": "In un triangolo: angoli 30° e 20°. Terzo angolo?",
+    "options": [
+      "130°",
+      "180°",
+      "50°",
+      "140°"
+    ],
+    "correct": 0,
+    "difficulty": "medium",
+    "explain": "Somma angoli: 180°."
+  },
+  {
+    "q": "Area di un triangolo con base 14 cm e altezza 13 cm?",
+    "options": [
+      "182 cm²",
+      "96 cm²",
+      "91 cm²",
+      "92 cm²"
+    ],
+    "correct": 2,
+    "difficulty": "medium",
+    "explain": "Area: (b×h)/2."
+  },
+  {
+    "q": "Perimetro di un rettangolo di lati 52 cm e 56 cm?",
+    "options": [
+      "2912 cm",
+      "218 cm",
+      "108 cm",
+      "216 cm"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "Perimetro: 2(a+b)."
+  },
+  {
+    "q": "Area di un triangolo con base 15 cm e altezza 54 cm?",
+    "options": [
+      "406 cm²",
+      "410 cm²",
+      "810 cm²",
+      "405 cm²"
+    ],
+    "correct": 3,
+    "difficulty": "medium",
+    "explain": "Area: (b×h)/2."
+  },
+  {
+    "q": "Area di un rettangolo con base 67 cm e altezza 39 cm?",
+    "options": [
+      "212 cm²",
+      "2613 cm²",
+      "2623 cm²",
+      "106 cm²"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "Area: base×altezza."
+  },
+  {
+    "q": "Area di un rettangolo con base 20 cm e altezza 33 cm?",
+    "options": [
+      "53 cm²",
+      "670 cm²",
+      "660 cm²",
+      "106 cm²"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "Area: base×altezza."
+  },
+  {
+    "q": "Area di un rettangolo con base 22 cm e altezza 65 cm?",
+    "options": [
+      "87 cm²",
+      "1440 cm²",
+      "174 cm²",
+      "1430 cm²"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "Area: base×altezza."
+  },
+  {
+    "q": "Area di un triangolo con base 29 cm e altezza 24 cm?",
+    "options": [
+      "353 cm²",
+      "349 cm²",
+      "348 cm²",
+      "696 cm²"
+    ],
+    "correct": 2,
+    "difficulty": "medium",
+    "explain": "Area: (b×h)/2."
+  },
+  {
+    "q": "Perimetro di un rettangolo di lati 18 cm e 2 cm?",
+    "options": [
+      "20 cm",
+      "36 cm",
+      "42 cm",
+      "40 cm"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "Perimetro: 2(a+b)."
+  },
+  {
+    "q": "Area di un rettangolo con base 53 cm e altezza 28 cm?",
+    "options": [
+      "162 cm²",
+      "1494 cm²",
+      "81 cm²",
+      "1484 cm²"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "Area: base×altezza."
+  },
+  {
+    "q": "Area di un triangolo con base 41 cm e altezza 4 cm?",
+    "options": [
+      "82 cm²",
+      "87 cm²",
+      "83 cm²",
+      "164 cm²"
+    ],
+    "correct": 0,
+    "difficulty": "medium",
+    "explain": "Area: (b×h)/2."
+  },
+  {
+    "q": "Volume di un cubo con lato 26 cm?",
+    "options": [
+      "4056 cm³",
+      "17602 cm³",
+      "17576 cm³",
+      "676 cm³"
+    ],
+    "correct": 2,
+    "difficulty": "medium",
+    "explain": "Volume: lato³."
+  },
+  {
+    "q": "In un triangolo: angoli 40° e 40°. Terzo angolo?",
+    "options": [
+      "110°",
+      "100°",
+      "80°",
+      "180°"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "Somma angoli: 180°."
+  },
+  {
+    "q": "Area di un rettangolo con base 34 cm e altezza 24 cm?",
+    "options": [
+      "816 cm²",
+      "58 cm²",
+      "826 cm²",
+      "116 cm²"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explain": "Area: base×altezza."
+  },
+  {
+    "q": "Area di un rettangolo con base 17 cm e altezza 19 cm?",
+    "options": [
+      "333 cm²",
+      "323 cm²",
+      "72 cm²",
+      "36 cm²"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "Area: base×altezza."
+  },
+  {
+    "q": "Area di un triangolo con base 40 cm e altezza 48 cm?",
+    "options": [
+      "961 cm²",
+      "960 cm²",
+      "1920 cm²",
+      "965 cm²"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "Area: (b×h)/2."
+  },
+  {
+    "q": "Perimetro di un rettangolo di lati 8 cm e 18 cm?",
+    "options": [
+      "52 cm",
+      "54 cm",
+      "26 cm",
+      "144 cm"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explain": "Perimetro: 2(a+b)."
+  },
+  {
+    "q": "Area di un triangolo con base 32 cm e altezza 31 cm?",
+    "options": [
+      "496 cm²",
+      "501 cm²",
+      "992 cm²",
+      "497 cm²"
+    ],
+    "correct": 0,
+    "difficulty": "medium",
+    "explain": "Area: (b×h)/2."
+  },
+  {
+    "q": "Area di un triangolo con base 77 cm e altezza 30 cm?",
+    "options": [
+      "2310 cm²",
+      "1156 cm²",
+      "1160 cm²",
+      "1155 cm²"
+    ],
+    "correct": 3,
+    "difficulty": "medium",
+    "explain": "Area: (b×h)/2."
+  },
+  {
+    "q": "Area di un rettangolo con base 23 cm e altezza 23 cm?",
+    "options": [
+      "92 cm²",
+      "46 cm²",
+      "529 cm²",
+      "539 cm²"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "Area: base×altezza."
+  },
+  {
+    "q": "In un triangolo: angoli 70° e 90°. Terzo angolo?",
+    "options": [
+      "30°",
+      "180°",
+      "160°",
+      "20°"
+    ],
+    "correct": 3,
+    "difficulty": "medium",
+    "explain": "Somma angoli: 180°."
+  },
+  {
+    "q": "Area di un rettangolo con base 69 cm e altezza 53 cm?",
+    "options": [
+      "122 cm²",
+      "3667 cm²",
+      "244 cm²",
+      "3657 cm²"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "Area: base×altezza."
+  },
+  {
+    "q": "Perimetro di un quadrato di lato 13 cm?",
+    "options": [
+      "169 cm",
+      "52 cm",
+      "26 cm",
+      "56 cm"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "Perimetro: 4×lato."
+  },
+  {
+    "q": "In un triangolo: angoli 60° e 60°. Terzo angolo?",
+    "options": [
+      "180°",
+      "120°",
+      "70°",
+      "60°"
+    ],
+    "correct": 3,
+    "difficulty": "medium",
+    "explain": "Somma angoli: 180°."
+  },
+  {
+    "q": "Area di un rettangolo con base 42 cm e altezza 29 cm?",
+    "options": [
+      "142 cm²",
+      "71 cm²",
+      "1218 cm²",
+      "1228 cm²"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "Area: base×altezza."
+  },
+  {
+    "q": "In un triangolo: angoli 20° e 90°. Terzo angolo?",
+    "options": [
+      "80°",
+      "70°",
+      "180°",
+      "110°"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "Somma angoli: 180°."
+  },
+  {
+    "q": "Perimetro di un rettangolo di lati 10 cm e 16 cm?",
+    "options": [
+      "54 cm",
+      "52 cm",
+      "160 cm",
+      "26 cm"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "Perimetro: 2(a+b)."
+  },
+  {
+    "q": "Area di un triangolo con base 61 cm e altezza 4 cm?",
+    "options": [
+      "123 cm²",
+      "122 cm²",
+      "127 cm²",
+      "244 cm²"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "Area: (b×h)/2."
+  },
+  {
+    "q": "Perimetro di un rettangolo di lati 30 cm e 50 cm?",
+    "options": [
+      "160 cm",
+      "80 cm",
+      "162 cm",
+      "1500 cm"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explain": "Perimetro: 2(a+b)."
+  },
+  {
+    "q": "Area di un triangolo con base 63 cm e altezza 14 cm?",
+    "options": [
+      "442 cm²",
+      "446 cm²",
+      "441 cm²",
+      "882 cm²"
+    ],
+    "correct": 2,
+    "difficulty": "medium",
+    "explain": "Area: (b×h)/2."
+  },
+  {
+    "q": "Area di un triangolo con base 62 cm e altezza 22 cm?",
+    "options": [
+      "682 cm²",
+      "1364 cm²",
+      "687 cm²",
+      "683 cm²"
+    ],
+    "correct": 0,
+    "difficulty": "medium",
+    "explain": "Area: (b×h)/2."
+  },
+  {
+    "q": "Perimetro di un quadrato di lato 11 cm?",
+    "options": [
+      "44 cm",
+      "48 cm",
+      "121 cm",
+      "22 cm"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explain": "Perimetro: 4×lato."
+  },
+  {
+    "q": "Perimetro di un rettangolo di lati 60 cm e 3 cm?",
+    "options": [
+      "126 cm",
+      "180 cm",
+      "63 cm",
+      "128 cm"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explain": "Perimetro: 2(a+b)."
+  },
+  {
+    "q": "Perimetro di un rettangolo di lati 22 cm e 39 cm?",
+    "options": [
+      "61 cm",
+      "122 cm",
+      "858 cm",
+      "124 cm"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "Perimetro: 2(a+b)."
+  },
+  {
+    "q": "Area di un triangolo con base 63 cm e altezza 2 cm?",
+    "options": [
+      "68 cm²",
+      "126 cm²",
+      "63 cm²",
+      "64 cm²"
+    ],
+    "correct": 2,
+    "difficulty": "medium",
+    "explain": "Area: (b×h)/2."
+  },
+  {
+    "q": "Area di un rettangolo con base 4 cm e altezza 10 cm?",
+    "options": [
+      "28 cm²",
+      "14 cm²",
+      "40 cm²",
+      "50 cm²"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "Area: base×altezza."
+  },
+  {
+    "q": "Perimetro di un quadrato di lato 37 cm?",
+    "options": [
+      "152 cm",
+      "1369 cm",
+      "148 cm",
+      "74 cm"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "Perimetro: 4×lato."
+  },
+  {
+    "q": "Perimetro di un rettangolo di lati 13 cm e 42 cm?",
+    "options": [
+      "55 cm",
+      "546 cm",
+      "110 cm",
+      "112 cm"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "Perimetro: 2(a+b)."
+  },
+  {
+    "q": "In un triangolo: angoli 60° e 45°. Terzo angolo?",
+    "options": [
+      "85°",
+      "75°",
+      "105°",
+      "180°"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "Somma angoli: 180°."
+  },
+  {
+    "q": "Area di un rettangolo con base 59 cm e altezza 44 cm?",
+    "options": [
+      "103 cm²",
+      "2596 cm²",
+      "206 cm²",
+      "2606 cm²"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "Area: base×altezza."
+  },
+  {
+    "q": "Area di un rettangolo con base 27 cm e altezza 31 cm?",
+    "options": [
+      "116 cm²",
+      "837 cm²",
+      "847 cm²",
+      "58 cm²"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "Area: base×altezza."
+  },
+  {
+    "q": "Perimetro di un rettangolo di lati 34 cm e 44 cm?",
+    "options": [
+      "158 cm",
+      "1496 cm",
+      "156 cm",
+      "78 cm"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "Perimetro: 2(a+b)."
+  },
+  {
+    "q": "Area di un rettangolo con base 36 cm e altezza 50 cm?",
+    "options": [
+      "1800 cm²",
+      "86 cm²",
+      "1810 cm²",
+      "172 cm²"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explain": "Area: base×altezza."
+  },
+  {
+    "q": "In un triangolo: angoli 80° e 80°. Terzo angolo?",
+    "options": [
+      "160°",
+      "180°",
+      "20°",
+      "30°"
+    ],
+    "correct": 2,
+    "difficulty": "medium",
+    "explain": "Somma angoli: 180°."
+  },
+  {
+    "q": "Area di un rettangolo con base 69 cm e altezza 39 cm?",
+    "options": [
+      "108 cm²",
+      "216 cm²",
+      "2691 cm²",
+      "2701 cm²"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "Area: base×altezza."
+  },
+  {
+    "q": "Perimetro di un rettangolo di lati 30 cm e 24 cm?",
+    "options": [
+      "108 cm",
+      "110 cm",
+      "54 cm",
+      "720 cm"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explain": "Perimetro: 2(a+b)."
+  },
+  {
+    "q": "Area di un triangolo con base 37 cm e altezza 2 cm?",
+    "options": [
+      "38 cm²",
+      "74 cm²",
+      "42 cm²",
+      "37 cm²"
+    ],
+    "correct": 3,
+    "difficulty": "medium",
+    "explain": "Area: (b×h)/2."
+  },
+  {
+    "q": "Perimetro di un quadrato di lato 50 cm?",
+    "options": [
+      "100 cm",
+      "2500 cm",
+      "200 cm",
+      "204 cm"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "Perimetro: 4×lato."
+  },
+  {
+    "q": "Perimetro di un quadrato di lato 53 cm?",
+    "options": [
+      "2809 cm",
+      "212 cm",
+      "106 cm",
+      "216 cm"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "Perimetro: 4×lato."
+  },
+  {
+    "q": "Area di un rettangolo con base 54 cm e altezza 17 cm?",
+    "options": [
+      "928 cm²",
+      "918 cm²",
+      "71 cm²",
+      "142 cm²"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "Area: base×altezza."
+  },
+  {
+    "q": "Perimetro di un rettangolo di lati 51 cm e 37 cm?",
+    "options": [
+      "178 cm",
+      "176 cm",
+      "88 cm",
+      "1887 cm"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "Perimetro: 2(a+b)."
+  },
+  {
+    "q": "Area di un triangolo con base 17 cm e altezza 18 cm?",
+    "options": [
+      "306 cm²",
+      "154 cm²",
+      "153 cm²",
+      "158 cm²"
+    ],
+    "correct": 2,
+    "difficulty": "medium",
+    "explain": "Area: (b×h)/2."
+  },
+  {
+    "q": "Area di un triangolo con base 75 cm e altezza 56 cm?",
+    "options": [
+      "2100 cm²",
+      "2101 cm²",
+      "4200 cm²",
+      "2105 cm²"
+    ],
+    "correct": 0,
+    "difficulty": "medium",
+    "explain": "Area: (b×h)/2."
+  },
+  {
+    "q": "Perimetro di un rettangolo di lati 40 cm e 18 cm?",
+    "options": [
+      "58 cm",
+      "116 cm",
+      "118 cm",
+      "720 cm"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "Perimetro: 2(a+b)."
+  },
+  {
+    "q": "Area di un rettangolo con base 56 cm e altezza 3 cm?",
+    "options": [
+      "118 cm²",
+      "59 cm²",
+      "168 cm²",
+      "178 cm²"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "Area: base×altezza."
+  },
+  {
+    "q": "Area di un rettangolo con base 44 cm e altezza 6 cm?",
+    "options": [
+      "50 cm²",
+      "100 cm²",
+      "264 cm²",
+      "274 cm²"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "Area: base×altezza."
+  },
+  {
+    "q": "Area di un rettangolo con base 55 cm e altezza 66 cm?",
+    "options": [
+      "3640 cm²",
+      "121 cm²",
+      "242 cm²",
+      "3630 cm²"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "Area: base×altezza."
+  },
+  {
+    "q": "Perimetro di un rettangolo di lati 31 cm e 14 cm?",
+    "options": [
+      "434 cm",
+      "90 cm",
+      "92 cm",
+      "45 cm"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "Perimetro: 2(a+b)."
+  },
+  {
+    "q": "Perimetro di un rettangolo di lati 19 cm e 28 cm?",
+    "options": [
+      "96 cm",
+      "94 cm",
+      "532 cm",
+      "47 cm"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "Perimetro: 2(a+b)."
+  },
+  {
+    "q": "Area di un rettangolo con base 41 cm e altezza 61 cm?",
+    "options": [
+      "204 cm²",
+      "2501 cm²",
+      "102 cm²",
+      "2511 cm²"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "Area: base×altezza."
+  },
+  {
+    "q": "Perimetro di un rettangolo di lati 21 cm e 54 cm?",
+    "options": [
+      "75 cm",
+      "150 cm",
+      "152 cm",
+      "1134 cm"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "Perimetro: 2(a+b)."
+  },
+  {
+    "q": "Area di un rettangolo con base 11 cm e altezza 62 cm?",
+    "options": [
+      "682 cm²",
+      "146 cm²",
+      "692 cm²",
+      "73 cm²"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explain": "Area: base×altezza."
+  },
+  {
+    "q": "Perimetro di un rettangolo di lati 53 cm e 7 cm?",
+    "options": [
+      "60 cm",
+      "122 cm",
+      "120 cm",
+      "371 cm"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "Perimetro: 2(a+b)."
+  },
+  {
+    "q": "Area di un rettangolo con base 63 cm e altezza 24 cm?",
+    "options": [
+      "87 cm²",
+      "1512 cm²",
+      "1522 cm²",
+      "174 cm²"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "Area: base×altezza."
+  },
+  {
+    "q": "Area di un triangolo con base 57 cm e altezza 2 cm?",
+    "options": [
+      "57 cm²",
+      "58 cm²",
+      "62 cm²",
+      "114 cm²"
+    ],
+    "correct": 0,
+    "difficulty": "medium",
+    "explain": "Area: (b×h)/2."
+  },
+  {
+    "q": "Area di un triangolo con base 16 cm e altezza 58 cm?",
+    "options": [
+      "469 cm²",
+      "464 cm²",
+      "928 cm²",
+      "465 cm²"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "Area: (b×h)/2."
+  },
+  {
+    "q": "Perimetro di un rettangolo di lati 3 cm e 57 cm?",
+    "options": [
+      "60 cm",
+      "171 cm",
+      "120 cm",
+      "122 cm"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "Perimetro: 2(a+b)."
+  },
+  {
+    "q": "In un triangolo: angoli 60° e 40°. Terzo angolo?",
+    "options": [
+      "180°",
+      "90°",
+      "80°",
+      "100°"
+    ],
+    "correct": 2,
+    "difficulty": "medium",
+    "explain": "Somma angoli: 180°."
+  },
+  {
+    "q": "Area di un triangolo con base 33 cm e altezza 24 cm?",
+    "options": [
+      "397 cm²",
+      "401 cm²",
+      "396 cm²",
+      "792 cm²"
+    ],
+    "correct": 2,
+    "difficulty": "medium",
+    "explain": "Area: (b×h)/2."
+  },
+  {
+    "q": "Perimetro di un rettangolo di lati 19 cm e 14 cm?",
+    "options": [
+      "266 cm",
+      "66 cm",
+      "68 cm",
+      "33 cm"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "Perimetro: 2(a+b)."
+  },
+  {
+    "q": "Area di un triangolo con base 31 cm e altezza 14 cm?",
+    "options": [
+      "218 cm²",
+      "222 cm²",
+      "434 cm²",
+      "217 cm²"
+    ],
+    "correct": 3,
+    "difficulty": "medium",
+    "explain": "Area: (b×h)/2."
+  },
+  {
+    "q": "In un triangolo: angoli 30° e 50°. Terzo angolo?",
+    "options": [
+      "110°",
+      "80°",
+      "180°",
+      "100°"
+    ],
+    "correct": 3,
+    "difficulty": "medium",
+    "explain": "Somma angoli: 180°."
+  },
+  {
+    "q": "Perimetro di un quadrato di lato 64 cm?",
+    "options": [
+      "260 cm",
+      "128 cm",
+      "256 cm",
+      "4096 cm"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "Perimetro: 4×lato."
+  },
+  {
+    "q": "In un triangolo: angoli 60° e 30°. Terzo angolo?",
+    "options": [
+      "100°",
+      "180°",
+      "90° (4)",
+      "90°"
+    ],
+    "correct": 3,
+    "difficulty": "medium",
+    "explain": "Somma angoli: 180°."
+  },
+  {
+    "q": "Area di un triangolo con base 80 cm e altezza 3 cm?",
+    "options": [
+      "121 cm²",
+      "120 cm²",
+      "240 cm²",
+      "125 cm²"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "Area: (b×h)/2."
+  },
+  {
+    "q": "Perimetro di un rettangolo di lati 48 cm e 59 cm?",
+    "options": [
+      "107 cm",
+      "216 cm",
+      "2832 cm",
+      "214 cm"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "Perimetro: 2(a+b)."
+  },
+  {
+    "q": "Area di un triangolo con base 30 cm e altezza 16 cm?",
+    "options": [
+      "480 cm²",
+      "241 cm²",
+      "240 cm²",
+      "245 cm²"
+    ],
+    "correct": 2,
+    "difficulty": "medium",
+    "explain": "Area: (b×h)/2."
+  },
+  {
+    "q": "Area di un rettangolo con base 2 cm e altezza 36 cm?",
+    "options": [
+      "76 cm²",
+      "38 cm²",
+      "82 cm²",
+      "72 cm²"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "Area: base×altezza."
+  },
+  {
+    "q": "Area di un rettangolo con base 36 cm e altezza 65 cm?",
+    "options": [
+      "2350 cm²",
+      "202 cm²",
+      "2340 cm²",
+      "101 cm²"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "Area: base×altezza."
+  },
+  {
+    "q": "Area di un rettangolo con base 8 cm e altezza 40 cm?",
+    "options": [
+      "96 cm²",
+      "330 cm²",
+      "320 cm²",
+      "48 cm²"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "Area: base×altezza."
+  },
+  {
+    "q": "Area di un rettangolo con base 69 cm e altezza 56 cm?",
+    "options": [
+      "3874 cm²",
+      "3864 cm²",
+      "125 cm²",
+      "250 cm²"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "Area: base×altezza."
+  },
+  {
+    "q": "Area di un rettangolo con base 30 cm e altezza 62 cm?",
+    "options": [
+      "184 cm²",
+      "1870 cm²",
+      "1860 cm²",
+      "92 cm²"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "Area: base×altezza."
+  },
+  {
+    "q": "Perimetro di un rettangolo di lati 4 cm e 18 cm?",
+    "options": [
+      "44 cm",
+      "72 cm",
+      "22 cm",
+      "46 cm"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explain": "Perimetro: 2(a+b)."
+  },
+  {
+    "q": "Area di un triangolo con base 68 cm e altezza 15 cm?",
+    "options": [
+      "1020 cm²",
+      "510 cm²",
+      "515 cm²",
+      "511 cm²"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "Area: (b×h)/2."
+  },
+  {
+    "q": "Perimetro di un rettangolo di lati 27 cm e 23 cm?",
+    "options": [
+      "100 cm",
+      "50 cm",
+      "102 cm",
+      "621 cm"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explain": "Perimetro: 2(a+b)."
+  },
+  {
+    "q": "Area di un triangolo con base 24 cm e altezza 12 cm?",
+    "options": [
+      "144 cm²",
+      "288 cm²",
+      "149 cm²",
+      "145 cm²"
+    ],
+    "correct": 0,
+    "difficulty": "medium",
+    "explain": "Area: (b×h)/2."
+  },
+  {
+    "q": "Area di un triangolo con base 34 cm e altezza 57 cm?",
+    "options": [
+      "969 cm²",
+      "974 cm²",
+      "970 cm²",
+      "1938 cm²"
+    ],
+    "correct": 0,
+    "difficulty": "medium",
+    "explain": "Area: (b×h)/2."
+  },
+  {
+    "q": "Area di un rettangolo con base 10 cm e altezza 16 cm?",
+    "options": [
+      "26 cm²",
+      "170 cm²",
+      "160 cm²",
+      "52 cm²"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "Area: base×altezza."
+  },
+  {
+    "q": "Area di un rettangolo con base 35 cm e altezza 28 cm?",
+    "options": [
+      "63 cm²",
+      "980 cm²",
+      "990 cm²",
+      "126 cm²"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "Area: base×altezza."
+  },
+  {
+    "q": "Perimetro di un rettangolo di lati 47 cm e 59 cm?",
+    "options": [
+      "212 cm",
+      "214 cm",
+      "2773 cm",
+      "106 cm"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explain": "Perimetro: 2(a+b)."
+  },
+  {
+    "q": "Area di un triangolo con base 4 cm e altezza 53 cm?",
+    "options": [
+      "107 cm²",
+      "106 cm²",
+      "111 cm²",
+      "212 cm²"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "Area: (b×h)/2."
+  },
+  {
+    "q": "Area di un triangolo con base 49 cm e altezza 60 cm?",
+    "options": [
+      "1475 cm²",
+      "1471 cm²",
+      "2940 cm²",
+      "1470 cm²"
+    ],
+    "correct": 3,
+    "difficulty": "medium",
+    "explain": "Area: (b×h)/2."
+  },
+  {
+    "q": "Area di un triangolo con base 70 cm e altezza 48 cm?",
+    "options": [
+      "1685 cm²",
+      "1680 cm²",
+      "3360 cm²",
+      "1681 cm²"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "Area: (b×h)/2."
+  },
+  {
+    "q": "Perimetro di un rettangolo di lati 49 cm e 8 cm?",
+    "options": [
+      "116 cm",
+      "392 cm",
+      "114 cm",
+      "57 cm"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "Perimetro: 2(a+b)."
+  },
+  {
+    "q": "Area di un rettangolo con base 49 cm e altezza 66 cm?",
+    "options": [
+      "230 cm²",
+      "3244 cm²",
+      "115 cm²",
+      "3234 cm²"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "Area: base×altezza."
+  },
+  {
+    "q": "Perimetro di un rettangolo di lati 41 cm e 14 cm?",
+    "options": [
+      "574 cm",
+      "55 cm",
+      "110 cm",
+      "112 cm"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "Perimetro: 2(a+b)."
+  },
+  {
+    "q": "Area di un rettangolo con base 68 cm e altezza 11 cm?",
+    "options": [
+      "748 cm²",
+      "79 cm²",
+      "758 cm²",
+      "158 cm²"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explain": "Area: base×altezza."
+  },
+  {
+    "q": "Area di un triangolo con base 63 cm e altezza 16 cm?",
+    "options": [
+      "504 cm²",
+      "505 cm²",
+      "509 cm²",
+      "1008 cm²"
+    ],
+    "correct": 0,
+    "difficulty": "medium",
+    "explain": "Area: (b×h)/2."
+  },
+  {
+    "q": "Perimetro di un rettangolo di lati 16 cm e 37 cm?",
+    "options": [
+      "592 cm",
+      "108 cm",
+      "53 cm",
+      "106 cm"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "Perimetro: 2(a+b)."
+  },
+  {
+    "q": "Perimetro di un quadrato di lato 32 cm?",
+    "options": [
+      "1024 cm",
+      "64 cm",
+      "132 cm",
+      "128 cm"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "Perimetro: 4×lato."
+  },
+  {
+    "q": "Perimetro di un rettangolo di lati 27 cm e 6 cm?",
+    "options": [
+      "33 cm",
+      "162 cm",
+      "68 cm",
+      "66 cm"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "Perimetro: 2(a+b)."
+  },
+  {
+    "q": "Perimetro di un rettangolo di lati 43 cm e 44 cm?",
+    "options": [
+      "1892 cm",
+      "174 cm",
+      "87 cm",
+      "176 cm"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "Perimetro: 2(a+b)."
+  },
+  {
+    "q": "Perimetro di un rettangolo di lati 49 cm e 40 cm?",
+    "options": [
+      "1960 cm",
+      "178 cm",
+      "180 cm",
+      "89 cm"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "Perimetro: 2(a+b)."
+  },
+  {
+    "q": "Perimetro di un rettangolo di lati 22 cm e 26 cm?",
+    "options": [
+      "96 cm",
+      "48 cm",
+      "98 cm",
+      "572 cm"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explain": "Perimetro: 2(a+b)."
+  }
+]

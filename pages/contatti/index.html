@@ -1,0 +1,95 @@
+<!doctype html>
+<html lang="it">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Contatti e nuovi quiz — QuizMania.it</title>
+  <meta name="description" content="Scrivi a QuizMania.it per segnalare un quiz che vorresti trovare nel catalogo." />
+  <meta name="robots" content="index,follow" />
+  <link rel="icon" href="/assets/favicon.ico" />
+  <link rel="stylesheet" href="/assets/css/quizmania.css" />
+  <script defer src="/assets/js/quizmania.js"></script>
+  <script defer src="/assets/js/contact.js"></script>
+</head>
+<body>
+  <header class="qm-topbar">
+    <div class="qm-topbar-inner">
+      <a class="qm-brand" href="/">
+        <span class="qm-logo" aria-hidden="true"></span>
+        <span><span class="qm-brand-name">QuizMania.it</span><br /><span class="qm-brand-sub">Contatti e nuove idee</span></span>
+      </a>
+      <span class="qm-spacer"></span>
+      <a class="qm-iconbtn" href="/" aria-label="Torna alla home">🏠</a>
+    </div>
+  </header>
+
+  <main class="qm-shell">
+    <section class="qm-hero contact-hero">
+      <div class="qm-hero-inner">
+        <div>
+          <p class="contact-eyebrow">IDEA PER UN NUOVO QUIZ?</p>
+          <h1 class="qm-h1">Aiutaci a scegliere il prossimo argomento.</h1>
+          <p class="qm-lead">Non trovi il quiz che stai cercando? Raccontaci l’argomento, il livello e il tipo di domande che vorresti: leggiamo ogni proposta per far crescere QuizMania.it.</p>
+        </div>
+        <div class="contact-note">
+          <strong>📬 Risposta chiara</strong>
+          <p>La richiesta arriva direttamente al team di QuizMania.it, con l’argomento che hai indicato.</p>
+        </div>
+      </div>
+    </section>
+
+    <section class="qm-section contact-layout" aria-labelledby="contact-title">
+      <div class="contact-copy">
+        <h2 id="contact-title">Richiedi un quiz</h2>
+        <p>Puoi proporre un tema scolastico, un interesse per adulti, un livello d’età o un formato di allenamento. Per i quiz patente, NCC Milano resta una raccolta dedicata all’esame e non viene modificato tramite queste richieste.</p>
+        <ul class="contact-list">
+          <li>Indica l’argomento che manca.</li>
+          <li>Spiega a chi è rivolto e quale difficoltà preferisci.</li>
+          <li>Se vuoi, lascia un esempio di domanda o un dettaglio utile.</li>
+        </ul>
+      </div>
+
+      <form class="contact-form" data-contact-form novalidate>
+        <div class="contact-field">
+          <label for="contact-name">Nome <span aria-hidden="true">*</span></label>
+          <input id="contact-name" name="name" type="text" autocomplete="name" maxlength="80" required />
+        </div>
+        <div class="contact-field">
+          <label for="contact-email">Email <span aria-hidden="true">*</span></label>
+          <input id="contact-email" name="email" type="email" autocomplete="email" maxlength="160" required />
+        </div>
+        <div class="contact-field">
+          <label for="contact-topic">Quiz che vorresti trovare <span aria-hidden="true">*</span></label>
+          <input id="contact-topic" name="topic" type="text" maxlength="140" placeholder="Es. quiz di biologia per le superiori" required />
+        </div>
+        <div class="contact-field">
+          <label for="contact-audience">Destinatari e difficoltà</label>
+          <select id="contact-audience" name="audience">
+            <option value="">Scegli se vuoi indicarlo</option>
+            <option>3–5 anni</option>
+            <option>6–12 anni</option>
+            <option>Scuola media</option>
+            <option>Scuola superiore</option>
+            <option>Adulti</option>
+            <option>Patente B</option>
+            <option>Altro</option>
+          </select>
+        </div>
+        <div class="contact-field">
+          <label for="contact-message">Dettagli o esempio di domanda</label>
+          <textarea id="contact-message" name="message" rows="6" maxlength="2000" placeholder="Cosa dovrebbe includere il quiz?"></textarea>
+        </div>
+        <div class="contact-trap" aria-hidden="true">
+          <label for="contact-website">Non compilare questo campo</label>
+          <input id="contact-website" name="website" type="text" tabindex="-1" autocomplete="off" />
+        </div>
+        <p class="contact-privacy">Inviando il modulo, i dati inseriti saranno usati solo per rispondere alla proposta e migliorare il catalogo di QuizMania.it.</p>
+        <button class="qm-btn" type="submit" data-contact-submit>Invia la richiesta</button>
+        <p class="contact-status" data-contact-status role="status" aria-live="polite"></p>
+      </form>
+    </section>
+
+    <footer class="qm-footer"><a class="qm-btn secondary" href="/">⬅ Torna ai quiz</a></footer>
+  </main>
+</body>
+</html>

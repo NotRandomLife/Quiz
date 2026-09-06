@@ -1,0 +1,68 @@
+<!doctype html>
+<html lang="it">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Quiz Adulti — QuizMania.it</title>
+  <meta name="description" content="Quiz per adulti: cultura generale, storia, geografia, scienze, tecnologia, economia, cinema e musica, sport e logica." />
+  <link rel="icon" href="/assets/favicon.ico" />
+  <link rel="stylesheet" href="/assets/css/quizmania.css" />
+  <script defer src="/assets/js/quizmania.js"></script>
+  <script defer src="/assets/js/catalog.js"></script>
+</head>
+<body>
+  <header class="qm-topbar">
+    <div class="qm-topbar-inner">
+      <a class="qm-iconbtn" href="/" aria-label="Home">🏠</a>
+      <a class="qm-brand" href="/">
+        <span class="qm-logo" aria-hidden="true"></span>
+        <span>
+          <span class="qm-brand-name">Quiz Adulti</span><br />
+          <span class="qm-brand-sub">Cultura • sfide • domande toste</span>
+        </span>
+      </a>
+      <span class="qm-spacer"></span>
+      <button class="qm-iconbtn" type="button" data-action="open-settings" aria-label="Impostazioni">⚙️</button>
+    </div>
+  </header>
+
+  <div class="qm-shell">
+    <section class="qm-hero">
+      <div class="qm-hero-inner">
+        <div>
+          <h1 class="qm-h1">Quiz seri, ritmo veloce, zero noia.</h1>
+          <p class="qm-lead">Domande selezionate per adulti: cultura generale, storia, scienze, tecnologia e altro. Alla fine rivedi gli errori e migliora davvero.</p>
+          <div class="qm-pillrow">
+            <a class='qm-pill' href='/pages/scuola/scuola'>🏫 Scuola</a>
+            <a class='qm-pill' href='/pages/fasce_eta/'>🧒 Fasce d'età</a>
+            <a class='qm-pill' href='/pages/patenti/'>🚗 Patenti</a>
+          </div>
+        </div>
+        <div>
+          <div class="qm-search">
+            <span aria-hidden="true">🔎</span>
+            <input data-qm-search type="text" placeholder="Cerca un quiz (es. tecnologia, economia, cinema…)" autocomplete="off" />
+            <button class="qm-btn" type="button" onclick="document.querySelector('[data-qm-search]').focus()">Cerca</button>
+          </div>
+          <div style="margin-top:12px;display:flex;gap:10px;flex-wrap:wrap;">
+            <a class='qm-btn' href='/pages/adulti/logica/'>🧩 Sfida logica</a>
+            <a class='qm-btn secondary' href='/pages/adulti/cultura/'>📚 Cultura</a>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="qm-section">
+      <div class="qm-section-title">
+        <h2>Catalogo Adulti</h2>
+        <div class="qm-small">Scegli un argomento e parti</div>
+      </div>
+      <div class="qm-grid" data-qm-catalog data-filter="adulti"></div>
+    </section>
+
+    <footer class="qm-footer">
+      <a class="qm-btn secondary" href="/">⬅ Torna alla Home</a>
+    </footer>
+  </div>
+</body>
+</html>

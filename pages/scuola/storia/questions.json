@@ -1,0 +1,6002 @@
+[
+  {
+    "q": "In che secolo cade l'anno 933?",
+    "options": [
+      "11° secolo",
+      "10° secolo",
+      "12° secolo",
+      "9° secolo"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1711?",
+    "options": [
+      "18° secolo",
+      "17° secolo",
+      "20° secolo",
+      "19° secolo"
+    ],
+    "correct": 0,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1897?",
+    "options": [
+      "21° secolo",
+      "20° secolo",
+      "18° secolo",
+      "19° secolo"
+    ],
+    "correct": 3,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 770?",
+    "options": [
+      "10° secolo",
+      "9° secolo",
+      "8° secolo",
+      "7° secolo"
+    ],
+    "correct": 2,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1508?",
+    "options": [
+      "16° secolo",
+      "17° secolo",
+      "18° secolo",
+      "15° secolo"
+    ],
+    "correct": 0,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1999?",
+    "options": [
+      "21° secolo",
+      "20° secolo",
+      "19° secolo",
+      "22° secolo"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 773?",
+    "options": [
+      "8° secolo",
+      "9° secolo",
+      "10° secolo",
+      "7° secolo"
+    ],
+    "correct": 0,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 406?",
+    "options": [
+      "7° secolo",
+      "4° secolo",
+      "6° secolo",
+      "5° secolo"
+    ],
+    "correct": 3,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 408?",
+    "options": [
+      "4° secolo",
+      "6° secolo",
+      "5° secolo",
+      "7° secolo"
+    ],
+    "correct": 2,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1642?",
+    "options": [
+      "18° secolo",
+      "16° secolo",
+      "17° secolo",
+      "19° secolo"
+    ],
+    "correct": 2,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 512?",
+    "options": [
+      "7° secolo",
+      "6° secolo",
+      "5° secolo",
+      "8° secolo"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 726?",
+    "options": [
+      "9° secolo",
+      "8° secolo",
+      "7° secolo",
+      "10° secolo"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 620?",
+    "options": [
+      "7° secolo",
+      "8° secolo",
+      "9° secolo",
+      "6° secolo"
+    ],
+    "correct": 0,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1195?",
+    "options": [
+      "12° secolo",
+      "13° secolo",
+      "11° secolo",
+      "14° secolo"
+    ],
+    "correct": 0,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1192?",
+    "options": [
+      "11° secolo",
+      "12° secolo",
+      "13° secolo",
+      "14° secolo"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1911?",
+    "options": [
+      "20° secolo",
+      "19° secolo",
+      "22° secolo",
+      "21° secolo"
+    ],
+    "correct": 0,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1524?",
+    "options": [
+      "18° secolo",
+      "16° secolo",
+      "17° secolo",
+      "15° secolo"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1700?",
+    "options": [
+      "19° secolo",
+      "18° secolo",
+      "16° secolo",
+      "17° secolo"
+    ],
+    "correct": 3,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1993?",
+    "options": [
+      "21° secolo",
+      "19° secolo",
+      "22° secolo",
+      "20° secolo"
+    ],
+    "correct": 3,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1012?",
+    "options": [
+      "11° secolo",
+      "13° secolo",
+      "12° secolo",
+      "10° secolo"
+    ],
+    "correct": 0,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1256?",
+    "options": [
+      "12° secolo",
+      "15° secolo",
+      "14° secolo",
+      "13° secolo"
+    ],
+    "correct": 3,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1802?",
+    "options": [
+      "21° secolo",
+      "20° secolo",
+      "18° secolo",
+      "19° secolo"
+    ],
+    "correct": 3,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1641?",
+    "options": [
+      "16° secolo",
+      "19° secolo",
+      "17° secolo",
+      "18° secolo"
+    ],
+    "correct": 2,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1650?",
+    "options": [
+      "17° secolo",
+      "19° secolo",
+      "16° secolo",
+      "18° secolo"
+    ],
+    "correct": 0,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 462?",
+    "options": [
+      "6° secolo",
+      "7° secolo",
+      "5° secolo",
+      "4° secolo"
+    ],
+    "correct": 2,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1353?",
+    "options": [
+      "15° secolo",
+      "14° secolo",
+      "13° secolo",
+      "16° secolo"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 807?",
+    "options": [
+      "8° secolo",
+      "11° secolo",
+      "9° secolo",
+      "10° secolo"
+    ],
+    "correct": 2,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1521?",
+    "options": [
+      "15° secolo",
+      "16° secolo",
+      "17° secolo",
+      "18° secolo"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 717?",
+    "options": [
+      "9° secolo",
+      "8° secolo",
+      "7° secolo",
+      "10° secolo"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 939?",
+    "options": [
+      "10° secolo",
+      "12° secolo",
+      "9° secolo",
+      "11° secolo"
+    ],
+    "correct": 0,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1878?",
+    "options": [
+      "18° secolo",
+      "20° secolo",
+      "19° secolo",
+      "21° secolo"
+    ],
+    "correct": 2,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 410?",
+    "options": [
+      "6° secolo",
+      "7° secolo",
+      "4° secolo",
+      "5° secolo"
+    ],
+    "correct": 3,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1677?",
+    "options": [
+      "18° secolo",
+      "19° secolo",
+      "16° secolo",
+      "17° secolo"
+    ],
+    "correct": 3,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1684?",
+    "options": [
+      "17° secolo",
+      "16° secolo",
+      "19° secolo",
+      "18° secolo"
+    ],
+    "correct": 0,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 431?",
+    "options": [
+      "4° secolo",
+      "5° secolo",
+      "7° secolo",
+      "6° secolo"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1273?",
+    "options": [
+      "15° secolo",
+      "14° secolo",
+      "13° secolo",
+      "12° secolo"
+    ],
+    "correct": 2,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1794?",
+    "options": [
+      "17° secolo",
+      "19° secolo",
+      "20° secolo",
+      "18° secolo"
+    ],
+    "correct": 3,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 443?",
+    "options": [
+      "6° secolo",
+      "5° secolo",
+      "4° secolo",
+      "7° secolo"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1627?",
+    "options": [
+      "18° secolo",
+      "16° secolo",
+      "17° secolo",
+      "19° secolo"
+    ],
+    "correct": 2,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 980?",
+    "options": [
+      "9° secolo",
+      "12° secolo",
+      "10° secolo",
+      "11° secolo"
+    ],
+    "correct": 2,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1667?",
+    "options": [
+      "17° secolo",
+      "18° secolo",
+      "19° secolo",
+      "16° secolo"
+    ],
+    "correct": 0,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1626?",
+    "options": [
+      "16° secolo",
+      "19° secolo",
+      "18° secolo",
+      "17° secolo"
+    ],
+    "correct": 3,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1320?",
+    "options": [
+      "14° secolo",
+      "13° secolo",
+      "15° secolo",
+      "16° secolo"
+    ],
+    "correct": 0,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 778?",
+    "options": [
+      "10° secolo",
+      "8° secolo",
+      "9° secolo",
+      "7° secolo"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 948?",
+    "options": [
+      "10° secolo",
+      "11° secolo",
+      "9° secolo",
+      "12° secolo"
+    ],
+    "correct": 0,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1971?",
+    "options": [
+      "22° secolo",
+      "20° secolo",
+      "19° secolo",
+      "21° secolo"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 907?",
+    "options": [
+      "9° secolo",
+      "11° secolo",
+      "12° secolo",
+      "10° secolo"
+    ],
+    "correct": 3,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1099?",
+    "options": [
+      "12° secolo",
+      "13° secolo",
+      "11° secolo",
+      "10° secolo"
+    ],
+    "correct": 2,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1750?",
+    "options": [
+      "18° secolo",
+      "19° secolo",
+      "17° secolo",
+      "20° secolo"
+    ],
+    "correct": 0,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1836?",
+    "options": [
+      "20° secolo",
+      "21° secolo",
+      "19° secolo",
+      "18° secolo"
+    ],
+    "correct": 2,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 858?",
+    "options": [
+      "8° secolo",
+      "11° secolo",
+      "10° secolo",
+      "9° secolo"
+    ],
+    "correct": 3,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 776?",
+    "options": [
+      "8° secolo",
+      "7° secolo",
+      "10° secolo",
+      "9° secolo"
+    ],
+    "correct": 0,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1983?",
+    "options": [
+      "22° secolo",
+      "21° secolo",
+      "19° secolo",
+      "20° secolo"
+    ],
+    "correct": 3,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1951?",
+    "options": [
+      "20° secolo",
+      "19° secolo",
+      "21° secolo",
+      "22° secolo"
+    ],
+    "correct": 0,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1842?",
+    "options": [
+      "21° secolo",
+      "18° secolo",
+      "19° secolo",
+      "20° secolo"
+    ],
+    "correct": 2,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1899?",
+    "options": [
+      "18° secolo",
+      "21° secolo",
+      "20° secolo",
+      "19° secolo"
+    ],
+    "correct": 3,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 711?",
+    "options": [
+      "8° secolo",
+      "7° secolo",
+      "10° secolo",
+      "9° secolo"
+    ],
+    "correct": 0,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1163?",
+    "options": [
+      "14° secolo",
+      "11° secolo",
+      "12° secolo",
+      "13° secolo"
+    ],
+    "correct": 2,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 816?",
+    "options": [
+      "11° secolo",
+      "10° secolo",
+      "8° secolo",
+      "9° secolo"
+    ],
+    "correct": 3,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1734?",
+    "options": [
+      "18° secolo",
+      "17° secolo",
+      "20° secolo",
+      "19° secolo"
+    ],
+    "correct": 0,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 580?",
+    "options": [
+      "6° secolo",
+      "8° secolo",
+      "5° secolo",
+      "7° secolo"
+    ],
+    "correct": 0,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 2018?",
+    "options": [
+      "20° secolo",
+      "23° secolo",
+      "22° secolo",
+      "21° secolo"
+    ],
+    "correct": 3,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1458?",
+    "options": [
+      "15° secolo",
+      "17° secolo",
+      "14° secolo",
+      "16° secolo"
+    ],
+    "correct": 0,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 500?",
+    "options": [
+      "4° secolo",
+      "5° secolo",
+      "6° secolo",
+      "7° secolo"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1463?",
+    "options": [
+      "14° secolo",
+      "15° secolo",
+      "16° secolo",
+      "17° secolo"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 520?",
+    "options": [
+      "5° secolo",
+      "6° secolo",
+      "7° secolo",
+      "8° secolo"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1898?",
+    "options": [
+      "19° secolo",
+      "18° secolo",
+      "20° secolo",
+      "21° secolo"
+    ],
+    "correct": 0,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1225?",
+    "options": [
+      "12° secolo",
+      "13° secolo",
+      "15° secolo",
+      "14° secolo"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1041?",
+    "options": [
+      "11° secolo",
+      "13° secolo",
+      "12° secolo",
+      "10° secolo"
+    ],
+    "correct": 0,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1550?",
+    "options": [
+      "15° secolo",
+      "18° secolo",
+      "17° secolo",
+      "16° secolo"
+    ],
+    "correct": 3,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1435?",
+    "options": [
+      "16° secolo",
+      "15° secolo",
+      "17° secolo",
+      "14° secolo"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1317?",
+    "options": [
+      "15° secolo",
+      "14° secolo",
+      "13° secolo",
+      "16° secolo"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1615?",
+    "options": [
+      "18° secolo",
+      "19° secolo",
+      "17° secolo",
+      "16° secolo"
+    ],
+    "correct": 2,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1185?",
+    "options": [
+      "11° secolo",
+      "13° secolo",
+      "12° secolo",
+      "14° secolo"
+    ],
+    "correct": 2,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1416?",
+    "options": [
+      "14° secolo",
+      "17° secolo",
+      "16° secolo",
+      "15° secolo"
+    ],
+    "correct": 3,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1275?",
+    "options": [
+      "14° secolo",
+      "15° secolo",
+      "13° secolo",
+      "12° secolo"
+    ],
+    "correct": 2,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1014?",
+    "options": [
+      "10° secolo",
+      "12° secolo",
+      "13° secolo",
+      "11° secolo"
+    ],
+    "correct": 3,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1432?",
+    "options": [
+      "15° secolo",
+      "17° secolo",
+      "14° secolo",
+      "16° secolo"
+    ],
+    "correct": 0,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1176?",
+    "options": [
+      "14° secolo",
+      "11° secolo",
+      "13° secolo",
+      "12° secolo"
+    ],
+    "correct": 3,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1547?",
+    "options": [
+      "18° secolo",
+      "15° secolo",
+      "16° secolo",
+      "17° secolo"
+    ],
+    "correct": 2,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 670?",
+    "options": [
+      "7° secolo",
+      "6° secolo",
+      "8° secolo",
+      "9° secolo"
+    ],
+    "correct": 0,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1231?",
+    "options": [
+      "14° secolo",
+      "12° secolo",
+      "15° secolo",
+      "13° secolo"
+    ],
+    "correct": 3,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1295?",
+    "options": [
+      "13° secolo",
+      "12° secolo",
+      "15° secolo",
+      "14° secolo"
+    ],
+    "correct": 0,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 899?",
+    "options": [
+      "11° secolo",
+      "9° secolo",
+      "8° secolo",
+      "10° secolo"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 866?",
+    "options": [
+      "10° secolo",
+      "9° secolo",
+      "11° secolo",
+      "8° secolo"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1884?",
+    "options": [
+      "20° secolo",
+      "21° secolo",
+      "18° secolo",
+      "19° secolo"
+    ],
+    "correct": 3,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 913?",
+    "options": [
+      "10° secolo",
+      "11° secolo",
+      "9° secolo",
+      "12° secolo"
+    ],
+    "correct": 0,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 624?",
+    "options": [
+      "6° secolo",
+      "8° secolo",
+      "9° secolo",
+      "7° secolo"
+    ],
+    "correct": 3,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1560?",
+    "options": [
+      "15° secolo",
+      "17° secolo",
+      "18° secolo",
+      "16° secolo"
+    ],
+    "correct": 3,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1173?",
+    "options": [
+      "11° secolo",
+      "13° secolo",
+      "14° secolo",
+      "12° secolo"
+    ],
+    "correct": 3,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1228?",
+    "options": [
+      "14° secolo",
+      "15° secolo",
+      "12° secolo",
+      "13° secolo"
+    ],
+    "correct": 3,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 715?",
+    "options": [
+      "9° secolo",
+      "10° secolo",
+      "8° secolo",
+      "7° secolo"
+    ],
+    "correct": 2,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1141?",
+    "options": [
+      "13° secolo",
+      "14° secolo",
+      "12° secolo",
+      "11° secolo"
+    ],
+    "correct": 2,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1355?",
+    "options": [
+      "16° secolo",
+      "14° secolo",
+      "13° secolo",
+      "15° secolo"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1636?",
+    "options": [
+      "18° secolo",
+      "19° secolo",
+      "16° secolo",
+      "17° secolo"
+    ],
+    "correct": 3,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1785?",
+    "options": [
+      "19° secolo",
+      "18° secolo",
+      "17° secolo",
+      "20° secolo"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 775?",
+    "options": [
+      "9° secolo",
+      "8° secolo",
+      "10° secolo",
+      "7° secolo"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1689?",
+    "options": [
+      "17° secolo",
+      "19° secolo",
+      "16° secolo",
+      "18° secolo"
+    ],
+    "correct": 0,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1411?",
+    "options": [
+      "15° secolo",
+      "14° secolo",
+      "17° secolo",
+      "16° secolo"
+    ],
+    "correct": 0,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1540?",
+    "options": [
+      "18° secolo",
+      "16° secolo",
+      "15° secolo",
+      "17° secolo"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1786?",
+    "options": [
+      "18° secolo",
+      "17° secolo",
+      "20° secolo",
+      "19° secolo"
+    ],
+    "correct": 0,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1924?",
+    "options": [
+      "22° secolo",
+      "21° secolo",
+      "19° secolo",
+      "20° secolo"
+    ],
+    "correct": 3,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 527?",
+    "options": [
+      "5° secolo",
+      "7° secolo",
+      "6° secolo",
+      "8° secolo"
+    ],
+    "correct": 2,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1487?",
+    "options": [
+      "16° secolo",
+      "14° secolo",
+      "17° secolo",
+      "15° secolo"
+    ],
+    "correct": 3,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 803?",
+    "options": [
+      "10° secolo",
+      "9° secolo",
+      "8° secolo",
+      "11° secolo"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 618?",
+    "options": [
+      "9° secolo",
+      "6° secolo",
+      "8° secolo",
+      "7° secolo"
+    ],
+    "correct": 3,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1127?",
+    "options": [
+      "11° secolo",
+      "14° secolo",
+      "13° secolo",
+      "12° secolo"
+    ],
+    "correct": 3,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1031?",
+    "options": [
+      "12° secolo",
+      "10° secolo",
+      "11° secolo",
+      "13° secolo"
+    ],
+    "correct": 2,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 672?",
+    "options": [
+      "9° secolo",
+      "7° secolo",
+      "6° secolo",
+      "8° secolo"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1846?",
+    "options": [
+      "21° secolo",
+      "19° secolo",
+      "20° secolo",
+      "18° secolo"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1430?",
+    "options": [
+      "16° secolo",
+      "17° secolo",
+      "15° secolo",
+      "14° secolo"
+    ],
+    "correct": 2,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 479?",
+    "options": [
+      "5° secolo",
+      "6° secolo",
+      "7° secolo",
+      "4° secolo"
+    ],
+    "correct": 0,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 442?",
+    "options": [
+      "7° secolo",
+      "6° secolo",
+      "4° secolo",
+      "5° secolo"
+    ],
+    "correct": 3,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 435?",
+    "options": [
+      "4° secolo",
+      "5° secolo",
+      "6° secolo",
+      "7° secolo"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 530?",
+    "options": [
+      "7° secolo",
+      "6° secolo",
+      "5° secolo",
+      "8° secolo"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1870?",
+    "options": [
+      "20° secolo",
+      "18° secolo",
+      "21° secolo",
+      "19° secolo"
+    ],
+    "correct": 3,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 542?",
+    "options": [
+      "6° secolo",
+      "8° secolo",
+      "7° secolo",
+      "5° secolo"
+    ],
+    "correct": 0,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1867?",
+    "options": [
+      "21° secolo",
+      "18° secolo",
+      "20° secolo",
+      "19° secolo"
+    ],
+    "correct": 3,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 676?",
+    "options": [
+      "9° secolo",
+      "6° secolo",
+      "8° secolo",
+      "7° secolo"
+    ],
+    "correct": 3,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1380?",
+    "options": [
+      "15° secolo",
+      "13° secolo",
+      "14° secolo",
+      "16° secolo"
+    ],
+    "correct": 2,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1393?",
+    "options": [
+      "14° secolo",
+      "13° secolo",
+      "16° secolo",
+      "15° secolo"
+    ],
+    "correct": 0,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1712?",
+    "options": [
+      "17° secolo",
+      "18° secolo",
+      "19° secolo",
+      "20° secolo"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1722?",
+    "options": [
+      "19° secolo",
+      "18° secolo",
+      "20° secolo",
+      "17° secolo"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 739?",
+    "options": [
+      "10° secolo",
+      "9° secolo",
+      "8° secolo",
+      "7° secolo"
+    ],
+    "correct": 2,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1454?",
+    "options": [
+      "16° secolo",
+      "17° secolo",
+      "15° secolo",
+      "14° secolo"
+    ],
+    "correct": 2,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 974?",
+    "options": [
+      "12° secolo",
+      "10° secolo",
+      "9° secolo",
+      "11° secolo"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 509?",
+    "options": [
+      "5° secolo",
+      "6° secolo",
+      "8° secolo",
+      "7° secolo"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1755?",
+    "options": [
+      "20° secolo",
+      "17° secolo",
+      "19° secolo",
+      "18° secolo"
+    ],
+    "correct": 3,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1438?",
+    "options": [
+      "17° secolo",
+      "16° secolo",
+      "15° secolo",
+      "14° secolo"
+    ],
+    "correct": 2,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 996?",
+    "options": [
+      "9° secolo",
+      "11° secolo",
+      "12° secolo",
+      "10° secolo"
+    ],
+    "correct": 3,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1252?",
+    "options": [
+      "12° secolo",
+      "15° secolo",
+      "14° secolo",
+      "13° secolo"
+    ],
+    "correct": 3,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1363?",
+    "options": [
+      "14° secolo",
+      "13° secolo",
+      "16° secolo",
+      "15° secolo"
+    ],
+    "correct": 0,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1865?",
+    "options": [
+      "19° secolo",
+      "20° secolo",
+      "18° secolo",
+      "21° secolo"
+    ],
+    "correct": 0,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1862?",
+    "options": [
+      "19° secolo",
+      "20° secolo",
+      "18° secolo",
+      "21° secolo"
+    ],
+    "correct": 0,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 449?",
+    "options": [
+      "4° secolo",
+      "5° secolo",
+      "7° secolo",
+      "6° secolo"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1604?",
+    "options": [
+      "19° secolo",
+      "16° secolo",
+      "17° secolo",
+      "18° secolo"
+    ],
+    "correct": 2,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1518?",
+    "options": [
+      "15° secolo",
+      "16° secolo",
+      "17° secolo",
+      "18° secolo"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 871?",
+    "options": [
+      "8° secolo",
+      "9° secolo",
+      "11° secolo",
+      "10° secolo"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1096?",
+    "options": [
+      "12° secolo",
+      "10° secolo",
+      "13° secolo",
+      "11° secolo"
+    ],
+    "correct": 3,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1350?",
+    "options": [
+      "15° secolo",
+      "14° secolo",
+      "13° secolo",
+      "16° secolo"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 602?",
+    "options": [
+      "9° secolo",
+      "7° secolo",
+      "6° secolo",
+      "8° secolo"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 460?",
+    "options": [
+      "4° secolo",
+      "5° secolo",
+      "6° secolo",
+      "7° secolo"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1874?",
+    "options": [
+      "18° secolo",
+      "20° secolo",
+      "21° secolo",
+      "19° secolo"
+    ],
+    "correct": 3,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1171?",
+    "options": [
+      "12° secolo",
+      "11° secolo",
+      "14° secolo",
+      "13° secolo"
+    ],
+    "correct": 0,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1989?",
+    "options": [
+      "21° secolo",
+      "19° secolo",
+      "20° secolo",
+      "22° secolo"
+    ],
+    "correct": 2,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1352?",
+    "options": [
+      "14° secolo",
+      "13° secolo",
+      "15° secolo",
+      "16° secolo"
+    ],
+    "correct": 0,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1407?",
+    "options": [
+      "17° secolo",
+      "14° secolo",
+      "15° secolo",
+      "16° secolo"
+    ],
+    "correct": 2,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1250?",
+    "options": [
+      "13° secolo",
+      "12° secolo",
+      "14° secolo",
+      "15° secolo"
+    ],
+    "correct": 0,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1837?",
+    "options": [
+      "19° secolo",
+      "21° secolo",
+      "18° secolo",
+      "20° secolo"
+    ],
+    "correct": 0,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1057?",
+    "options": [
+      "13° secolo",
+      "11° secolo",
+      "10° secolo",
+      "12° secolo"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 889?",
+    "options": [
+      "11° secolo",
+      "9° secolo",
+      "8° secolo",
+      "10° secolo"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 585?",
+    "options": [
+      "5° secolo",
+      "7° secolo",
+      "6° secolo",
+      "8° secolo"
+    ],
+    "correct": 2,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 578?",
+    "options": [
+      "8° secolo",
+      "5° secolo",
+      "6° secolo",
+      "7° secolo"
+    ],
+    "correct": 2,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1237?",
+    "options": [
+      "14° secolo",
+      "13° secolo",
+      "15° secolo",
+      "12° secolo"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 424?",
+    "options": [
+      "4° secolo",
+      "6° secolo",
+      "5° secolo",
+      "7° secolo"
+    ],
+    "correct": 2,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1910?",
+    "options": [
+      "21° secolo",
+      "20° secolo",
+      "19° secolo",
+      "22° secolo"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1332?",
+    "options": [
+      "13° secolo",
+      "16° secolo",
+      "14° secolo",
+      "15° secolo"
+    ],
+    "correct": 2,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1494?",
+    "options": [
+      "17° secolo",
+      "16° secolo",
+      "15° secolo",
+      "14° secolo"
+    ],
+    "correct": 2,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1404?",
+    "options": [
+      "14° secolo",
+      "15° secolo",
+      "17° secolo",
+      "16° secolo"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1500?",
+    "options": [
+      "17° secolo",
+      "15° secolo",
+      "16° secolo",
+      "14° secolo"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 515?",
+    "options": [
+      "5° secolo",
+      "8° secolo",
+      "6° secolo",
+      "7° secolo"
+    ],
+    "correct": 2,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 488?",
+    "options": [
+      "6° secolo",
+      "5° secolo",
+      "4° secolo",
+      "7° secolo"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1986?",
+    "options": [
+      "19° secolo",
+      "21° secolo",
+      "22° secolo",
+      "20° secolo"
+    ],
+    "correct": 3,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 798?",
+    "options": [
+      "8° secolo",
+      "7° secolo",
+      "9° secolo",
+      "10° secolo"
+    ],
+    "correct": 0,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1126?",
+    "options": [
+      "13° secolo",
+      "11° secolo",
+      "14° secolo",
+      "12° secolo"
+    ],
+    "correct": 3,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1038?",
+    "options": [
+      "12° secolo",
+      "11° secolo",
+      "13° secolo",
+      "10° secolo"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1488?",
+    "options": [
+      "14° secolo",
+      "17° secolo",
+      "15° secolo",
+      "16° secolo"
+    ],
+    "correct": 2,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1649?",
+    "options": [
+      "19° secolo",
+      "18° secolo",
+      "17° secolo",
+      "16° secolo"
+    ],
+    "correct": 2,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 734?",
+    "options": [
+      "7° secolo",
+      "9° secolo",
+      "10° secolo",
+      "8° secolo"
+    ],
+    "correct": 3,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1506?",
+    "options": [
+      "16° secolo",
+      "17° secolo",
+      "15° secolo",
+      "18° secolo"
+    ],
+    "correct": 0,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1111?",
+    "options": [
+      "11° secolo",
+      "14° secolo",
+      "13° secolo",
+      "12° secolo"
+    ],
+    "correct": 3,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1123?",
+    "options": [
+      "11° secolo",
+      "12° secolo",
+      "13° secolo",
+      "14° secolo"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 613?",
+    "options": [
+      "9° secolo",
+      "7° secolo",
+      "6° secolo",
+      "8° secolo"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 845?",
+    "options": [
+      "11° secolo",
+      "10° secolo",
+      "8° secolo",
+      "9° secolo"
+    ],
+    "correct": 3,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1018?",
+    "options": [
+      "10° secolo",
+      "13° secolo",
+      "11° secolo",
+      "12° secolo"
+    ],
+    "correct": 2,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 698?",
+    "options": [
+      "8° secolo",
+      "7° secolo",
+      "9° secolo",
+      "6° secolo"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 810?",
+    "options": [
+      "9° secolo",
+      "10° secolo",
+      "11° secolo",
+      "8° secolo"
+    ],
+    "correct": 0,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1439?",
+    "options": [
+      "17° secolo",
+      "14° secolo",
+      "15° secolo",
+      "16° secolo"
+    ],
+    "correct": 2,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1397?",
+    "options": [
+      "13° secolo",
+      "16° secolo",
+      "15° secolo",
+      "14° secolo"
+    ],
+    "correct": 3,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 696?",
+    "options": [
+      "8° secolo",
+      "7° secolo",
+      "9° secolo",
+      "6° secolo"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1156?",
+    "options": [
+      "13° secolo",
+      "14° secolo",
+      "11° secolo",
+      "12° secolo"
+    ],
+    "correct": 3,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 535?",
+    "options": [
+      "5° secolo",
+      "6° secolo",
+      "7° secolo",
+      "8° secolo"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1088?",
+    "options": [
+      "12° secolo",
+      "11° secolo",
+      "10° secolo",
+      "13° secolo"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1796?",
+    "options": [
+      "20° secolo",
+      "18° secolo",
+      "19° secolo",
+      "17° secolo"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1215?",
+    "options": [
+      "12° secolo",
+      "13° secolo",
+      "15° secolo",
+      "14° secolo"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 679?",
+    "options": [
+      "8° secolo",
+      "7° secolo",
+      "9° secolo",
+      "6° secolo"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 665?",
+    "options": [
+      "6° secolo",
+      "9° secolo",
+      "8° secolo",
+      "7° secolo"
+    ],
+    "correct": 3,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1853?",
+    "options": [
+      "19° secolo",
+      "21° secolo",
+      "20° secolo",
+      "18° secolo"
+    ],
+    "correct": 0,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 534?",
+    "options": [
+      "5° secolo",
+      "8° secolo",
+      "7° secolo",
+      "6° secolo"
+    ],
+    "correct": 3,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1685?",
+    "options": [
+      "16° secolo",
+      "19° secolo",
+      "17° secolo",
+      "18° secolo"
+    ],
+    "correct": 2,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1638?",
+    "options": [
+      "17° secolo",
+      "19° secolo",
+      "18° secolo",
+      "16° secolo"
+    ],
+    "correct": 0,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1198?",
+    "options": [
+      "11° secolo",
+      "13° secolo",
+      "14° secolo",
+      "12° secolo"
+    ],
+    "correct": 3,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 405?",
+    "options": [
+      "6° secolo",
+      "5° secolo",
+      "4° secolo",
+      "7° secolo"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 901?",
+    "options": [
+      "10° secolo",
+      "12° secolo",
+      "9° secolo",
+      "11° secolo"
+    ],
+    "correct": 0,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 786?",
+    "options": [
+      "7° secolo",
+      "10° secolo",
+      "9° secolo",
+      "8° secolo"
+    ],
+    "correct": 3,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1953?",
+    "options": [
+      "22° secolo",
+      "20° secolo",
+      "21° secolo",
+      "19° secolo"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 955?",
+    "options": [
+      "11° secolo",
+      "9° secolo",
+      "10° secolo",
+      "12° secolo"
+    ],
+    "correct": 2,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1736?",
+    "options": [
+      "17° secolo",
+      "19° secolo",
+      "18° secolo",
+      "20° secolo"
+    ],
+    "correct": 2,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 469?",
+    "options": [
+      "7° secolo",
+      "5° secolo",
+      "6° secolo",
+      "4° secolo"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 551?",
+    "options": [
+      "6° secolo",
+      "5° secolo",
+      "7° secolo",
+      "8° secolo"
+    ],
+    "correct": 0,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1896?",
+    "options": [
+      "18° secolo",
+      "21° secolo",
+      "19° secolo",
+      "20° secolo"
+    ],
+    "correct": 2,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1303?",
+    "options": [
+      "14° secolo",
+      "13° secolo",
+      "16° secolo",
+      "15° secolo"
+    ],
+    "correct": 0,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1950?",
+    "options": [
+      "19° secolo",
+      "22° secolo",
+      "20° secolo",
+      "21° secolo"
+    ],
+    "correct": 2,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 713?",
+    "options": [
+      "9° secolo",
+      "7° secolo",
+      "8° secolo",
+      "10° secolo"
+    ],
+    "correct": 2,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1778?",
+    "options": [
+      "19° secolo",
+      "20° secolo",
+      "18° secolo",
+      "17° secolo"
+    ],
+    "correct": 2,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1179?",
+    "options": [
+      "13° secolo",
+      "11° secolo",
+      "12° secolo",
+      "14° secolo"
+    ],
+    "correct": 2,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1336?",
+    "options": [
+      "15° secolo",
+      "16° secolo",
+      "13° secolo",
+      "14° secolo"
+    ],
+    "correct": 3,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 965?",
+    "options": [
+      "12° secolo",
+      "10° secolo",
+      "9° secolo",
+      "11° secolo"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1264?",
+    "options": [
+      "15° secolo",
+      "14° secolo",
+      "12° secolo",
+      "13° secolo"
+    ],
+    "correct": 3,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 844?",
+    "options": [
+      "10° secolo",
+      "8° secolo",
+      "11° secolo",
+      "9° secolo"
+    ],
+    "correct": 3,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 918?",
+    "options": [
+      "10° secolo",
+      "12° secolo",
+      "11° secolo",
+      "9° secolo"
+    ],
+    "correct": 0,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1881?",
+    "options": [
+      "19° secolo",
+      "18° secolo",
+      "20° secolo",
+      "21° secolo"
+    ],
+    "correct": 0,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1565?",
+    "options": [
+      "17° secolo",
+      "16° secolo",
+      "15° secolo",
+      "18° secolo"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 400?",
+    "options": [
+      "6° secolo",
+      "4° secolo",
+      "3° secolo",
+      "5° secolo"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1761?",
+    "options": [
+      "20° secolo",
+      "19° secolo",
+      "18° secolo",
+      "17° secolo"
+    ],
+    "correct": 2,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 830?",
+    "options": [
+      "9° secolo",
+      "10° secolo",
+      "8° secolo",
+      "11° secolo"
+    ],
+    "correct": 0,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1035?",
+    "options": [
+      "13° secolo",
+      "11° secolo",
+      "10° secolo",
+      "12° secolo"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1072?",
+    "options": [
+      "12° secolo",
+      "11° secolo",
+      "13° secolo",
+      "10° secolo"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1429?",
+    "options": [
+      "14° secolo",
+      "17° secolo",
+      "15° secolo",
+      "16° secolo"
+    ],
+    "correct": 2,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 612?",
+    "options": [
+      "9° secolo",
+      "8° secolo",
+      "6° secolo",
+      "7° secolo"
+    ],
+    "correct": 3,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1083?",
+    "options": [
+      "11° secolo",
+      "12° secolo",
+      "13° secolo",
+      "10° secolo"
+    ],
+    "correct": 0,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1738?",
+    "options": [
+      "20° secolo",
+      "18° secolo",
+      "19° secolo",
+      "17° secolo"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1398?",
+    "options": [
+      "14° secolo",
+      "16° secolo",
+      "15° secolo",
+      "13° secolo"
+    ],
+    "correct": 0,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1725?",
+    "options": [
+      "18° secolo",
+      "19° secolo",
+      "17° secolo",
+      "20° secolo"
+    ],
+    "correct": 0,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1205?",
+    "options": [
+      "12° secolo",
+      "14° secolo",
+      "15° secolo",
+      "13° secolo"
+    ],
+    "correct": 3,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 671?",
+    "options": [
+      "8° secolo",
+      "7° secolo",
+      "6° secolo",
+      "9° secolo"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1050?",
+    "options": [
+      "10° secolo",
+      "11° secolo",
+      "13° secolo",
+      "12° secolo"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 921?",
+    "options": [
+      "12° secolo",
+      "11° secolo",
+      "10° secolo",
+      "9° secolo"
+    ],
+    "correct": 2,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 415?",
+    "options": [
+      "4° secolo",
+      "5° secolo",
+      "7° secolo",
+      "6° secolo"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1327?",
+    "options": [
+      "14° secolo",
+      "15° secolo",
+      "16° secolo",
+      "13° secolo"
+    ],
+    "correct": 0,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 936?",
+    "options": [
+      "11° secolo",
+      "12° secolo",
+      "10° secolo",
+      "9° secolo"
+    ],
+    "correct": 2,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1668?",
+    "options": [
+      "17° secolo",
+      "18° secolo",
+      "16° secolo",
+      "19° secolo"
+    ],
+    "correct": 0,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 869?",
+    "options": [
+      "11° secolo",
+      "8° secolo",
+      "9° secolo",
+      "10° secolo"
+    ],
+    "correct": 2,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 634?",
+    "options": [
+      "8° secolo",
+      "6° secolo",
+      "9° secolo",
+      "7° secolo"
+    ],
+    "correct": 3,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 771?",
+    "options": [
+      "7° secolo",
+      "9° secolo",
+      "10° secolo",
+      "8° secolo"
+    ],
+    "correct": 3,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1180?",
+    "options": [
+      "14° secolo",
+      "12° secolo",
+      "11° secolo",
+      "13° secolo"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1385?",
+    "options": [
+      "13° secolo",
+      "16° secolo",
+      "14° secolo",
+      "15° secolo"
+    ],
+    "correct": 2,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 730?",
+    "options": [
+      "9° secolo",
+      "8° secolo",
+      "7° secolo",
+      "10° secolo"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 777?",
+    "options": [
+      "7° secolo",
+      "8° secolo",
+      "9° secolo",
+      "10° secolo"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1134?",
+    "options": [
+      "14° secolo",
+      "12° secolo",
+      "13° secolo",
+      "11° secolo"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1771?",
+    "options": [
+      "19° secolo",
+      "18° secolo",
+      "17° secolo",
+      "20° secolo"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1998?",
+    "options": [
+      "22° secolo",
+      "21° secolo",
+      "19° secolo",
+      "20° secolo"
+    ],
+    "correct": 3,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 931?",
+    "options": [
+      "11° secolo",
+      "9° secolo",
+      "12° secolo",
+      "10° secolo"
+    ],
+    "correct": 3,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1673?",
+    "options": [
+      "16° secolo",
+      "17° secolo",
+      "19° secolo",
+      "18° secolo"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1629?",
+    "options": [
+      "19° secolo",
+      "18° secolo",
+      "16° secolo",
+      "17° secolo"
+    ],
+    "correct": 3,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1515?",
+    "options": [
+      "17° secolo",
+      "16° secolo",
+      "15° secolo",
+      "18° secolo"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 595?",
+    "options": [
+      "5° secolo",
+      "6° secolo",
+      "8° secolo",
+      "7° secolo"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1311?",
+    "options": [
+      "14° secolo",
+      "13° secolo",
+      "16° secolo",
+      "15° secolo"
+    ],
+    "correct": 0,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 919?",
+    "options": [
+      "11° secolo",
+      "9° secolo",
+      "12° secolo",
+      "10° secolo"
+    ],
+    "correct": 3,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1300?",
+    "options": [
+      "15° secolo",
+      "12° secolo",
+      "13° secolo",
+      "14° secolo"
+    ],
+    "correct": 2,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1053?",
+    "options": [
+      "10° secolo",
+      "12° secolo",
+      "13° secolo",
+      "11° secolo"
+    ],
+    "correct": 3,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1292?",
+    "options": [
+      "15° secolo",
+      "14° secolo",
+      "13° secolo",
+      "12° secolo"
+    ],
+    "correct": 2,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1367?",
+    "options": [
+      "15° secolo",
+      "16° secolo",
+      "14° secolo",
+      "13° secolo"
+    ],
+    "correct": 2,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1917?",
+    "options": [
+      "19° secolo",
+      "20° secolo",
+      "21° secolo",
+      "22° secolo"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1978?",
+    "options": [
+      "19° secolo",
+      "22° secolo",
+      "21° secolo",
+      "20° secolo"
+    ],
+    "correct": 3,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1979?",
+    "options": [
+      "22° secolo",
+      "19° secolo",
+      "20° secolo",
+      "21° secolo"
+    ],
+    "correct": 2,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1346?",
+    "options": [
+      "15° secolo",
+      "16° secolo",
+      "13° secolo",
+      "14° secolo"
+    ],
+    "correct": 3,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1526?",
+    "options": [
+      "18° secolo",
+      "17° secolo",
+      "15° secolo",
+      "16° secolo"
+    ],
+    "correct": 3,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 809?",
+    "options": [
+      "9° secolo",
+      "10° secolo",
+      "8° secolo",
+      "11° secolo"
+    ],
+    "correct": 0,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1850?",
+    "options": [
+      "20° secolo",
+      "19° secolo",
+      "21° secolo",
+      "18° secolo"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1382?",
+    "options": [
+      "14° secolo",
+      "13° secolo",
+      "15° secolo",
+      "16° secolo"
+    ],
+    "correct": 0,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1992?",
+    "options": [
+      "19° secolo",
+      "22° secolo",
+      "21° secolo",
+      "20° secolo"
+    ],
+    "correct": 3,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 697?",
+    "options": [
+      "8° secolo",
+      "6° secolo",
+      "9° secolo",
+      "7° secolo"
+    ],
+    "correct": 3,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 541?",
+    "options": [
+      "5° secolo",
+      "8° secolo",
+      "7° secolo",
+      "6° secolo"
+    ],
+    "correct": 3,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1890?",
+    "options": [
+      "20° secolo",
+      "18° secolo",
+      "21° secolo",
+      "19° secolo"
+    ],
+    "correct": 3,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 768?",
+    "options": [
+      "8° secolo",
+      "9° secolo",
+      "10° secolo",
+      "7° secolo"
+    ],
+    "correct": 0,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1232?",
+    "options": [
+      "12° secolo",
+      "14° secolo",
+      "13° secolo",
+      "15° secolo"
+    ],
+    "correct": 2,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1645?",
+    "options": [
+      "16° secolo",
+      "17° secolo",
+      "19° secolo",
+      "18° secolo"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1182?",
+    "options": [
+      "12° secolo",
+      "14° secolo",
+      "11° secolo",
+      "13° secolo"
+    ],
+    "correct": 0,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1376?",
+    "options": [
+      "13° secolo",
+      "16° secolo",
+      "14° secolo",
+      "15° secolo"
+    ],
+    "correct": 2,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 627?",
+    "options": [
+      "7° secolo",
+      "6° secolo",
+      "8° secolo",
+      "9° secolo"
+    ],
+    "correct": 0,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1233?",
+    "options": [
+      "15° secolo",
+      "13° secolo",
+      "12° secolo",
+      "14° secolo"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1328?",
+    "options": [
+      "13° secolo",
+      "16° secolo",
+      "15° secolo",
+      "14° secolo"
+    ],
+    "correct": 3,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1333?",
+    "options": [
+      "13° secolo",
+      "15° secolo",
+      "16° secolo",
+      "14° secolo"
+    ],
+    "correct": 3,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1800?",
+    "options": [
+      "18° secolo",
+      "19° secolo",
+      "20° secolo",
+      "17° secolo"
+    ],
+    "correct": 0,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1966?",
+    "options": [
+      "21° secolo",
+      "20° secolo",
+      "19° secolo",
+      "22° secolo"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1520?",
+    "options": [
+      "16° secolo",
+      "18° secolo",
+      "17° secolo",
+      "15° secolo"
+    ],
+    "correct": 0,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 678?",
+    "options": [
+      "7° secolo",
+      "9° secolo",
+      "6° secolo",
+      "8° secolo"
+    ],
+    "correct": 0,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 725?",
+    "options": [
+      "9° secolo",
+      "7° secolo",
+      "10° secolo",
+      "8° secolo"
+    ],
+    "correct": 3,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1434?",
+    "options": [
+      "17° secolo",
+      "14° secolo",
+      "15° secolo",
+      "16° secolo"
+    ],
+    "correct": 2,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 404?",
+    "options": [
+      "6° secolo",
+      "7° secolo",
+      "4° secolo",
+      "5° secolo"
+    ],
+    "correct": 3,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 870?",
+    "options": [
+      "10° secolo",
+      "9° secolo",
+      "11° secolo",
+      "8° secolo"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 865?",
+    "options": [
+      "8° secolo",
+      "9° secolo",
+      "11° secolo",
+      "10° secolo"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1927?",
+    "options": [
+      "19° secolo",
+      "22° secolo",
+      "21° secolo",
+      "20° secolo"
+    ],
+    "correct": 3,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 555?",
+    "options": [
+      "7° secolo",
+      "6° secolo",
+      "8° secolo",
+      "5° secolo"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1121?",
+    "options": [
+      "13° secolo",
+      "11° secolo",
+      "12° secolo",
+      "14° secolo"
+    ],
+    "correct": 2,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 596?",
+    "options": [
+      "8° secolo",
+      "5° secolo",
+      "7° secolo",
+      "6° secolo"
+    ],
+    "correct": 3,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1733?",
+    "options": [
+      "18° secolo",
+      "19° secolo",
+      "17° secolo",
+      "20° secolo"
+    ],
+    "correct": 0,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1129?",
+    "options": [
+      "13° secolo",
+      "12° secolo",
+      "11° secolo",
+      "14° secolo"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1313?",
+    "options": [
+      "14° secolo",
+      "13° secolo",
+      "16° secolo",
+      "15° secolo"
+    ],
+    "correct": 0,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1007?",
+    "options": [
+      "12° secolo",
+      "13° secolo",
+      "10° secolo",
+      "11° secolo"
+    ],
+    "correct": 3,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1008?",
+    "options": [
+      "13° secolo",
+      "12° secolo",
+      "11° secolo",
+      "10° secolo"
+    ],
+    "correct": 2,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1814?",
+    "options": [
+      "20° secolo",
+      "19° secolo",
+      "18° secolo",
+      "21° secolo"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1073?",
+    "options": [
+      "10° secolo",
+      "12° secolo",
+      "11° secolo",
+      "13° secolo"
+    ],
+    "correct": 2,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1527?",
+    "options": [
+      "17° secolo",
+      "16° secolo",
+      "15° secolo",
+      "18° secolo"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 511?",
+    "options": [
+      "5° secolo",
+      "6° secolo",
+      "8° secolo",
+      "7° secolo"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1047?",
+    "options": [
+      "13° secolo",
+      "11° secolo",
+      "12° secolo",
+      "10° secolo"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1557?",
+    "options": [
+      "15° secolo",
+      "17° secolo",
+      "16° secolo",
+      "18° secolo"
+    ],
+    "correct": 2,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1749?",
+    "options": [
+      "20° secolo",
+      "19° secolo",
+      "17° secolo",
+      "18° secolo"
+    ],
+    "correct": 3,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1618?",
+    "options": [
+      "16° secolo",
+      "18° secolo",
+      "17° secolo",
+      "19° secolo"
+    ],
+    "correct": 2,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1200?",
+    "options": [
+      "13° secolo",
+      "12° secolo",
+      "14° secolo",
+      "11° secolo"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1431?",
+    "options": [
+      "16° secolo",
+      "14° secolo",
+      "15° secolo",
+      "17° secolo"
+    ],
+    "correct": 2,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1109?",
+    "options": [
+      "13° secolo",
+      "12° secolo",
+      "14° secolo",
+      "11° secolo"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1619?",
+    "options": [
+      "16° secolo",
+      "18° secolo",
+      "19° secolo",
+      "17° secolo"
+    ],
+    "correct": 3,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1891?",
+    "options": [
+      "19° secolo",
+      "18° secolo",
+      "20° secolo",
+      "21° secolo"
+    ],
+    "correct": 0,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1879?",
+    "options": [
+      "18° secolo",
+      "19° secolo",
+      "21° secolo",
+      "20° secolo"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1453?",
+    "options": [
+      "16° secolo",
+      "15° secolo",
+      "17° secolo",
+      "14° secolo"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1831?",
+    "options": [
+      "18° secolo",
+      "20° secolo",
+      "21° secolo",
+      "19° secolo"
+    ],
+    "correct": 3,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1976?",
+    "options": [
+      "22° secolo",
+      "20° secolo",
+      "21° secolo",
+      "19° secolo"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1067?",
+    "options": [
+      "10° secolo",
+      "13° secolo",
+      "12° secolo",
+      "11° secolo"
+    ],
+    "correct": 3,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 925?",
+    "options": [
+      "10° secolo",
+      "12° secolo",
+      "9° secolo",
+      "11° secolo"
+    ],
+    "correct": 0,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1020?",
+    "options": [
+      "12° secolo",
+      "11° secolo",
+      "10° secolo",
+      "13° secolo"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1727?",
+    "options": [
+      "17° secolo",
+      "20° secolo",
+      "18° secolo",
+      "19° secolo"
+    ],
+    "correct": 2,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1679?",
+    "options": [
+      "19° secolo",
+      "17° secolo",
+      "18° secolo",
+      "16° secolo"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 967?",
+    "options": [
+      "10° secolo",
+      "12° secolo",
+      "11° secolo",
+      "9° secolo"
+    ],
+    "correct": 0,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1140?",
+    "options": [
+      "12° secolo",
+      "11° secolo",
+      "13° secolo",
+      "14° secolo"
+    ],
+    "correct": 0,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 707?",
+    "options": [
+      "9° secolo",
+      "7° secolo",
+      "8° secolo",
+      "10° secolo"
+    ],
+    "correct": 2,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 675?",
+    "options": [
+      "7° secolo",
+      "6° secolo",
+      "9° secolo",
+      "8° secolo"
+    ],
+    "correct": 0,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1063?",
+    "options": [
+      "11° secolo",
+      "13° secolo",
+      "10° secolo",
+      "12° secolo"
+    ],
+    "correct": 0,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1122?",
+    "options": [
+      "13° secolo",
+      "12° secolo",
+      "14° secolo",
+      "11° secolo"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 683?",
+    "options": [
+      "8° secolo",
+      "7° secolo",
+      "9° secolo",
+      "6° secolo"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1074?",
+    "options": [
+      "13° secolo",
+      "10° secolo",
+      "11° secolo",
+      "12° secolo"
+    ],
+    "correct": 2,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1591?",
+    "options": [
+      "18° secolo",
+      "16° secolo",
+      "17° secolo",
+      "15° secolo"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1968?",
+    "options": [
+      "20° secolo",
+      "19° secolo",
+      "21° secolo",
+      "22° secolo"
+    ],
+    "correct": 0,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1682?",
+    "options": [
+      "16° secolo",
+      "18° secolo",
+      "17° secolo",
+      "19° secolo"
+    ],
+    "correct": 2,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 757?",
+    "options": [
+      "7° secolo",
+      "10° secolo",
+      "9° secolo",
+      "8° secolo"
+    ],
+    "correct": 3,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 703?",
+    "options": [
+      "10° secolo",
+      "8° secolo",
+      "9° secolo",
+      "7° secolo"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 756?",
+    "options": [
+      "8° secolo",
+      "7° secolo",
+      "10° secolo",
+      "9° secolo"
+    ],
+    "correct": 0,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 868?",
+    "options": [
+      "11° secolo",
+      "10° secolo",
+      "9° secolo",
+      "8° secolo"
+    ],
+    "correct": 2,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 546?",
+    "options": [
+      "8° secolo",
+      "5° secolo",
+      "6° secolo",
+      "7° secolo"
+    ],
+    "correct": 2,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 577?",
+    "options": [
+      "7° secolo",
+      "6° secolo",
+      "5° secolo",
+      "8° secolo"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1696?",
+    "options": [
+      "19° secolo",
+      "17° secolo",
+      "18° secolo",
+      "16° secolo"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1906?",
+    "options": [
+      "21° secolo",
+      "22° secolo",
+      "20° secolo",
+      "19° secolo"
+    ],
+    "correct": 2,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1887?",
+    "options": [
+      "18° secolo",
+      "20° secolo",
+      "21° secolo",
+      "19° secolo"
+    ],
+    "correct": 3,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1818?",
+    "options": [
+      "18° secolo",
+      "20° secolo",
+      "19° secolo",
+      "21° secolo"
+    ],
+    "correct": 2,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1260?",
+    "options": [
+      "13° secolo",
+      "12° secolo",
+      "14° secolo",
+      "15° secolo"
+    ],
+    "correct": 0,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1675?",
+    "options": [
+      "16° secolo",
+      "18° secolo",
+      "19° secolo",
+      "17° secolo"
+    ],
+    "correct": 3,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1840?",
+    "options": [
+      "19° secolo",
+      "21° secolo",
+      "18° secolo",
+      "20° secolo"
+    ],
+    "correct": 0,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1078?",
+    "options": [
+      "13° secolo",
+      "11° secolo",
+      "10° secolo",
+      "12° secolo"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 860?",
+    "options": [
+      "9° secolo",
+      "8° secolo",
+      "11° secolo",
+      "10° secolo"
+    ],
+    "correct": 0,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1889?",
+    "options": [
+      "20° secolo",
+      "18° secolo",
+      "19° secolo",
+      "21° secolo"
+    ],
+    "correct": 2,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1752?",
+    "options": [
+      "17° secolo",
+      "19° secolo",
+      "20° secolo",
+      "18° secolo"
+    ],
+    "correct": 3,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 660?",
+    "options": [
+      "7° secolo",
+      "9° secolo",
+      "8° secolo",
+      "6° secolo"
+    ],
+    "correct": 0,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1669?",
+    "options": [
+      "18° secolo",
+      "19° secolo",
+      "17° secolo",
+      "16° secolo"
+    ],
+    "correct": 2,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1294?",
+    "options": [
+      "14° secolo",
+      "15° secolo",
+      "12° secolo",
+      "13° secolo"
+    ],
+    "correct": 3,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 968?",
+    "options": [
+      "9° secolo",
+      "12° secolo",
+      "11° secolo",
+      "10° secolo"
+    ],
+    "correct": 3,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 662?",
+    "options": [
+      "6° secolo",
+      "8° secolo",
+      "7° secolo",
+      "9° secolo"
+    ],
+    "correct": 2,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1943?",
+    "options": [
+      "20° secolo",
+      "21° secolo",
+      "22° secolo",
+      "19° secolo"
+    ],
+    "correct": 0,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1559?",
+    "options": [
+      "15° secolo",
+      "18° secolo",
+      "17° secolo",
+      "16° secolo"
+    ],
+    "correct": 3,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 445?",
+    "options": [
+      "6° secolo",
+      "4° secolo",
+      "7° secolo",
+      "5° secolo"
+    ],
+    "correct": 3,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 615?",
+    "options": [
+      "8° secolo",
+      "9° secolo",
+      "7° secolo",
+      "6° secolo"
+    ],
+    "correct": 2,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 819?",
+    "options": [
+      "8° secolo",
+      "10° secolo",
+      "9° secolo",
+      "11° secolo"
+    ],
+    "correct": 2,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1498?",
+    "options": [
+      "17° secolo",
+      "15° secolo",
+      "16° secolo",
+      "14° secolo"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1372?",
+    "options": [
+      "13° secolo",
+      "16° secolo",
+      "15° secolo",
+      "14° secolo"
+    ],
+    "correct": 3,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1713?",
+    "options": [
+      "18° secolo",
+      "17° secolo",
+      "20° secolo",
+      "19° secolo"
+    ],
+    "correct": 0,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1263?",
+    "options": [
+      "12° secolo",
+      "13° secolo",
+      "15° secolo",
+      "14° secolo"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1210?",
+    "options": [
+      "12° secolo",
+      "14° secolo",
+      "13° secolo",
+      "15° secolo"
+    ],
+    "correct": 2,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1239?",
+    "options": [
+      "14° secolo",
+      "12° secolo",
+      "13° secolo",
+      "15° secolo"
+    ],
+    "correct": 2,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1341?",
+    "options": [
+      "14° secolo",
+      "16° secolo",
+      "15° secolo",
+      "13° secolo"
+    ],
+    "correct": 0,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1281?",
+    "options": [
+      "15° secolo",
+      "13° secolo",
+      "14° secolo",
+      "12° secolo"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 958?",
+    "options": [
+      "9° secolo",
+      "11° secolo",
+      "12° secolo",
+      "10° secolo"
+    ],
+    "correct": 3,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1339?",
+    "options": [
+      "16° secolo",
+      "13° secolo",
+      "15° secolo",
+      "14° secolo"
+    ],
+    "correct": 3,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 910?",
+    "options": [
+      "9° secolo",
+      "12° secolo",
+      "11° secolo",
+      "10° secolo"
+    ],
+    "correct": 3,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 426?",
+    "options": [
+      "5° secolo",
+      "4° secolo",
+      "6° secolo",
+      "7° secolo"
+    ],
+    "correct": 0,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 630?",
+    "options": [
+      "7° secolo",
+      "6° secolo",
+      "8° secolo",
+      "9° secolo"
+    ],
+    "correct": 0,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1460?",
+    "options": [
+      "17° secolo",
+      "15° secolo",
+      "14° secolo",
+      "16° secolo"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1349?",
+    "options": [
+      "15° secolo",
+      "16° secolo",
+      "13° secolo",
+      "14° secolo"
+    ],
+    "correct": 3,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 422?",
+    "options": [
+      "5° secolo",
+      "4° secolo",
+      "7° secolo",
+      "6° secolo"
+    ],
+    "correct": 0,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1146?",
+    "options": [
+      "12° secolo",
+      "13° secolo",
+      "11° secolo",
+      "14° secolo"
+    ],
+    "correct": 0,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1166?",
+    "options": [
+      "12° secolo",
+      "14° secolo",
+      "13° secolo",
+      "11° secolo"
+    ],
+    "correct": 0,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1704?",
+    "options": [
+      "20° secolo",
+      "17° secolo",
+      "18° secolo",
+      "19° secolo"
+    ],
+    "correct": 2,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1248?",
+    "options": [
+      "14° secolo",
+      "12° secolo",
+      "13° secolo",
+      "15° secolo"
+    ],
+    "correct": 2,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 997?",
+    "options": [
+      "10° secolo",
+      "9° secolo",
+      "12° secolo",
+      "11° secolo"
+    ],
+    "correct": 0,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1937?",
+    "options": [
+      "22° secolo",
+      "21° secolo",
+      "20° secolo",
+      "19° secolo"
+    ],
+    "correct": 2,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1375?",
+    "options": [
+      "13° secolo",
+      "14° secolo",
+      "16° secolo",
+      "15° secolo"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1456?",
+    "options": [
+      "14° secolo",
+      "15° secolo",
+      "17° secolo",
+      "16° secolo"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1102?",
+    "options": [
+      "13° secolo",
+      "14° secolo",
+      "12° secolo",
+      "11° secolo"
+    ],
+    "correct": 2,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1946?",
+    "options": [
+      "20° secolo",
+      "19° secolo",
+      "22° secolo",
+      "21° secolo"
+    ],
+    "correct": 0,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1022?",
+    "options": [
+      "12° secolo",
+      "10° secolo",
+      "11° secolo",
+      "13° secolo"
+    ],
+    "correct": 2,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 594?",
+    "options": [
+      "7° secolo",
+      "6° secolo",
+      "8° secolo",
+      "5° secolo"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 690?",
+    "options": [
+      "9° secolo",
+      "8° secolo",
+      "6° secolo",
+      "7° secolo"
+    ],
+    "correct": 3,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 818?",
+    "options": [
+      "8° secolo",
+      "10° secolo",
+      "11° secolo",
+      "9° secolo"
+    ],
+    "correct": 3,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 841?",
+    "options": [
+      "11° secolo",
+      "10° secolo",
+      "9° secolo",
+      "8° secolo"
+    ],
+    "correct": 2,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1671?",
+    "options": [
+      "17° secolo",
+      "16° secolo",
+      "19° secolo",
+      "18° secolo"
+    ],
+    "correct": 0,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1652?",
+    "options": [
+      "17° secolo",
+      "19° secolo",
+      "18° secolo",
+      "16° secolo"
+    ],
+    "correct": 0,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1747?",
+    "options": [
+      "18° secolo",
+      "19° secolo",
+      "20° secolo",
+      "17° secolo"
+    ],
+    "correct": 0,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 608?",
+    "options": [
+      "9° secolo",
+      "6° secolo",
+      "8° secolo",
+      "7° secolo"
+    ],
+    "correct": 3,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 796?",
+    "options": [
+      "8° secolo",
+      "10° secolo",
+      "7° secolo",
+      "9° secolo"
+    ],
+    "correct": 0,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1972?",
+    "options": [
+      "22° secolo",
+      "20° secolo",
+      "21° secolo",
+      "19° secolo"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1517?",
+    "options": [
+      "15° secolo",
+      "17° secolo",
+      "16° secolo",
+      "18° secolo"
+    ],
+    "correct": 2,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 695?",
+    "options": [
+      "8° secolo",
+      "7° secolo",
+      "9° secolo",
+      "6° secolo"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1106?",
+    "options": [
+      "14° secolo",
+      "13° secolo",
+      "11° secolo",
+      "12° secolo"
+    ],
+    "correct": 3,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1509?",
+    "options": [
+      "16° secolo",
+      "17° secolo",
+      "18° secolo",
+      "15° secolo"
+    ],
+    "correct": 0,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 629?",
+    "options": [
+      "8° secolo",
+      "7° secolo",
+      "9° secolo",
+      "6° secolo"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 985?",
+    "options": [
+      "10° secolo",
+      "9° secolo",
+      "12° secolo",
+      "11° secolo"
+    ],
+    "correct": 0,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 2011?",
+    "options": [
+      "21° secolo",
+      "22° secolo",
+      "20° secolo",
+      "23° secolo"
+    ],
+    "correct": 0,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1190?",
+    "options": [
+      "13° secolo",
+      "14° secolo",
+      "12° secolo",
+      "11° secolo"
+    ],
+    "correct": 2,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 464?",
+    "options": [
+      "6° secolo",
+      "5° secolo",
+      "7° secolo",
+      "4° secolo"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1365?",
+    "options": [
+      "15° secolo",
+      "14° secolo",
+      "13° secolo",
+      "16° secolo"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 772?",
+    "options": [
+      "10° secolo",
+      "7° secolo",
+      "8° secolo",
+      "9° secolo"
+    ],
+    "correct": 2,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 557?",
+    "options": [
+      "6° secolo",
+      "5° secolo",
+      "8° secolo",
+      "7° secolo"
+    ],
+    "correct": 0,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1085?",
+    "options": [
+      "11° secolo",
+      "10° secolo",
+      "12° secolo",
+      "13° secolo"
+    ],
+    "correct": 0,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1154?",
+    "options": [
+      "14° secolo",
+      "13° secolo",
+      "11° secolo",
+      "12° secolo"
+    ],
+    "correct": 3,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1589?",
+    "options": [
+      "16° secolo",
+      "17° secolo",
+      "18° secolo",
+      "15° secolo"
+    ],
+    "correct": 0,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 684?",
+    "options": [
+      "8° secolo",
+      "9° secolo",
+      "6° secolo",
+      "7° secolo"
+    ],
+    "correct": 3,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1392?",
+    "options": [
+      "15° secolo",
+      "16° secolo",
+      "13° secolo",
+      "14° secolo"
+    ],
+    "correct": 3,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 782?",
+    "options": [
+      "10° secolo",
+      "9° secolo",
+      "8° secolo",
+      "7° secolo"
+    ],
+    "correct": 2,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1612?",
+    "options": [
+      "18° secolo",
+      "17° secolo",
+      "19° secolo",
+      "16° secolo"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 518?",
+    "options": [
+      "7° secolo",
+      "8° secolo",
+      "6° secolo",
+      "5° secolo"
+    ],
+    "correct": 2,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1530?",
+    "options": [
+      "16° secolo",
+      "18° secolo",
+      "15° secolo",
+      "17° secolo"
+    ],
+    "correct": 0,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1142?",
+    "options": [
+      "11° secolo",
+      "12° secolo",
+      "13° secolo",
+      "14° secolo"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1322?",
+    "options": [
+      "13° secolo",
+      "16° secolo",
+      "15° secolo",
+      "14° secolo"
+    ],
+    "correct": 3,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1661?",
+    "options": [
+      "19° secolo",
+      "16° secolo",
+      "17° secolo",
+      "18° secolo"
+    ],
+    "correct": 2,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 457?",
+    "options": [
+      "5° secolo",
+      "7° secolo",
+      "6° secolo",
+      "4° secolo"
+    ],
+    "correct": 0,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 895?",
+    "options": [
+      "9° secolo",
+      "10° secolo",
+      "11° secolo",
+      "8° secolo"
+    ],
+    "correct": 0,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1418?",
+    "options": [
+      "16° secolo",
+      "14° secolo",
+      "15° secolo",
+      "17° secolo"
+    ],
+    "correct": 2,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1905?",
+    "options": [
+      "21° secolo",
+      "19° secolo",
+      "20° secolo",
+      "22° secolo"
+    ],
+    "correct": 2,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 456?",
+    "options": [
+      "5° secolo",
+      "4° secolo",
+      "6° secolo",
+      "7° secolo"
+    ],
+    "correct": 0,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 688?",
+    "options": [
+      "8° secolo",
+      "7° secolo",
+      "9° secolo",
+      "6° secolo"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1567?",
+    "options": [
+      "18° secolo",
+      "16° secolo",
+      "17° secolo",
+      "15° secolo"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1893?",
+    "options": [
+      "19° secolo",
+      "20° secolo",
+      "21° secolo",
+      "18° secolo"
+    ],
+    "correct": 0,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1981?",
+    "options": [
+      "20° secolo",
+      "19° secolo",
+      "21° secolo",
+      "22° secolo"
+    ],
+    "correct": 0,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1255?",
+    "options": [
+      "12° secolo",
+      "13° secolo",
+      "15° secolo",
+      "14° secolo"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1042?",
+    "options": [
+      "11° secolo",
+      "13° secolo",
+      "10° secolo",
+      "12° secolo"
+    ],
+    "correct": 0,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1222?",
+    "options": [
+      "14° secolo",
+      "13° secolo",
+      "12° secolo",
+      "15° secolo"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1888?",
+    "options": [
+      "20° secolo",
+      "21° secolo",
+      "18° secolo",
+      "19° secolo"
+    ],
+    "correct": 3,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 590?",
+    "options": [
+      "5° secolo",
+      "6° secolo",
+      "8° secolo",
+      "7° secolo"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1795?",
+    "options": [
+      "17° secolo",
+      "18° secolo",
+      "20° secolo",
+      "19° secolo"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 704?",
+    "options": [
+      "8° secolo",
+      "10° secolo",
+      "7° secolo",
+      "9° secolo"
+    ],
+    "correct": 0,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1723?",
+    "options": [
+      "18° secolo",
+      "17° secolo",
+      "20° secolo",
+      "19° secolo"
+    ],
+    "correct": 0,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1994?",
+    "options": [
+      "20° secolo",
+      "19° secolo",
+      "21° secolo",
+      "22° secolo"
+    ],
+    "correct": 0,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 614?",
+    "options": [
+      "9° secolo",
+      "7° secolo",
+      "6° secolo",
+      "8° secolo"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1844?",
+    "options": [
+      "20° secolo",
+      "21° secolo",
+      "19° secolo",
+      "18° secolo"
+    ],
+    "correct": 2,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1793?",
+    "options": [
+      "17° secolo",
+      "20° secolo",
+      "18° secolo",
+      "19° secolo"
+    ],
+    "correct": 2,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1258?",
+    "options": [
+      "15° secolo",
+      "14° secolo",
+      "12° secolo",
+      "13° secolo"
+    ],
+    "correct": 3,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1272?",
+    "options": [
+      "12° secolo",
+      "15° secolo",
+      "14° secolo",
+      "13° secolo"
+    ],
+    "correct": 3,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1230?",
+    "options": [
+      "12° secolo",
+      "13° secolo",
+      "15° secolo",
+      "14° secolo"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1914?",
+    "options": [
+      "20° secolo",
+      "22° secolo",
+      "21° secolo",
+      "19° secolo"
+    ],
+    "correct": 0,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 482?",
+    "options": [
+      "4° secolo",
+      "7° secolo",
+      "5° secolo",
+      "6° secolo"
+    ],
+    "correct": 2,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 533?",
+    "options": [
+      "5° secolo",
+      "6° secolo",
+      "7° secolo",
+      "8° secolo"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 831?",
+    "options": [
+      "9° secolo",
+      "8° secolo",
+      "11° secolo",
+      "10° secolo"
+    ],
+    "correct": 0,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1789?",
+    "options": [
+      "20° secolo",
+      "17° secolo",
+      "18° secolo",
+      "19° secolo"
+    ],
+    "correct": 2,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1361?",
+    "options": [
+      "15° secolo",
+      "13° secolo",
+      "14° secolo",
+      "16° secolo"
+    ],
+    "correct": 2,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 550?",
+    "options": [
+      "6° secolo",
+      "5° secolo",
+      "7° secolo",
+      "8° secolo"
+    ],
+    "correct": 0,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 744?",
+    "options": [
+      "7° secolo",
+      "8° secolo",
+      "10° secolo",
+      "9° secolo"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 824?",
+    "options": [
+      "10° secolo",
+      "11° secolo",
+      "8° secolo",
+      "9° secolo"
+    ],
+    "correct": 3,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 2015?",
+    "options": [
+      "23° secolo",
+      "20° secolo",
+      "22° secolo",
+      "21° secolo"
+    ],
+    "correct": 3,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1168?",
+    "options": [
+      "14° secolo",
+      "11° secolo",
+      "12° secolo",
+      "13° secolo"
+    ],
+    "correct": 2,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1066?",
+    "options": [
+      "11° secolo",
+      "12° secolo",
+      "10° secolo",
+      "13° secolo"
+    ],
+    "correct": 0,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 923?",
+    "options": [
+      "12° secolo",
+      "11° secolo",
+      "9° secolo",
+      "10° secolo"
+    ],
+    "correct": 3,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1104?",
+    "options": [
+      "14° secolo",
+      "11° secolo",
+      "12° secolo",
+      "13° secolo"
+    ],
+    "correct": 2,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1101?",
+    "options": [
+      "14° secolo",
+      "12° secolo",
+      "11° secolo",
+      "13° secolo"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 906?",
+    "options": [
+      "9° secolo",
+      "12° secolo",
+      "11° secolo",
+      "10° secolo"
+    ],
+    "correct": 3,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1731?",
+    "options": [
+      "20° secolo",
+      "19° secolo",
+      "18° secolo",
+      "17° secolo"
+    ],
+    "correct": 2,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1284?",
+    "options": [
+      "12° secolo",
+      "14° secolo",
+      "13° secolo",
+      "15° secolo"
+    ],
+    "correct": 2,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 2006?",
+    "options": [
+      "22° secolo",
+      "20° secolo",
+      "23° secolo",
+      "21° secolo"
+    ],
+    "correct": 3,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1996?",
+    "options": [
+      "20° secolo",
+      "19° secolo",
+      "21° secolo",
+      "22° secolo"
+    ],
+    "correct": 0,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1665?",
+    "options": [
+      "16° secolo",
+      "19° secolo",
+      "17° secolo",
+      "18° secolo"
+    ],
+    "correct": 2,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1405?",
+    "options": [
+      "14° secolo",
+      "17° secolo",
+      "15° secolo",
+      "16° secolo"
+    ],
+    "correct": 2,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1446?",
+    "options": [
+      "14° secolo",
+      "17° secolo",
+      "15° secolo",
+      "16° secolo"
+    ],
+    "correct": 2,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 874?",
+    "options": [
+      "11° secolo",
+      "9° secolo",
+      "10° secolo",
+      "8° secolo"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1301?",
+    "options": [
+      "15° secolo",
+      "16° secolo",
+      "14° secolo",
+      "13° secolo"
+    ],
+    "correct": 2,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1410?",
+    "options": [
+      "14° secolo",
+      "15° secolo",
+      "17° secolo",
+      "16° secolo"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 970?",
+    "options": [
+      "9° secolo",
+      "11° secolo",
+      "10° secolo",
+      "12° secolo"
+    ],
+    "correct": 2,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1546?",
+    "options": [
+      "15° secolo",
+      "17° secolo",
+      "18° secolo",
+      "16° secolo"
+    ],
+    "correct": 3,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 876?",
+    "options": [
+      "8° secolo",
+      "9° secolo",
+      "11° secolo",
+      "10° secolo"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1087?",
+    "options": [
+      "11° secolo",
+      "12° secolo",
+      "10° secolo",
+      "13° secolo"
+    ],
+    "correct": 0,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1213?",
+    "options": [
+      "12° secolo",
+      "14° secolo",
+      "13° secolo",
+      "15° secolo"
+    ],
+    "correct": 2,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1531?",
+    "options": [
+      "18° secolo",
+      "16° secolo",
+      "17° secolo",
+      "15° secolo"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1483?",
+    "options": [
+      "16° secolo",
+      "14° secolo",
+      "17° secolo",
+      "15° secolo"
+    ],
+    "correct": 3,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 647?",
+    "options": [
+      "9° secolo",
+      "6° secolo",
+      "7° secolo",
+      "8° secolo"
+    ],
+    "correct": 2,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 934?",
+    "options": [
+      "12° secolo",
+      "9° secolo",
+      "10° secolo",
+      "11° secolo"
+    ],
+    "correct": 2,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 524?",
+    "options": [
+      "7° secolo",
+      "8° secolo",
+      "5° secolo",
+      "6° secolo"
+    ],
+    "correct": 3,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1308?",
+    "options": [
+      "15° secolo",
+      "14° secolo",
+      "16° secolo",
+      "13° secolo"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1131?",
+    "options": [
+      "13° secolo",
+      "11° secolo",
+      "14° secolo",
+      "12° secolo"
+    ],
+    "correct": 3,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 418?",
+    "options": [
+      "5° secolo",
+      "7° secolo",
+      "4° secolo",
+      "6° secolo"
+    ],
+    "correct": 0,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1143?",
+    "options": [
+      "14° secolo",
+      "11° secolo",
+      "12° secolo",
+      "13° secolo"
+    ],
+    "correct": 2,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1226?",
+    "options": [
+      "15° secolo",
+      "12° secolo",
+      "13° secolo",
+      "14° secolo"
+    ],
+    "correct": 2,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1471?",
+    "options": [
+      "15° secolo",
+      "16° secolo",
+      "17° secolo",
+      "14° secolo"
+    ],
+    "correct": 0,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 631?",
+    "options": [
+      "8° secolo",
+      "9° secolo",
+      "7° secolo",
+      "6° secolo"
+    ],
+    "correct": 2,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 850?",
+    "options": [
+      "11° secolo",
+      "9° secolo",
+      "8° secolo",
+      "10° secolo"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1107?",
+    "options": [
+      "11° secolo",
+      "12° secolo",
+      "14° secolo",
+      "13° secolo"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 2019?",
+    "options": [
+      "22° secolo",
+      "20° secolo",
+      "23° secolo",
+      "21° secolo"
+    ],
+    "correct": 3,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 632?",
+    "options": [
+      "6° secolo",
+      "9° secolo",
+      "7° secolo",
+      "8° secolo"
+    ],
+    "correct": 2,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 784?",
+    "options": [
+      "10° secolo",
+      "8° secolo",
+      "9° secolo",
+      "7° secolo"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1452?",
+    "options": [
+      "16° secolo",
+      "14° secolo",
+      "15° secolo",
+      "17° secolo"
+    ],
+    "correct": 2,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 497?",
+    "options": [
+      "4° secolo",
+      "6° secolo",
+      "5° secolo",
+      "7° secolo"
+    ],
+    "correct": 2,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 617?",
+    "options": [
+      "9° secolo",
+      "7° secolo",
+      "6° secolo",
+      "8° secolo"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1366?",
+    "options": [
+      "13° secolo",
+      "16° secolo",
+      "15° secolo",
+      "14° secolo"
+    ],
+    "correct": 3,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1270?",
+    "options": [
+      "12° secolo",
+      "14° secolo",
+      "15° secolo",
+      "13° secolo"
+    ],
+    "correct": 3,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 503?",
+    "options": [
+      "5° secolo",
+      "7° secolo",
+      "8° secolo",
+      "6° secolo"
+    ],
+    "correct": 3,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 783?",
+    "options": [
+      "9° secolo",
+      "7° secolo",
+      "8° secolo",
+      "10° secolo"
+    ],
+    "correct": 2,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 888?",
+    "options": [
+      "8° secolo",
+      "11° secolo",
+      "10° secolo",
+      "9° secolo"
+    ],
+    "correct": 3,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1944?",
+    "options": [
+      "21° secolo",
+      "22° secolo",
+      "19° secolo",
+      "20° secolo"
+    ],
+    "correct": 3,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1807?",
+    "options": [
+      "18° secolo",
+      "19° secolo",
+      "20° secolo",
+      "21° secolo"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 692?",
+    "options": [
+      "9° secolo",
+      "7° secolo",
+      "8° secolo",
+      "6° secolo"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1975?",
+    "options": [
+      "20° secolo",
+      "22° secolo",
+      "21° secolo",
+      "19° secolo"
+    ],
+    "correct": 0,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1491?",
+    "options": [
+      "15° secolo",
+      "14° secolo",
+      "16° secolo",
+      "17° secolo"
+    ],
+    "correct": 0,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 1597?",
+    "options": [
+      "16° secolo",
+      "15° secolo",
+      "17° secolo",
+      "18° secolo"
+    ],
+    "correct": 0,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  },
+  {
+    "q": "In che secolo cade l'anno 498?",
+    "options": [
+      "4° secolo",
+      "7° secolo",
+      "6° secolo",
+      "5° secolo"
+    ],
+    "correct": 3,
+    "difficulty": "medium",
+    "explain": "Un secolo va da x01 a x00."
+  }
+]

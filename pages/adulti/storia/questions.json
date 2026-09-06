@@ -1,0 +1,3302 @@
+[
+  {
+    "q": "In che secolo cade l'anno 1685? (variante 25)",
+    "options": [
+      "18° secolo",
+      "16° secolo",
+      "19° secolo",
+      "17° secolo"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "In che secolo cade l'anno 1452? (variante 88)",
+    "options": [
+      "14° secolo",
+      "16° secolo",
+      "15° secolo",
+      "17° secolo"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Storia (variante 18): che cosa descrive una cronologia?",
+    "options": [
+      "La lista della spesa",
+      "La geografia di un luogo",
+      "La chimica degli elementi",
+      "L'ordine temporale degli eventi"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "In che secolo cade l'anno 1134? (variante 72)",
+    "options": [
+      "11° secolo",
+      "14° secolo",
+      "12° secolo",
+      "13° secolo"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "In che secolo cade l'anno 959? (variante 31)",
+    "options": [
+      "10° secolo",
+      "9° secolo",
+      "12° secolo",
+      "11° secolo"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "In che secolo cade l'anno 1303? (variante 38)",
+    "options": [
+      "13° secolo",
+      "15° secolo",
+      "14° secolo",
+      "16° secolo"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Storia (variante 56): che cosa descrive una cronologia?",
+    "options": [
+      "La chimica degli elementi",
+      "L'ordine temporale degli eventi",
+      "La geografia di un luogo",
+      "La lista della spesa"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "In che secolo cade l'anno 1690? (variante 177)",
+    "options": [
+      "17° secolo",
+      "19° secolo",
+      "18° secolo",
+      "16° secolo"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Storia (variante 174): che cosa descrive una cronologia?",
+    "options": [
+      "La lista della spesa",
+      "L'ordine temporale degli eventi",
+      "La geografia di un luogo",
+      "La chimica degli elementi"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Storia (variante 13): che cosa descrive una cronologia?",
+    "options": [
+      "La lista della spesa",
+      "La chimica degli elementi",
+      "La geografia di un luogo",
+      "L'ordine temporale degli eventi"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "In che secolo cade l'anno 909? (variante 136)",
+    "options": [
+      "10° secolo",
+      "9° secolo",
+      "11° secolo",
+      "12° secolo"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "In che secolo cade l'anno 867? (variante 76)",
+    "options": [
+      "9° secolo",
+      "11° secolo",
+      "10° secolo",
+      "8° secolo"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "In che secolo cade l'anno 1613? (variante 91)",
+    "options": [
+      "16° secolo",
+      "17° secolo",
+      "18° secolo",
+      "19° secolo"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "In che secolo cade l'anno 850? (variante 19)",
+    "options": [
+      "10° secolo",
+      "9° secolo",
+      "8° secolo",
+      "11° secolo"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "In che secolo cade l'anno 1268? (variante 125)",
+    "options": [
+      "13° secolo",
+      "14° secolo",
+      "12° secolo",
+      "15° secolo"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Storia (variante 96): che cosa descrive una cronologia?",
+    "options": [
+      "La lista della spesa",
+      "La chimica degli elementi",
+      "La geografia di un luogo",
+      "L'ordine temporale degli eventi"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "In che secolo cade l'anno 1941? (variante 224)",
+    "options": [
+      "19° secolo",
+      "22° secolo",
+      "21° secolo",
+      "20° secolo"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "In che secolo cade l'anno 1117? (variante 199)",
+    "options": [
+      "12° secolo",
+      "14° secolo",
+      "11° secolo",
+      "13° secolo"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "In che secolo cade l'anno 1339? (variante 231)",
+    "options": [
+      "15° secolo",
+      "16° secolo",
+      "13° secolo",
+      "14° secolo"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Storia (variante 55): che cosa descrive una cronologia?",
+    "options": [
+      "La chimica degli elementi",
+      "La lista della spesa",
+      "La geografia di un luogo",
+      "L'ordine temporale degli eventi"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "In che secolo cade l'anno 1636? (variante 120)",
+    "options": [
+      "16° secolo",
+      "18° secolo",
+      "19° secolo",
+      "17° secolo"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Storia (variante 128): che cosa descrive una cronologia?",
+    "options": [
+      "La chimica degli elementi",
+      "L'ordine temporale degli eventi",
+      "La geografia di un luogo",
+      "La lista della spesa"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Storia (variante 94): che cosa descrive una cronologia?",
+    "options": [
+      "La chimica degli elementi",
+      "La lista della spesa",
+      "L'ordine temporale degli eventi",
+      "La geografia di un luogo"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "In che secolo cade l'anno 1107? (variante 187)",
+    "options": [
+      "14° secolo",
+      "11° secolo",
+      "13° secolo",
+      "12° secolo"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "In che secolo cade l'anno 1990? (variante 186)",
+    "options": [
+      "20° secolo",
+      "22° secolo",
+      "19° secolo",
+      "21° secolo"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Storia (variante 157): che cosa descrive una cronologia?",
+    "options": [
+      "La lista della spesa",
+      "La geografia di un luogo",
+      "La chimica degli elementi",
+      "L'ordine temporale degli eventi"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Storia (variante 182): che cosa descrive una cronologia?",
+    "options": [
+      "L'ordine temporale degli eventi",
+      "La lista della spesa",
+      "La chimica degli elementi",
+      "La geografia di un luogo"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Storia (variante 213): che cosa descrive una cronologia?",
+    "options": [
+      "La lista della spesa",
+      "La chimica degli elementi",
+      "La geografia di un luogo",
+      "L'ordine temporale degli eventi"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "In che secolo cade l'anno 1192? (variante 112)",
+    "options": [
+      "12° secolo",
+      "11° secolo",
+      "13° secolo",
+      "14° secolo"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "In che secolo cade l'anno 1290? (variante 130)",
+    "options": [
+      "14° secolo",
+      "13° secolo",
+      "12° secolo",
+      "15° secolo"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Storia (variante 43): che cosa descrive una cronologia?",
+    "options": [
+      "La chimica degli elementi",
+      "La geografia di un luogo",
+      "L'ordine temporale degli eventi",
+      "La lista della spesa"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "In che secolo cade l'anno 1000? (variante 98)",
+    "options": [
+      "11° secolo",
+      "10° secolo",
+      "12° secolo",
+      "9° secolo"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "In che secolo cade l'anno 1016? (variante 174)",
+    "options": [
+      "13° secolo",
+      "11° secolo",
+      "12° secolo",
+      "10° secolo"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "In che secolo cade l'anno 1252? (variante 67)",
+    "options": [
+      "14° secolo",
+      "13° secolo",
+      "12° secolo",
+      "15° secolo"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "In che secolo cade l'anno 1648? (variante 70)",
+    "options": [
+      "16° secolo",
+      "19° secolo",
+      "18° secolo",
+      "17° secolo"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "In che secolo cade l'anno 1949? (variante 53)",
+    "options": [
+      "21° secolo",
+      "19° secolo",
+      "22° secolo",
+      "20° secolo"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Storia (variante 71): che cosa descrive una cronologia?",
+    "options": [
+      "La lista della spesa",
+      "L'ordine temporale degli eventi",
+      "La chimica degli elementi",
+      "La geografia di un luogo"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "In che secolo cade l'anno 1205? (variante 218)",
+    "options": [
+      "12° secolo",
+      "15° secolo",
+      "13° secolo",
+      "14° secolo"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "In che secolo cade l'anno 1026? (variante 26)",
+    "options": [
+      "12° secolo",
+      "10° secolo",
+      "11° secolo",
+      "13° secolo"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "In che secolo cade l'anno 1104? (variante 191)",
+    "options": [
+      "14° secolo",
+      "12° secolo",
+      "13° secolo",
+      "11° secolo"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Storia (variante 195): che cosa descrive una cronologia?",
+    "options": [
+      "L'ordine temporale degli eventi",
+      "La lista della spesa",
+      "La chimica degli elementi",
+      "La geografia di un luogo"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Storia (variante 198): che cosa descrive una cronologia?",
+    "options": [
+      "La geografia di un luogo",
+      "L'ordine temporale degli eventi",
+      "La chimica degli elementi",
+      "La lista della spesa"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Storia (variante 66): che cosa descrive una cronologia?",
+    "options": [
+      "La chimica degli elementi",
+      "La geografia di un luogo",
+      "L'ordine temporale degli eventi",
+      "La lista della spesa"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Storia (variante 79): che cosa descrive una cronologia?",
+    "options": [
+      "L'ordine temporale degli eventi",
+      "La lista della spesa",
+      "La geografia di un luogo",
+      "La chimica degli elementi"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "In che secolo cade l'anno 1774? (variante 17)",
+    "options": [
+      "18° secolo",
+      "20° secolo",
+      "19° secolo",
+      "17° secolo"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Storia (variante 65): che cosa descrive una cronologia?",
+    "options": [
+      "La geografia di un luogo",
+      "La chimica degli elementi",
+      "La lista della spesa",
+      "L'ordine temporale degli eventi"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Storia (variante 84): che cosa descrive una cronologia?",
+    "options": [
+      "La lista della spesa",
+      "La geografia di un luogo",
+      "La chimica degli elementi",
+      "L'ordine temporale degli eventi"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "In che secolo cade l'anno 1038? (variante 7)",
+    "options": [
+      "11° secolo",
+      "12° secolo",
+      "13° secolo",
+      "10° secolo"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Storia (variante 100): che cosa descrive una cronologia?",
+    "options": [
+      "L'ordine temporale degli eventi",
+      "La chimica degli elementi",
+      "La lista della spesa",
+      "La geografia di un luogo"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "In che secolo cade l'anno 1534? (variante 66)",
+    "options": [
+      "17° secolo",
+      "16° secolo",
+      "15° secolo",
+      "18° secolo"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Storia (variante 41): che cosa descrive una cronologia?",
+    "options": [
+      "La chimica degli elementi",
+      "L'ordine temporale degli eventi",
+      "La geografia di un luogo",
+      "La lista della spesa"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Storia (variante 92): che cosa descrive una cronologia?",
+    "options": [
+      "La geografia di un luogo",
+      "La lista della spesa",
+      "La chimica degli elementi",
+      "L'ordine temporale degli eventi"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "In che secolo cade l'anno 1664? (variante 79)",
+    "options": [
+      "19° secolo",
+      "17° secolo",
+      "18° secolo",
+      "16° secolo"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "In che secolo cade l'anno 1781? (variante 94)",
+    "options": [
+      "20° secolo",
+      "17° secolo",
+      "19° secolo",
+      "18° secolo"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "In che secolo cade l'anno 1670? (variante 64)",
+    "options": [
+      "17° secolo",
+      "18° secolo",
+      "16° secolo",
+      "19° secolo"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "In che secolo cade l'anno 916? (variante 168)",
+    "options": [
+      "12° secolo",
+      "10° secolo",
+      "11° secolo",
+      "9° secolo"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "In che secolo cade l'anno 1467? (variante 167)",
+    "options": [
+      "15° secolo",
+      "16° secolo",
+      "17° secolo",
+      "14° secolo"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Storia (variante 26): che cosa descrive una cronologia?",
+    "options": [
+      "La lista della spesa",
+      "La chimica degli elementi",
+      "La geografia di un luogo",
+      "L'ordine temporale degli eventi"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Storia (variante 22): che cosa descrive una cronologia?",
+    "options": [
+      "L'ordine temporale degli eventi",
+      "La chimica degli elementi",
+      "La lista della spesa",
+      "La geografia di un luogo"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Storia (variante 33): che cosa descrive una cronologia?",
+    "options": [
+      "La lista della spesa",
+      "L'ordine temporale degli eventi",
+      "La geografia di un luogo",
+      "La chimica degli elementi"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Storia (variante 70): che cosa descrive una cronologia?",
+    "options": [
+      "L'ordine temporale degli eventi",
+      "La geografia di un luogo",
+      "La lista della spesa",
+      "La chimica degli elementi"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "In che secolo cade l'anno 1361? (variante 182)",
+    "options": [
+      "14° secolo",
+      "16° secolo",
+      "15° secolo",
+      "13° secolo"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "In che secolo cade l'anno 1557? (variante 193)",
+    "options": [
+      "15° secolo",
+      "17° secolo",
+      "16° secolo",
+      "18° secolo"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Storia (variante 123): che cosa descrive una cronologia?",
+    "options": [
+      "L'ordine temporale degli eventi",
+      "La chimica degli elementi",
+      "La lista della spesa",
+      "La geografia di un luogo"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "In che secolo cade l'anno 1444? (variante 84)",
+    "options": [
+      "17° secolo",
+      "16° secolo",
+      "14° secolo",
+      "15° secolo"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "In che secolo cade l'anno 1361? (variante 221)",
+    "options": [
+      "13° secolo",
+      "16° secolo",
+      "14° secolo",
+      "15° secolo"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "In che secolo cade l'anno 1424? (variante 162)",
+    "options": [
+      "17° secolo",
+      "16° secolo",
+      "14° secolo",
+      "15° secolo"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Storia (variante 15): che cosa descrive una cronologia?",
+    "options": [
+      "La chimica degli elementi",
+      "L'ordine temporale degli eventi",
+      "La lista della spesa",
+      "La geografia di un luogo"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "In che secolo cade l'anno 1971? (variante 158)",
+    "options": [
+      "20° secolo",
+      "19° secolo",
+      "22° secolo",
+      "21° secolo"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Storia (variante 103): che cosa descrive una cronologia?",
+    "options": [
+      "La geografia di un luogo",
+      "La chimica degli elementi",
+      "L'ordine temporale degli eventi",
+      "La lista della spesa"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "In che secolo cade l'anno 1868? (variante 5)",
+    "options": [
+      "18° secolo",
+      "19° secolo",
+      "21° secolo",
+      "20° secolo"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "In che secolo cade l'anno 1368? (variante 121)",
+    "options": [
+      "15° secolo",
+      "13° secolo",
+      "16° secolo",
+      "14° secolo"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "In che secolo cade l'anno 1002? (variante 148)",
+    "options": [
+      "11° secolo",
+      "13° secolo",
+      "12° secolo",
+      "10° secolo"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Storia (variante 156): che cosa descrive una cronologia?",
+    "options": [
+      "La geografia di un luogo",
+      "La chimica degli elementi",
+      "L'ordine temporale degli eventi",
+      "La lista della spesa"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Storia (variante 152): che cosa descrive una cronologia?",
+    "options": [
+      "La lista della spesa",
+      "L'ordine temporale degli eventi",
+      "La chimica degli elementi",
+      "La geografia di un luogo"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "In che secolo cade l'anno 1751? (variante 100)",
+    "options": [
+      "19° secolo",
+      "18° secolo",
+      "17° secolo",
+      "20° secolo"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "In che secolo cade l'anno 1925? (variante 86)",
+    "options": [
+      "19° secolo",
+      "22° secolo",
+      "21° secolo",
+      "20° secolo"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "In che secolo cade l'anno 1817? (variante 227)",
+    "options": [
+      "21° secolo",
+      "20° secolo",
+      "19° secolo",
+      "18° secolo"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "In che secolo cade l'anno 1258? (variante 23)",
+    "options": [
+      "15° secolo",
+      "12° secolo",
+      "14° secolo",
+      "13° secolo"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Storia (variante 76): che cosa descrive una cronologia?",
+    "options": [
+      "La chimica degli elementi",
+      "La geografia di un luogo",
+      "L'ordine temporale degli eventi",
+      "La lista della spesa"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Storia (variante 134): che cosa descrive una cronologia?",
+    "options": [
+      "L'ordine temporale degli eventi",
+      "La lista della spesa",
+      "La chimica degli elementi",
+      "La geografia di un luogo"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Storia (variante 135): che cosa descrive una cronologia?",
+    "options": [
+      "La geografia di un luogo",
+      "La chimica degli elementi",
+      "L'ordine temporale degli eventi",
+      "La lista della spesa"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "In che secolo cade l'anno 1244? (variante 204)",
+    "options": [
+      "13° secolo",
+      "15° secolo",
+      "14° secolo",
+      "12° secolo"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "In che secolo cade l'anno 1956? (variante 32)",
+    "options": [
+      "22° secolo",
+      "19° secolo",
+      "20° secolo",
+      "21° secolo"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "In che secolo cade l'anno 1640? (variante 119)",
+    "options": [
+      "16° secolo",
+      "18° secolo",
+      "17° secolo",
+      "19° secolo"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Storia (variante 28): che cosa descrive una cronologia?",
+    "options": [
+      "La chimica degli elementi",
+      "La lista della spesa",
+      "L'ordine temporale degli eventi",
+      "La geografia di un luogo"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Storia (variante 61): che cosa descrive una cronologia?",
+    "options": [
+      "L'ordine temporale degli eventi",
+      "La geografia di un luogo",
+      "La lista della spesa",
+      "La chimica degli elementi"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "In che secolo cade l'anno 1367? (variante 213)",
+    "options": [
+      "16° secolo",
+      "14° secolo",
+      "13° secolo",
+      "15° secolo"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Storia (variante 54): che cosa descrive una cronologia?",
+    "options": [
+      "L'ordine temporale degli eventi",
+      "La lista della spesa",
+      "La geografia di un luogo",
+      "La chimica degli elementi"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Storia (variante 16): che cosa descrive una cronologia?",
+    "options": [
+      "La lista della spesa",
+      "La chimica degli elementi",
+      "L'ordine temporale degli eventi",
+      "La geografia di un luogo"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "In che secolo cade l'anno 1496? (variante 30)",
+    "options": [
+      "14° secolo",
+      "15° secolo",
+      "17° secolo",
+      "16° secolo"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "In che secolo cade l'anno 1301? (variante 212)",
+    "options": [
+      "14° secolo",
+      "16° secolo",
+      "15° secolo",
+      "13° secolo"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "In che secolo cade l'anno 1996? (variante 109)",
+    "options": [
+      "20° secolo",
+      "19° secolo",
+      "21° secolo",
+      "22° secolo"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Storia (variante 21): che cosa descrive una cronologia?",
+    "options": [
+      "La chimica degli elementi",
+      "La lista della spesa",
+      "La geografia di un luogo",
+      "L'ordine temporale degli eventi"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "In che secolo cade l'anno 1564? (variante 176)",
+    "options": [
+      "16° secolo",
+      "15° secolo",
+      "17° secolo",
+      "18° secolo"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Storia (variante 205): che cosa descrive una cronologia?",
+    "options": [
+      "La lista della spesa",
+      "La geografia di un luogo",
+      "La chimica degli elementi",
+      "L'ordine temporale degli eventi"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Storia (variante 189): che cosa descrive una cronologia?",
+    "options": [
+      "L'ordine temporale degli eventi",
+      "La lista della spesa",
+      "La geografia di un luogo",
+      "La chimica degli elementi"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "In che secolo cade l'anno 1202? (variante 128)",
+    "options": [
+      "12° secolo",
+      "13° secolo",
+      "15° secolo",
+      "14° secolo"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Storia (variante 37): che cosa descrive una cronologia?",
+    "options": [
+      "La chimica degli elementi",
+      "La lista della spesa",
+      "La geografia di un luogo",
+      "L'ordine temporale degli eventi"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "In che secolo cade l'anno 1757? (variante 223)",
+    "options": [
+      "17° secolo",
+      "18° secolo",
+      "20° secolo",
+      "19° secolo"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Storia (variante 48): che cosa descrive una cronologia?",
+    "options": [
+      "La chimica degli elementi",
+      "La lista della spesa",
+      "L'ordine temporale degli eventi",
+      "La geografia di un luogo"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "In che secolo cade l'anno 1588? (variante 42)",
+    "options": [
+      "18° secolo",
+      "16° secolo",
+      "17° secolo",
+      "15° secolo"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "In che secolo cade l'anno 1398? (variante 62)",
+    "options": [
+      "15° secolo",
+      "16° secolo",
+      "14° secolo",
+      "13° secolo"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Storia (variante 136): che cosa descrive una cronologia?",
+    "options": [
+      "La chimica degli elementi",
+      "La geografia di un luogo",
+      "L'ordine temporale degli eventi",
+      "La lista della spesa"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "In che secolo cade l'anno 1209? (variante 216)",
+    "options": [
+      "12° secolo",
+      "15° secolo",
+      "14° secolo",
+      "13° secolo"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "In che secolo cade l'anno 1561? (variante 132)",
+    "options": [
+      "18° secolo",
+      "15° secolo",
+      "16° secolo",
+      "17° secolo"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Storia (variante 80): che cosa descrive una cronologia?",
+    "options": [
+      "La geografia di un luogo",
+      "La lista della spesa",
+      "L'ordine temporale degli eventi",
+      "La chimica degli elementi"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "In che secolo cade l'anno 1732? (variante 8)",
+    "options": [
+      "17° secolo",
+      "18° secolo",
+      "20° secolo",
+      "19° secolo"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "In che secolo cade l'anno 1338? (variante 240)",
+    "options": [
+      "16° secolo",
+      "15° secolo",
+      "13° secolo",
+      "14° secolo"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "In che secolo cade l'anno 1744? (variante 48)",
+    "options": [
+      "19° secolo",
+      "20° secolo",
+      "18° secolo",
+      "17° secolo"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Storia (variante 190): che cosa descrive una cronologia?",
+    "options": [
+      "La chimica degli elementi",
+      "L'ordine temporale degli eventi",
+      "La geografia di un luogo",
+      "La lista della spesa"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Storia (variante 179): che cosa descrive una cronologia?",
+    "options": [
+      "La chimica degli elementi",
+      "La geografia di un luogo",
+      "L'ordine temporale degli eventi",
+      "La lista della spesa"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Storia (variante 211): che cosa descrive una cronologia?",
+    "options": [
+      "La lista della spesa",
+      "La geografia di un luogo",
+      "L'ordine temporale degli eventi",
+      "La chimica degli elementi"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Storia (variante 32): che cosa descrive una cronologia?",
+    "options": [
+      "La chimica degli elementi",
+      "L'ordine temporale degli eventi",
+      "La geografia di un luogo",
+      "La lista della spesa"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Storia (variante 212): che cosa descrive una cronologia?",
+    "options": [
+      "La chimica degli elementi",
+      "L'ordine temporale degli eventi",
+      "La lista della spesa",
+      "La geografia di un luogo"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "In che secolo cade l'anno 1181? (variante 198)",
+    "options": [
+      "12° secolo",
+      "14° secolo",
+      "11° secolo",
+      "13° secolo"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "In che secolo cade l'anno 849? (variante 89)",
+    "options": [
+      "10° secolo",
+      "11° secolo",
+      "9° secolo",
+      "8° secolo"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "In che secolo cade l'anno 1956? (variante 189)",
+    "options": [
+      "19° secolo",
+      "22° secolo",
+      "21° secolo",
+      "20° secolo"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Storia (variante 35): che cosa descrive una cronologia?",
+    "options": [
+      "L'ordine temporale degli eventi",
+      "La chimica degli elementi",
+      "La geografia di un luogo",
+      "La lista della spesa"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "In che secolo cade l'anno 802? (variante 166)",
+    "options": [
+      "8° secolo",
+      "9° secolo",
+      "11° secolo",
+      "10° secolo"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Storia (variante 46): che cosa descrive una cronologia?",
+    "options": [
+      "La lista della spesa",
+      "La chimica degli elementi",
+      "L'ordine temporale degli eventi",
+      "La geografia di un luogo"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Storia (variante 31): che cosa descrive una cronologia?",
+    "options": [
+      "L'ordine temporale degli eventi",
+      "La geografia di un luogo",
+      "La chimica degli elementi",
+      "La lista della spesa"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "In che secolo cade l'anno 1030? (variante 41)",
+    "options": [
+      "10° secolo",
+      "13° secolo",
+      "12° secolo",
+      "11° secolo"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "In che secolo cade l'anno 950? (variante 164)",
+    "options": [
+      "9° secolo",
+      "10° secolo",
+      "11° secolo",
+      "12° secolo"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "In che secolo cade l'anno 1447? (variante 105)",
+    "options": [
+      "16° secolo",
+      "17° secolo",
+      "14° secolo",
+      "15° secolo"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "In che secolo cade l'anno 975? (variante 131)",
+    "options": [
+      "11° secolo",
+      "10° secolo",
+      "9° secolo",
+      "12° secolo"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Storia (variante 145): che cosa descrive una cronologia?",
+    "options": [
+      "La lista della spesa",
+      "L'ordine temporale degli eventi",
+      "La chimica degli elementi",
+      "La geografia di un luogo"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "In che secolo cade l'anno 1648? (variante 219)",
+    "options": [
+      "19° secolo",
+      "17° secolo",
+      "16° secolo",
+      "18° secolo"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Storia (variante 89): che cosa descrive una cronologia?",
+    "options": [
+      "La geografia di un luogo",
+      "La lista della spesa",
+      "La chimica degli elementi",
+      "L'ordine temporale degli eventi"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "In che secolo cade l'anno 1669? (variante 81)",
+    "options": [
+      "17° secolo",
+      "19° secolo",
+      "18° secolo",
+      "16° secolo"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Storia (variante 220): che cosa descrive una cronologia?",
+    "options": [
+      "La lista della spesa",
+      "La chimica degli elementi",
+      "L'ordine temporale degli eventi",
+      "La geografia di un luogo"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "In che secolo cade l'anno 1619? (variante 10)",
+    "options": [
+      "18° secolo",
+      "19° secolo",
+      "17° secolo",
+      "16° secolo"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "In che secolo cade l'anno 1872? (variante 196)",
+    "options": [
+      "20° secolo",
+      "18° secolo",
+      "19° secolo",
+      "21° secolo"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Storia (variante 196): che cosa descrive una cronologia?",
+    "options": [
+      "La lista della spesa",
+      "La geografia di un luogo",
+      "La chimica degli elementi",
+      "L'ordine temporale degli eventi"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "In che secolo cade l'anno 1535? (variante 145)",
+    "options": [
+      "17° secolo",
+      "15° secolo",
+      "18° secolo",
+      "16° secolo"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Storia (variante 150): che cosa descrive una cronologia?",
+    "options": [
+      "La lista della spesa",
+      "L'ordine temporale degli eventi",
+      "La geografia di un luogo",
+      "La chimica degli elementi"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Storia (variante 127): che cosa descrive una cronologia?",
+    "options": [
+      "La geografia di un luogo",
+      "L'ordine temporale degli eventi",
+      "La lista della spesa",
+      "La chimica degli elementi"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Storia (variante 101): che cosa descrive una cronologia?",
+    "options": [
+      "La geografia di un luogo",
+      "La lista della spesa",
+      "L'ordine temporale degli eventi",
+      "La chimica degli elementi"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Storia (variante 173): che cosa descrive una cronologia?",
+    "options": [
+      "La geografia di un luogo",
+      "La lista della spesa",
+      "La chimica degli elementi",
+      "L'ordine temporale degli eventi"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "In che secolo cade l'anno 1086? (variante 152)",
+    "options": [
+      "11° secolo",
+      "12° secolo",
+      "10° secolo",
+      "13° secolo"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Storia (variante 91): che cosa descrive una cronologia?",
+    "options": [
+      "La lista della spesa",
+      "La geografia di un luogo",
+      "L'ordine temporale degli eventi",
+      "La chimica degli elementi"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Storia (variante 171): che cosa descrive una cronologia?",
+    "options": [
+      "La geografia di un luogo",
+      "La chimica degli elementi",
+      "La lista della spesa",
+      "L'ordine temporale degli eventi"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "In che secolo cade l'anno 906? (variante 24)",
+    "options": [
+      "12° secolo",
+      "11° secolo",
+      "10° secolo",
+      "9° secolo"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "In che secolo cade l'anno 972? (variante 229)",
+    "options": [
+      "12° secolo",
+      "11° secolo",
+      "10° secolo",
+      "9° secolo"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Storia (variante 154): che cosa descrive una cronologia?",
+    "options": [
+      "L'ordine temporale degli eventi",
+      "La lista della spesa",
+      "La chimica degli elementi",
+      "La geografia di un luogo"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "In che secolo cade l'anno 1041? (variante 217)",
+    "options": [
+      "13° secolo",
+      "12° secolo",
+      "11° secolo",
+      "10° secolo"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Storia (variante 118): che cosa descrive una cronologia?",
+    "options": [
+      "La chimica degli elementi",
+      "La lista della spesa",
+      "L'ordine temporale degli eventi",
+      "La geografia di un luogo"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Storia (variante 143): che cosa descrive una cronologia?",
+    "options": [
+      "La chimica degli elementi",
+      "La geografia di un luogo",
+      "La lista della spesa",
+      "L'ordine temporale degli eventi"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Storia (variante 201): che cosa descrive una cronologia?",
+    "options": [
+      "La lista della spesa",
+      "L'ordine temporale degli eventi",
+      "La geografia di un luogo",
+      "La chimica degli elementi"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Storia (variante 146): che cosa descrive una cronologia?",
+    "options": [
+      "L'ordine temporale degli eventi",
+      "La geografia di un luogo",
+      "La lista della spesa",
+      "La chimica degli elementi"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "In che secolo cade l'anno 1682? (variante 208)",
+    "options": [
+      "16° secolo",
+      "18° secolo",
+      "17° secolo",
+      "19° secolo"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Storia (variante 148): che cosa descrive una cronologia?",
+    "options": [
+      "La chimica degli elementi",
+      "La geografia di un luogo",
+      "La lista della spesa",
+      "L'ordine temporale degli eventi"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Storia (variante 119): che cosa descrive una cronologia?",
+    "options": [
+      "La chimica degli elementi",
+      "L'ordine temporale degli eventi",
+      "La lista della spesa",
+      "La geografia di un luogo"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Storia (variante 210): che cosa descrive una cronologia?",
+    "options": [
+      "La chimica degli elementi",
+      "La lista della spesa",
+      "La geografia di un luogo",
+      "L'ordine temporale degli eventi"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "In che secolo cade l'anno 1075? (variante 156)",
+    "options": [
+      "11° secolo",
+      "10° secolo",
+      "13° secolo",
+      "12° secolo"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Storia (variante 122): che cosa descrive una cronologia?",
+    "options": [
+      "L'ordine temporale degli eventi",
+      "La geografia di un luogo",
+      "La lista della spesa",
+      "La chimica degli elementi"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Storia (variante 192): che cosa descrive una cronologia?",
+    "options": [
+      "La chimica degli elementi",
+      "La geografia di un luogo",
+      "L'ordine temporale degli eventi",
+      "La lista della spesa"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "In che secolo cade l'anno 1774? (variante 37)",
+    "options": [
+      "20° secolo",
+      "18° secolo",
+      "19° secolo",
+      "17° secolo"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "In che secolo cade l'anno 1999? (variante 13)",
+    "options": [
+      "20° secolo",
+      "19° secolo",
+      "21° secolo",
+      "22° secolo"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "In che secolo cade l'anno 848? (variante 14)",
+    "options": [
+      "9° secolo",
+      "10° secolo",
+      "11° secolo",
+      "8° secolo"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Storia (variante 12): che cosa descrive una cronologia?",
+    "options": [
+      "La chimica degli elementi",
+      "La geografia di un luogo",
+      "L'ordine temporale degli eventi",
+      "La lista della spesa"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Storia (variante 217): che cosa descrive una cronologia?",
+    "options": [
+      "La lista della spesa",
+      "L'ordine temporale degli eventi",
+      "La geografia di un luogo",
+      "La chimica degli elementi"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "In che secolo cade l'anno 1385? (variante 118)",
+    "options": [
+      "13° secolo",
+      "16° secolo",
+      "14° secolo",
+      "15° secolo"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Storia (variante 50): che cosa descrive una cronologia?",
+    "options": [
+      "La lista della spesa",
+      "La chimica degli elementi",
+      "La geografia di un luogo",
+      "L'ordine temporale degli eventi"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "In che secolo cade l'anno 1346? (variante 211)",
+    "options": [
+      "13° secolo",
+      "16° secolo",
+      "14° secolo",
+      "15° secolo"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "In che secolo cade l'anno 1890? (variante 228)",
+    "options": [
+      "20° secolo",
+      "19° secolo",
+      "18° secolo",
+      "21° secolo"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Storia (variante 215): che cosa descrive una cronologia?",
+    "options": [
+      "La lista della spesa",
+      "La chimica degli elementi",
+      "La geografia di un luogo",
+      "L'ordine temporale degli eventi"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "In che secolo cade l'anno 1281? (variante 195)",
+    "options": [
+      "12° secolo",
+      "15° secolo",
+      "13° secolo",
+      "14° secolo"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Storia (variante 53): che cosa descrive una cronologia?",
+    "options": [
+      "La geografia di un luogo",
+      "La chimica degli elementi",
+      "La lista della spesa",
+      "L'ordine temporale degli eventi"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Storia (variante 102): che cosa descrive una cronologia?",
+    "options": [
+      "L'ordine temporale degli eventi",
+      "La geografia di un luogo",
+      "La chimica degli elementi",
+      "La lista della spesa"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Storia (variante 24): che cosa descrive una cronologia?",
+    "options": [
+      "La chimica degli elementi",
+      "L'ordine temporale degli eventi",
+      "La lista della spesa",
+      "La geografia di un luogo"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Storia (variante 160): che cosa descrive una cronologia?",
+    "options": [
+      "La lista della spesa",
+      "La geografia di un luogo",
+      "La chimica degli elementi",
+      "L'ordine temporale degli eventi"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Storia (variante 218): che cosa descrive una cronologia?",
+    "options": [
+      "L'ordine temporale degli eventi",
+      "La geografia di un luogo",
+      "La lista della spesa",
+      "La chimica degli elementi"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Storia (variante 121): che cosa descrive una cronologia?",
+    "options": [
+      "La geografia di un luogo",
+      "La chimica degli elementi",
+      "L'ordine temporale degli eventi",
+      "La lista della spesa"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Storia (variante 105): che cosa descrive una cronologia?",
+    "options": [
+      "La chimica degli elementi",
+      "L'ordine temporale degli eventi",
+      "La lista della spesa",
+      "La geografia di un luogo"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Storia (variante 52): che cosa descrive una cronologia?",
+    "options": [
+      "L'ordine temporale degli eventi",
+      "La lista della spesa",
+      "La geografia di un luogo",
+      "La chimica degli elementi"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "In che secolo cade l'anno 1407? (variante 114)",
+    "options": [
+      "14° secolo",
+      "16° secolo",
+      "17° secolo",
+      "15° secolo"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Storia (variante 44): che cosa descrive una cronologia?",
+    "options": [
+      "La lista della spesa",
+      "L'ordine temporale degli eventi",
+      "La geografia di un luogo",
+      "La chimica degli elementi"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Storia (variante 140): che cosa descrive una cronologia?",
+    "options": [
+      "La lista della spesa",
+      "La geografia di un luogo",
+      "L'ordine temporale degli eventi",
+      "La chimica degli elementi"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Storia (variante 170): che cosa descrive una cronologia?",
+    "options": [
+      "La geografia di un luogo",
+      "La lista della spesa",
+      "L'ordine temporale degli eventi",
+      "La chimica degli elementi"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Storia (variante 3): che cosa descrive una cronologia?",
+    "options": [
+      "La lista della spesa",
+      "L'ordine temporale degli eventi",
+      "La geografia di un luogo",
+      "La chimica degli elementi"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Storia (variante 99): che cosa descrive una cronologia?",
+    "options": [
+      "La chimica degli elementi",
+      "La geografia di un luogo",
+      "La lista della spesa",
+      "L'ordine temporale degli eventi"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Storia (variante 108): che cosa descrive una cronologia?",
+    "options": [
+      "L'ordine temporale degli eventi",
+      "La chimica degli elementi",
+      "La lista della spesa",
+      "La geografia di un luogo"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "In che secolo cade l'anno 1568? (variante 207)",
+    "options": [
+      "18° secolo",
+      "15° secolo",
+      "16° secolo",
+      "17° secolo"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "In che secolo cade l'anno 1711? (variante 116)",
+    "options": [
+      "18° secolo",
+      "17° secolo",
+      "19° secolo",
+      "20° secolo"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Storia (variante 159): che cosa descrive una cronologia?",
+    "options": [
+      "La chimica degli elementi",
+      "La lista della spesa",
+      "L'ordine temporale degli eventi",
+      "La geografia di un luogo"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Storia (variante 4): che cosa descrive una cronologia?",
+    "options": [
+      "L'ordine temporale degli eventi",
+      "La chimica degli elementi",
+      "La geografia di un luogo",
+      "La lista della spesa"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "In che secolo cade l'anno 1869? (variante 129)",
+    "options": [
+      "19° secolo",
+      "18° secolo",
+      "20° secolo",
+      "21° secolo"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "In che secolo cade l'anno 1991? (variante 65)",
+    "options": [
+      "21° secolo",
+      "19° secolo",
+      "22° secolo",
+      "20° secolo"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "In che secolo cade l'anno 1348? (variante 99)",
+    "options": [
+      "15° secolo",
+      "14° secolo",
+      "16° secolo",
+      "13° secolo"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Storia (variante 85): che cosa descrive una cronologia?",
+    "options": [
+      "La lista della spesa",
+      "La geografia di un luogo",
+      "La chimica degli elementi",
+      "L'ordine temporale degli eventi"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "In che secolo cade l'anno 1368? (variante 27)",
+    "options": [
+      "16° secolo",
+      "13° secolo",
+      "15° secolo",
+      "14° secolo"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Storia (variante 164): che cosa descrive una cronologia?",
+    "options": [
+      "La lista della spesa",
+      "L'ordine temporale degli eventi",
+      "La geografia di un luogo",
+      "La chimica degli elementi"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Storia (variante 42): che cosa descrive una cronologia?",
+    "options": [
+      "La geografia di un luogo",
+      "La lista della spesa",
+      "La chimica degli elementi",
+      "L'ordine temporale degli eventi"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "In che secolo cade l'anno 1348? (variante 56)",
+    "options": [
+      "15° secolo",
+      "14° secolo",
+      "13° secolo",
+      "16° secolo"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Storia (variante 78): che cosa descrive una cronologia?",
+    "options": [
+      "L'ordine temporale degli eventi",
+      "La geografia di un luogo",
+      "La chimica degli elementi",
+      "La lista della spesa"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Storia (variante 87): che cosa descrive una cronologia?",
+    "options": [
+      "L'ordine temporale degli eventi",
+      "La chimica degli elementi",
+      "La geografia di un luogo",
+      "La lista della spesa"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Storia (variante 124): che cosa descrive una cronologia?",
+    "options": [
+      "La geografia di un luogo",
+      "La lista della spesa",
+      "La chimica degli elementi",
+      "L'ordine temporale degli eventi"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "In che secolo cade l'anno 1280? (variante 163)",
+    "options": [
+      "12° secolo",
+      "14° secolo",
+      "13° secolo",
+      "15° secolo"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Storia (variante 186): che cosa descrive una cronologia?",
+    "options": [
+      "La geografia di un luogo",
+      "La chimica degli elementi",
+      "L'ordine temporale degli eventi",
+      "La lista della spesa"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "In che secolo cade l'anno 1193? (variante 157)",
+    "options": [
+      "12° secolo",
+      "11° secolo",
+      "14° secolo",
+      "13° secolo"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Storia (variante 106): che cosa descrive una cronologia?",
+    "options": [
+      "La lista della spesa",
+      "La chimica degli elementi",
+      "La geografia di un luogo",
+      "L'ordine temporale degli eventi"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "In che secolo cade l'anno 1870? (variante 71)",
+    "options": [
+      "19° secolo",
+      "21° secolo",
+      "18° secolo",
+      "20° secolo"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Storia (variante 47): che cosa descrive una cronologia?",
+    "options": [
+      "La chimica degli elementi",
+      "L'ordine temporale degli eventi",
+      "La geografia di un luogo",
+      "La lista della spesa"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "In che secolo cade l'anno 841? (variante 179)",
+    "options": [
+      "8° secolo",
+      "10° secolo",
+      "9° secolo",
+      "11° secolo"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "In che secolo cade l'anno 1093? (variante 101)",
+    "options": [
+      "10° secolo",
+      "11° secolo",
+      "13° secolo",
+      "12° secolo"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Storia (variante 68): che cosa descrive una cronologia?",
+    "options": [
+      "La geografia di un luogo",
+      "La chimica degli elementi",
+      "La lista della spesa",
+      "L'ordine temporale degli eventi"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "In che secolo cade l'anno 1681? (variante 185)",
+    "options": [
+      "16° secolo",
+      "17° secolo",
+      "18° secolo",
+      "19° secolo"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "In che secolo cade l'anno 1252? (variante 171)",
+    "options": [
+      "12° secolo",
+      "14° secolo",
+      "15° secolo",
+      "13° secolo"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "In che secolo cade l'anno 1639? (variante 192)",
+    "options": [
+      "16° secolo",
+      "18° secolo",
+      "19° secolo",
+      "17° secolo"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "In che secolo cade l'anno 881? (variante 175)",
+    "options": [
+      "11° secolo",
+      "10° secolo",
+      "8° secolo",
+      "9° secolo"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Storia (variante 7): che cosa descrive una cronologia?",
+    "options": [
+      "L'ordine temporale degli eventi",
+      "La lista della spesa",
+      "La geografia di un luogo",
+      "La chimica degli elementi"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "In che secolo cade l'anno 937? (variante 69)",
+    "options": [
+      "11° secolo",
+      "10° secolo",
+      "9° secolo",
+      "12° secolo"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Storia (variante 168): che cosa descrive una cronologia?",
+    "options": [
+      "La geografia di un luogo",
+      "La chimica degli elementi",
+      "L'ordine temporale degli eventi",
+      "La lista della spesa"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "In che secolo cade l'anno 1934? (variante 144)",
+    "options": [
+      "20° secolo",
+      "21° secolo",
+      "22° secolo",
+      "19° secolo"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Storia (variante 62): che cosa descrive una cronologia?",
+    "options": [
+      "La geografia di un luogo",
+      "L'ordine temporale degli eventi",
+      "La lista della spesa",
+      "La chimica degli elementi"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Storia (variante 81): che cosa descrive una cronologia?",
+    "options": [
+      "L'ordine temporale degli eventi",
+      "La chimica degli elementi",
+      "La geografia di un luogo",
+      "La lista della spesa"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "In che secolo cade l'anno 1169? (variante 209)",
+    "options": [
+      "12° secolo",
+      "11° secolo",
+      "14° secolo",
+      "13° secolo"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "In che secolo cade l'anno 1635? (variante 35)",
+    "options": [
+      "16° secolo",
+      "19° secolo",
+      "18° secolo",
+      "17° secolo"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Storia (variante 142): che cosa descrive una cronologia?",
+    "options": [
+      "La lista della spesa",
+      "L'ordine temporale degli eventi",
+      "La geografia di un luogo",
+      "La chimica degli elementi"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "In che secolo cade l'anno 1229? (variante 232)",
+    "options": [
+      "12° secolo",
+      "13° secolo",
+      "14° secolo",
+      "15° secolo"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "In che secolo cade l'anno 1648? (variante 225)",
+    "options": [
+      "18° secolo",
+      "19° secolo",
+      "16° secolo",
+      "17° secolo"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "In che secolo cade l'anno 1559? (variante 80)",
+    "options": [
+      "16° secolo",
+      "15° secolo",
+      "17° secolo",
+      "18° secolo"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Storia (variante 161): che cosa descrive una cronologia?",
+    "options": [
+      "La geografia di un luogo",
+      "L'ordine temporale degli eventi",
+      "La chimica degli elementi",
+      "La lista della spesa"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "In che secolo cade l'anno 1626? (variante 55)",
+    "options": [
+      "18° secolo",
+      "17° secolo",
+      "19° secolo",
+      "16° secolo"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Storia (variante 199): che cosa descrive una cronologia?",
+    "options": [
+      "La chimica degli elementi",
+      "La lista della spesa",
+      "La geografia di un luogo",
+      "L'ordine temporale degli eventi"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "In che secolo cade l'anno 1560? (variante 149)",
+    "options": [
+      "15° secolo",
+      "17° secolo",
+      "18° secolo",
+      "16° secolo"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "In che secolo cade l'anno 1937? (variante 39)",
+    "options": [
+      "19° secolo",
+      "22° secolo",
+      "20° secolo",
+      "21° secolo"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "In che secolo cade l'anno 1663? (variante 165)",
+    "options": [
+      "19° secolo",
+      "16° secolo",
+      "17° secolo",
+      "18° secolo"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Storia (variante 216): che cosa descrive una cronologia?",
+    "options": [
+      "L'ordine temporale degli eventi",
+      "La chimica degli elementi",
+      "La lista della spesa",
+      "La geografia di un luogo"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Storia (variante 162): che cosa descrive una cronologia?",
+    "options": [
+      "L'ordine temporale degli eventi",
+      "La chimica degli elementi",
+      "La lista della spesa",
+      "La geografia di un luogo"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "In che secolo cade l'anno 1033? (variante 139)",
+    "options": [
+      "11° secolo",
+      "13° secolo",
+      "10° secolo",
+      "12° secolo"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Storia (variante 138): che cosa descrive una cronologia?",
+    "options": [
+      "La lista della spesa",
+      "La geografia di un luogo",
+      "La chimica degli elementi",
+      "L'ordine temporale degli eventi"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Storia (variante 90): che cosa descrive una cronologia?",
+    "options": [
+      "L'ordine temporale degli eventi",
+      "La lista della spesa",
+      "La geografia di un luogo",
+      "La chimica degli elementi"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "In che secolo cade l'anno 1616? (variante 36)",
+    "options": [
+      "17° secolo",
+      "18° secolo",
+      "19° secolo",
+      "16° secolo"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Storia (variante 209): che cosa descrive una cronologia?",
+    "options": [
+      "L'ordine temporale degli eventi",
+      "La lista della spesa",
+      "La chimica degli elementi",
+      "La geografia di un luogo"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "In che secolo cade l'anno 1700? (variante 205)",
+    "options": [
+      "16° secolo",
+      "19° secolo",
+      "18° secolo",
+      "17° secolo"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "In che secolo cade l'anno 895? (variante 170)",
+    "options": [
+      "8° secolo",
+      "11° secolo",
+      "10° secolo",
+      "9° secolo"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Storia (variante 114): che cosa descrive una cronologia?",
+    "options": [
+      "L'ordine temporale degli eventi",
+      "La lista della spesa",
+      "La geografia di un luogo",
+      "La chimica degli elementi"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "In che secolo cade l'anno 851? (variante 238)",
+    "options": [
+      "11° secolo",
+      "10° secolo",
+      "9° secolo",
+      "8° secolo"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Storia (variante 57): che cosa descrive una cronologia?",
+    "options": [
+      "La geografia di un luogo",
+      "La lista della spesa",
+      "La chimica degli elementi",
+      "L'ordine temporale degli eventi"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "In che secolo cade l'anno 1652? (variante 16)",
+    "options": [
+      "17° secolo",
+      "16° secolo",
+      "18° secolo",
+      "19° secolo"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "In che secolo cade l'anno 1858? (variante 50)",
+    "options": [
+      "19° secolo",
+      "20° secolo",
+      "21° secolo",
+      "18° secolo"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "In che secolo cade l'anno 1198? (variante 68)",
+    "options": [
+      "14° secolo",
+      "11° secolo",
+      "13° secolo",
+      "12° secolo"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "In che secolo cade l'anno 917? (variante 235)",
+    "options": [
+      "10° secolo",
+      "9° secolo",
+      "11° secolo",
+      "12° secolo"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "In che secolo cade l'anno 1862? (variante 239)",
+    "options": [
+      "21° secolo",
+      "19° secolo",
+      "18° secolo",
+      "20° secolo"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Storia (variante 181): che cosa descrive una cronologia?",
+    "options": [
+      "La lista della spesa",
+      "L'ordine temporale degli eventi",
+      "La chimica degli elementi",
+      "La geografia di un luogo"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "In che secolo cade l'anno 1419? (variante 18)",
+    "options": [
+      "15° secolo",
+      "17° secolo",
+      "14° secolo",
+      "16° secolo"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "In che secolo cade l'anno 815? (variante 40)",
+    "options": [
+      "9° secolo",
+      "10° secolo",
+      "11° secolo",
+      "8° secolo"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Storia (variante 158): che cosa descrive una cronologia?",
+    "options": [
+      "La chimica degli elementi",
+      "La lista della spesa",
+      "L'ordine temporale degli eventi",
+      "La geografia di un luogo"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Storia (variante 104): che cosa descrive una cronologia?",
+    "options": [
+      "La lista della spesa",
+      "La geografia di un luogo",
+      "L'ordine temporale degli eventi",
+      "La chimica degli elementi"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Storia (variante 129): che cosa descrive una cronologia?",
+    "options": [
+      "La chimica degli elementi",
+      "La geografia di un luogo",
+      "La lista della spesa",
+      "L'ordine temporale degli eventi"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "In che secolo cade l'anno 1760? (variante 87)",
+    "options": [
+      "20° secolo",
+      "19° secolo",
+      "17° secolo",
+      "18° secolo"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Storia (variante 176): che cosa descrive una cronologia?",
+    "options": [
+      "La chimica degli elementi",
+      "La geografia di un luogo",
+      "La lista della spesa",
+      "L'ordine temporale degli eventi"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "In che secolo cade l'anno 803? (variante 233)",
+    "options": [
+      "10° secolo",
+      "9° secolo",
+      "8° secolo",
+      "11° secolo"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Storia (variante 207): che cosa descrive una cronologia?",
+    "options": [
+      "La chimica degli elementi",
+      "La lista della spesa",
+      "La geografia di un luogo",
+      "L'ordine temporale degli eventi"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "In che secolo cade l'anno 1813? (variante 150)",
+    "options": [
+      "19° secolo",
+      "21° secolo",
+      "18° secolo",
+      "20° secolo"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Storia (variante 177): che cosa descrive una cronologia?",
+    "options": [
+      "La geografia di un luogo",
+      "L'ordine temporale degli eventi",
+      "La lista della spesa",
+      "La chimica degli elementi"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "In che secolo cade l'anno 1677? (variante 58)",
+    "options": [
+      "18° secolo",
+      "19° secolo",
+      "16° secolo",
+      "17° secolo"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Storia (variante 185): che cosa descrive una cronologia?",
+    "options": [
+      "La chimica degli elementi",
+      "La lista della spesa",
+      "L'ordine temporale degli eventi",
+      "La geografia di un luogo"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "In che secolo cade l'anno 1886? (variante 133)",
+    "options": [
+      "21° secolo",
+      "19° secolo",
+      "18° secolo",
+      "20° secolo"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Storia (variante 180): che cosa descrive una cronologia?",
+    "options": [
+      "La geografia di un luogo",
+      "L'ordine temporale degli eventi",
+      "La chimica degli elementi",
+      "La lista della spesa"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Storia (variante 64): che cosa descrive una cronologia?",
+    "options": [
+      "La geografia di un luogo",
+      "L'ordine temporale degli eventi",
+      "La lista della spesa",
+      "La chimica degli elementi"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Storia (variante 8): che cosa descrive una cronologia?",
+    "options": [
+      "La chimica degli elementi",
+      "L'ordine temporale degli eventi",
+      "La geografia di un luogo",
+      "La lista della spesa"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "In che secolo cade l'anno 844? (variante 21)",
+    "options": [
+      "9° secolo",
+      "8° secolo",
+      "10° secolo",
+      "11° secolo"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "In che secolo cade l'anno 1608? (variante 93)",
+    "options": [
+      "17° secolo",
+      "16° secolo",
+      "19° secolo",
+      "18° secolo"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Storia (variante 63): che cosa descrive una cronologia?",
+    "options": [
+      "L'ordine temporale degli eventi",
+      "La chimica degli elementi",
+      "La geografia di un luogo",
+      "La lista della spesa"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "In che secolo cade l'anno 1291? (variante 215)",
+    "options": [
+      "14° secolo",
+      "12° secolo",
+      "15° secolo",
+      "13° secolo"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Storia (variante 144): che cosa descrive una cronologia?",
+    "options": [
+      "La lista della spesa",
+      "La chimica degli elementi",
+      "L'ordine temporale degli eventi",
+      "La geografia di un luogo"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Storia (variante 77): che cosa descrive una cronologia?",
+    "options": [
+      "La chimica degli elementi",
+      "La lista della spesa",
+      "La geografia di un luogo",
+      "L'ordine temporale degli eventi"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Storia (variante 112): che cosa descrive una cronologia?",
+    "options": [
+      "La lista della spesa",
+      "L'ordine temporale degli eventi",
+      "La chimica degli elementi",
+      "La geografia di un luogo"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Storia (variante 111): che cosa descrive una cronologia?",
+    "options": [
+      "La chimica degli elementi",
+      "L'ordine temporale degli eventi",
+      "La geografia di un luogo",
+      "La lista della spesa"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Storia (variante 193): che cosa descrive una cronologia?",
+    "options": [
+      "La geografia di un luogo",
+      "La lista della spesa",
+      "L'ordine temporale degli eventi",
+      "La chimica degli elementi"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Storia (variante 36): che cosa descrive una cronologia?",
+    "options": [
+      "La chimica degli elementi",
+      "La lista della spesa",
+      "La geografia di un luogo",
+      "L'ordine temporale degli eventi"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "In che secolo cade l'anno 1934? (variante 107)",
+    "options": [
+      "20° secolo",
+      "19° secolo",
+      "22° secolo",
+      "21° secolo"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Storia (variante 107): che cosa descrive una cronologia?",
+    "options": [
+      "La geografia di un luogo",
+      "La lista della spesa",
+      "L'ordine temporale degli eventi",
+      "La chimica degli elementi"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "In che secolo cade l'anno 1816? (variante 214)",
+    "options": [
+      "19° secolo",
+      "21° secolo",
+      "18° secolo",
+      "20° secolo"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "In che secolo cade l'anno 1788? (variante 52)",
+    "options": [
+      "18° secolo",
+      "19° secolo",
+      "17° secolo",
+      "20° secolo"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "In che secolo cade l'anno 1266? (variante 181)",
+    "options": [
+      "12° secolo",
+      "13° secolo",
+      "15° secolo",
+      "14° secolo"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "In che secolo cade l'anno 1298? (variante 75)",
+    "options": [
+      "14° secolo",
+      "15° secolo",
+      "12° secolo",
+      "13° secolo"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Storia (variante 58): che cosa descrive una cronologia?",
+    "options": [
+      "La lista della spesa",
+      "L'ordine temporale degli eventi",
+      "La chimica degli elementi",
+      "La geografia di un luogo"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "In che secolo cade l'anno 970? (variante 43)",
+    "options": [
+      "10° secolo",
+      "12° secolo",
+      "11° secolo",
+      "9° secolo"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Storia (variante 39): che cosa descrive una cronologia?",
+    "options": [
+      "La lista della spesa",
+      "La chimica degli elementi",
+      "L'ordine temporale degli eventi",
+      "La geografia di un luogo"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "In che secolo cade l'anno 1409? (variante 44)",
+    "options": [
+      "16° secolo",
+      "14° secolo",
+      "17° secolo",
+      "15° secolo"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "In che secolo cade l'anno 1440? (variante 74)",
+    "options": [
+      "15° secolo",
+      "16° secolo",
+      "17° secolo",
+      "14° secolo"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Storia (variante 69): che cosa descrive una cronologia?",
+    "options": [
+      "La lista della spesa",
+      "La chimica degli elementi",
+      "L'ordine temporale degli eventi",
+      "La geografia di un luogo"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Storia (variante 132): che cosa descrive una cronologia?",
+    "options": [
+      "L'ordine temporale degli eventi",
+      "La lista della spesa",
+      "La geografia di un luogo",
+      "La chimica degli elementi"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "In che secolo cade l'anno 1365? (variante 22)",
+    "options": [
+      "15° secolo",
+      "14° secolo",
+      "13° secolo",
+      "16° secolo"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "In che secolo cade l'anno 921? (variante 142)",
+    "options": [
+      "12° secolo",
+      "11° secolo",
+      "9° secolo",
+      "10° secolo"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Storia (variante 178): che cosa descrive una cronologia?",
+    "options": [
+      "L'ordine temporale degli eventi",
+      "La lista della spesa",
+      "La geografia di un luogo",
+      "La chimica degli elementi"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "In che secolo cade l'anno 1142? (variante 59)",
+    "options": [
+      "12° secolo",
+      "14° secolo",
+      "11° secolo",
+      "13° secolo"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Storia (variante 82): che cosa descrive una cronologia?",
+    "options": [
+      "La chimica degli elementi",
+      "La lista della spesa",
+      "L'ordine temporale degli eventi",
+      "La geografia di un luogo"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Storia (variante 34): che cosa descrive una cronologia?",
+    "options": [
+      "L'ordine temporale degli eventi",
+      "La geografia di un luogo",
+      "La chimica degli elementi",
+      "La lista della spesa"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "In che secolo cade l'anno 1463? (variante 140)",
+    "options": [
+      "15° secolo",
+      "17° secolo",
+      "16° secolo",
+      "14° secolo"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Storia (variante 126): che cosa descrive una cronologia?",
+    "options": [
+      "La lista della spesa",
+      "La geografia di un luogo",
+      "La chimica degli elementi",
+      "L'ordine temporale degli eventi"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "In che secolo cade l'anno 1801? (variante 47)",
+    "options": [
+      "20° secolo",
+      "21° secolo",
+      "19° secolo",
+      "18° secolo"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Storia (variante 183): che cosa descrive una cronologia?",
+    "options": [
+      "La geografia di un luogo",
+      "L'ordine temporale degli eventi",
+      "La chimica degli elementi",
+      "La lista della spesa"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Storia (variante 73): che cosa descrive una cronologia?",
+    "options": [
+      "L'ordine temporale degli eventi",
+      "La geografia di un luogo",
+      "La lista della spesa",
+      "La chimica degli elementi"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Storia (variante 98): che cosa descrive una cronologia?",
+    "options": [
+      "La geografia di un luogo",
+      "L'ordine temporale degli eventi",
+      "La lista della spesa",
+      "La chimica degli elementi"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "In che secolo cade l'anno 980? (variante 159)",
+    "options": [
+      "12° secolo",
+      "9° secolo",
+      "10° secolo",
+      "11° secolo"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  }
+]

@@ -1,0 +1,3302 @@
+[
+  {
+    "q": "Quale organo pompa il sangue? (variante 112)",
+    "options": [
+      "Cuore",
+      "Cervello",
+      "Polmoni",
+      "Pancreas"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Quale organo pompa il sangue? (variante 245)",
+    "options": [
+      "Polmoni",
+      "Pancreas",
+      "Cervello",
+      "Cuore"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è l'organo principale della respirazione? (variante 479)",
+    "options": [
+      "Stomaco",
+      "Fegato",
+      "Reni",
+      "Polmoni"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la funzione dei reni? (variante 189)",
+    "options": [
+      "Produrre bile",
+      "Pompare sangue",
+      "Digerire proteine",
+      "Filtrare il sangue e produrre urina"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Dove avviene principalmente la digestione? (variante 36)",
+    "options": [
+      "Ossa",
+      "Intestino tenue",
+      "Polmoni",
+      "Pelle"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Dove avviene principalmente la digestione? (variante 53)",
+    "options": [
+      "Pelle",
+      "Intestino tenue",
+      "Ossa",
+      "Polmoni"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la funzione dei reni? (variante 464)",
+    "options": [
+      "Produrre bile",
+      "Filtrare il sangue e produrre urina",
+      "Pompare sangue",
+      "Digerire proteine"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è l'organo principale della respirazione? (variante 52)",
+    "options": [
+      "Stomaco",
+      "Polmoni",
+      "Fegato",
+      "Reni"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Quale organo pompa il sangue? (variante 190)",
+    "options": [
+      "Cuore",
+      "Pancreas",
+      "Polmoni",
+      "Cervello"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Quale organo pompa il sangue? (variante 181)",
+    "options": [
+      "Polmoni",
+      "Pancreas",
+      "Cuore",
+      "Cervello"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Dove avviene principalmente la digestione? (variante 452)",
+    "options": [
+      "Polmoni",
+      "Ossa",
+      "Pelle",
+      "Intestino tenue"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la funzione dei reni? (variante 295)",
+    "options": [
+      "Pompare sangue",
+      "Produrre bile",
+      "Digerire proteine",
+      "Filtrare il sangue e produrre urina"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la funzione dei reni? (variante 17)",
+    "options": [
+      "Pompare sangue",
+      "Digerire proteine",
+      "Produrre bile",
+      "Filtrare il sangue e produrre urina"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la funzione dei reni? (variante 45)",
+    "options": [
+      "Pompare sangue",
+      "Digerire proteine",
+      "Filtrare il sangue e produrre urina",
+      "Produrre bile"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è l'organo principale della respirazione? (variante 363)",
+    "options": [
+      "Stomaco",
+      "Fegato",
+      "Reni",
+      "Polmoni"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è l'organo principale della respirazione? (variante 460)",
+    "options": [
+      "Polmoni",
+      "Fegato",
+      "Reni",
+      "Stomaco"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Quale organo pompa il sangue? (variante 396)",
+    "options": [
+      "Pancreas",
+      "Polmoni",
+      "Cervello",
+      "Cuore"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la funzione dei reni? (variante 254)",
+    "options": [
+      "Pompare sangue",
+      "Produrre bile",
+      "Filtrare il sangue e produrre urina",
+      "Digerire proteine"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Quale organo pompa il sangue? (variante 298)",
+    "options": [
+      "Cervello",
+      "Pancreas",
+      "Cuore",
+      "Polmoni"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la funzione dei reni? (variante 320)",
+    "options": [
+      "Digerire proteine",
+      "Produrre bile",
+      "Filtrare il sangue e produrre urina",
+      "Pompare sangue"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Quale organo pompa il sangue? (variante 202)",
+    "options": [
+      "Cervello",
+      "Polmoni",
+      "Cuore",
+      "Pancreas"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Quale organo pompa il sangue? (variante 60)",
+    "options": [
+      "Cervello",
+      "Pancreas",
+      "Polmoni",
+      "Cuore"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la funzione dei reni? (variante 291)",
+    "options": [
+      "Digerire proteine",
+      "Produrre bile",
+      "Pompare sangue",
+      "Filtrare il sangue e produrre urina"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è l'organo principale della respirazione? (variante 226)",
+    "options": [
+      "Fegato",
+      "Stomaco",
+      "Reni",
+      "Polmoni"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Quale organo pompa il sangue? (variante 314)",
+    "options": [
+      "Cuore",
+      "Pancreas",
+      "Cervello",
+      "Polmoni"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Quale organo pompa il sangue? (variante 262)",
+    "options": [
+      "Polmoni",
+      "Pancreas",
+      "Cervello",
+      "Cuore"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Quale organo pompa il sangue? (variante 139)",
+    "options": [
+      "Polmoni",
+      "Pancreas",
+      "Cuore",
+      "Cervello"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la funzione dei reni? (variante 278)",
+    "options": [
+      "Produrre bile",
+      "Digerire proteine",
+      "Filtrare il sangue e produrre urina",
+      "Pompare sangue"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Quale organo pompa il sangue? (variante 166)",
+    "options": [
+      "Pancreas",
+      "Polmoni",
+      "Cervello",
+      "Cuore"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è l'organo principale della respirazione? (variante 356)",
+    "options": [
+      "Reni",
+      "Polmoni",
+      "Stomaco",
+      "Fegato"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Dove avviene principalmente la digestione? (variante 483)",
+    "options": [
+      "Ossa",
+      "Intestino tenue",
+      "Polmoni",
+      "Pelle"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Dove avviene principalmente la digestione? (variante 259)",
+    "options": [
+      "Pelle",
+      "Polmoni",
+      "Ossa",
+      "Intestino tenue"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Dove avviene principalmente la digestione? (variante 167)",
+    "options": [
+      "Pelle",
+      "Intestino tenue",
+      "Polmoni",
+      "Ossa"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è l'organo principale della respirazione? (variante 462)",
+    "options": [
+      "Stomaco",
+      "Polmoni",
+      "Reni",
+      "Fegato"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è l'organo principale della respirazione? (variante 444)",
+    "options": [
+      "Polmoni",
+      "Reni",
+      "Stomaco",
+      "Fegato"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Quale organo pompa il sangue? (variante 492)",
+    "options": [
+      "Pancreas",
+      "Cervello",
+      "Polmoni",
+      "Cuore"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Dove avviene principalmente la digestione? (variante 465)",
+    "options": [
+      "Pelle",
+      "Ossa",
+      "Intestino tenue",
+      "Polmoni"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Quale organo pompa il sangue? (variante 334)",
+    "options": [
+      "Pancreas",
+      "Cuore",
+      "Cervello",
+      "Polmoni"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è l'organo principale della respirazione? (variante 318)",
+    "options": [
+      "Reni",
+      "Fegato",
+      "Polmoni",
+      "Stomaco"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la funzione dei reni? (variante 198)",
+    "options": [
+      "Produrre bile",
+      "Digerire proteine",
+      "Filtrare il sangue e produrre urina",
+      "Pompare sangue"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Quale organo pompa il sangue? (variante 204)",
+    "options": [
+      "Cervello",
+      "Pancreas",
+      "Polmoni",
+      "Cuore"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Quale organo pompa il sangue? (variante 455)",
+    "options": [
+      "Pancreas",
+      "Cervello",
+      "Polmoni",
+      "Cuore"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è l'organo principale della respirazione? (variante 39)",
+    "options": [
+      "Reni",
+      "Polmoni",
+      "Stomaco",
+      "Fegato"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Quale organo pompa il sangue? (variante 353)",
+    "options": [
+      "Cuore",
+      "Polmoni",
+      "Cervello",
+      "Pancreas"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la funzione dei reni? (variante 485)",
+    "options": [
+      "Digerire proteine",
+      "Produrre bile",
+      "Pompare sangue",
+      "Filtrare il sangue e produrre urina"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la funzione dei reni? (variante 362)",
+    "options": [
+      "Filtrare il sangue e produrre urina",
+      "Digerire proteine",
+      "Produrre bile",
+      "Pompare sangue"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Dove avviene principalmente la digestione? (variante 148)",
+    "options": [
+      "Ossa",
+      "Intestino tenue",
+      "Polmoni",
+      "Pelle"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Quale organo pompa il sangue? (variante 85)",
+    "options": [
+      "Pancreas",
+      "Polmoni",
+      "Cuore",
+      "Cervello"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è l'organo principale della respirazione? (variante 413)",
+    "options": [
+      "Reni",
+      "Fegato",
+      "Polmoni",
+      "Stomaco"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Dove avviene principalmente la digestione? (variante 260)",
+    "options": [
+      "Ossa",
+      "Pelle",
+      "Polmoni",
+      "Intestino tenue"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Dove avviene principalmente la digestione? (variante 118)",
+    "options": [
+      "Pelle",
+      "Polmoni",
+      "Intestino tenue",
+      "Ossa"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Quale organo pompa il sangue? (variante 102)",
+    "options": [
+      "Polmoni",
+      "Cervello",
+      "Cuore",
+      "Pancreas"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Dove avviene principalmente la digestione? (variante 333)",
+    "options": [
+      "Intestino tenue",
+      "Ossa",
+      "Polmoni",
+      "Pelle"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Dove avviene principalmente la digestione? (variante 108)",
+    "options": [
+      "Pelle",
+      "Ossa",
+      "Intestino tenue",
+      "Polmoni"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Dove avviene principalmente la digestione? (variante 315)",
+    "options": [
+      "Pelle",
+      "Intestino tenue",
+      "Ossa",
+      "Polmoni"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la funzione dei reni? (variante 360)",
+    "options": [
+      "Pompare sangue",
+      "Produrre bile",
+      "Filtrare il sangue e produrre urina",
+      "Digerire proteine"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è l'organo principale della respirazione? (variante 162)",
+    "options": [
+      "Reni",
+      "Polmoni",
+      "Stomaco",
+      "Fegato"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Dove avviene principalmente la digestione? (variante 477)",
+    "options": [
+      "Pelle",
+      "Intestino tenue",
+      "Ossa",
+      "Polmoni"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Quale organo pompa il sangue? (variante 484)",
+    "options": [
+      "Cuore",
+      "Polmoni",
+      "Pancreas",
+      "Cervello"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la funzione dei reni? (variante 405)",
+    "options": [
+      "Produrre bile",
+      "Digerire proteine",
+      "Filtrare il sangue e produrre urina",
+      "Pompare sangue"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è l'organo principale della respirazione? (variante 155)",
+    "options": [
+      "Fegato",
+      "Stomaco",
+      "Polmoni",
+      "Reni"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Quale organo pompa il sangue? (variante 88)",
+    "options": [
+      "Polmoni",
+      "Pancreas",
+      "Cervello",
+      "Cuore"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è l'organo principale della respirazione? (variante 97)",
+    "options": [
+      "Stomaco",
+      "Fegato",
+      "Reni",
+      "Polmoni"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è l'organo principale della respirazione? (variante 280)",
+    "options": [
+      "Reni",
+      "Stomaco",
+      "Fegato",
+      "Polmoni"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Dove avviene principalmente la digestione? (variante 366)",
+    "options": [
+      "Ossa",
+      "Polmoni",
+      "Pelle",
+      "Intestino tenue"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Quale organo pompa il sangue? (variante 212)",
+    "options": [
+      "Pancreas",
+      "Cervello",
+      "Cuore",
+      "Polmoni"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Dove avviene principalmente la digestione? (variante 274)",
+    "options": [
+      "Pelle",
+      "Polmoni",
+      "Intestino tenue",
+      "Ossa"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la funzione dei reni? (variante 51)",
+    "options": [
+      "Filtrare il sangue e produrre urina",
+      "Pompare sangue",
+      "Produrre bile",
+      "Digerire proteine"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Dove avviene principalmente la digestione? (variante 491)",
+    "options": [
+      "Polmoni",
+      "Ossa",
+      "Intestino tenue",
+      "Pelle"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Quale organo pompa il sangue? (variante 33)",
+    "options": [
+      "Cuore",
+      "Pancreas",
+      "Polmoni",
+      "Cervello"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Dove avviene principalmente la digestione? (variante 50)",
+    "options": [
+      "Polmoni",
+      "Intestino tenue",
+      "Pelle",
+      "Ossa"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Dove avviene principalmente la digestione? (variante 161)",
+    "options": [
+      "Polmoni",
+      "Ossa",
+      "Pelle",
+      "Intestino tenue"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è l'organo principale della respirazione? (variante 172)",
+    "options": [
+      "Fegato",
+      "Reni",
+      "Stomaco",
+      "Polmoni"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Quale organo pompa il sangue? (variante 229)",
+    "options": [
+      "Cervello",
+      "Pancreas",
+      "Cuore",
+      "Polmoni"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Dove avviene principalmente la digestione? (variante 83)",
+    "options": [
+      "Ossa",
+      "Pelle",
+      "Intestino tenue",
+      "Polmoni"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la funzione dei reni? (variante 424)",
+    "options": [
+      "Produrre bile",
+      "Pompare sangue",
+      "Digerire proteine",
+      "Filtrare il sangue e produrre urina"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la funzione dei reni? (variante 328)",
+    "options": [
+      "Digerire proteine",
+      "Produrre bile",
+      "Pompare sangue",
+      "Filtrare il sangue e produrre urina"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è l'organo principale della respirazione? (variante 345)",
+    "options": [
+      "Polmoni",
+      "Reni",
+      "Fegato",
+      "Stomaco"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Quale organo pompa il sangue? (variante 182)",
+    "options": [
+      "Cervello",
+      "Pancreas",
+      "Polmoni",
+      "Cuore"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è l'organo principale della respirazione? (variante 230)",
+    "options": [
+      "Fegato",
+      "Reni",
+      "Stomaco",
+      "Polmoni"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la funzione dei reni? (variante 99)",
+    "options": [
+      "Produrre bile",
+      "Digerire proteine",
+      "Pompare sangue",
+      "Filtrare il sangue e produrre urina"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la funzione dei reni? (variante 435)",
+    "options": [
+      "Pompare sangue",
+      "Produrre bile",
+      "Digerire proteine",
+      "Filtrare il sangue e produrre urina"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è l'organo principale della respirazione? (variante 253)",
+    "options": [
+      "Polmoni",
+      "Stomaco",
+      "Fegato",
+      "Reni"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Dove avviene principalmente la digestione? (variante 128)",
+    "options": [
+      "Ossa",
+      "Intestino tenue",
+      "Pelle",
+      "Polmoni"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è l'organo principale della respirazione? (variante 236)",
+    "options": [
+      "Stomaco",
+      "Fegato",
+      "Polmoni",
+      "Reni"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Dove avviene principalmente la digestione? (variante 337)",
+    "options": [
+      "Intestino tenue",
+      "Polmoni",
+      "Pelle",
+      "Ossa"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Dove avviene principalmente la digestione? (variante 316)",
+    "options": [
+      "Intestino tenue",
+      "Ossa",
+      "Polmoni",
+      "Pelle"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Quale organo pompa il sangue? (variante 103)",
+    "options": [
+      "Cervello",
+      "Cuore",
+      "Polmoni",
+      "Pancreas"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la funzione dei reni? (variante 415)",
+    "options": [
+      "Digerire proteine",
+      "Filtrare il sangue e produrre urina",
+      "Pompare sangue",
+      "Produrre bile"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Quale organo pompa il sangue? (variante 294)",
+    "options": [
+      "Pancreas",
+      "Cuore",
+      "Polmoni",
+      "Cervello"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Quale organo pompa il sangue? (variante 100)",
+    "options": [
+      "Polmoni",
+      "Cervello",
+      "Pancreas",
+      "Cuore"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Dove avviene principalmente la digestione? (variante 241)",
+    "options": [
+      "Pelle",
+      "Intestino tenue",
+      "Ossa",
+      "Polmoni"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la funzione dei reni? (variante 156)",
+    "options": [
+      "Produrre bile",
+      "Pompare sangue",
+      "Filtrare il sangue e produrre urina",
+      "Digerire proteine"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Quale organo pompa il sangue? (variante 176)",
+    "options": [
+      "Cuore",
+      "Polmoni",
+      "Pancreas",
+      "Cervello"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Dove avviene principalmente la digestione? (variante 124)",
+    "options": [
+      "Intestino tenue",
+      "Ossa",
+      "Pelle",
+      "Polmoni"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è l'organo principale della respirazione? (variante 389)",
+    "options": [
+      "Reni",
+      "Stomaco",
+      "Polmoni",
+      "Fegato"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Dove avviene principalmente la digestione? (variante 440)",
+    "options": [
+      "Intestino tenue",
+      "Polmoni",
+      "Ossa",
+      "Pelle"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la funzione dei reni? (variante 227)",
+    "options": [
+      "Pompare sangue",
+      "Digerire proteine",
+      "Filtrare il sangue e produrre urina",
+      "Produrre bile"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Dove avviene principalmente la digestione? (variante 468)",
+    "options": [
+      "Pelle",
+      "Polmoni",
+      "Intestino tenue",
+      "Ossa"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è l'organo principale della respirazione? (variante 249)",
+    "options": [
+      "Polmoni",
+      "Fegato",
+      "Stomaco",
+      "Reni"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Quale organo pompa il sangue? (variante 96)",
+    "options": [
+      "Cervello",
+      "Cuore",
+      "Polmoni",
+      "Pancreas"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Dove avviene principalmente la digestione? (variante 47)",
+    "options": [
+      "Pelle",
+      "Intestino tenue",
+      "Ossa",
+      "Polmoni"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è l'organo principale della respirazione? (variante 394)",
+    "options": [
+      "Reni",
+      "Polmoni",
+      "Fegato",
+      "Stomaco"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la funzione dei reni? (variante 361)",
+    "options": [
+      "Pompare sangue",
+      "Filtrare il sangue e produrre urina",
+      "Produrre bile",
+      "Digerire proteine"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Dove avviene principalmente la digestione? (variante 355)",
+    "options": [
+      "Polmoni",
+      "Intestino tenue",
+      "Ossa",
+      "Pelle"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è l'organo principale della respirazione? (variante 268)",
+    "options": [
+      "Stomaco",
+      "Polmoni",
+      "Fegato",
+      "Reni"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la funzione dei reni? (variante 499)",
+    "options": [
+      "Pompare sangue",
+      "Digerire proteine",
+      "Filtrare il sangue e produrre urina",
+      "Produrre bile"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Quale organo pompa il sangue? (variante 157)",
+    "options": [
+      "Cuore",
+      "Cervello",
+      "Pancreas",
+      "Polmoni"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Quale organo pompa il sangue? (variante 71)",
+    "options": [
+      "Polmoni",
+      "Cervello",
+      "Pancreas",
+      "Cuore"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Dove avviene principalmente la digestione? (variante 183)",
+    "options": [
+      "Polmoni",
+      "Intestino tenue",
+      "Pelle",
+      "Ossa"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è l'organo principale della respirazione? (variante 217)",
+    "options": [
+      "Stomaco",
+      "Polmoni",
+      "Reni",
+      "Fegato"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Quale organo pompa il sangue? (variante 352)",
+    "options": [
+      "Cervello",
+      "Pancreas",
+      "Polmoni",
+      "Cuore"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è l'organo principale della respirazione? (variante 364)",
+    "options": [
+      "Fegato",
+      "Stomaco",
+      "Polmoni",
+      "Reni"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è l'organo principale della respirazione? (variante 86)",
+    "options": [
+      "Reni",
+      "Fegato",
+      "Polmoni",
+      "Stomaco"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è l'organo principale della respirazione? (variante 42)",
+    "options": [
+      "Stomaco",
+      "Reni",
+      "Polmoni",
+      "Fegato"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Dove avviene principalmente la digestione? (variante 2)",
+    "options": [
+      "Pelle",
+      "Ossa",
+      "Intestino tenue",
+      "Polmoni"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Dove avviene principalmente la digestione? (variante 350)",
+    "options": [
+      "Ossa",
+      "Pelle",
+      "Polmoni",
+      "Intestino tenue"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Quale organo pompa il sangue? (variante 240)",
+    "options": [
+      "Cervello",
+      "Cuore",
+      "Polmoni",
+      "Pancreas"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Dove avviene principalmente la digestione? (variante 199)",
+    "options": [
+      "Intestino tenue",
+      "Polmoni",
+      "Ossa",
+      "Pelle"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Quale organo pompa il sangue? (variante 145)",
+    "options": [
+      "Cervello",
+      "Pancreas",
+      "Cuore",
+      "Polmoni"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Dove avviene principalmente la digestione? (variante 120)",
+    "options": [
+      "Polmoni",
+      "Pelle",
+      "Intestino tenue",
+      "Ossa"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Quale organo pompa il sangue? (variante 425)",
+    "options": [
+      "Cuore",
+      "Polmoni",
+      "Pancreas",
+      "Cervello"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la funzione dei reni? (variante 49)",
+    "options": [
+      "Produrre bile",
+      "Filtrare il sangue e produrre urina",
+      "Pompare sangue",
+      "Digerire proteine"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la funzione dei reni? (variante 449)",
+    "options": [
+      "Digerire proteine",
+      "Filtrare il sangue e produrre urina",
+      "Produrre bile",
+      "Pompare sangue"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è l'organo principale della respirazione? (variante 403)",
+    "options": [
+      "Reni",
+      "Fegato",
+      "Polmoni",
+      "Stomaco"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è l'organo principale della respirazione? (variante 215)",
+    "options": [
+      "Reni",
+      "Fegato",
+      "Polmoni",
+      "Stomaco"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la funzione dei reni? (variante 129)",
+    "options": [
+      "Filtrare il sangue e produrre urina",
+      "Digerire proteine",
+      "Pompare sangue",
+      "Produrre bile"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Quale organo pompa il sangue? (variante 296)",
+    "options": [
+      "Pancreas",
+      "Cervello",
+      "Polmoni",
+      "Cuore"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la funzione dei reni? (variante 379)",
+    "options": [
+      "Produrre bile",
+      "Digerire proteine",
+      "Filtrare il sangue e produrre urina",
+      "Pompare sangue"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Quale organo pompa il sangue? (variante 34)",
+    "options": [
+      "Pancreas",
+      "Cuore",
+      "Cervello",
+      "Polmoni"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Dove avviene principalmente la digestione? (variante 214)",
+    "options": [
+      "Intestino tenue",
+      "Polmoni",
+      "Ossa",
+      "Pelle"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Quale organo pompa il sangue? (variante 56)",
+    "options": [
+      "Polmoni",
+      "Cervello",
+      "Cuore",
+      "Pancreas"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Dove avviene principalmente la digestione? (variante 26)",
+    "options": [
+      "Ossa",
+      "Polmoni",
+      "Intestino tenue",
+      "Pelle"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la funzione dei reni? (variante 348)",
+    "options": [
+      "Pompare sangue",
+      "Produrre bile",
+      "Filtrare il sangue e produrre urina",
+      "Digerire proteine"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la funzione dei reni? (variante 237)",
+    "options": [
+      "Digerire proteine",
+      "Produrre bile",
+      "Pompare sangue",
+      "Filtrare il sangue e produrre urina"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Dove avviene principalmente la digestione? (variante 331)",
+    "options": [
+      "Polmoni",
+      "Intestino tenue",
+      "Pelle",
+      "Ossa"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è l'organo principale della respirazione? (variante 77)",
+    "options": [
+      "Reni",
+      "Polmoni",
+      "Stomaco",
+      "Fegato"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Quale organo pompa il sangue? (variante 252)",
+    "options": [
+      "Polmoni",
+      "Cuore",
+      "Pancreas",
+      "Cervello"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Dove avviene principalmente la digestione? (variante 513)",
+    "options": [
+      "Ossa",
+      "Pelle",
+      "Intestino tenue",
+      "Polmoni"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Quale organo pompa il sangue? (variante 76)",
+    "options": [
+      "Polmoni",
+      "Pancreas",
+      "Cuore",
+      "Cervello"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Dove avviene principalmente la digestione? (variante 292)",
+    "options": [
+      "Intestino tenue",
+      "Ossa",
+      "Polmoni",
+      "Pelle"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Quale organo pompa il sangue? (variante 428)",
+    "options": [
+      "Cervello",
+      "Cuore",
+      "Polmoni",
+      "Pancreas"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è l'organo principale della respirazione? (variante 371)",
+    "options": [
+      "Stomaco",
+      "Polmoni",
+      "Reni",
+      "Fegato"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la funzione dei reni? (variante 106)",
+    "options": [
+      "Filtrare il sangue e produrre urina",
+      "Digerire proteine",
+      "Produrre bile",
+      "Pompare sangue"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la funzione dei reni? (variante 293)",
+    "options": [
+      "Filtrare il sangue e produrre urina",
+      "Produrre bile",
+      "Digerire proteine",
+      "Pompare sangue"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Dove avviene principalmente la digestione? (variante 330)",
+    "options": [
+      "Polmoni",
+      "Intestino tenue",
+      "Pelle",
+      "Ossa"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la funzione dei reni? (variante 272)",
+    "options": [
+      "Digerire proteine",
+      "Produrre bile",
+      "Filtrare il sangue e produrre urina",
+      "Pompare sangue"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la funzione dei reni? (variante 467)",
+    "options": [
+      "Filtrare il sangue e produrre urina",
+      "Produrre bile",
+      "Pompare sangue",
+      "Digerire proteine"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Quale organo pompa il sangue? (variante 116)",
+    "options": [
+      "Cuore",
+      "Pancreas",
+      "Polmoni",
+      "Cervello"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Quale organo pompa il sangue? (variante 195)",
+    "options": [
+      "Cervello",
+      "Polmoni",
+      "Pancreas",
+      "Cuore"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Quale organo pompa il sangue? (variante 234)",
+    "options": [
+      "Polmoni",
+      "Cuore",
+      "Cervello",
+      "Pancreas"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Dove avviene principalmente la digestione? (variante 23)",
+    "options": [
+      "Polmoni",
+      "Ossa",
+      "Pelle",
+      "Intestino tenue"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Dove avviene principalmente la digestione? (variante 270)",
+    "options": [
+      "Ossa",
+      "Polmoni",
+      "Intestino tenue",
+      "Pelle"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la funzione dei reni? (variante 346)",
+    "options": [
+      "Produrre bile",
+      "Filtrare il sangue e produrre urina",
+      "Pompare sangue",
+      "Digerire proteine"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la funzione dei reni? (variante 289)",
+    "options": [
+      "Produrre bile",
+      "Pompare sangue",
+      "Filtrare il sangue e produrre urina",
+      "Digerire proteine"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è l'organo principale della respirazione? (variante 427)",
+    "options": [
+      "Fegato",
+      "Stomaco",
+      "Polmoni",
+      "Reni"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la funzione dei reni? (variante 408)",
+    "options": [
+      "Digerire proteine",
+      "Produrre bile",
+      "Pompare sangue",
+      "Filtrare il sangue e produrre urina"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è l'organo principale della respirazione? (variante 211)",
+    "options": [
+      "Fegato",
+      "Reni",
+      "Stomaco",
+      "Polmoni"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Dove avviene principalmente la digestione? (variante 104)",
+    "options": [
+      "Pelle",
+      "Ossa",
+      "Intestino tenue",
+      "Polmoni"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la funzione dei reni? (variante 313)",
+    "options": [
+      "Pompare sangue",
+      "Digerire proteine",
+      "Filtrare il sangue e produrre urina",
+      "Produrre bile"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Quale organo pompa il sangue? (variante 378)",
+    "options": [
+      "Cuore",
+      "Cervello",
+      "Polmoni",
+      "Pancreas"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Dove avviene principalmente la digestione? (variante 59)",
+    "options": [
+      "Intestino tenue",
+      "Ossa",
+      "Pelle",
+      "Polmoni"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Dove avviene principalmente la digestione? (variante 219)",
+    "options": [
+      "Intestino tenue",
+      "Ossa",
+      "Polmoni",
+      "Pelle"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è l'organo principale della respirazione? (variante 22)",
+    "options": [
+      "Reni",
+      "Stomaco",
+      "Fegato",
+      "Polmoni"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la funzione dei reni? (variante 500)",
+    "options": [
+      "Filtrare il sangue e produrre urina",
+      "Produrre bile",
+      "Digerire proteine",
+      "Pompare sangue"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Quale organo pompa il sangue? (variante 65)",
+    "options": [
+      "Pancreas",
+      "Polmoni",
+      "Cervello",
+      "Cuore"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Quale organo pompa il sangue? (variante 497)",
+    "options": [
+      "Cervello",
+      "Cuore",
+      "Pancreas",
+      "Polmoni"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Dove avviene principalmente la digestione? (variante 370)",
+    "options": [
+      "Ossa",
+      "Pelle",
+      "Polmoni",
+      "Intestino tenue"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Dove avviene principalmente la digestione? (variante 55)",
+    "options": [
+      "Ossa",
+      "Polmoni",
+      "Pelle",
+      "Intestino tenue"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è l'organo principale della respirazione? (variante 131)",
+    "options": [
+      "Stomaco",
+      "Reni",
+      "Polmoni",
+      "Fegato"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la funzione dei reni? (variante 143)",
+    "options": [
+      "Pompare sangue",
+      "Digerire proteine",
+      "Filtrare il sangue e produrre urina",
+      "Produrre bile"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la funzione dei reni? (variante 225)",
+    "options": [
+      "Filtrare il sangue e produrre urina",
+      "Pompare sangue",
+      "Produrre bile",
+      "Digerire proteine"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è l'organo principale della respirazione? (variante 69)",
+    "options": [
+      "Stomaco",
+      "Polmoni",
+      "Fegato",
+      "Reni"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Quale organo pompa il sangue? (variante 416)",
+    "options": [
+      "Polmoni",
+      "Cervello",
+      "Pancreas",
+      "Cuore"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è l'organo principale della respirazione? (variante 349)",
+    "options": [
+      "Fegato",
+      "Reni",
+      "Polmoni",
+      "Stomaco"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la funzione dei reni? (variante 437)",
+    "options": [
+      "Filtrare il sangue e produrre urina",
+      "Pompare sangue",
+      "Produrre bile",
+      "Digerire proteine"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è l'organo principale della respirazione? (variante 110)",
+    "options": [
+      "Stomaco",
+      "Polmoni",
+      "Fegato",
+      "Reni"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Dove avviene principalmente la digestione? (variante 160)",
+    "options": [
+      "Pelle",
+      "Intestino tenue",
+      "Polmoni",
+      "Ossa"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la funzione dei reni? (variante 127)",
+    "options": [
+      "Digerire proteine",
+      "Filtrare il sangue e produrre urina",
+      "Pompare sangue",
+      "Produrre bile"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è l'organo principale della respirazione? (variante 417)",
+    "options": [
+      "Polmoni",
+      "Reni",
+      "Fegato",
+      "Stomaco"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Dove avviene principalmente la digestione? (variante 312)",
+    "options": [
+      "Polmoni",
+      "Pelle",
+      "Ossa",
+      "Intestino tenue"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Dove avviene principalmente la digestione? (variante 20)",
+    "options": [
+      "Polmoni",
+      "Intestino tenue",
+      "Ossa",
+      "Pelle"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è l'organo principale della respirazione? (variante 439)",
+    "options": [
+      "Fegato",
+      "Reni",
+      "Stomaco",
+      "Polmoni"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la funzione dei reni? (variante 306)",
+    "options": [
+      "Produrre bile",
+      "Pompare sangue",
+      "Filtrare il sangue e produrre urina",
+      "Digerire proteine"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è l'organo principale della respirazione? (variante 332)",
+    "options": [
+      "Stomaco",
+      "Polmoni",
+      "Fegato",
+      "Reni"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Quale organo pompa il sangue? (variante 410)",
+    "options": [
+      "Polmoni",
+      "Pancreas",
+      "Cervello",
+      "Cuore"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Quale organo pompa il sangue? (variante 12)",
+    "options": [
+      "Cervello",
+      "Polmoni",
+      "Pancreas",
+      "Cuore"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è l'organo principale della respirazione? (variante 397)",
+    "options": [
+      "Reni",
+      "Fegato",
+      "Polmoni",
+      "Stomaco"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Dove avviene principalmente la digestione? (variante 25)",
+    "options": [
+      "Ossa",
+      "Intestino tenue",
+      "Polmoni",
+      "Pelle"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Quale organo pompa il sangue? (variante 38)",
+    "options": [
+      "Polmoni",
+      "Cervello",
+      "Pancreas",
+      "Cuore"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la funzione dei reni? (variante 203)",
+    "options": [
+      "Digerire proteine",
+      "Produrre bile",
+      "Filtrare il sangue e produrre urina",
+      "Pompare sangue"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la funzione dei reni? (variante 10)",
+    "options": [
+      "Digerire proteine",
+      "Filtrare il sangue e produrre urina",
+      "Pompare sangue",
+      "Produrre bile"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Dove avviene principalmente la digestione? (variante 75)",
+    "options": [
+      "Intestino tenue",
+      "Ossa",
+      "Pelle",
+      "Polmoni"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è l'organo principale della respirazione? (variante 239)",
+    "options": [
+      "Fegato",
+      "Stomaco",
+      "Reni",
+      "Polmoni"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Dove avviene principalmente la digestione? (variante 232)",
+    "options": [
+      "Intestino tenue",
+      "Ossa",
+      "Polmoni",
+      "Pelle"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è l'organo principale della respirazione? (variante 94)",
+    "options": [
+      "Polmoni",
+      "Reni",
+      "Stomaco",
+      "Fegato"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è l'organo principale della respirazione? (variante 461)",
+    "options": [
+      "Polmoni",
+      "Fegato",
+      "Reni",
+      "Stomaco"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Dove avviene principalmente la digestione? (variante 309)",
+    "options": [
+      "Ossa",
+      "Pelle",
+      "Intestino tenue",
+      "Polmoni"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Quale organo pompa il sangue? (variante 358)",
+    "options": [
+      "Polmoni",
+      "Cervello",
+      "Cuore",
+      "Pancreas"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Dove avviene principalmente la digestione? (variante 445)",
+    "options": [
+      "Ossa",
+      "Polmoni",
+      "Intestino tenue",
+      "Pelle"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la funzione dei reni? (variante 475)",
+    "options": [
+      "Filtrare il sangue e produrre urina",
+      "Digerire proteine",
+      "Pompare sangue",
+      "Produrre bile"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la funzione dei reni? (variante 506)",
+    "options": [
+      "Produrre bile",
+      "Pompare sangue",
+      "Filtrare il sangue e produrre urina",
+      "Digerire proteine"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Dove avviene principalmente la digestione? (variante 406)",
+    "options": [
+      "Pelle",
+      "Intestino tenue",
+      "Ossa",
+      "Polmoni"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la funzione dei reni? (variante 302)",
+    "options": [
+      "Filtrare il sangue e produrre urina",
+      "Produrre bile",
+      "Pompare sangue",
+      "Digerire proteine"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Dove avviene principalmente la digestione? (variante 459)",
+    "options": [
+      "Polmoni",
+      "Ossa",
+      "Intestino tenue",
+      "Pelle"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Quale organo pompa il sangue? (variante 119)",
+    "options": [
+      "Polmoni",
+      "Pancreas",
+      "Cuore",
+      "Cervello"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Dove avviene principalmente la digestione? (variante 192)",
+    "options": [
+      "Pelle",
+      "Intestino tenue",
+      "Ossa",
+      "Polmoni"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Dove avviene principalmente la digestione? (variante 338)",
+    "options": [
+      "Ossa",
+      "Pelle",
+      "Intestino tenue",
+      "Polmoni"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è l'organo principale della respirazione? (variante 347)",
+    "options": [
+      "Fegato",
+      "Stomaco",
+      "Polmoni",
+      "Reni"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la funzione dei reni? (variante 24)",
+    "options": [
+      "Produrre bile",
+      "Filtrare il sangue e produrre urina",
+      "Digerire proteine",
+      "Pompare sangue"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Dove avviene principalmente la digestione? (variante 511)",
+    "options": [
+      "Pelle",
+      "Polmoni",
+      "Intestino tenue",
+      "Ossa"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è l'organo principale della respirazione? (variante 453)",
+    "options": [
+      "Reni",
+      "Polmoni",
+      "Fegato",
+      "Stomaco"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Quale organo pompa il sangue? (variante 404)",
+    "options": [
+      "Pancreas",
+      "Polmoni",
+      "Cervello",
+      "Cuore"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Dove avviene principalmente la digestione? (variante 48)",
+    "options": [
+      "Ossa",
+      "Pelle",
+      "Intestino tenue",
+      "Polmoni"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è l'organo principale della respirazione? (variante 267)",
+    "options": [
+      "Fegato",
+      "Stomaco",
+      "Polmoni",
+      "Reni"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è l'organo principale della respirazione? (variante 269)",
+    "options": [
+      "Reni",
+      "Fegato",
+      "Stomaco",
+      "Polmoni"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la funzione dei reni? (variante 480)",
+    "options": [
+      "Digerire proteine",
+      "Produrre bile",
+      "Pompare sangue",
+      "Filtrare il sangue e produrre urina"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Dove avviene principalmente la digestione? (variante 109)",
+    "options": [
+      "Pelle",
+      "Ossa",
+      "Intestino tenue",
+      "Polmoni"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la funzione dei reni? (variante 221)",
+    "options": [
+      "Pompare sangue",
+      "Filtrare il sangue e produrre urina",
+      "Produrre bile",
+      "Digerire proteine"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la funzione dei reni? (variante 3)",
+    "options": [
+      "Pompare sangue",
+      "Filtrare il sangue e produrre urina",
+      "Digerire proteine",
+      "Produrre bile"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è l'organo principale della respirazione? (variante 419)",
+    "options": [
+      "Reni",
+      "Fegato",
+      "Stomaco",
+      "Polmoni"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Dove avviene principalmente la digestione? (variante 264)",
+    "options": [
+      "Polmoni",
+      "Ossa",
+      "Intestino tenue",
+      "Pelle"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è l'organo principale della respirazione? (variante 101)",
+    "options": [
+      "Polmoni",
+      "Stomaco",
+      "Fegato",
+      "Reni"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Dove avviene principalmente la digestione? (variante 380)",
+    "options": [
+      "Intestino tenue",
+      "Pelle",
+      "Polmoni",
+      "Ossa"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la funzione dei reni? (variante 62)",
+    "options": [
+      "Digerire proteine",
+      "Pompare sangue",
+      "Produrre bile",
+      "Filtrare il sangue e produrre urina"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Quale organo pompa il sangue? (variante 329)",
+    "options": [
+      "Polmoni",
+      "Pancreas",
+      "Cuore",
+      "Cervello"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la funzione dei reni? (variante 476)",
+    "options": [
+      "Digerire proteine",
+      "Produrre bile",
+      "Filtrare il sangue e produrre urina",
+      "Pompare sangue"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la funzione dei reni? (variante 126)",
+    "options": [
+      "Filtrare il sangue e produrre urina",
+      "Pompare sangue",
+      "Produrre bile",
+      "Digerire proteine"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è l'organo principale della respirazione? (variante 105)",
+    "options": [
+      "Stomaco",
+      "Reni",
+      "Fegato",
+      "Polmoni"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la funzione dei reni? (variante 70)",
+    "options": [
+      "Filtrare il sangue e produrre urina",
+      "Digerire proteine",
+      "Pompare sangue",
+      "Produrre bile"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la funzione dei reni? (variante 208)",
+    "options": [
+      "Produrre bile",
+      "Pompare sangue",
+      "Filtrare il sangue e produrre urina",
+      "Digerire proteine"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è l'organo principale della respirazione? (variante 171)",
+    "options": [
+      "Reni",
+      "Fegato",
+      "Stomaco",
+      "Polmoni"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Dove avviene principalmente la digestione? (variante 43)",
+    "options": [
+      "Polmoni",
+      "Ossa",
+      "Pelle",
+      "Intestino tenue"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la funzione dei reni? (variante 98)",
+    "options": [
+      "Pompare sangue",
+      "Produrre bile",
+      "Filtrare il sangue e produrre urina",
+      "Digerire proteine"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Dove avviene principalmente la digestione? (variante 284)",
+    "options": [
+      "Pelle",
+      "Intestino tenue",
+      "Polmoni",
+      "Ossa"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la funzione dei reni? (variante 412)",
+    "options": [
+      "Pompare sangue",
+      "Produrre bile",
+      "Filtrare il sangue e produrre urina",
+      "Digerire proteine"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è l'organo principale della respirazione? (variante 1)",
+    "options": [
+      "Stomaco",
+      "Fegato",
+      "Polmoni",
+      "Reni"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la funzione dei reni? (variante 200)",
+    "options": [
+      "Digerire proteine",
+      "Filtrare il sangue e produrre urina",
+      "Pompare sangue",
+      "Produrre bile"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Quale organo pompa il sangue? (variante 185)",
+    "options": [
+      "Cervello",
+      "Cuore",
+      "Pancreas",
+      "Polmoni"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Dove avviene principalmente la digestione? (variante 473)",
+    "options": [
+      "Polmoni",
+      "Ossa",
+      "Pelle",
+      "Intestino tenue"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Dove avviene principalmente la digestione? (variante 201)",
+    "options": [
+      "Ossa",
+      "Polmoni",
+      "Pelle",
+      "Intestino tenue"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la funzione dei reni? (variante 300)",
+    "options": [
+      "Pompare sangue",
+      "Produrre bile",
+      "Filtrare il sangue e produrre urina",
+      "Digerire proteine"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Quale organo pompa il sangue? (variante 305)",
+    "options": [
+      "Pancreas",
+      "Polmoni",
+      "Cuore",
+      "Cervello"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la funzione dei reni? (variante 327)",
+    "options": [
+      "Produrre bile",
+      "Digerire proteine",
+      "Filtrare il sangue e produrre urina",
+      "Pompare sangue"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la funzione dei reni? (variante 472)",
+    "options": [
+      "Produrre bile",
+      "Filtrare il sangue e produrre urina",
+      "Digerire proteine",
+      "Pompare sangue"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Quale organo pompa il sangue? (variante 336)",
+    "options": [
+      "Pancreas",
+      "Cuore",
+      "Cervello",
+      "Polmoni"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è l'organo principale della respirazione? (variante 115)",
+    "options": [
+      "Stomaco",
+      "Polmoni",
+      "Reni",
+      "Fegato"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Dove avviene principalmente la digestione? (variante 11)",
+    "options": [
+      "Pelle",
+      "Ossa",
+      "Polmoni",
+      "Intestino tenue"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la funzione dei reni? (variante 142)",
+    "options": [
+      "Filtrare il sangue e produrre urina",
+      "Digerire proteine",
+      "Produrre bile",
+      "Pompare sangue"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è l'organo principale della respirazione? (variante 441)",
+    "options": [
+      "Fegato",
+      "Polmoni",
+      "Reni",
+      "Stomaco"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Quale organo pompa il sangue? (variante 216)",
+    "options": [
+      "Cuore",
+      "Polmoni",
+      "Cervello",
+      "Pancreas"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Dove avviene principalmente la digestione? (variante 488)",
+    "options": [
+      "Pelle",
+      "Polmoni",
+      "Ossa",
+      "Intestino tenue"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Dove avviene principalmente la digestione? (variante 228)",
+    "options": [
+      "Polmoni",
+      "Intestino tenue",
+      "Ossa",
+      "Pelle"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Quale organo pompa il sangue? (variante 263)",
+    "options": [
+      "Pancreas",
+      "Cervello",
+      "Polmoni",
+      "Cuore"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Quale organo pompa il sangue? (variante 66)",
+    "options": [
+      "Polmoni",
+      "Cuore",
+      "Pancreas",
+      "Cervello"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Quale organo pompa il sangue? (variante 323)",
+    "options": [
+      "Pancreas",
+      "Cuore",
+      "Polmoni",
+      "Cervello"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è l'organo principale della respirazione? (variante 151)",
+    "options": [
+      "Fegato",
+      "Polmoni",
+      "Stomaco",
+      "Reni"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Quale organo pompa il sangue? (variante 248)",
+    "options": [
+      "Pancreas",
+      "Cuore",
+      "Cervello",
+      "Polmoni"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Dove avviene principalmente la digestione? (variante 446)",
+    "options": [
+      "Ossa",
+      "Polmoni",
+      "Pelle",
+      "Intestino tenue"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Quale organo pompa il sangue? (variante 210)",
+    "options": [
+      "Cervello",
+      "Pancreas",
+      "Polmoni",
+      "Cuore"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è l'organo principale della respirazione? (variante 286)",
+    "options": [
+      "Reni",
+      "Stomaco",
+      "Polmoni",
+      "Fegato"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è l'organo principale della respirazione? (variante 343)",
+    "options": [
+      "Polmoni",
+      "Fegato",
+      "Reni",
+      "Stomaco"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Quale organo pompa il sangue? (variante 470)",
+    "options": [
+      "Cervello",
+      "Polmoni",
+      "Cuore",
+      "Pancreas"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Quale organo pompa il sangue? (variante 152)",
+    "options": [
+      "Cuore",
+      "Cervello",
+      "Pancreas",
+      "Polmoni"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Dove avviene principalmente la digestione? (variante 209)",
+    "options": [
+      "Ossa",
+      "Intestino tenue",
+      "Pelle",
+      "Polmoni"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la funzione dei reni? (variante 481)",
+    "options": [
+      "Digerire proteine",
+      "Produrre bile",
+      "Filtrare il sangue e produrre urina",
+      "Pompare sangue"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la funzione dei reni? (variante 257)",
+    "options": [
+      "Pompare sangue",
+      "Produrre bile",
+      "Digerire proteine",
+      "Filtrare il sangue e produrre urina"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Quale organo pompa il sangue? (variante 516)",
+    "options": [
+      "Cervello",
+      "Pancreas",
+      "Cuore",
+      "Polmoni"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è l'organo principale della respirazione? (variante 114)",
+    "options": [
+      "Polmoni",
+      "Fegato",
+      "Reni",
+      "Stomaco"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Dove avviene principalmente la digestione? (variante 21)",
+    "options": [
+      "Pelle",
+      "Ossa",
+      "Intestino tenue",
+      "Polmoni"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è l'organo principale della respirazione? (variante 288)",
+    "options": [
+      "Stomaco",
+      "Reni",
+      "Fegato",
+      "Polmoni"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Quale organo pompa il sangue? (variante 386)",
+    "options": [
+      "Pancreas",
+      "Polmoni",
+      "Cervello",
+      "Cuore"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la funzione dei reni? (variante 174)",
+    "options": [
+      "Digerire proteine",
+      "Filtrare il sangue e produrre urina",
+      "Produrre bile",
+      "Pompare sangue"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Dove avviene principalmente la digestione? (variante 469)",
+    "options": [
+      "Ossa",
+      "Pelle",
+      "Polmoni",
+      "Intestino tenue"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la funzione dei reni? (variante 197)",
+    "options": [
+      "Pompare sangue",
+      "Filtrare il sangue e produrre urina",
+      "Digerire proteine",
+      "Produrre bile"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Quale organo pompa il sangue? (variante 433)",
+    "options": [
+      "Pancreas",
+      "Polmoni",
+      "Cuore",
+      "Cervello"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la funzione dei reni? (variante 381)",
+    "options": [
+      "Produrre bile",
+      "Pompare sangue",
+      "Digerire proteine",
+      "Filtrare il sangue e produrre urina"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Quale organo pompa il sangue? (variante 220)",
+    "options": [
+      "Cervello",
+      "Polmoni",
+      "Pancreas",
+      "Cuore"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è l'organo principale della respirazione? (variante 133)",
+    "options": [
+      "Stomaco",
+      "Reni",
+      "Polmoni",
+      "Fegato"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è l'organo principale della respirazione? (variante 255)",
+    "options": [
+      "Stomaco",
+      "Polmoni",
+      "Reni",
+      "Fegato"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Quale organo pompa il sangue? (variante 89)",
+    "options": [
+      "Cuore",
+      "Pancreas",
+      "Polmoni",
+      "Cervello"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è l'organo principale della respirazione? (variante 121)",
+    "options": [
+      "Fegato",
+      "Reni",
+      "Stomaco",
+      "Polmoni"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Quale organo pompa il sangue? (variante 504)",
+    "options": [
+      "Cervello",
+      "Pancreas",
+      "Polmoni",
+      "Cuore"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Quale organo pompa il sangue? (variante 242)",
+    "options": [
+      "Cervello",
+      "Polmoni",
+      "Pancreas",
+      "Cuore"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è l'organo principale della respirazione? (variante 180)",
+    "options": [
+      "Stomaco",
+      "Polmoni",
+      "Reni",
+      "Fegato"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Dove avviene principalmente la digestione? (variante 372)",
+    "options": [
+      "Intestino tenue",
+      "Polmoni",
+      "Pelle",
+      "Ossa"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Dove avviene principalmente la digestione? (variante 223)",
+    "options": [
+      "Intestino tenue",
+      "Ossa",
+      "Pelle",
+      "Polmoni"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Quale organo pompa il sangue? (variante 93)",
+    "options": [
+      "Pancreas",
+      "Cervello",
+      "Cuore",
+      "Polmoni"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è l'organo principale della respirazione? (variante 153)",
+    "options": [
+      "Fegato",
+      "Reni",
+      "Stomaco",
+      "Polmoni"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Quale organo pompa il sangue? (variante 340)",
+    "options": [
+      "Polmoni",
+      "Cervello",
+      "Cuore",
+      "Pancreas"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è l'organo principale della respirazione? (variante 35)",
+    "options": [
+      "Fegato",
+      "Stomaco",
+      "Reni",
+      "Polmoni"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Dove avviene principalmente la digestione? (variante 158)",
+    "options": [
+      "Polmoni",
+      "Pelle",
+      "Ossa",
+      "Intestino tenue"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Quale organo pompa il sangue? (variante 450)",
+    "options": [
+      "Cervello",
+      "Cuore",
+      "Polmoni",
+      "Pancreas"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è l'organo principale della respirazione? (variante 135)",
+    "options": [
+      "Reni",
+      "Stomaco",
+      "Fegato",
+      "Polmoni"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Dove avviene principalmente la digestione? (variante 354)",
+    "options": [
+      "Pelle",
+      "Polmoni",
+      "Intestino tenue",
+      "Ossa"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è l'organo principale della respirazione? (variante 434)",
+    "options": [
+      "Reni",
+      "Polmoni",
+      "Fegato",
+      "Stomaco"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la funzione dei reni? (variante 458)",
+    "options": [
+      "Pompare sangue",
+      "Filtrare il sangue e produrre urina",
+      "Produrre bile",
+      "Digerire proteine"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Dove avviene principalmente la digestione? (variante 297)",
+    "options": [
+      "Polmoni",
+      "Pelle",
+      "Ossa",
+      "Intestino tenue"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è l'organo principale della respirazione? (variante 8)",
+    "options": [
+      "Fegato",
+      "Polmoni",
+      "Reni",
+      "Stomaco"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Quale organo pompa il sangue? (variante 423)",
+    "options": [
+      "Cervello",
+      "Polmoni",
+      "Pancreas",
+      "Cuore"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  }
+]

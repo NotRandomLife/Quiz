@@ -1,0 +1,3302 @@
+[
+  {
+    "q": "Indica il tempo verbale della frase: “Tu studiasti ieri.” (variante 120)",
+    "options": [
+      "trapassato prossimo",
+      "presente (forma progressiva)",
+      "futuro semplice",
+      "passato remoto"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Completa correttamente: I bambini sono… (variante 57)",
+    "options": [
+      "felicia",
+      "felicissime",
+      "felice",
+      "felici"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Completa correttamente: La classe è… (variante 39)",
+    "options": [
+      "silenziosa",
+      "silenzioso",
+      "silenziosi",
+      "silenziose"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Che parte del discorso è “ma”? (variante 218)",
+    "options": [
+      "verbo",
+      "nome",
+      "congiunzione",
+      "avverbio"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Completa correttamente: I bambini sono… (variante 63)",
+    "options": [
+      "felicia",
+      "felici",
+      "felice",
+      "felicissime"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Indica il tempo verbale della frase: “Noi abbiamo studiato.” (variante 139)",
+    "options": [
+      "passato prossimo",
+      "trapassato prossimo",
+      "passato remoto",
+      "imperfetto"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Indica il tempo verbale della frase: “Tu studiasti ieri.” (variante 128)",
+    "options": [
+      "futuro semplice",
+      "passato remoto",
+      "passato prossimo",
+      "imperfetto"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Indica il tempo verbale della frase: “Loro studiavano spesso.” (variante 80)",
+    "options": [
+      "imperfetto",
+      "passato prossimo",
+      "presente (forma progressiva)",
+      "trapassato prossimo"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Completa correttamente: La classe è… (variante 1)",
+    "options": [
+      "silenziose",
+      "silenziosa",
+      "silenzioso",
+      "silenziosi"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Completa correttamente: Il cane è… (variante 44)",
+    "options": [
+      "stanco",
+      "stanchi",
+      "stanche",
+      "stanca"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Che parte del discorso è “io”? (variante 123)",
+    "options": [
+      "avverbio",
+      "preposizione",
+      "pronome",
+      "congiunzione"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Indica il tempo verbale della frase: “Noi abbiamo studiato.” (variante 67)",
+    "options": [
+      "trapassato prossimo",
+      "passato prossimo",
+      "imperfetto",
+      "futuro semplice"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Che parte del discorso è “e”? (variante 146)",
+    "options": [
+      "avverbio",
+      "congiunzione",
+      "pronome",
+      "congiunzione (4)"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Che parte del discorso è “casa”? (variante 10)",
+    "options": [
+      "congiunzione",
+      "nome",
+      "aggettivo",
+      "pronome"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Che parte del discorso è “io”? (variante 100)",
+    "options": [
+      "congiunzione",
+      "pronome",
+      "avverbio",
+      "verbo"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Che parte del discorso è “rapidamente”? (variante 124)",
+    "options": [
+      "preposizione",
+      "congiunzione",
+      "verbo",
+      "avverbio"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Indica il tempo verbale della frase: “Noi abbiamo studiato.” (variante 98)",
+    "options": [
+      "presente (forma progressiva)",
+      "imperfetto",
+      "passato prossimo",
+      "passato remoto"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Qual è il plurale di “braccio”? (variante 65)",
+    "options": [
+      "arance",
+      "banche",
+      "braccia",
+      "uova"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è il plurale di “medico”? (variante 63)",
+    "options": [
+      "arance",
+      "valigie",
+      "banche",
+      "medici"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Completa correttamente: I bambini sono… (variante 23)",
+    "options": [
+      "felicissime",
+      "felici",
+      "felicia",
+      "felice"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Che parte del discorso è “sopra”? (variante 172)",
+    "options": [
+      "congiunzione",
+      "preposizione (4)",
+      "avverbio",
+      "preposizione"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Indica il tempo verbale della frase: “Io sto leggendo.” (variante 103)",
+    "options": [
+      "passato remoto",
+      "imperfetto",
+      "passato prossimo",
+      "presente (forma progressiva)"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Indica il tempo verbale della frase: “Tu studiasti ieri.” (variante 50)",
+    "options": [
+      "imperfetto",
+      "presente (forma progressiva)",
+      "passato prossimo",
+      "passato remoto"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Indica il tempo verbale della frase: “Loro studiavano spesso.” (variante 30)",
+    "options": [
+      "futuro semplice",
+      "passato remoto",
+      "imperfetto",
+      "presente (forma progressiva)"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Indica il tempo verbale della frase: “Lei aveva finito.” (variante 83)",
+    "options": [
+      "trapassato prossimo",
+      "passato prossimo",
+      "imperfetto",
+      "passato remoto"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Indica il tempo verbale della frase: “Tu studiasti ieri.” (variante 41)",
+    "options": [
+      "passato prossimo",
+      "imperfetto",
+      "passato remoto",
+      "presente (forma progressiva)"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Indica il tempo verbale della frase: “Io sto leggendo.” (variante 116)",
+    "options": [
+      "trapassato prossimo",
+      "presente (forma progressiva)",
+      "futuro semplice",
+      "passato prossimo"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Completa correttamente: La classe è… (variante 49)",
+    "options": [
+      "silenziosa",
+      "silenzioso",
+      "silenziose",
+      "silenziosi"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Indica il tempo verbale della frase: “Loro studiavano spesso.” (variante 44)",
+    "options": [
+      "presente (forma progressiva)",
+      "passato prossimo",
+      "imperfetto",
+      "futuro semplice"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Indica il tempo verbale della frase: “Lei aveva finito.” (variante 23)",
+    "options": [
+      "imperfetto",
+      "trapassato prossimo",
+      "passato remoto",
+      "futuro semplice"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Completa correttamente: Il cane è… (variante 98)",
+    "options": [
+      "stanche",
+      "stanchi",
+      "stanco",
+      "stanca"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è il plurale di “dito”? (variante 104)",
+    "options": [
+      "braccia",
+      "amiche",
+      "banche",
+      "dita"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è il plurale di “arancia”? (variante 54)",
+    "options": [
+      "uova",
+      "amiche",
+      "arance",
+      "banche"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Che parte del discorso è “casa”? (variante 186)",
+    "options": [
+      "congiunzione",
+      "nome",
+      "preposizione",
+      "pronome"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Che parte del discorso è “bello”? (variante 149)",
+    "options": [
+      "aggettivo",
+      "avverbio",
+      "congiunzione",
+      "pronome"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Completa correttamente: La classe è… (variante 79)",
+    "options": [
+      "silenziosi",
+      "silenziosa",
+      "silenzioso",
+      "silenziose"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Che parte del discorso è “casa”? (variante 75)",
+    "options": [
+      "pronome",
+      "congiunzione",
+      "nome",
+      "preposizione"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è il plurale di “amica”? (variante 122)",
+    "options": [
+      "dita",
+      "amiche",
+      "uova",
+      "braccia"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è il plurale di “medico”? (variante 67)",
+    "options": [
+      "dita",
+      "uova",
+      "amiche",
+      "medici"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Indica il tempo verbale della frase: “Tu studiasti ieri.” (variante 33)",
+    "options": [
+      "presente (forma progressiva)",
+      "passato prossimo",
+      "futuro semplice",
+      "passato remoto"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Qual è il plurale di “medico”? (variante 35)",
+    "options": [
+      "braccia",
+      "dita",
+      "arance",
+      "medici"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Che parte del discorso è “noi”? (variante 131)",
+    "options": [
+      "pronome",
+      "aggettivo",
+      "preposizione",
+      "avverbio"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Che parte del discorso è “casa”? (variante 213)",
+    "options": [
+      "nome",
+      "avverbio",
+      "preposizione",
+      "pronome"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Indica il tempo verbale della frase: “Noi abbiamo studiato.” (variante 88)",
+    "options": [
+      "futuro semplice",
+      "presente (forma progressiva)",
+      "imperfetto",
+      "passato prossimo"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Qual è il plurale di “amica”? (variante 103)",
+    "options": [
+      "amiche",
+      "banche",
+      "medici",
+      "valigie"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è il plurale di “valigia”? (variante 61)",
+    "options": [
+      "uova",
+      "valigie",
+      "arance",
+      "città"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Che parte del discorso è “casa”? (variante 89)",
+    "options": [
+      "nome",
+      "preposizione",
+      "pronome",
+      "verbo"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Che parte del discorso è “e”? (variante 27)",
+    "options": [
+      "pronome",
+      "congiunzione",
+      "preposizione",
+      "nome"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Completa correttamente: Le ragazze sono… (variante 14)",
+    "options": [
+      "andata",
+      "andate",
+      "andati",
+      "andato"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è il plurale di “uovo”? (variante 82)",
+    "options": [
+      "braccia",
+      "medici",
+      "arance",
+      "uova"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Indica il tempo verbale della frase: “Noi abbiamo studiato.” (variante 43)",
+    "options": [
+      "presente (forma progressiva)",
+      "futuro semplice",
+      "trapassato prossimo",
+      "passato prossimo"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Che parte del discorso è “e”? (variante 104)",
+    "options": [
+      "verbo",
+      "preposizione",
+      "pronome",
+      "congiunzione"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Che parte del discorso è “noi”? (variante 32)",
+    "options": [
+      "pronome",
+      "nome",
+      "congiunzione",
+      "verbo"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Che parte del discorso è “sopra”? (variante 67)",
+    "options": [
+      "preposizione",
+      "pronome",
+      "avverbio",
+      "nome"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Completa correttamente: La classe è… (variante 119)",
+    "options": [
+      "silenziose",
+      "silenziosa",
+      "silenzioso",
+      "silenziosi"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è il plurale di “dito”? (variante 59)",
+    "options": [
+      "braccia",
+      "uova",
+      "medici",
+      "dita"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Completa correttamente: Il cane è… (variante 108)",
+    "options": [
+      "stanca",
+      "stanco",
+      "stanche",
+      "stanchi"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Che parte del discorso è “io”? (variante 198)",
+    "options": [
+      "pronome",
+      "aggettivo",
+      "preposizione",
+      "avverbio"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Che parte del discorso è “io”? (variante 183)",
+    "options": [
+      "avverbio",
+      "verbo",
+      "preposizione",
+      "pronome"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Che parte del discorso è “sempre”? (variante 37)",
+    "options": [
+      "pronome",
+      "preposizione",
+      "aggettivo",
+      "avverbio"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Indica il tempo verbale della frase: “Io sto leggendo.” (variante 48)",
+    "options": [
+      "presente (forma progressiva)",
+      "imperfetto",
+      "futuro semplice",
+      "passato prossimo"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Che parte del discorso è “ma”? (variante 118)",
+    "options": [
+      "nome",
+      "pronome",
+      "congiunzione",
+      "preposizione"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Indica il tempo verbale della frase: “Tu studiasti ieri.” (variante 18)",
+    "options": [
+      "trapassato prossimo",
+      "presente (forma progressiva)",
+      "imperfetto",
+      "passato remoto"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Qual è il plurale di “arancia”? (variante 62)",
+    "options": [
+      "valigie",
+      "arance",
+      "amiche",
+      "città"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Che parte del discorso è “sempre”? (variante 219)",
+    "options": [
+      "preposizione",
+      "avverbio",
+      "congiunzione",
+      "pronome"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Che parte del discorso è “sempre”? (variante 168)",
+    "options": [
+      "preposizione",
+      "aggettivo",
+      "avverbio",
+      "congiunzione"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Completa correttamente: La classe è… (variante 61)",
+    "options": [
+      "silenziose",
+      "silenzioso",
+      "silenziosi",
+      "silenziosa"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Completa correttamente: Il cane è… (variante 118)",
+    "options": [
+      "stanche",
+      "stanco",
+      "stanchi",
+      "stanca"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è il plurale di “medico”? (variante 88)",
+    "options": [
+      "braccia",
+      "medici",
+      "arance",
+      "città"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Che parte del discorso è “io”? (variante 156)",
+    "options": [
+      "avverbio",
+      "nome",
+      "verbo",
+      "pronome"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Completa correttamente: Il cane è… (variante 4)",
+    "options": [
+      "stanchi",
+      "stanche",
+      "stanco",
+      "stanca"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è il plurale di “medico”? (variante 41)",
+    "options": [
+      "dita",
+      "medici",
+      "uova",
+      "arance"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è il plurale di “uovo”? (variante 95)",
+    "options": [
+      "valigie",
+      "dita",
+      "uova",
+      "banche"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Indica il tempo verbale della frase: “Loro studiavano spesso.” (variante 29)",
+    "options": [
+      "presente (forma progressiva)",
+      "imperfetto",
+      "passato remoto",
+      "futuro semplice"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Che parte del discorso è “rapidamente”? (variante 119)",
+    "options": [
+      "preposizione",
+      "avverbio",
+      "nome",
+      "pronome"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è il plurale di “banca”? (variante 46)",
+    "options": [
+      "braccia",
+      "dita",
+      "banche",
+      "arance"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Che parte del discorso è “rapidamente”? (variante 207)",
+    "options": [
+      "pronome",
+      "avverbio",
+      "aggettivo",
+      "preposizione"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Che parte del discorso è “ma”? (variante 22)",
+    "options": [
+      "congiunzione",
+      "preposizione",
+      "pronome",
+      "avverbio"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Che parte del discorso è “e”? (variante 174)",
+    "options": [
+      "congiunzione",
+      "congiunzione (4)",
+      "pronome",
+      "verbo"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Che parte del discorso è “noi”? (variante 173)",
+    "options": [
+      "preposizione",
+      "avverbio",
+      "aggettivo",
+      "pronome"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Indica il tempo verbale della frase: “Lei aveva finito.” (variante 78)",
+    "options": [
+      "futuro semplice",
+      "passato prossimo",
+      "trapassato prossimo",
+      "imperfetto"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Che parte del discorso è “rapidamente”? (variante 95)",
+    "options": [
+      "pronome",
+      "congiunzione",
+      "avverbio",
+      "avverbio (4)"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Completa correttamente: Il cane è… (variante 32)",
+    "options": [
+      "stanche",
+      "stanchi",
+      "stanca",
+      "stanco"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è il plurale di “braccio”? (variante 133)",
+    "options": [
+      "braccia",
+      "amiche",
+      "medici",
+      "arance"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Che parte del discorso è “casa”? (variante 143)",
+    "options": [
+      "nome (4)",
+      "congiunzione",
+      "nome",
+      "verbo"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Completa correttamente: Il cane è… (variante 11)",
+    "options": [
+      "stanca",
+      "stanco",
+      "stanchi",
+      "stanche"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è il plurale di “uovo”? (variante 80)",
+    "options": [
+      "amiche",
+      "valigie",
+      "uova",
+      "arance"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Che parte del discorso è “correre”? (variante 84)",
+    "options": [
+      "congiunzione",
+      "pronome",
+      "verbo",
+      "nome"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Indica il tempo verbale della frase: “Tu studiasti ieri.” (variante 136)",
+    "options": [
+      "presente (forma progressiva)",
+      "passato remoto",
+      "trapassato prossimo",
+      "passato prossimo"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Indica il tempo verbale della frase: “Lei aveva finito.” (variante 24)",
+    "options": [
+      "passato prossimo",
+      "imperfetto",
+      "passato remoto",
+      "trapassato prossimo"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Indica il tempo verbale della frase: “Tu studiasti ieri.” (variante 96)",
+    "options": [
+      "passato prossimo",
+      "passato remoto",
+      "trapassato prossimo",
+      "presente (forma progressiva)"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Completa correttamente: Il cane è… (variante 45)",
+    "options": [
+      "stanca",
+      "stanchi",
+      "stanco",
+      "stanche"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Indica il tempo verbale della frase: “Lei aveva finito.” (variante 34)",
+    "options": [
+      "passato remoto",
+      "presente (forma progressiva)",
+      "futuro semplice",
+      "trapassato prossimo"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Qual è il plurale di “banca”? (variante 70)",
+    "options": [
+      "amiche",
+      "arance",
+      "banche",
+      "valigie"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Che parte del discorso è “correre”? (variante 211)",
+    "options": [
+      "pronome",
+      "congiunzione",
+      "verbo",
+      "aggettivo"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Che parte del discorso è “sopra”? (variante 197)",
+    "options": [
+      "pronome",
+      "preposizione",
+      "aggettivo",
+      "avverbio"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Indica il tempo verbale della frase: “Tu studiasti ieri.” (variante 73)",
+    "options": [
+      "futuro semplice",
+      "passato remoto",
+      "imperfetto",
+      "presente (forma progressiva)"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Qual è il plurale di “dito”? (variante 92)",
+    "options": [
+      "amiche",
+      "dita",
+      "braccia",
+      "banche"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è il plurale di “dito”? (variante 72)",
+    "options": [
+      "dita",
+      "medici",
+      "città",
+      "amiche"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è il plurale di “arancia”? (variante 118)",
+    "options": [
+      "braccia",
+      "dita",
+      "amiche",
+      "arance"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Completa correttamente: Il cane è… (variante 111)",
+    "options": [
+      "stanco",
+      "stanca",
+      "stanche",
+      "stanchi"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Che parte del discorso è “casa”? (variante 60)",
+    "options": [
+      "nome",
+      "aggettivo",
+      "congiunzione",
+      "avverbio"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Che parte del discorso è “rapidamente”? (variante 202)",
+    "options": [
+      "avverbio",
+      "aggettivo",
+      "verbo",
+      "congiunzione"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Che parte del discorso è “sopra”? (variante 47)",
+    "options": [
+      "verbo",
+      "pronome",
+      "preposizione",
+      "aggettivo"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Completa correttamente: La classe è… (variante 3)",
+    "options": [
+      "silenzioso",
+      "silenziose",
+      "silenziosa",
+      "silenziosi"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Indica il tempo verbale della frase: “Loro studiavano spesso.” (variante 94)",
+    "options": [
+      "imperfetto",
+      "passato remoto",
+      "trapassato prossimo",
+      "presente (forma progressiva)"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Indica il tempo verbale della frase: “Tu studiasti ieri.” (variante 112)",
+    "options": [
+      "passato prossimo",
+      "imperfetto",
+      "passato remoto",
+      "futuro semplice"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Che parte del discorso è “sopra”? (variante 72)",
+    "options": [
+      "nome",
+      "avverbio",
+      "pronome",
+      "preposizione"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è il plurale di “valigia”? (variante 124)",
+    "options": [
+      "amiche",
+      "uova",
+      "arance",
+      "valigie"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Che parte del discorso è “correre”? (variante 129)",
+    "options": [
+      "aggettivo",
+      "verbo",
+      "congiunzione",
+      "nome"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Indica il tempo verbale della frase: “Loro studiavano spesso.” (variante 12)",
+    "options": [
+      "presente (forma progressiva)",
+      "passato prossimo",
+      "passato remoto",
+      "imperfetto"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Indica il tempo verbale della frase: “Tu studiasti ieri.” (variante 10)",
+    "options": [
+      "futuro semplice",
+      "passato remoto",
+      "imperfetto",
+      "trapassato prossimo"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Che parte del discorso è “casa”? (variante 122)",
+    "options": [
+      "avverbio",
+      "congiunzione",
+      "nome",
+      "verbo"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Indica il tempo verbale della frase: “Loro studiavano spesso.” (variante 59)",
+    "options": [
+      "imperfetto",
+      "presente (forma progressiva)",
+      "trapassato prossimo",
+      "passato remoto"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Che parte del discorso è “rapidamente”? (variante 45)",
+    "options": [
+      "avverbio",
+      "nome",
+      "congiunzione",
+      "aggettivo"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Completa correttamente: I bambini sono… (variante 28)",
+    "options": [
+      "felice",
+      "felicissime",
+      "felicia",
+      "felici"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Che parte del discorso è “bello”? (variante 80)",
+    "options": [
+      "avverbio",
+      "preposizione",
+      "verbo",
+      "aggettivo"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Completa correttamente: Le ragazze sono… (variante 62)",
+    "options": [
+      "andati",
+      "andata",
+      "andate",
+      "andato"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Che parte del discorso è “ma”? (variante 68)",
+    "options": [
+      "congiunzione",
+      "pronome",
+      "congiunzione (4)",
+      "avverbio"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Completa correttamente: Le ragazze sono… (variante 83)",
+    "options": [
+      "andati",
+      "andato",
+      "andata",
+      "andate"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Che parte del discorso è “noi”? (variante 106)",
+    "options": [
+      "nome",
+      "verbo",
+      "avverbio",
+      "pronome"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Indica il tempo verbale della frase: “Io sto leggendo.” (variante 17)",
+    "options": [
+      "futuro semplice",
+      "presente (forma progressiva)",
+      "passato remoto",
+      "imperfetto"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Indica il tempo verbale della frase: “Io mangerò domani.” (variante 118)",
+    "options": [
+      "imperfetto",
+      "presente (forma progressiva)",
+      "futuro semplice",
+      "passato remoto"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Completa correttamente: I bambini sono… (variante 67)",
+    "options": [
+      "felicissime",
+      "felice",
+      "felicia",
+      "felici"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Completa correttamente: Le ragazze sono… (variante 87)",
+    "options": [
+      "andate",
+      "andato",
+      "andati",
+      "andata"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Indica il tempo verbale della frase: “Io mangerò domani.” (variante 60)",
+    "options": [
+      "imperfetto",
+      "passato remoto",
+      "presente (forma progressiva)",
+      "futuro semplice"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Che parte del discorso è “e”? (variante 61)",
+    "options": [
+      "avverbio",
+      "verbo",
+      "congiunzione",
+      "aggettivo"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Completa correttamente: Il cane è… (variante 100)",
+    "options": [
+      "stanchi",
+      "stanca",
+      "stanco",
+      "stanche"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Che parte del discorso è “e”? (variante 5)",
+    "options": [
+      "avverbio",
+      "congiunzione",
+      "nome",
+      "verbo"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Che parte del discorso è “noi”? (variante 157)",
+    "options": [
+      "pronome",
+      "aggettivo",
+      "nome",
+      "congiunzione"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Che parte del discorso è “sopra”? (variante 165)",
+    "options": [
+      "aggettivo",
+      "avverbio",
+      "nome",
+      "preposizione"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Indica il tempo verbale della frase: “Lei aveva finito.” (variante 28)",
+    "options": [
+      "trapassato prossimo",
+      "presente (forma progressiva)",
+      "futuro semplice",
+      "imperfetto"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Indica il tempo verbale della frase: “Io sto leggendo.” (variante 26)",
+    "options": [
+      "passato remoto",
+      "presente (forma progressiva)",
+      "futuro semplice",
+      "imperfetto"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Che parte del discorso è “noi”? (variante 15)",
+    "options": [
+      "avverbio",
+      "verbo",
+      "aggettivo",
+      "pronome"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Che parte del discorso è “io”? (variante 74)",
+    "options": [
+      "congiunzione",
+      "pronome (4)",
+      "pronome",
+      "aggettivo"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Che parte del discorso è “bello”? (variante 78)",
+    "options": [
+      "aggettivo",
+      "preposizione",
+      "nome",
+      "pronome"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Completa correttamente: Le ragazze sono… (variante 30)",
+    "options": [
+      "andate",
+      "andata",
+      "andato",
+      "andati"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è il plurale di “valigia”? (variante 57)",
+    "options": [
+      "città",
+      "dita",
+      "uova",
+      "valigie"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Indica il tempo verbale della frase: “Tu studiasti ieri.” (variante 64)",
+    "options": [
+      "futuro semplice",
+      "passato remoto",
+      "trapassato prossimo",
+      "passato prossimo"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Completa correttamente: I bambini sono… (variante 43)",
+    "options": [
+      "felici",
+      "felicissime",
+      "felicia",
+      "felice"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Indica il tempo verbale della frase: “Io sto leggendo.” (variante 7)",
+    "options": [
+      "passato prossimo",
+      "presente (forma progressiva)",
+      "passato remoto",
+      "trapassato prossimo"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Indica il tempo verbale della frase: “Tu studiasti ieri.” (variante 11)",
+    "options": [
+      "imperfetto",
+      "passato remoto",
+      "trapassato prossimo",
+      "futuro semplice"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Che parte del discorso è “casa”? (variante 111)",
+    "options": [
+      "nome",
+      "avverbio",
+      "nome (4)",
+      "congiunzione"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è il plurale di “uovo”? (variante 132)",
+    "options": [
+      "uova",
+      "braccia",
+      "dita",
+      "città"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Completa correttamente: La classe è… (variante 70)",
+    "options": [
+      "silenziosa",
+      "silenzioso",
+      "silenziose",
+      "silenziosi"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è il plurale di “città”? (variante 81)",
+    "options": [
+      "dita",
+      "città",
+      "braccia",
+      "uova"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è il plurale di “amica”? (variante 127)",
+    "options": [
+      "valigie",
+      "dita",
+      "amiche",
+      "braccia"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Completa correttamente: I bambini sono… (variante 78)",
+    "options": [
+      "felicia",
+      "felici",
+      "felicissime",
+      "felice"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Completa correttamente: Il cane è… (variante 38)",
+    "options": [
+      "stanca",
+      "stanchi",
+      "stanche",
+      "stanco"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Completa correttamente: Il cane è… (variante 117)",
+    "options": [
+      "stanche",
+      "stanco",
+      "stanchi",
+      "stanca"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Che parte del discorso è “noi”? (variante 126)",
+    "options": [
+      "preposizione",
+      "pronome",
+      "verbo",
+      "nome"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Che parte del discorso è “rapidamente”? (variante 112)",
+    "options": [
+      "nome",
+      "pronome",
+      "congiunzione",
+      "avverbio"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Che parte del discorso è “io”? (variante 43)",
+    "options": [
+      "preposizione",
+      "nome",
+      "verbo",
+      "pronome"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è il plurale di “dito”? (variante 134)",
+    "options": [
+      "dita",
+      "valigie",
+      "banche",
+      "braccia"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Che parte del discorso è “rapidamente”? (variante 152)",
+    "options": [
+      "avverbio (4)",
+      "aggettivo",
+      "avverbio",
+      "congiunzione"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Che parte del discorso è “io”? (variante 26)",
+    "options": [
+      "aggettivo",
+      "pronome",
+      "preposizione",
+      "avverbio"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Che parte del discorso è “correre”? (variante 175)",
+    "options": [
+      "aggettivo",
+      "pronome",
+      "avverbio",
+      "verbo"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Che parte del discorso è “sopra”? (variante 109)",
+    "options": [
+      "avverbio",
+      "preposizione (4)",
+      "congiunzione",
+      "preposizione"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Che parte del discorso è “correre”? (variante 70)",
+    "options": [
+      "avverbio",
+      "verbo",
+      "congiunzione",
+      "pronome"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Completa correttamente: Le ragazze sono… (variante 47)",
+    "options": [
+      "andato",
+      "andate",
+      "andati",
+      "andata"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Che parte del discorso è “sopra”? (variante 2)",
+    "options": [
+      "preposizione",
+      "avverbio",
+      "verbo",
+      "nome"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è il plurale di “valigia”? (variante 27)",
+    "options": [
+      "valigie",
+      "uova",
+      "arance",
+      "dita"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è il plurale di “città”? (variante 106)",
+    "options": [
+      "uova",
+      "città",
+      "medici",
+      "braccia"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è il plurale di “uovo”? (variante 7)",
+    "options": [
+      "banche",
+      "dita",
+      "amiche",
+      "uova"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Indica il tempo verbale della frase: “Lei aveva finito.” (variante 106)",
+    "options": [
+      "presente (forma progressiva)",
+      "futuro semplice",
+      "passato remoto",
+      "trapassato prossimo"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Che parte del discorso è “e”? (variante 135)",
+    "options": [
+      "pronome",
+      "congiunzione (4)",
+      "avverbio",
+      "congiunzione"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Che parte del discorso è “noi”? (variante 155)",
+    "options": [
+      "verbo",
+      "congiunzione",
+      "pronome (4)",
+      "pronome"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Indica il tempo verbale della frase: “Io mangerò domani.” (variante 68)",
+    "options": [
+      "futuro semplice",
+      "passato remoto",
+      "passato prossimo",
+      "trapassato prossimo"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Completa correttamente: La classe è… (variante 27)",
+    "options": [
+      "silenzioso",
+      "silenziosa",
+      "silenziose",
+      "silenziosi"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Indica il tempo verbale della frase: “Io mangerò domani.” (variante 91)",
+    "options": [
+      "passato remoto",
+      "passato prossimo",
+      "futuro semplice",
+      "trapassato prossimo"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Indica il tempo verbale della frase: “Io sto leggendo.” (variante 15)",
+    "options": [
+      "trapassato prossimo",
+      "presente (forma progressiva)",
+      "imperfetto",
+      "passato remoto"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Indica il tempo verbale della frase: “Lei aveva finito.” (variante 133)",
+    "options": [
+      "presente (forma progressiva)",
+      "imperfetto",
+      "passato remoto",
+      "trapassato prossimo"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Indica il tempo verbale della frase: “Noi abbiamo studiato.” (variante 122)",
+    "options": [
+      "trapassato prossimo",
+      "passato prossimo",
+      "presente (forma progressiva)",
+      "passato remoto"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Che parte del discorso è “rapidamente”? (variante 115)",
+    "options": [
+      "pronome",
+      "avverbio",
+      "congiunzione",
+      "aggettivo"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Che parte del discorso è “rapidamente”? (variante 212)",
+    "options": [
+      "congiunzione",
+      "avverbio",
+      "preposizione",
+      "pronome"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Completa correttamente: Le ragazze sono… (variante 22)",
+    "options": [
+      "andati",
+      "andate",
+      "andato",
+      "andata"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è il plurale di “valigia”? (variante 23)",
+    "options": [
+      "dita",
+      "banche",
+      "valigie",
+      "città"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Completa correttamente: I bambini sono… (variante 64)",
+    "options": [
+      "felice",
+      "felicia",
+      "felicissime",
+      "felici"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è il plurale di “valigia”? (variante 45)",
+    "options": [
+      "arance",
+      "amiche",
+      "valigie",
+      "braccia"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Indica il tempo verbale della frase: “Loro studiavano spesso.” (variante 52)",
+    "options": [
+      "trapassato prossimo",
+      "imperfetto",
+      "passato remoto",
+      "passato prossimo"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Qual è il plurale di “valigia”? (variante 38)",
+    "options": [
+      "amiche",
+      "medici",
+      "braccia",
+      "valigie"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è il plurale di “città”? (variante 77)",
+    "options": [
+      "medici",
+      "uova",
+      "amiche",
+      "città"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Che parte del discorso è “sopra”? (variante 41)",
+    "options": [
+      "avverbio",
+      "congiunzione",
+      "pronome",
+      "preposizione"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è il plurale di “arancia”? (variante 102)",
+    "options": [
+      "arance",
+      "dita",
+      "città",
+      "braccia"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Che parte del discorso è “rapidamente”? (variante 125)",
+    "options": [
+      "pronome",
+      "congiunzione",
+      "avverbio",
+      "aggettivo"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Completa correttamente: I bambini sono… (variante 96)",
+    "options": [
+      "felicia",
+      "felice",
+      "felicissime",
+      "felici"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Completa correttamente: Le ragazze sono… (variante 114)",
+    "options": [
+      "andata",
+      "andate",
+      "andato",
+      "andati"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Che parte del discorso è “ma”? (variante 76)",
+    "options": [
+      "congiunzione (4)",
+      "avverbio",
+      "pronome",
+      "congiunzione"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Completa correttamente: I bambini sono… (variante 53)",
+    "options": [
+      "felice",
+      "felicissime",
+      "felicia",
+      "felici"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è il plurale di “dito”? (variante 112)",
+    "options": [
+      "dita",
+      "valigie",
+      "banche",
+      "braccia"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Che parte del discorso è “rapidamente”? (variante 179)",
+    "options": [
+      "pronome",
+      "verbo",
+      "avverbio",
+      "congiunzione"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Che parte del discorso è “noi”? (variante 210)",
+    "options": [
+      "congiunzione",
+      "avverbio",
+      "pronome",
+      "aggettivo"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Completa correttamente: La classe è… (variante 109)",
+    "options": [
+      "silenziose",
+      "silenziosa",
+      "silenziosi",
+      "silenzioso"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Indica il tempo verbale della frase: “Io sto leggendo.” (variante 81)",
+    "options": [
+      "futuro semplice",
+      "imperfetto",
+      "trapassato prossimo",
+      "presente (forma progressiva)"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Che parte del discorso è “e”? (variante 160)",
+    "options": [
+      "congiunzione",
+      "pronome",
+      "avverbio",
+      "aggettivo"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Completa correttamente: I bambini sono… (variante 37)",
+    "options": [
+      "felicissime",
+      "felice",
+      "felicia",
+      "felici"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è il plurale di “amica”? (variante 78)",
+    "options": [
+      "medici",
+      "amiche",
+      "valigie",
+      "dita"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è il plurale di “braccio”? (variante 126)",
+    "options": [
+      "banche",
+      "valigie",
+      "braccia",
+      "amiche"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Indica il tempo verbale della frase: “Loro studiavano spesso.” (variante 63)",
+    "options": [
+      "passato prossimo",
+      "futuro semplice",
+      "trapassato prossimo",
+      "imperfetto"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Indica il tempo verbale della frase: “Tu studiasti ieri.” (variante 27)",
+    "options": [
+      "presente (forma progressiva)",
+      "passato remoto",
+      "imperfetto",
+      "futuro semplice"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Che parte del discorso è “sopra”? (variante 42)",
+    "options": [
+      "avverbio",
+      "pronome",
+      "preposizione",
+      "nome"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Che parte del discorso è “sopra”? (variante 21)",
+    "options": [
+      "avverbio",
+      "preposizione",
+      "congiunzione",
+      "pronome"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Indica il tempo verbale della frase: “Io mangerò domani.” (variante 132)",
+    "options": [
+      "futuro semplice",
+      "presente (forma progressiva)",
+      "imperfetto",
+      "trapassato prossimo"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Indica il tempo verbale della frase: “Loro studiavano spesso.” (variante 62)",
+    "options": [
+      "imperfetto",
+      "futuro semplice",
+      "passato remoto",
+      "passato prossimo"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Qual è il plurale di “amica”? (variante 26)",
+    "options": [
+      "amiche",
+      "banche",
+      "valigie",
+      "dita"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Completa correttamente: Le ragazze sono… (variante 29)",
+    "options": [
+      "andato",
+      "andati",
+      "andate",
+      "andata"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Completa correttamente: La classe è… (variante 76)",
+    "options": [
+      "silenzioso",
+      "silenziose",
+      "silenziosi",
+      "silenziosa"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è il plurale di “città”? (variante 37)",
+    "options": [
+      "medici",
+      "braccia",
+      "amiche",
+      "città"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Che parte del discorso è “correre”? (variante 1)",
+    "options": [
+      "congiunzione",
+      "pronome",
+      "avverbio",
+      "verbo"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Indica il tempo verbale della frase: “Io mangerò domani.” (variante 93)",
+    "options": [
+      "passato remoto",
+      "futuro semplice",
+      "passato prossimo",
+      "trapassato prossimo"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Qual è il plurale di “medico”? (variante 47)",
+    "options": [
+      "valigie",
+      "dita",
+      "amiche",
+      "medici"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Che parte del discorso è “casa”? (variante 71)",
+    "options": [
+      "congiunzione",
+      "nome",
+      "pronome",
+      "avverbio"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Completa correttamente: La classe è… (variante 42)",
+    "options": [
+      "silenziosi",
+      "silenzioso",
+      "silenziose",
+      "silenziosa"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Che parte del discorso è “ma”? (variante 59)",
+    "options": [
+      "pronome",
+      "congiunzione",
+      "nome",
+      "preposizione"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Indica il tempo verbale della frase: “Io sto leggendo.” (variante 54)",
+    "options": [
+      "presente (forma progressiva)",
+      "passato prossimo",
+      "imperfetto",
+      "passato remoto"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Qual è il plurale di “medico”? (variante 40)",
+    "options": [
+      "medici",
+      "amiche",
+      "città",
+      "valigie"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Che parte del discorso è “correre”? (variante 166)",
+    "options": [
+      "verbo",
+      "pronome",
+      "avverbio",
+      "aggettivo"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Che parte del discorso è “casa”? (variante 139)",
+    "options": [
+      "congiunzione",
+      "nome",
+      "pronome",
+      "aggettivo"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Che parte del discorso è “rapidamente”? (variante 161)",
+    "options": [
+      "verbo",
+      "avverbio",
+      "pronome",
+      "congiunzione"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è il plurale di “banca”? (variante 10)",
+    "options": [
+      "città",
+      "amiche",
+      "banche",
+      "arance"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Completa correttamente: Le ragazze sono… (variante 59)",
+    "options": [
+      "andato",
+      "andate",
+      "andata",
+      "andati"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Che parte del discorso è “ma”? (variante 13)",
+    "options": [
+      "pronome",
+      "aggettivo",
+      "congiunzione",
+      "nome"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Indica il tempo verbale della frase: “Io mangerò domani.” (variante 85)",
+    "options": [
+      "imperfetto",
+      "presente (forma progressiva)",
+      "trapassato prossimo",
+      "futuro semplice"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Completa correttamente: I bambini sono… (variante 110)",
+    "options": [
+      "felicissime",
+      "felici",
+      "felice",
+      "felicia"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Indica il tempo verbale della frase: “Loro studiavano spesso.” (variante 66)",
+    "options": [
+      "imperfetto",
+      "passato remoto",
+      "futuro semplice",
+      "presente (forma progressiva)"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Qual è il plurale di “dito”? (variante 100)",
+    "options": [
+      "amiche",
+      "dita",
+      "valigie",
+      "braccia"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Indica il tempo verbale della frase: “Io mangerò domani.” (variante 55)",
+    "options": [
+      "passato prossimo",
+      "futuro semplice",
+      "trapassato prossimo",
+      "presente (forma progressiva)"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Completa correttamente: Le ragazze sono… (variante 13)",
+    "options": [
+      "andate",
+      "andata",
+      "andato",
+      "andati"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è il plurale di “valigia”? (variante 60)",
+    "options": [
+      "arance",
+      "medici",
+      "braccia",
+      "valigie"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Che parte del discorso è “bello”? (variante 141)",
+    "options": [
+      "pronome",
+      "nome",
+      "aggettivo",
+      "aggettivo (4)"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Che parte del discorso è “e”? (variante 30)",
+    "options": [
+      "congiunzione",
+      "verbo",
+      "pronome",
+      "nome"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Che parte del discorso è “io”? (variante 144)",
+    "options": [
+      "congiunzione",
+      "preposizione",
+      "pronome",
+      "aggettivo"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Completa correttamente: I bambini sono… (variante 113)",
+    "options": [
+      "felici",
+      "felicia",
+      "felicissime",
+      "felice"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Che parte del discorso è “io”? (variante 12)",
+    "options": [
+      "congiunzione",
+      "nome",
+      "pronome",
+      "pronome (4)"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è il plurale di “città”? (variante 99)",
+    "options": [
+      "medici",
+      "banche",
+      "città",
+      "valigie"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è il plurale di “città”? (variante 43)",
+    "options": [
+      "uova",
+      "città",
+      "braccia",
+      "valigie"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Indica il tempo verbale della frase: “Noi abbiamo studiato.” (variante 57)",
+    "options": [
+      "futuro semplice",
+      "imperfetto",
+      "passato remoto",
+      "passato prossimo"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Che parte del discorso è “rapidamente”? (variante 120)",
+    "options": [
+      "aggettivo",
+      "avverbio",
+      "preposizione",
+      "pronome"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Che parte del discorso è “sopra”? (variante 49)",
+    "options": [
+      "verbo",
+      "pronome",
+      "preposizione",
+      "avverbio"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Che parte del discorso è “sopra”? (variante 63)",
+    "options": [
+      "aggettivo",
+      "avverbio",
+      "pronome",
+      "preposizione"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Che parte del discorso è “noi”? (variante 101)",
+    "options": [
+      "congiunzione",
+      "pronome",
+      "nome",
+      "preposizione"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Che parte del discorso è “io”? (variante 162)",
+    "options": [
+      "pronome",
+      "avverbio",
+      "congiunzione",
+      "pronome (4)"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Che parte del discorso è “rapidamente”? (variante 153)",
+    "options": [
+      "congiunzione",
+      "pronome",
+      "avverbio",
+      "aggettivo"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Che parte del discorso è “io”? (variante 187)",
+    "options": [
+      "preposizione",
+      "verbo",
+      "pronome",
+      "avverbio"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Completa correttamente: Il cane è… (variante 89)",
+    "options": [
+      "stanco",
+      "stanca",
+      "stanchi",
+      "stanche"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Indica il tempo verbale della frase: “Lei aveva finito.” (variante 70)",
+    "options": [
+      "futuro semplice",
+      "trapassato prossimo",
+      "imperfetto",
+      "passato prossimo"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Che parte del discorso è “casa”? (variante 86)",
+    "options": [
+      "aggettivo",
+      "nome",
+      "avverbio",
+      "preposizione"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Completa correttamente: I bambini sono… (variante 99)",
+    "options": [
+      "felicissime",
+      "felicia",
+      "felici",
+      "felice"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Che parte del discorso è “noi”? (variante 188)",
+    "options": [
+      "pronome",
+      "preposizione",
+      "congiunzione",
+      "nome"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Completa correttamente: I bambini sono… (variante 34)",
+    "options": [
+      "felice",
+      "felici",
+      "felicia",
+      "felicissime"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Indica il tempo verbale della frase: “Tu studiasti ieri.” (variante 74)",
+    "options": [
+      "passato prossimo",
+      "passato remoto",
+      "imperfetto",
+      "futuro semplice"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Che parte del discorso è “noi”? (variante 204)",
+    "options": [
+      "avverbio",
+      "nome",
+      "pronome",
+      "preposizione"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è il plurale di “amica”? (variante 128)",
+    "options": [
+      "braccia",
+      "amiche",
+      "dita",
+      "uova"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Completa correttamente: Le ragazze sono… (variante 65)",
+    "options": [
+      "andata",
+      "andati",
+      "andato",
+      "andate"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Che parte del discorso è “casa”? (variante 33)",
+    "options": [
+      "pronome",
+      "nome",
+      "nome (4)",
+      "avverbio"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Indica il tempo verbale della frase: “Io mangerò domani.” (variante 16)",
+    "options": [
+      "futuro semplice",
+      "imperfetto",
+      "presente (forma progressiva)",
+      "passato prossimo"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Indica il tempo verbale della frase: “Noi abbiamo studiato.” (variante 95)",
+    "options": [
+      "imperfetto",
+      "futuro semplice",
+      "passato prossimo",
+      "passato remoto"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Indica il tempo verbale della frase: “Tu studiasti ieri.” (variante 140)",
+    "options": [
+      "passato remoto",
+      "futuro semplice",
+      "imperfetto",
+      "trapassato prossimo"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Qual è il plurale di “medico”? (variante 87)",
+    "options": [
+      "città",
+      "arance",
+      "medici",
+      "valigie"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Indica il tempo verbale della frase: “Lei aveva finito.” (variante 36)",
+    "options": [
+      "trapassato prossimo",
+      "futuro semplice",
+      "passato prossimo",
+      "imperfetto"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Completa correttamente: I bambini sono… (variante 51)",
+    "options": [
+      "felice",
+      "felici",
+      "felicissime",
+      "felicia"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Che parte del discorso è “rapidamente”? (variante 91)",
+    "options": [
+      "avverbio",
+      "pronome",
+      "aggettivo",
+      "congiunzione"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Indica il tempo verbale della frase: “Noi abbiamo studiato.” (variante 123)",
+    "options": [
+      "trapassato prossimo",
+      "passato prossimo",
+      "passato remoto",
+      "presente (forma progressiva)"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Completa correttamente: Il cane è… (variante 8)",
+    "options": [
+      "stanca",
+      "stanchi",
+      "stanco",
+      "stanche"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Che parte del discorso è “casa”? (variante 77)",
+    "options": [
+      "verbo",
+      "avverbio",
+      "nome",
+      "congiunzione"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Che parte del discorso è “rapidamente”? (variante 19)",
+    "options": [
+      "preposizione",
+      "avverbio",
+      "pronome",
+      "congiunzione"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Che parte del discorso è “sopra”? (variante 176)",
+    "options": [
+      "preposizione (4)",
+      "avverbio",
+      "congiunzione",
+      "preposizione"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Indica il tempo verbale della frase: “Lei aveva finito.” (variante 117)",
+    "options": [
+      "trapassato prossimo",
+      "futuro semplice",
+      "passato prossimo",
+      "passato remoto"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Che parte del discorso è “rapidamente”? (variante 206)",
+    "options": [
+      "verbo",
+      "congiunzione",
+      "avverbio",
+      "pronome"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Che parte del discorso è “ma”? (variante 55)",
+    "options": [
+      "avverbio",
+      "congiunzione",
+      "preposizione",
+      "nome"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Indica il tempo verbale della frase: “Noi abbiamo studiato.” (variante 38)",
+    "options": [
+      "trapassato prossimo",
+      "passato prossimo",
+      "futuro semplice",
+      "presente (forma progressiva)"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Indica il tempo verbale della frase: “Noi abbiamo studiato.” (variante 39)",
+    "options": [
+      "passato remoto",
+      "passato prossimo",
+      "trapassato prossimo",
+      "futuro semplice"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Indica il tempo verbale della frase: “Noi abbiamo studiato.” (variante 20)",
+    "options": [
+      "presente (forma progressiva)",
+      "imperfetto",
+      "passato remoto",
+      "passato prossimo"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Che parte del discorso è “noi”? (variante 31)",
+    "options": [
+      "avverbio",
+      "congiunzione",
+      "aggettivo",
+      "pronome"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Che parte del discorso è “e”? (variante 199)",
+    "options": [
+      "nome",
+      "pronome",
+      "congiunzione",
+      "aggettivo"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Indica il tempo verbale della frase: “Io mangerò domani.” (variante 14)",
+    "options": [
+      "imperfetto",
+      "presente (forma progressiva)",
+      "futuro semplice",
+      "passato prossimo"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Che parte del discorso è “io”? (variante 151)",
+    "options": [
+      "pronome (4)",
+      "avverbio",
+      "pronome",
+      "preposizione"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Che parte del discorso è “casa”? (variante 103)",
+    "options": [
+      "preposizione",
+      "pronome",
+      "nome",
+      "avverbio"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Completa correttamente: I bambini sono… (variante 48)",
+    "options": [
+      "felicia",
+      "felicissime",
+      "felici",
+      "felice"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è il plurale di “dito”? (variante 32)",
+    "options": [
+      "braccia",
+      "dita",
+      "medici",
+      "banche"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Che parte del discorso è “sopra”? (variante 203)",
+    "options": [
+      "congiunzione",
+      "pronome",
+      "avverbio",
+      "preposizione"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Che parte del discorso è “correre”? (variante 169)",
+    "options": [
+      "congiunzione",
+      "preposizione",
+      "verbo",
+      "pronome"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Che parte del discorso è “noi”? (variante 133)",
+    "options": [
+      "nome",
+      "pronome",
+      "verbo",
+      "preposizione"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Indica il tempo verbale della frase: “Io mangerò domani.” (variante 53)",
+    "options": [
+      "passato prossimo",
+      "trapassato prossimo",
+      "futuro semplice",
+      "presente (forma progressiva)"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Qual è il plurale di “valigia”? (variante 39)",
+    "options": [
+      "arance",
+      "amiche",
+      "valigie",
+      "città"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Indica il tempo verbale della frase: “Tu studiasti ieri.” (variante 99)",
+    "options": [
+      "presente (forma progressiva)",
+      "futuro semplice",
+      "passato remoto",
+      "passato prossimo"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Completa correttamente: La classe è… (variante 52)",
+    "options": [
+      "silenzioso",
+      "silenziosa",
+      "silenziosi",
+      "silenziose"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è il plurale di “città”? (variante 51)",
+    "options": [
+      "banche",
+      "città",
+      "amiche",
+      "uova"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Che parte del discorso è “bello”? (variante 214)",
+    "options": [
+      "avverbio",
+      "aggettivo",
+      "preposizione",
+      "pronome"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Completa correttamente: Le ragazze sono… (variante 95)",
+    "options": [
+      "andata",
+      "andate",
+      "andati",
+      "andato"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Indica il tempo verbale della frase: “Io sto leggendo.” (variante 31)",
+    "options": [
+      "presente (forma progressiva)",
+      "passato prossimo",
+      "trapassato prossimo",
+      "passato remoto"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Qual è il plurale di “amica”? (variante 66)",
+    "options": [
+      "amiche",
+      "arance",
+      "banche",
+      "valigie"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Completa correttamente: Le ragazze sono… (variante 35)",
+    "options": [
+      "andato",
+      "andati",
+      "andata",
+      "andate"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Che parte del discorso è “bello”? (variante 88)",
+    "options": [
+      "aggettivo (4)",
+      "verbo",
+      "congiunzione",
+      "aggettivo"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Indica il tempo verbale della frase: “Io sto leggendo.” (variante 125)",
+    "options": [
+      "futuro semplice",
+      "presente (forma progressiva)",
+      "passato prossimo",
+      "imperfetto"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Indica il tempo verbale della frase: “Io mangerò domani.” (variante 56)",
+    "options": [
+      "futuro semplice",
+      "passato prossimo",
+      "passato remoto",
+      "trapassato prossimo"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Indica il tempo verbale della frase: “Loro studiavano spesso.” (variante 109)",
+    "options": [
+      "futuro semplice",
+      "presente (forma progressiva)",
+      "passato prossimo",
+      "imperfetto"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Che parte del discorso è “sempre”? (variante 3)",
+    "options": [
+      "nome",
+      "avverbio",
+      "pronome",
+      "verbo"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Che parte del discorso è “io”? (variante 150)",
+    "options": [
+      "pronome",
+      "avverbio",
+      "preposizione",
+      "pronome (4)"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Indica il tempo verbale della frase: “Noi abbiamo studiato.” (variante 108)",
+    "options": [
+      "trapassato prossimo",
+      "passato prossimo",
+      "imperfetto",
+      "passato remoto"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  }
+]

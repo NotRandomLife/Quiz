@@ -1,0 +1,3302 @@
+[
+  {
+    "q": "Astronomia: satellite naturale (variante 413)",
+    "options": [
+      "Corpo celeste che orbita una stella",
+      "Corpo che orbita un pianeta (es. la Luna)",
+      "Insieme enorme di stelle, gas e polveri",
+      "Traiettoria di un corpo attorno a un altro"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: pianeta (variante 332)",
+    "options": [
+      "Insieme enorme di stelle, gas e polveri",
+      "Corpo celeste che orbita una stella",
+      "Traiettoria di un corpo attorno a un altro",
+      "Corpo che orbita un pianeta (es. la Luna)"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: satellite naturale (variante 94)",
+    "options": [
+      "Insieme enorme di stelle, gas e polveri",
+      "Corpo che orbita un pianeta (es. la Luna)",
+      "Corpo celeste che produce energia tramite fusione nucleare",
+      "Distanza percorsa dalla luce in un anno"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: orbita (variante 9)",
+    "options": [
+      "Traiettoria di un corpo attorno a un altro",
+      "Insieme enorme di stelle, gas e polveri",
+      "Distanza percorsa dalla luce in un anno",
+      "Corpo celeste che produce energia tramite fusione nucleare"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: galassia (variante 107)",
+    "options": [
+      "Insieme enorme di stelle, gas e polveri",
+      "Corpo che orbita un pianeta (es. la Luna)",
+      "Corpo celeste che produce energia tramite fusione nucleare",
+      "Traiettoria di un corpo attorno a un altro"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: pianeta (variante 179)",
+    "options": [
+      "Corpo celeste che orbita una stella",
+      "Corpo che orbita un pianeta (es. la Luna)",
+      "Traiettoria di un corpo attorno a un altro",
+      "Insieme enorme di stelle, gas e polveri"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: pianeta (variante 299)",
+    "options": [
+      "Traiettoria di un corpo attorno a un altro",
+      "Insieme enorme di stelle, gas e polveri",
+      "Corpo celeste che orbita una stella",
+      "Distanza percorsa dalla luce in un anno"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: anno luce (variante 344)",
+    "options": [
+      "Corpo celeste che orbita una stella",
+      "Distanza percorsa dalla luce in un anno",
+      "Corpo che orbita un pianeta (es. la Luna)",
+      "Insieme enorme di stelle, gas e polveri"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: satellite naturale (variante 144)",
+    "options": [
+      "Corpo celeste che orbita una stella",
+      "Traiettoria di un corpo attorno a un altro",
+      "Insieme enorme di stelle, gas e polveri",
+      "Corpo che orbita un pianeta (es. la Luna)"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: anno luce (variante 46)",
+    "options": [
+      "Traiettoria di un corpo attorno a un altro",
+      "Distanza percorsa dalla luce in un anno",
+      "Corpo che orbita un pianeta (es. la Luna)",
+      "Insieme enorme di stelle, gas e polveri"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: pianeta (variante 38)",
+    "options": [
+      "Traiettoria di un corpo attorno a un altro",
+      "Corpo celeste che produce energia tramite fusione nucleare",
+      "Corpo che orbita un pianeta (es. la Luna)",
+      "Corpo celeste che orbita una stella"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: stella (variante 290)",
+    "options": [
+      "Corpo che orbita un pianeta (es. la Luna)",
+      "Corpo celeste che orbita una stella",
+      "Insieme enorme di stelle, gas e polveri",
+      "Corpo celeste che produce energia tramite fusione nucleare"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: galassia (variante 127)",
+    "options": [
+      "Corpo celeste che orbita una stella",
+      "Insieme enorme di stelle, gas e polveri",
+      "Traiettoria di un corpo attorno a un altro",
+      "Distanza percorsa dalla luce in un anno"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: orbita (variante 384)",
+    "options": [
+      "Corpo che orbita un pianeta (es. la Luna)",
+      "Distanza percorsa dalla luce in un anno",
+      "Corpo celeste che produce energia tramite fusione nucleare",
+      "Traiettoria di un corpo attorno a un altro"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: pianeta (variante 82)",
+    "options": [
+      "Insieme enorme di stelle, gas e polveri",
+      "Distanza percorsa dalla luce in un anno",
+      "Corpo celeste che orbita una stella",
+      "Traiettoria di un corpo attorno a un altro"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: galassia (variante 181)",
+    "options": [
+      "Traiettoria di un corpo attorno a un altro",
+      "Corpo celeste che orbita una stella",
+      "Insieme enorme di stelle, gas e polveri",
+      "Corpo che orbita un pianeta (es. la Luna)"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: stella (variante 142)",
+    "options": [
+      "Traiettoria di un corpo attorno a un altro",
+      "Corpo celeste che orbita una stella",
+      "Corpo che orbita un pianeta (es. la Luna)",
+      "Corpo celeste che produce energia tramite fusione nucleare"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: orbita (variante 274)",
+    "options": [
+      "Corpo celeste che produce energia tramite fusione nucleare",
+      "Traiettoria di un corpo attorno a un altro",
+      "Insieme enorme di stelle, gas e polveri",
+      "Corpo che orbita un pianeta (es. la Luna)"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: orbita (variante 283)",
+    "options": [
+      "Distanza percorsa dalla luce in un anno",
+      "Corpo celeste che produce energia tramite fusione nucleare",
+      "Corpo celeste che orbita una stella",
+      "Traiettoria di un corpo attorno a un altro"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: orbita (variante 399)",
+    "options": [
+      "Distanza percorsa dalla luce in un anno",
+      "Traiettoria di un corpo attorno a un altro",
+      "Corpo celeste che produce energia tramite fusione nucleare",
+      "Corpo che orbita un pianeta (es. la Luna)"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: satellite naturale (variante 176)",
+    "options": [
+      "Insieme enorme di stelle, gas e polveri",
+      "Distanza percorsa dalla luce in un anno",
+      "Corpo celeste che produce energia tramite fusione nucleare",
+      "Corpo che orbita un pianeta (es. la Luna)"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: orbita (variante 189)",
+    "options": [
+      "Corpo celeste che produce energia tramite fusione nucleare",
+      "Corpo che orbita un pianeta (es. la Luna)",
+      "Traiettoria di un corpo attorno a un altro",
+      "Corpo celeste che orbita una stella"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: satellite naturale (variante 315)",
+    "options": [
+      "Corpo celeste che orbita una stella",
+      "Traiettoria di un corpo attorno a un altro",
+      "Corpo che orbita un pianeta (es. la Luna)",
+      "Corpo celeste che produce energia tramite fusione nucleare"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: orbita (variante 126)",
+    "options": [
+      "Distanza percorsa dalla luce in un anno",
+      "Corpo celeste che orbita una stella",
+      "Traiettoria di un corpo attorno a un altro",
+      "Insieme enorme di stelle, gas e polveri"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: anno luce (variante 306)",
+    "options": [
+      "Corpo celeste che produce energia tramite fusione nucleare",
+      "Distanza percorsa dalla luce in un anno",
+      "Corpo celeste che orbita una stella",
+      "Traiettoria di un corpo attorno a un altro"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: anno luce (variante 417)",
+    "options": [
+      "Corpo che orbita un pianeta (es. la Luna)",
+      "Corpo celeste che orbita una stella",
+      "Distanza percorsa dalla luce in un anno",
+      "Traiettoria di un corpo attorno a un altro"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: anno luce (variante 279)",
+    "options": [
+      "Traiettoria di un corpo attorno a un altro",
+      "Corpo celeste che orbita una stella",
+      "Corpo che orbita un pianeta (es. la Luna)",
+      "Distanza percorsa dalla luce in un anno"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: anno luce (variante 262)",
+    "options": [
+      "Corpo celeste che produce energia tramite fusione nucleare",
+      "Distanza percorsa dalla luce in un anno",
+      "Traiettoria di un corpo attorno a un altro",
+      "Corpo che orbita un pianeta (es. la Luna)"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: galassia (variante 134)",
+    "options": [
+      "Insieme enorme di stelle, gas e polveri",
+      "Corpo celeste che orbita una stella",
+      "Corpo che orbita un pianeta (es. la Luna)",
+      "Corpo celeste che produce energia tramite fusione nucleare"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: satellite naturale (variante 232)",
+    "options": [
+      "Corpo che orbita un pianeta (es. la Luna)",
+      "Corpo celeste che orbita una stella",
+      "Insieme enorme di stelle, gas e polveri",
+      "Corpo celeste che produce energia tramite fusione nucleare"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: stella (variante 23)",
+    "options": [
+      "Corpo celeste che orbita una stella",
+      "Traiettoria di un corpo attorno a un altro",
+      "Corpo celeste che produce energia tramite fusione nucleare",
+      "Corpo che orbita un pianeta (es. la Luna)"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: galassia (variante 238)",
+    "options": [
+      "Traiettoria di un corpo attorno a un altro",
+      "Corpo celeste che produce energia tramite fusione nucleare",
+      "Corpo celeste che orbita una stella",
+      "Insieme enorme di stelle, gas e polveri"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: orbita (variante 51)",
+    "options": [
+      "Distanza percorsa dalla luce in un anno",
+      "Corpo celeste che orbita una stella",
+      "Traiettoria di un corpo attorno a un altro",
+      "Corpo celeste che produce energia tramite fusione nucleare"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: satellite naturale (variante 136)",
+    "options": [
+      "Corpo celeste che orbita una stella",
+      "Corpo che orbita un pianeta (es. la Luna)",
+      "Corpo celeste che produce energia tramite fusione nucleare",
+      "Insieme enorme di stelle, gas e polveri"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: anno luce (variante 184)",
+    "options": [
+      "Corpo celeste che orbita una stella",
+      "Corpo che orbita un pianeta (es. la Luna)",
+      "Distanza percorsa dalla luce in un anno",
+      "Traiettoria di un corpo attorno a un altro"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: pianeta (variante 130)",
+    "options": [
+      "Traiettoria di un corpo attorno a un altro",
+      "Corpo celeste che orbita una stella",
+      "Corpo che orbita un pianeta (es. la Luna)",
+      "Corpo celeste che produce energia tramite fusione nucleare"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: orbita (variante 103)",
+    "options": [
+      "Distanza percorsa dalla luce in un anno",
+      "Insieme enorme di stelle, gas e polveri",
+      "Traiettoria di un corpo attorno a un altro",
+      "Corpo celeste che produce energia tramite fusione nucleare"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: stella (variante 403)",
+    "options": [
+      "Distanza percorsa dalla luce in un anno",
+      "Corpo che orbita un pianeta (es. la Luna)",
+      "Traiettoria di un corpo attorno a un altro",
+      "Corpo celeste che produce energia tramite fusione nucleare"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: anno luce (variante 372)",
+    "options": [
+      "Distanza percorsa dalla luce in un anno",
+      "Insieme enorme di stelle, gas e polveri",
+      "Traiettoria di un corpo attorno a un altro",
+      "Corpo celeste che produce energia tramite fusione nucleare"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: anno luce (variante 133)",
+    "options": [
+      "Corpo celeste che orbita una stella",
+      "Corpo celeste che produce energia tramite fusione nucleare",
+      "Distanza percorsa dalla luce in un anno",
+      "Insieme enorme di stelle, gas e polveri"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: galassia (variante 80)",
+    "options": [
+      "Insieme enorme di stelle, gas e polveri",
+      "Traiettoria di un corpo attorno a un altro",
+      "Corpo celeste che orbita una stella",
+      "Distanza percorsa dalla luce in un anno"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: pianeta (variante 199)",
+    "options": [
+      "Insieme enorme di stelle, gas e polveri",
+      "Corpo celeste che orbita una stella",
+      "Traiettoria di un corpo attorno a un altro",
+      "Corpo che orbita un pianeta (es. la Luna)"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: pianeta (variante 418)",
+    "options": [
+      "Distanza percorsa dalla luce in un anno",
+      "Traiettoria di un corpo attorno a un altro",
+      "Corpo celeste che produce energia tramite fusione nucleare",
+      "Corpo celeste che orbita una stella"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: stella (variante 243)",
+    "options": [
+      "Traiettoria di un corpo attorno a un altro",
+      "Corpo celeste che produce energia tramite fusione nucleare",
+      "Insieme enorme di stelle, gas e polveri",
+      "Distanza percorsa dalla luce in un anno"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: stella (variante 414)",
+    "options": [
+      "Corpo che orbita un pianeta (es. la Luna)",
+      "Corpo celeste che orbita una stella",
+      "Corpo celeste che produce energia tramite fusione nucleare",
+      "Insieme enorme di stelle, gas e polveri"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: pianeta (variante 404)",
+    "options": [
+      "Corpo celeste che orbita una stella",
+      "Traiettoria di un corpo attorno a un altro",
+      "Insieme enorme di stelle, gas e polveri",
+      "Corpo che orbita un pianeta (es. la Luna)"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: stella (variante 76)",
+    "options": [
+      "Corpo celeste che orbita una stella",
+      "Corpo celeste che produce energia tramite fusione nucleare",
+      "Traiettoria di un corpo attorno a un altro",
+      "Distanza percorsa dalla luce in un anno"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: stella (variante 325)",
+    "options": [
+      "Corpo celeste che orbita una stella",
+      "Distanza percorsa dalla luce in un anno",
+      "Traiettoria di un corpo attorno a un altro",
+      "Corpo celeste che produce energia tramite fusione nucleare"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: stella (variante 210)",
+    "options": [
+      "Insieme enorme di stelle, gas e polveri",
+      "Traiettoria di un corpo attorno a un altro",
+      "Corpo celeste che orbita una stella",
+      "Corpo celeste che produce energia tramite fusione nucleare"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: pianeta (variante 360)",
+    "options": [
+      "Distanza percorsa dalla luce in un anno",
+      "Traiettoria di un corpo attorno a un altro",
+      "Corpo celeste che orbita una stella",
+      "Corpo che orbita un pianeta (es. la Luna)"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: orbita (variante 160)",
+    "options": [
+      "Corpo celeste che produce energia tramite fusione nucleare",
+      "Traiettoria di un corpo attorno a un altro",
+      "Corpo che orbita un pianeta (es. la Luna)",
+      "Insieme enorme di stelle, gas e polveri"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: satellite naturale (variante 31)",
+    "options": [
+      "Distanza percorsa dalla luce in un anno",
+      "Corpo celeste che produce energia tramite fusione nucleare",
+      "Insieme enorme di stelle, gas e polveri",
+      "Corpo che orbita un pianeta (es. la Luna)"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: pianeta (variante 138)",
+    "options": [
+      "Distanza percorsa dalla luce in un anno",
+      "Traiettoria di un corpo attorno a un altro",
+      "Insieme enorme di stelle, gas e polveri",
+      "Corpo celeste che orbita una stella"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: orbita (variante 49)",
+    "options": [
+      "Corpo che orbita un pianeta (es. la Luna)",
+      "Corpo celeste che produce energia tramite fusione nucleare",
+      "Traiettoria di un corpo attorno a un altro",
+      "Insieme enorme di stelle, gas e polveri"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: satellite naturale (variante 312)",
+    "options": [
+      "Corpo celeste che orbita una stella",
+      "Traiettoria di un corpo attorno a un altro",
+      "Distanza percorsa dalla luce in un anno",
+      "Corpo che orbita un pianeta (es. la Luna)"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: pianeta (variante 99)",
+    "options": [
+      "Corpo che orbita un pianeta (es. la Luna)",
+      "Distanza percorsa dalla luce in un anno",
+      "Corpo celeste che orbita una stella",
+      "Corpo celeste che produce energia tramite fusione nucleare"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: anno luce (variante 208)",
+    "options": [
+      "Distanza percorsa dalla luce in un anno",
+      "Corpo celeste che orbita una stella",
+      "Insieme enorme di stelle, gas e polveri",
+      "Corpo celeste che produce energia tramite fusione nucleare"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: satellite naturale (variante 401)",
+    "options": [
+      "Corpo che orbita un pianeta (es. la Luna)",
+      "Corpo celeste che produce energia tramite fusione nucleare",
+      "Traiettoria di un corpo attorno a un altro",
+      "Distanza percorsa dalla luce in un anno"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: satellite naturale (variante 244)",
+    "options": [
+      "Corpo celeste che produce energia tramite fusione nucleare",
+      "Insieme enorme di stelle, gas e polveri",
+      "Traiettoria di un corpo attorno a un altro",
+      "Corpo che orbita un pianeta (es. la Luna)"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: satellite naturale (variante 278)",
+    "options": [
+      "Corpo che orbita un pianeta (es. la Luna)",
+      "Corpo celeste che produce energia tramite fusione nucleare",
+      "Insieme enorme di stelle, gas e polveri",
+      "Corpo celeste che orbita una stella"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: anno luce (variante 1)",
+    "options": [
+      "Distanza percorsa dalla luce in un anno",
+      "Corpo celeste che produce energia tramite fusione nucleare",
+      "Traiettoria di un corpo attorno a un altro",
+      "Corpo che orbita un pianeta (es. la Luna)"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: pianeta (variante 336)",
+    "options": [
+      "Corpo che orbita un pianeta (es. la Luna)",
+      "Traiettoria di un corpo attorno a un altro",
+      "Corpo celeste che orbita una stella",
+      "Corpo celeste che produce energia tramite fusione nucleare"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: pianeta (variante 230)",
+    "options": [
+      "Insieme enorme di stelle, gas e polveri",
+      "Traiettoria di un corpo attorno a un altro",
+      "Corpo celeste che orbita una stella",
+      "Corpo celeste che produce energia tramite fusione nucleare"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: galassia (variante 56)",
+    "options": [
+      "Insieme enorme di stelle, gas e polveri",
+      "Corpo che orbita un pianeta (es. la Luna)",
+      "Corpo celeste che produce energia tramite fusione nucleare",
+      "Corpo celeste che orbita una stella"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: pianeta (variante 382)",
+    "options": [
+      "Corpo celeste che orbita una stella",
+      "Corpo celeste che produce energia tramite fusione nucleare",
+      "Insieme enorme di stelle, gas e polveri",
+      "Corpo che orbita un pianeta (es. la Luna)"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: anno luce (variante 191)",
+    "options": [
+      "Insieme enorme di stelle, gas e polveri",
+      "Corpo che orbita un pianeta (es. la Luna)",
+      "Corpo celeste che produce energia tramite fusione nucleare",
+      "Distanza percorsa dalla luce in un anno"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: galassia (variante 59)",
+    "options": [
+      "Corpo celeste che produce energia tramite fusione nucleare",
+      "Corpo che orbita un pianeta (es. la Luna)",
+      "Distanza percorsa dalla luce in un anno",
+      "Insieme enorme di stelle, gas e polveri"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: pianeta (variante 280)",
+    "options": [
+      "Traiettoria di un corpo attorno a un altro",
+      "Insieme enorme di stelle, gas e polveri",
+      "Corpo celeste che orbita una stella",
+      "Corpo celeste che produce energia tramite fusione nucleare"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: galassia (variante 305)",
+    "options": [
+      "Corpo celeste che produce energia tramite fusione nucleare",
+      "Insieme enorme di stelle, gas e polveri",
+      "Traiettoria di un corpo attorno a un altro",
+      "Distanza percorsa dalla luce in un anno"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: galassia (variante 302)",
+    "options": [
+      "Distanza percorsa dalla luce in un anno",
+      "Traiettoria di un corpo attorno a un altro",
+      "Insieme enorme di stelle, gas e polveri",
+      "Corpo celeste che orbita una stella"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: satellite naturale (variante 28)",
+    "options": [
+      "Corpo che orbita un pianeta (es. la Luna)",
+      "Corpo celeste che orbita una stella",
+      "Corpo celeste che produce energia tramite fusione nucleare",
+      "Insieme enorme di stelle, gas e polveri"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: stella (variante 165)",
+    "options": [
+      "Corpo che orbita un pianeta (es. la Luna)",
+      "Insieme enorme di stelle, gas e polveri",
+      "Corpo celeste che produce energia tramite fusione nucleare",
+      "Traiettoria di un corpo attorno a un altro"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: stella (variante 364)",
+    "options": [
+      "Traiettoria di un corpo attorno a un altro",
+      "Insieme enorme di stelle, gas e polveri",
+      "Corpo celeste che produce energia tramite fusione nucleare",
+      "Corpo che orbita un pianeta (es. la Luna)"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: galassia (variante 172)",
+    "options": [
+      "Insieme enorme di stelle, gas e polveri",
+      "Traiettoria di un corpo attorno a un altro",
+      "Corpo che orbita un pianeta (es. la Luna)",
+      "Distanza percorsa dalla luce in un anno"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: galassia (variante 227)",
+    "options": [
+      "Insieme enorme di stelle, gas e polveri",
+      "Traiettoria di un corpo attorno a un altro",
+      "Corpo celeste che produce energia tramite fusione nucleare",
+      "Distanza percorsa dalla luce in un anno"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: orbita (variante 164)",
+    "options": [
+      "Corpo celeste che produce energia tramite fusione nucleare",
+      "Traiettoria di un corpo attorno a un altro",
+      "Corpo che orbita un pianeta (es. la Luna)",
+      "Distanza percorsa dalla luce in un anno"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: orbita (variante 55)",
+    "options": [
+      "Corpo che orbita un pianeta (es. la Luna)",
+      "Corpo celeste che orbita una stella",
+      "Distanza percorsa dalla luce in un anno",
+      "Traiettoria di un corpo attorno a un altro"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: stella (variante 271)",
+    "options": [
+      "Distanza percorsa dalla luce in un anno",
+      "Traiettoria di un corpo attorno a un altro",
+      "Corpo celeste che produce energia tramite fusione nucleare",
+      "Corpo che orbita un pianeta (es. la Luna)"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: stella (variante 111)",
+    "options": [
+      "Corpo celeste che produce energia tramite fusione nucleare",
+      "Corpo che orbita un pianeta (es. la Luna)",
+      "Distanza percorsa dalla luce in un anno",
+      "Corpo celeste che orbita una stella"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: pianeta (variante 145)",
+    "options": [
+      "Distanza percorsa dalla luce in un anno",
+      "Corpo che orbita un pianeta (es. la Luna)",
+      "Traiettoria di un corpo attorno a un altro",
+      "Corpo celeste che orbita una stella"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: pianeta (variante 180)",
+    "options": [
+      "Traiettoria di un corpo attorno a un altro",
+      "Corpo celeste che orbita una stella",
+      "Distanza percorsa dalla luce in un anno",
+      "Insieme enorme di stelle, gas e polveri"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: anno luce (variante 263)",
+    "options": [
+      "Corpo che orbita un pianeta (es. la Luna)",
+      "Corpo celeste che produce energia tramite fusione nucleare",
+      "Insieme enorme di stelle, gas e polveri",
+      "Distanza percorsa dalla luce in un anno"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: galassia (variante 63)",
+    "options": [
+      "Corpo celeste che orbita una stella",
+      "Insieme enorme di stelle, gas e polveri",
+      "Traiettoria di un corpo attorno a un altro",
+      "Corpo che orbita un pianeta (es. la Luna)"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: pianeta (variante 156)",
+    "options": [
+      "Distanza percorsa dalla luce in un anno",
+      "Traiettoria di un corpo attorno a un altro",
+      "Corpo celeste che orbita una stella",
+      "Corpo che orbita un pianeta (es. la Luna)"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: orbita (variante 285)",
+    "options": [
+      "Traiettoria di un corpo attorno a un altro",
+      "Distanza percorsa dalla luce in un anno",
+      "Corpo celeste che produce energia tramite fusione nucleare",
+      "Insieme enorme di stelle, gas e polveri"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: orbita (variante 42)",
+    "options": [
+      "Corpo celeste che produce energia tramite fusione nucleare",
+      "Insieme enorme di stelle, gas e polveri",
+      "Corpo celeste che orbita una stella",
+      "Traiettoria di un corpo attorno a un altro"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: pianeta (variante 282)",
+    "options": [
+      "Distanza percorsa dalla luce in un anno",
+      "Corpo celeste che orbita una stella",
+      "Traiettoria di un corpo attorno a un altro",
+      "Insieme enorme di stelle, gas e polveri"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: anno luce (variante 326)",
+    "options": [
+      "Corpo che orbita un pianeta (es. la Luna)",
+      "Corpo celeste che orbita una stella",
+      "Corpo celeste che produce energia tramite fusione nucleare",
+      "Distanza percorsa dalla luce in un anno"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: orbita (variante 91)",
+    "options": [
+      "Corpo celeste che orbita una stella",
+      "Insieme enorme di stelle, gas e polveri",
+      "Traiettoria di un corpo attorno a un altro",
+      "Corpo che orbita un pianeta (es. la Luna)"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: orbita (variante 75)",
+    "options": [
+      "Insieme enorme di stelle, gas e polveri",
+      "Corpo celeste che orbita una stella",
+      "Distanza percorsa dalla luce in un anno",
+      "Traiettoria di un corpo attorno a un altro"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: galassia (variante 20)",
+    "options": [
+      "Insieme enorme di stelle, gas e polveri",
+      "Corpo celeste che produce energia tramite fusione nucleare",
+      "Corpo celeste che orbita una stella",
+      "Distanza percorsa dalla luce in un anno"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: satellite naturale (variante 412)",
+    "options": [
+      "Corpo che orbita un pianeta (es. la Luna)",
+      "Traiettoria di un corpo attorno a un altro",
+      "Distanza percorsa dalla luce in un anno",
+      "Insieme enorme di stelle, gas e polveri"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: anno luce (variante 343)",
+    "options": [
+      "Corpo che orbita un pianeta (es. la Luna)",
+      "Corpo celeste che produce energia tramite fusione nucleare",
+      "Insieme enorme di stelle, gas e polveri",
+      "Distanza percorsa dalla luce in un anno"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: galassia (variante 95)",
+    "options": [
+      "Corpo celeste che produce energia tramite fusione nucleare",
+      "Insieme enorme di stelle, gas e polveri",
+      "Distanza percorsa dalla luce in un anno",
+      "Traiettoria di un corpo attorno a un altro"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: anno luce (variante 319)",
+    "options": [
+      "Corpo celeste che orbita una stella",
+      "Insieme enorme di stelle, gas e polveri",
+      "Distanza percorsa dalla luce in un anno",
+      "Corpo che orbita un pianeta (es. la Luna)"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: satellite naturale (variante 393)",
+    "options": [
+      "Corpo celeste che produce energia tramite fusione nucleare",
+      "Corpo che orbita un pianeta (es. la Luna)",
+      "Insieme enorme di stelle, gas e polveri",
+      "Corpo celeste che orbita una stella"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: satellite naturale (variante 316)",
+    "options": [
+      "Distanza percorsa dalla luce in un anno",
+      "Insieme enorme di stelle, gas e polveri",
+      "Corpo celeste che produce energia tramite fusione nucleare",
+      "Corpo che orbita un pianeta (es. la Luna)"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: galassia (variante 154)",
+    "options": [
+      "Distanza percorsa dalla luce in un anno",
+      "Insieme enorme di stelle, gas e polveri",
+      "Corpo celeste che orbita una stella",
+      "Corpo che orbita un pianeta (es. la Luna)"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: pianeta (variante 202)",
+    "options": [
+      "Corpo celeste che orbita una stella",
+      "Traiettoria di un corpo attorno a un altro",
+      "Corpo che orbita un pianeta (es. la Luna)",
+      "Insieme enorme di stelle, gas e polveri"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: pianeta (variante 322)",
+    "options": [
+      "Traiettoria di un corpo attorno a un altro",
+      "Corpo celeste che orbita una stella",
+      "Corpo che orbita un pianeta (es. la Luna)",
+      "Insieme enorme di stelle, gas e polveri"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: pianeta (variante 380)",
+    "options": [
+      "Corpo che orbita un pianeta (es. la Luna)",
+      "Corpo celeste che orbita una stella",
+      "Insieme enorme di stelle, gas e polveri",
+      "Distanza percorsa dalla luce in un anno"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: stella (variante 235)",
+    "options": [
+      "Distanza percorsa dalla luce in un anno",
+      "Corpo che orbita un pianeta (es. la Luna)",
+      "Corpo celeste che produce energia tramite fusione nucleare",
+      "Traiettoria di un corpo attorno a un altro"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: pianeta (variante 330)",
+    "options": [
+      "Traiettoria di un corpo attorno a un altro",
+      "Corpo celeste che orbita una stella",
+      "Corpo che orbita un pianeta (es. la Luna)",
+      "Corpo celeste che produce energia tramite fusione nucleare"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: stella (variante 150)",
+    "options": [
+      "Traiettoria di un corpo attorno a un altro",
+      "Corpo celeste che produce energia tramite fusione nucleare",
+      "Corpo che orbita un pianeta (es. la Luna)",
+      "Distanza percorsa dalla luce in un anno"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: stella (variante 131)",
+    "options": [
+      "Distanza percorsa dalla luce in un anno",
+      "Insieme enorme di stelle, gas e polveri",
+      "Corpo celeste che orbita una stella",
+      "Corpo celeste che produce energia tramite fusione nucleare"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: satellite naturale (variante 182)",
+    "options": [
+      "Distanza percorsa dalla luce in un anno",
+      "Corpo celeste che produce energia tramite fusione nucleare",
+      "Traiettoria di un corpo attorno a un altro",
+      "Corpo che orbita un pianeta (es. la Luna)"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: orbita (variante 373)",
+    "options": [
+      "Traiettoria di un corpo attorno a un altro",
+      "Corpo celeste che orbita una stella",
+      "Distanza percorsa dalla luce in un anno",
+      "Corpo che orbita un pianeta (es. la Luna)"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: anno luce (variante 327)",
+    "options": [
+      "Distanza percorsa dalla luce in un anno",
+      "Insieme enorme di stelle, gas e polveri",
+      "Corpo che orbita un pianeta (es. la Luna)",
+      "Corpo celeste che produce energia tramite fusione nucleare"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: satellite naturale (variante 60)",
+    "options": [
+      "Corpo celeste che orbita una stella",
+      "Corpo che orbita un pianeta (es. la Luna)",
+      "Traiettoria di un corpo attorno a un altro",
+      "Insieme enorme di stelle, gas e polveri"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: orbita (variante 369)",
+    "options": [
+      "Corpo celeste che orbita una stella",
+      "Distanza percorsa dalla luce in un anno",
+      "Traiettoria di un corpo attorno a un altro",
+      "Insieme enorme di stelle, gas e polveri"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: satellite naturale (variante 378)",
+    "options": [
+      "Insieme enorme di stelle, gas e polveri",
+      "Corpo celeste che orbita una stella",
+      "Corpo che orbita un pianeta (es. la Luna)",
+      "Traiettoria di un corpo attorno a un altro"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: galassia (variante 125)",
+    "options": [
+      "Insieme enorme di stelle, gas e polveri",
+      "Distanza percorsa dalla luce in un anno",
+      "Corpo celeste che produce energia tramite fusione nucleare",
+      "Corpo che orbita un pianeta (es. la Luna)"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: pianeta (variante 149)",
+    "options": [
+      "Corpo celeste che orbita una stella",
+      "Corpo celeste che produce energia tramite fusione nucleare",
+      "Corpo che orbita un pianeta (es. la Luna)",
+      "Distanza percorsa dalla luce in un anno"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: stella (variante 362)",
+    "options": [
+      "Corpo celeste che produce energia tramite fusione nucleare",
+      "Corpo che orbita un pianeta (es. la Luna)",
+      "Insieme enorme di stelle, gas e polveri",
+      "Corpo celeste che orbita una stella"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: orbita (variante 349)",
+    "options": [
+      "Corpo celeste che orbita una stella",
+      "Distanza percorsa dalla luce in un anno",
+      "Insieme enorme di stelle, gas e polveri",
+      "Traiettoria di un corpo attorno a un altro"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: orbita (variante 161)",
+    "options": [
+      "Distanza percorsa dalla luce in un anno",
+      "Corpo che orbita un pianeta (es. la Luna)",
+      "Corpo celeste che produce energia tramite fusione nucleare",
+      "Traiettoria di un corpo attorno a un altro"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: pianeta (variante 169)",
+    "options": [
+      "Insieme enorme di stelle, gas e polveri",
+      "Corpo celeste che orbita una stella",
+      "Distanza percorsa dalla luce in un anno",
+      "Traiettoria di un corpo attorno a un altro"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: stella (variante 291)",
+    "options": [
+      "Insieme enorme di stelle, gas e polveri",
+      "Corpo celeste che produce energia tramite fusione nucleare",
+      "Corpo celeste che orbita una stella",
+      "Traiettoria di un corpo attorno a un altro"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: galassia (variante 114)",
+    "options": [
+      "Corpo celeste che produce energia tramite fusione nucleare",
+      "Distanza percorsa dalla luce in un anno",
+      "Insieme enorme di stelle, gas e polveri",
+      "Corpo celeste che orbita una stella"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: galassia (variante 192)",
+    "options": [
+      "Traiettoria di un corpo attorno a un altro",
+      "Corpo celeste che produce energia tramite fusione nucleare",
+      "Insieme enorme di stelle, gas e polveri",
+      "Distanza percorsa dalla luce in un anno"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: galassia (variante 124)",
+    "options": [
+      "Corpo che orbita un pianeta (es. la Luna)",
+      "Traiettoria di un corpo attorno a un altro",
+      "Insieme enorme di stelle, gas e polveri",
+      "Corpo celeste che produce energia tramite fusione nucleare"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: anno luce (variante 237)",
+    "options": [
+      "Insieme enorme di stelle, gas e polveri",
+      "Corpo celeste che orbita una stella",
+      "Distanza percorsa dalla luce in un anno",
+      "Corpo che orbita un pianeta (es. la Luna)"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: stella (variante 294)",
+    "options": [
+      "Corpo celeste che orbita una stella",
+      "Traiettoria di un corpo attorno a un altro",
+      "Corpo che orbita un pianeta (es. la Luna)",
+      "Corpo celeste che produce energia tramite fusione nucleare"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: stella (variante 289)",
+    "options": [
+      "Distanza percorsa dalla luce in un anno",
+      "Corpo celeste che produce energia tramite fusione nucleare",
+      "Corpo che orbita un pianeta (es. la Luna)",
+      "Traiettoria di un corpo attorno a un altro"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: anno luce (variante 93)",
+    "options": [
+      "Corpo celeste che produce energia tramite fusione nucleare",
+      "Corpo celeste che orbita una stella",
+      "Corpo che orbita un pianeta (es. la Luna)",
+      "Distanza percorsa dalla luce in un anno"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: galassia (variante 288)",
+    "options": [
+      "Insieme enorme di stelle, gas e polveri",
+      "Traiettoria di un corpo attorno a un altro",
+      "Corpo celeste che orbita una stella",
+      "Corpo celeste che produce energia tramite fusione nucleare"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: pianeta (variante 339)",
+    "options": [
+      "Corpo che orbita un pianeta (es. la Luna)",
+      "Distanza percorsa dalla luce in un anno",
+      "Traiettoria di un corpo attorno a un altro",
+      "Corpo celeste che orbita una stella"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: anno luce (variante 193)",
+    "options": [
+      "Traiettoria di un corpo attorno a un altro",
+      "Corpo celeste che produce energia tramite fusione nucleare",
+      "Distanza percorsa dalla luce in un anno",
+      "Corpo che orbita un pianeta (es. la Luna)"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: galassia (variante 16)",
+    "options": [
+      "Traiettoria di un corpo attorno a un altro",
+      "Insieme enorme di stelle, gas e polveri",
+      "Distanza percorsa dalla luce in un anno",
+      "Corpo celeste che orbita una stella"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: anno luce (variante 168)",
+    "options": [
+      "Corpo celeste che orbita una stella",
+      "Distanza percorsa dalla luce in un anno",
+      "Corpo che orbita un pianeta (es. la Luna)",
+      "Insieme enorme di stelle, gas e polveri"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: anno luce (variante 346)",
+    "options": [
+      "Corpo celeste che produce energia tramite fusione nucleare",
+      "Traiettoria di un corpo attorno a un altro",
+      "Distanza percorsa dalla luce in un anno",
+      "Insieme enorme di stelle, gas e polveri"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: pianeta (variante 62)",
+    "options": [
+      "Traiettoria di un corpo attorno a un altro",
+      "Distanza percorsa dalla luce in un anno",
+      "Insieme enorme di stelle, gas e polveri",
+      "Corpo celeste che orbita una stella"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: pianeta (variante 363)",
+    "options": [
+      "Distanza percorsa dalla luce in un anno",
+      "Insieme enorme di stelle, gas e polveri",
+      "Corpo celeste che orbita una stella",
+      "Corpo che orbita un pianeta (es. la Luna)"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: pianeta (variante 50)",
+    "options": [
+      "Insieme enorme di stelle, gas e polveri",
+      "Corpo celeste che orbita una stella",
+      "Distanza percorsa dalla luce in un anno",
+      "Corpo che orbita un pianeta (es. la Luna)"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: galassia (variante 374)",
+    "options": [
+      "Distanza percorsa dalla luce in un anno",
+      "Corpo celeste che produce energia tramite fusione nucleare",
+      "Insieme enorme di stelle, gas e polveri",
+      "Corpo celeste che orbita una stella"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: stella (variante 12)",
+    "options": [
+      "Corpo celeste che produce energia tramite fusione nucleare",
+      "Traiettoria di un corpo attorno a un altro",
+      "Distanza percorsa dalla luce in un anno",
+      "Corpo che orbita un pianeta (es. la Luna)"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: satellite naturale (variante 8)",
+    "options": [
+      "Corpo che orbita un pianeta (es. la Luna)",
+      "Corpo celeste che orbita una stella",
+      "Insieme enorme di stelle, gas e polveri",
+      "Corpo celeste che produce energia tramite fusione nucleare"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: stella (variante 207)",
+    "options": [
+      "Insieme enorme di stelle, gas e polveri",
+      "Corpo celeste che orbita una stella",
+      "Corpo celeste che produce energia tramite fusione nucleare",
+      "Traiettoria di un corpo attorno a un altro"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: galassia (variante 410)",
+    "options": [
+      "Corpo celeste che produce energia tramite fusione nucleare",
+      "Distanza percorsa dalla luce in un anno",
+      "Corpo celeste che orbita una stella",
+      "Insieme enorme di stelle, gas e polveri"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: galassia (variante 47)",
+    "options": [
+      "Insieme enorme di stelle, gas e polveri",
+      "Traiettoria di un corpo attorno a un altro",
+      "Corpo che orbita un pianeta (es. la Luna)",
+      "Corpo celeste che orbita una stella"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: orbita (variante 85)",
+    "options": [
+      "Distanza percorsa dalla luce in un anno",
+      "Corpo che orbita un pianeta (es. la Luna)",
+      "Traiettoria di un corpo attorno a un altro",
+      "Corpo celeste che produce energia tramite fusione nucleare"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: anno luce (variante 173)",
+    "options": [
+      "Corpo celeste che produce energia tramite fusione nucleare",
+      "Insieme enorme di stelle, gas e polveri",
+      "Distanza percorsa dalla luce in un anno",
+      "Corpo che orbita un pianeta (es. la Luna)"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: orbita (variante 209)",
+    "options": [
+      "Corpo che orbita un pianeta (es. la Luna)",
+      "Traiettoria di un corpo attorno a un altro",
+      "Distanza percorsa dalla luce in un anno",
+      "Corpo celeste che produce energia tramite fusione nucleare"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: pianeta (variante 338)",
+    "options": [
+      "Insieme enorme di stelle, gas e polveri",
+      "Distanza percorsa dalla luce in un anno",
+      "Corpo celeste che orbita una stella",
+      "Corpo che orbita un pianeta (es. la Luna)"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: stella (variante 317)",
+    "options": [
+      "Corpo celeste che produce energia tramite fusione nucleare",
+      "Distanza percorsa dalla luce in un anno",
+      "Insieme enorme di stelle, gas e polveri",
+      "Traiettoria di un corpo attorno a un altro"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: stella (variante 74)",
+    "options": [
+      "Corpo celeste che orbita una stella",
+      "Traiettoria di un corpo attorno a un altro",
+      "Insieme enorme di stelle, gas e polveri",
+      "Corpo celeste che produce energia tramite fusione nucleare"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: stella (variante 68)",
+    "options": [
+      "Corpo che orbita un pianeta (es. la Luna)",
+      "Corpo celeste che produce energia tramite fusione nucleare",
+      "Corpo celeste che orbita una stella",
+      "Traiettoria di un corpo attorno a un altro"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: anno luce (variante 129)",
+    "options": [
+      "Corpo celeste che orbita una stella",
+      "Corpo che orbita un pianeta (es. la Luna)",
+      "Distanza percorsa dalla luce in un anno",
+      "Insieme enorme di stelle, gas e polveri"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: stella (variante 83)",
+    "options": [
+      "Corpo celeste che produce energia tramite fusione nucleare",
+      "Distanza percorsa dalla luce in un anno",
+      "Traiettoria di un corpo attorno a un altro",
+      "Corpo celeste che orbita una stella"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: stella (variante 342)",
+    "options": [
+      "Corpo celeste che produce energia tramite fusione nucleare",
+      "Corpo che orbita un pianeta (es. la Luna)",
+      "Traiettoria di un corpo attorno a un altro",
+      "Distanza percorsa dalla luce in un anno"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: orbita (variante 331)",
+    "options": [
+      "Corpo celeste che produce energia tramite fusione nucleare",
+      "Corpo che orbita un pianeta (es. la Luna)",
+      "Corpo celeste che orbita una stella",
+      "Traiettoria di un corpo attorno a un altro"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: satellite naturale (variante 32)",
+    "options": [
+      "Corpo che orbita un pianeta (es. la Luna)",
+      "Traiettoria di un corpo attorno a un altro",
+      "Corpo celeste che produce energia tramite fusione nucleare",
+      "Distanza percorsa dalla luce in un anno"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: pianeta (variante 206)",
+    "options": [
+      "Insieme enorme di stelle, gas e polveri",
+      "Corpo che orbita un pianeta (es. la Luna)",
+      "Corpo celeste che orbita una stella",
+      "Corpo celeste che produce energia tramite fusione nucleare"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: orbita (variante 402)",
+    "options": [
+      "Insieme enorme di stelle, gas e polveri",
+      "Traiettoria di un corpo attorno a un altro",
+      "Corpo che orbita un pianeta (es. la Luna)",
+      "Corpo celeste che orbita una stella"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: pianeta (variante 361)",
+    "options": [
+      "Traiettoria di un corpo attorno a un altro",
+      "Distanza percorsa dalla luce in un anno",
+      "Corpo che orbita un pianeta (es. la Luna)",
+      "Corpo celeste che orbita una stella"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: orbita (variante 252)",
+    "options": [
+      "Traiettoria di un corpo attorno a un altro",
+      "Insieme enorme di stelle, gas e polveri",
+      "Corpo celeste che orbita una stella",
+      "Distanza percorsa dalla luce in un anno"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: galassia (variante 370)",
+    "options": [
+      "Corpo celeste che produce energia tramite fusione nucleare",
+      "Corpo che orbita un pianeta (es. la Luna)",
+      "Insieme enorme di stelle, gas e polveri",
+      "Corpo celeste che orbita una stella"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: stella (variante 66)",
+    "options": [
+      "Traiettoria di un corpo attorno a un altro",
+      "Insieme enorme di stelle, gas e polveri",
+      "Corpo che orbita un pianeta (es. la Luna)",
+      "Corpo celeste che produce energia tramite fusione nucleare"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: pianeta (variante 18)",
+    "options": [
+      "Distanza percorsa dalla luce in un anno",
+      "Corpo che orbita un pianeta (es. la Luna)",
+      "Traiettoria di un corpo attorno a un altro",
+      "Corpo celeste che orbita una stella"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: satellite naturale (variante 333)",
+    "options": [
+      "Corpo che orbita un pianeta (es. la Luna)",
+      "Corpo celeste che produce energia tramite fusione nucleare",
+      "Insieme enorme di stelle, gas e polveri",
+      "Corpo celeste che orbita una stella"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: pianeta (variante 185)",
+    "options": [
+      "Distanza percorsa dalla luce in un anno",
+      "Corpo che orbita un pianeta (es. la Luna)",
+      "Corpo celeste che orbita una stella",
+      "Corpo celeste che produce energia tramite fusione nucleare"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: pianeta (variante 61)",
+    "options": [
+      "Traiettoria di un corpo attorno a un altro",
+      "Insieme enorme di stelle, gas e polveri",
+      "Corpo che orbita un pianeta (es. la Luna)",
+      "Corpo celeste che orbita una stella"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: galassia (variante 65)",
+    "options": [
+      "Traiettoria di un corpo attorno a un altro",
+      "Corpo celeste che orbita una stella",
+      "Corpo che orbita un pianeta (es. la Luna)",
+      "Insieme enorme di stelle, gas e polveri"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: anno luce (variante 17)",
+    "options": [
+      "Corpo celeste che orbita una stella",
+      "Insieme enorme di stelle, gas e polveri",
+      "Traiettoria di un corpo attorno a un altro",
+      "Distanza percorsa dalla luce in un anno"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: galassia (variante 152)",
+    "options": [
+      "Insieme enorme di stelle, gas e polveri",
+      "Corpo che orbita un pianeta (es. la Luna)",
+      "Traiettoria di un corpo attorno a un altro",
+      "Corpo celeste che produce energia tramite fusione nucleare"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: orbita (variante 390)",
+    "options": [
+      "Corpo celeste che produce energia tramite fusione nucleare",
+      "Corpo che orbita un pianeta (es. la Luna)",
+      "Insieme enorme di stelle, gas e polveri",
+      "Traiettoria di un corpo attorno a un altro"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: galassia (variante 58)",
+    "options": [
+      "Insieme enorme di stelle, gas e polveri",
+      "Corpo celeste che orbita una stella",
+      "Corpo che orbita un pianeta (es. la Luna)",
+      "Distanza percorsa dalla luce in un anno"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: orbita (variante 217)",
+    "options": [
+      "Traiettoria di un corpo attorno a un altro",
+      "Distanza percorsa dalla luce in un anno",
+      "Corpo celeste che produce energia tramite fusione nucleare",
+      "Corpo che orbita un pianeta (es. la Luna)"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: galassia (variante 81)",
+    "options": [
+      "Corpo celeste che orbita una stella",
+      "Corpo celeste che produce energia tramite fusione nucleare",
+      "Insieme enorme di stelle, gas e polveri",
+      "Traiettoria di un corpo attorno a un altro"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: pianeta (variante 318)",
+    "options": [
+      "Distanza percorsa dalla luce in un anno",
+      "Corpo che orbita un pianeta (es. la Luna)",
+      "Corpo celeste che produce energia tramite fusione nucleare",
+      "Corpo celeste che orbita una stella"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: anno luce (variante 215)",
+    "options": [
+      "Insieme enorme di stelle, gas e polveri",
+      "Corpo che orbita un pianeta (es. la Luna)",
+      "Distanza percorsa dalla luce in un anno",
+      "Corpo celeste che orbita una stella"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: orbita (variante 64)",
+    "options": [
+      "Traiettoria di un corpo attorno a un altro",
+      "Distanza percorsa dalla luce in un anno",
+      "Insieme enorme di stelle, gas e polveri",
+      "Corpo celeste che orbita una stella"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: galassia (variante 295)",
+    "options": [
+      "Corpo celeste che orbita una stella",
+      "Corpo celeste che produce energia tramite fusione nucleare",
+      "Insieme enorme di stelle, gas e polveri",
+      "Corpo che orbita un pianeta (es. la Luna)"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: pianeta (variante 90)",
+    "options": [
+      "Corpo celeste che orbita una stella",
+      "Distanza percorsa dalla luce in un anno",
+      "Insieme enorme di stelle, gas e polveri",
+      "Traiettoria di un corpo attorno a un altro"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: orbita (variante 221)",
+    "options": [
+      "Corpo celeste che orbita una stella",
+      "Distanza percorsa dalla luce in un anno",
+      "Insieme enorme di stelle, gas e polveri",
+      "Traiettoria di un corpo attorno a un altro"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: orbita (variante 277)",
+    "options": [
+      "Corpo celeste che orbita una stella",
+      "Insieme enorme di stelle, gas e polveri",
+      "Traiettoria di un corpo attorno a un altro",
+      "Corpo celeste che produce energia tramite fusione nucleare"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: satellite naturale (variante 320)",
+    "options": [
+      "Corpo che orbita un pianeta (es. la Luna)",
+      "Corpo celeste che orbita una stella",
+      "Insieme enorme di stelle, gas e polveri",
+      "Distanza percorsa dalla luce in un anno"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: galassia (variante 48)",
+    "options": [
+      "Corpo celeste che orbita una stella",
+      "Distanza percorsa dalla luce in un anno",
+      "Insieme enorme di stelle, gas e polveri",
+      "Corpo celeste che produce energia tramite fusione nucleare"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: galassia (variante 196)",
+    "options": [
+      "Corpo celeste che produce energia tramite fusione nucleare",
+      "Corpo che orbita un pianeta (es. la Luna)",
+      "Insieme enorme di stelle, gas e polveri",
+      "Traiettoria di un corpo attorno a un altro"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: stella (variante 234)",
+    "options": [
+      "Corpo celeste che produce energia tramite fusione nucleare",
+      "Insieme enorme di stelle, gas e polveri",
+      "Distanza percorsa dalla luce in un anno",
+      "Corpo celeste che orbita una stella"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: satellite naturale (variante 119)",
+    "options": [
+      "Corpo che orbita un pianeta (es. la Luna)",
+      "Corpo celeste che orbita una stella",
+      "Distanza percorsa dalla luce in un anno",
+      "Insieme enorme di stelle, gas e polveri"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: orbita (variante 311)",
+    "options": [
+      "Corpo celeste che produce energia tramite fusione nucleare",
+      "Insieme enorme di stelle, gas e polveri",
+      "Corpo che orbita un pianeta (es. la Luna)",
+      "Traiettoria di un corpo attorno a un altro"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: galassia (variante 323)",
+    "options": [
+      "Corpo che orbita un pianeta (es. la Luna)",
+      "Distanza percorsa dalla luce in un anno",
+      "Insieme enorme di stelle, gas e polveri",
+      "Traiettoria di un corpo attorno a un altro"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: galassia (variante 388)",
+    "options": [
+      "Corpo celeste che orbita una stella",
+      "Insieme enorme di stelle, gas e polveri",
+      "Traiettoria di un corpo attorno a un altro",
+      "Distanza percorsa dalla luce in un anno"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: satellite naturale (variante 201)",
+    "options": [
+      "Corpo che orbita un pianeta (es. la Luna)",
+      "Corpo celeste che produce energia tramite fusione nucleare",
+      "Insieme enorme di stelle, gas e polveri",
+      "Corpo celeste che orbita una stella"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: anno luce (variante 257)",
+    "options": [
+      "Traiettoria di un corpo attorno a un altro",
+      "Distanza percorsa dalla luce in un anno",
+      "Corpo celeste che orbita una stella",
+      "Corpo celeste che produce energia tramite fusione nucleare"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: anno luce (variante 166)",
+    "options": [
+      "Corpo celeste che produce energia tramite fusione nucleare",
+      "Traiettoria di un corpo attorno a un altro",
+      "Distanza percorsa dalla luce in un anno",
+      "Insieme enorme di stelle, gas e polveri"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: orbita (variante 408)",
+    "options": [
+      "Distanza percorsa dalla luce in un anno",
+      "Traiettoria di un corpo attorno a un altro",
+      "Corpo che orbita un pianeta (es. la Luna)",
+      "Corpo celeste che orbita una stella"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: stella (variante 132)",
+    "options": [
+      "Corpo celeste che produce energia tramite fusione nucleare",
+      "Insieme enorme di stelle, gas e polveri",
+      "Traiettoria di un corpo attorno a un altro",
+      "Corpo che orbita un pianeta (es. la Luna)"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: pianeta (variante 258)",
+    "options": [
+      "Traiettoria di un corpo attorno a un altro",
+      "Corpo che orbita un pianeta (es. la Luna)",
+      "Insieme enorme di stelle, gas e polveri",
+      "Corpo celeste che orbita una stella"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: pianeta (variante 108)",
+    "options": [
+      "Distanza percorsa dalla luce in un anno",
+      "Corpo celeste che orbita una stella",
+      "Corpo celeste che produce energia tramite fusione nucleare",
+      "Traiettoria di un corpo attorno a un altro"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: orbita (variante 383)",
+    "options": [
+      "Traiettoria di un corpo attorno a un altro",
+      "Corpo celeste che orbita una stella",
+      "Corpo che orbita un pianeta (es. la Luna)",
+      "Corpo celeste che produce energia tramite fusione nucleare"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: pianeta (variante 39)",
+    "options": [
+      "Insieme enorme di stelle, gas e polveri",
+      "Corpo che orbita un pianeta (es. la Luna)",
+      "Corpo celeste che orbita una stella",
+      "Distanza percorsa dalla luce in un anno"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: galassia (variante 358)",
+    "options": [
+      "Corpo celeste che produce energia tramite fusione nucleare",
+      "Traiettoria di un corpo attorno a un altro",
+      "Distanza percorsa dalla luce in un anno",
+      "Insieme enorme di stelle, gas e polveri"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: satellite naturale (variante 153)",
+    "options": [
+      "Distanza percorsa dalla luce in un anno",
+      "Traiettoria di un corpo attorno a un altro",
+      "Corpo celeste che orbita una stella",
+      "Corpo che orbita un pianeta (es. la Luna)"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: stella (variante 304)",
+    "options": [
+      "Distanza percorsa dalla luce in un anno",
+      "Traiettoria di un corpo attorno a un altro",
+      "Corpo celeste che orbita una stella",
+      "Corpo celeste che produce energia tramite fusione nucleare"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: satellite naturale (variante 275)",
+    "options": [
+      "Corpo che orbita un pianeta (es. la Luna)",
+      "Corpo celeste che produce energia tramite fusione nucleare",
+      "Distanza percorsa dalla luce in un anno",
+      "Traiettoria di un corpo attorno a un altro"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: orbita (variante 247)",
+    "options": [
+      "Traiettoria di un corpo attorno a un altro",
+      "Corpo che orbita un pianeta (es. la Luna)",
+      "Corpo celeste che orbita una stella",
+      "Corpo celeste che produce energia tramite fusione nucleare"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: stella (variante 420)",
+    "options": [
+      "Insieme enorme di stelle, gas e polveri",
+      "Corpo che orbita un pianeta (es. la Luna)",
+      "Distanza percorsa dalla luce in un anno",
+      "Corpo celeste che produce energia tramite fusione nucleare"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: orbita (variante 265)",
+    "options": [
+      "Insieme enorme di stelle, gas e polveri",
+      "Corpo celeste che produce energia tramite fusione nucleare",
+      "Traiettoria di un corpo attorno a un altro",
+      "Distanza percorsa dalla luce in un anno"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: stella (variante 4)",
+    "options": [
+      "Distanza percorsa dalla luce in un anno",
+      "Corpo celeste che produce energia tramite fusione nucleare",
+      "Corpo celeste che orbita una stella",
+      "Traiettoria di un corpo attorno a un altro"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: pianeta (variante 273)",
+    "options": [
+      "Corpo celeste che produce energia tramite fusione nucleare",
+      "Distanza percorsa dalla luce in un anno",
+      "Insieme enorme di stelle, gas e polveri",
+      "Corpo celeste che orbita una stella"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: pianeta (variante 70)",
+    "options": [
+      "Distanza percorsa dalla luce in un anno",
+      "Corpo celeste che produce energia tramite fusione nucleare",
+      "Corpo celeste che orbita una stella",
+      "Corpo che orbita un pianeta (es. la Luna)"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: galassia (variante 77)",
+    "options": [
+      "Traiettoria di un corpo attorno a un altro",
+      "Insieme enorme di stelle, gas e polveri",
+      "Distanza percorsa dalla luce in un anno",
+      "Corpo celeste che produce energia tramite fusione nucleare"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: stella (variante 411)",
+    "options": [
+      "Distanza percorsa dalla luce in un anno",
+      "Traiettoria di un corpo attorno a un altro",
+      "Insieme enorme di stelle, gas e polveri",
+      "Corpo celeste che produce energia tramite fusione nucleare"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: stella (variante 254)",
+    "options": [
+      "Corpo celeste che orbita una stella",
+      "Corpo celeste che produce energia tramite fusione nucleare",
+      "Insieme enorme di stelle, gas e polveri",
+      "Distanza percorsa dalla luce in un anno"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: satellite naturale (variante 96)",
+    "options": [
+      "Corpo celeste che orbita una stella",
+      "Traiettoria di un corpo attorno a un altro",
+      "Distanza percorsa dalla luce in un anno",
+      "Corpo che orbita un pianeta (es. la Luna)"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: orbita (variante 269)",
+    "options": [
+      "Distanza percorsa dalla luce in un anno",
+      "Traiettoria di un corpo attorno a un altro",
+      "Insieme enorme di stelle, gas e polveri",
+      "Corpo celeste che produce energia tramite fusione nucleare"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: orbita (variante 2)",
+    "options": [
+      "Corpo celeste che produce energia tramite fusione nucleare",
+      "Traiettoria di un corpo attorno a un altro",
+      "Corpo celeste che orbita una stella",
+      "Insieme enorme di stelle, gas e polveri"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: orbita (variante 292)",
+    "options": [
+      "Corpo celeste che produce energia tramite fusione nucleare",
+      "Traiettoria di un corpo attorno a un altro",
+      "Insieme enorme di stelle, gas e polveri",
+      "Corpo che orbita un pianeta (es. la Luna)"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: galassia (variante 6)",
+    "options": [
+      "Corpo che orbita un pianeta (es. la Luna)",
+      "Insieme enorme di stelle, gas e polveri",
+      "Corpo celeste che produce energia tramite fusione nucleare",
+      "Traiettoria di un corpo attorno a un altro"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: satellite naturale (variante 84)",
+    "options": [
+      "Insieme enorme di stelle, gas e polveri",
+      "Traiettoria di un corpo attorno a un altro",
+      "Corpo che orbita un pianeta (es. la Luna)",
+      "Distanza percorsa dalla luce in un anno"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: galassia (variante 141)",
+    "options": [
+      "Corpo celeste che orbita una stella",
+      "Corpo che orbita un pianeta (es. la Luna)",
+      "Distanza percorsa dalla luce in un anno",
+      "Insieme enorme di stelle, gas e polveri"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: stella (variante 224)",
+    "options": [
+      "Traiettoria di un corpo attorno a un altro",
+      "Corpo celeste che orbita una stella",
+      "Distanza percorsa dalla luce in un anno",
+      "Corpo celeste che produce energia tramite fusione nucleare"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: galassia (variante 337)",
+    "options": [
+      "Distanza percorsa dalla luce in un anno",
+      "Insieme enorme di stelle, gas e polveri",
+      "Corpo che orbita un pianeta (es. la Luna)",
+      "Corpo celeste che produce energia tramite fusione nucleare"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: galassia (variante 251)",
+    "options": [
+      "Insieme enorme di stelle, gas e polveri",
+      "Corpo che orbita un pianeta (es. la Luna)",
+      "Corpo celeste che orbita una stella",
+      "Distanza percorsa dalla luce in un anno"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: orbita (variante 409)",
+    "options": [
+      "Distanza percorsa dalla luce in un anno",
+      "Corpo che orbita un pianeta (es. la Luna)",
+      "Traiettoria di un corpo attorno a un altro",
+      "Insieme enorme di stelle, gas e polveri"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: satellite naturale (variante 71)",
+    "options": [
+      "Insieme enorme di stelle, gas e polveri",
+      "Corpo che orbita un pianeta (es. la Luna)",
+      "Corpo celeste che orbita una stella",
+      "Corpo celeste che produce energia tramite fusione nucleare"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: orbita (variante 286)",
+    "options": [
+      "Traiettoria di un corpo attorno a un altro",
+      "Insieme enorme di stelle, gas e polveri",
+      "Corpo celeste che orbita una stella",
+      "Corpo celeste che produce energia tramite fusione nucleare"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: stella (variante 239)",
+    "options": [
+      "Corpo celeste che orbita una stella",
+      "Corpo celeste che produce energia tramite fusione nucleare",
+      "Distanza percorsa dalla luce in un anno",
+      "Traiettoria di un corpo attorno a un altro"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: orbita (variante 226)",
+    "options": [
+      "Traiettoria di un corpo attorno a un altro",
+      "Distanza percorsa dalla luce in un anno",
+      "Corpo celeste che produce energia tramite fusione nucleare",
+      "Corpo che orbita un pianeta (es. la Luna)"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: pianeta (variante 21)",
+    "options": [
+      "Insieme enorme di stelle, gas e polveri",
+      "Corpo che orbita un pianeta (es. la Luna)",
+      "Corpo celeste che orbita una stella",
+      "Corpo celeste che produce energia tramite fusione nucleare"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: pianeta (variante 33)",
+    "options": [
+      "Distanza percorsa dalla luce in un anno",
+      "Insieme enorme di stelle, gas e polveri",
+      "Traiettoria di un corpo attorno a un altro",
+      "Corpo celeste che orbita una stella"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: orbita (variante 123)",
+    "options": [
+      "Insieme enorme di stelle, gas e polveri",
+      "Traiettoria di un corpo attorno a un altro",
+      "Corpo celeste che produce energia tramite fusione nucleare",
+      "Distanza percorsa dalla luce in un anno"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: satellite naturale (variante 24)",
+    "options": [
+      "Insieme enorme di stelle, gas e polveri",
+      "Corpo celeste che orbita una stella",
+      "Corpo che orbita un pianeta (es. la Luna)",
+      "Corpo celeste che produce energia tramite fusione nucleare"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: pianeta (variante 162)",
+    "options": [
+      "Distanza percorsa dalla luce in un anno",
+      "Corpo celeste che orbita una stella",
+      "Corpo che orbita un pianeta (es. la Luna)",
+      "Traiettoria di un corpo attorno a un altro"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: pianeta (variante 44)",
+    "options": [
+      "Distanza percorsa dalla luce in un anno",
+      "Corpo celeste che orbita una stella",
+      "Corpo celeste che produce energia tramite fusione nucleare",
+      "Traiettoria di un corpo attorno a un altro"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: galassia (variante 43)",
+    "options": [
+      "Distanza percorsa dalla luce in un anno",
+      "Corpo celeste che orbita una stella",
+      "Insieme enorme di stelle, gas e polveri",
+      "Traiettoria di un corpo attorno a un altro"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: stella (variante 204)",
+    "options": [
+      "Corpo celeste che produce energia tramite fusione nucleare",
+      "Traiettoria di un corpo attorno a un altro",
+      "Distanza percorsa dalla luce in un anno",
+      "Corpo celeste che orbita una stella"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: satellite naturale (variante 296)",
+    "options": [
+      "Corpo celeste che produce energia tramite fusione nucleare",
+      "Corpo che orbita un pianeta (es. la Luna)",
+      "Distanza percorsa dalla luce in un anno",
+      "Insieme enorme di stelle, gas e polveri"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: pianeta (variante 175)",
+    "options": [
+      "Distanza percorsa dalla luce in un anno",
+      "Insieme enorme di stelle, gas e polveri",
+      "Corpo celeste che orbita una stella",
+      "Corpo celeste che produce energia tramite fusione nucleare"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: orbita (variante 203)",
+    "options": [
+      "Traiettoria di un corpo attorno a un altro",
+      "Corpo celeste che produce energia tramite fusione nucleare",
+      "Insieme enorme di stelle, gas e polveri",
+      "Corpo celeste che orbita una stella"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: stella (variante 354)",
+    "options": [
+      "Corpo celeste che produce energia tramite fusione nucleare",
+      "Traiettoria di un corpo attorno a un altro",
+      "Distanza percorsa dalla luce in un anno",
+      "Insieme enorme di stelle, gas e polveri"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: satellite naturale (variante 266)",
+    "options": [
+      "Corpo celeste che produce energia tramite fusione nucleare",
+      "Corpo che orbita un pianeta (es. la Luna)",
+      "Distanza percorsa dalla luce in un anno",
+      "Traiettoria di un corpo attorno a un altro"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: anno luce (variante 137)",
+    "options": [
+      "Distanza percorsa dalla luce in un anno",
+      "Traiettoria di un corpo attorno a un altro",
+      "Corpo celeste che orbita una stella",
+      "Corpo celeste che produce energia tramite fusione nucleare"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: galassia (variante 284)",
+    "options": [
+      "Traiettoria di un corpo attorno a un altro",
+      "Corpo celeste che produce energia tramite fusione nucleare",
+      "Insieme enorme di stelle, gas e polveri",
+      "Distanza percorsa dalla luce in un anno"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: stella (variante 367)",
+    "options": [
+      "Insieme enorme di stelle, gas e polveri",
+      "Corpo che orbita un pianeta (es. la Luna)",
+      "Traiettoria di un corpo attorno a un altro",
+      "Corpo celeste che produce energia tramite fusione nucleare"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: galassia (variante 400)",
+    "options": [
+      "Insieme enorme di stelle, gas e polveri",
+      "Corpo celeste che produce energia tramite fusione nucleare",
+      "Corpo che orbita un pianeta (es. la Luna)",
+      "Distanza percorsa dalla luce in un anno"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: orbita (variante 324)",
+    "options": [
+      "Distanza percorsa dalla luce in un anno",
+      "Traiettoria di un corpo attorno a un altro",
+      "Corpo celeste che produce energia tramite fusione nucleare",
+      "Corpo celeste che orbita una stella"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: stella (variante 118)",
+    "options": [
+      "Traiettoria di un corpo attorno a un altro",
+      "Corpo celeste che produce energia tramite fusione nucleare",
+      "Corpo celeste che orbita una stella",
+      "Insieme enorme di stelle, gas e polveri"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: pianeta (variante 293)",
+    "options": [
+      "Corpo celeste che orbita una stella",
+      "Insieme enorme di stelle, gas e polveri",
+      "Distanza percorsa dalla luce in un anno",
+      "Corpo celeste che produce energia tramite fusione nucleare"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: stella (variante 386)",
+    "options": [
+      "Insieme enorme di stelle, gas e polveri",
+      "Corpo celeste che produce energia tramite fusione nucleare",
+      "Traiettoria di un corpo attorno a un altro",
+      "Distanza percorsa dalla luce in un anno"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: stella (variante 174)",
+    "options": [
+      "Corpo celeste che produce energia tramite fusione nucleare",
+      "Insieme enorme di stelle, gas e polveri",
+      "Traiettoria di un corpo attorno a un altro",
+      "Corpo che orbita un pianeta (es. la Luna)"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: satellite naturale (variante 170)",
+    "options": [
+      "Traiettoria di un corpo attorno a un altro",
+      "Distanza percorsa dalla luce in un anno",
+      "Corpo che orbita un pianeta (es. la Luna)",
+      "Corpo celeste che produce energia tramite fusione nucleare"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: galassia (variante 41)",
+    "options": [
+      "Corpo celeste che orbita una stella",
+      "Corpo celeste che produce energia tramite fusione nucleare",
+      "Insieme enorme di stelle, gas e polveri",
+      "Distanza percorsa dalla luce in un anno"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: galassia (variante 67)",
+    "options": [
+      "Corpo che orbita un pianeta (es. la Luna)",
+      "Distanza percorsa dalla luce in un anno",
+      "Insieme enorme di stelle, gas e polveri",
+      "Corpo celeste che produce energia tramite fusione nucleare"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: anno luce (variante 100)",
+    "options": [
+      "Traiettoria di un corpo attorno a un altro",
+      "Corpo celeste che orbita una stella",
+      "Distanza percorsa dalla luce in un anno",
+      "Insieme enorme di stelle, gas e polveri"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: satellite naturale (variante 128)",
+    "options": [
+      "Corpo celeste che produce energia tramite fusione nucleare",
+      "Corpo celeste che orbita una stella",
+      "Corpo che orbita un pianeta (es. la Luna)",
+      "Distanza percorsa dalla luce in un anno"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: pianeta (variante 228)",
+    "options": [
+      "Distanza percorsa dalla luce in un anno",
+      "Corpo celeste che produce energia tramite fusione nucleare",
+      "Corpo che orbita un pianeta (es. la Luna)",
+      "Corpo celeste che orbita una stella"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: galassia (variante 113)",
+    "options": [
+      "Corpo celeste che produce energia tramite fusione nucleare",
+      "Insieme enorme di stelle, gas e polveri",
+      "Corpo celeste che orbita una stella",
+      "Traiettoria di un corpo attorno a un altro"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: satellite naturale (variante 205)",
+    "options": [
+      "Insieme enorme di stelle, gas e polveri",
+      "Corpo che orbita un pianeta (es. la Luna)",
+      "Corpo celeste che produce energia tramite fusione nucleare",
+      "Corpo celeste che orbita una stella"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: orbita (variante 348)",
+    "options": [
+      "Corpo celeste che orbita una stella",
+      "Traiettoria di un corpo attorno a un altro",
+      "Corpo che orbita un pianeta (es. la Luna)",
+      "Insieme enorme di stelle, gas e polveri"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: pianeta (variante 298)",
+    "options": [
+      "Corpo celeste che orbita una stella",
+      "Corpo celeste che produce energia tramite fusione nucleare",
+      "Insieme enorme di stelle, gas e polveri",
+      "Traiettoria di un corpo attorno a un altro"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: stella (variante 313)",
+    "options": [
+      "Distanza percorsa dalla luce in un anno",
+      "Corpo che orbita un pianeta (es. la Luna)",
+      "Corpo celeste che orbita una stella",
+      "Corpo celeste che produce energia tramite fusione nucleare"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: pianeta (variante 310)",
+    "options": [
+      "Corpo celeste che orbita una stella",
+      "Corpo che orbita un pianeta (es. la Luna)",
+      "Corpo celeste che produce energia tramite fusione nucleare",
+      "Insieme enorme di stelle, gas e polveri"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: anno luce (variante 233)",
+    "options": [
+      "Corpo celeste che produce energia tramite fusione nucleare",
+      "Insieme enorme di stelle, gas e polveri",
+      "Distanza percorsa dalla luce in un anno",
+      "Traiettoria di un corpo attorno a un altro"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: anno luce (variante 110)",
+    "options": [
+      "Insieme enorme di stelle, gas e polveri",
+      "Corpo che orbita un pianeta (es. la Luna)",
+      "Corpo celeste che orbita una stella",
+      "Distanza percorsa dalla luce in un anno"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: galassia (variante 281)",
+    "options": [
+      "Corpo che orbita un pianeta (es. la Luna)",
+      "Insieme enorme di stelle, gas e polveri",
+      "Traiettoria di un corpo attorno a un altro",
+      "Corpo celeste che produce energia tramite fusione nucleare"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: galassia (variante 261)",
+    "options": [
+      "Corpo che orbita un pianeta (es. la Luna)",
+      "Insieme enorme di stelle, gas e polveri",
+      "Corpo celeste che orbita una stella",
+      "Distanza percorsa dalla luce in un anno"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: orbita (variante 5)",
+    "options": [
+      "Distanza percorsa dalla luce in un anno",
+      "Traiettoria di un corpo attorno a un altro",
+      "Insieme enorme di stelle, gas e polveri",
+      "Corpo celeste che produce energia tramite fusione nucleare"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: anno luce (variante 116)",
+    "options": [
+      "Insieme enorme di stelle, gas e polveri",
+      "Corpo celeste che produce energia tramite fusione nucleare",
+      "Distanza percorsa dalla luce in un anno",
+      "Corpo che orbita un pianeta (es. la Luna)"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: satellite naturale (variante 22)",
+    "options": [
+      "Corpo che orbita un pianeta (es. la Luna)",
+      "Traiettoria di un corpo attorno a un altro",
+      "Insieme enorme di stelle, gas e polveri",
+      "Corpo celeste che orbita una stella"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: anno luce (variante 259)",
+    "options": [
+      "Distanza percorsa dalla luce in un anno",
+      "Corpo celeste che produce energia tramite fusione nucleare",
+      "Corpo che orbita un pianeta (es. la Luna)",
+      "Corpo celeste che orbita una stella"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: stella (variante 121)",
+    "options": [
+      "Corpo celeste che orbita una stella",
+      "Insieme enorme di stelle, gas e polveri",
+      "Traiettoria di un corpo attorno a un altro",
+      "Corpo celeste che produce energia tramite fusione nucleare"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: satellite naturale (variante 395)",
+    "options": [
+      "Corpo che orbita un pianeta (es. la Luna)",
+      "Distanza percorsa dalla luce in un anno",
+      "Corpo celeste che produce energia tramite fusione nucleare",
+      "Insieme enorme di stelle, gas e polveri"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: orbita (variante 102)",
+    "options": [
+      "Corpo celeste che produce energia tramite fusione nucleare",
+      "Distanza percorsa dalla luce in un anno",
+      "Traiettoria di un corpo attorno a un altro",
+      "Corpo celeste che orbita una stella"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: anno luce (variante 157)",
+    "options": [
+      "Corpo celeste che orbita una stella",
+      "Distanza percorsa dalla luce in un anno",
+      "Insieme enorme di stelle, gas e polveri",
+      "Corpo che orbita un pianeta (es. la Luna)"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: satellite naturale (variante 115)",
+    "options": [
+      "Traiettoria di un corpo attorno a un altro",
+      "Distanza percorsa dalla luce in un anno",
+      "Corpo che orbita un pianeta (es. la Luna)",
+      "Insieme enorme di stelle, gas e polveri"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: anno luce (variante 236)",
+    "options": [
+      "Distanza percorsa dalla luce in un anno",
+      "Insieme enorme di stelle, gas e polveri",
+      "Corpo celeste che orbita una stella",
+      "Traiettoria di un corpo attorno a un altro"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: anno luce (variante 195)",
+    "options": [
+      "Corpo che orbita un pianeta (es. la Luna)",
+      "Corpo celeste che produce energia tramite fusione nucleare",
+      "Distanza percorsa dalla luce in un anno",
+      "Insieme enorme di stelle, gas e polveri"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: galassia (variante 347)",
+    "options": [
+      "Corpo celeste che orbita una stella",
+      "Corpo che orbita un pianeta (es. la Luna)",
+      "Insieme enorme di stelle, gas e polveri",
+      "Distanza percorsa dalla luce in un anno"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: galassia (variante 256)",
+    "options": [
+      "Corpo celeste che produce energia tramite fusione nucleare",
+      "Traiettoria di un corpo attorno a un altro",
+      "Corpo celeste che orbita una stella",
+      "Insieme enorme di stelle, gas e polveri"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: galassia (variante 143)",
+    "options": [
+      "Corpo che orbita un pianeta (es. la Luna)",
+      "Traiettoria di un corpo attorno a un altro",
+      "Corpo celeste che produce energia tramite fusione nucleare",
+      "Insieme enorme di stelle, gas e polveri"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: anno luce (variante 167)",
+    "options": [
+      "Distanza percorsa dalla luce in un anno",
+      "Insieme enorme di stelle, gas e polveri",
+      "Corpo celeste che orbita una stella",
+      "Corpo celeste che produce energia tramite fusione nucleare"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: pianeta (variante 377)",
+    "options": [
+      "Distanza percorsa dalla luce in un anno",
+      "Corpo celeste che produce energia tramite fusione nucleare",
+      "Insieme enorme di stelle, gas e polveri",
+      "Corpo celeste che orbita una stella"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: satellite naturale (variante 140)",
+    "options": [
+      "Traiettoria di un corpo attorno a un altro",
+      "Distanza percorsa dalla luce in un anno",
+      "Corpo che orbita un pianeta (es. la Luna)",
+      "Corpo celeste che produce energia tramite fusione nucleare"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: pianeta (variante 15)",
+    "options": [
+      "Traiettoria di un corpo attorno a un altro",
+      "Distanza percorsa dalla luce in un anno",
+      "Insieme enorme di stelle, gas e polveri",
+      "Corpo celeste che orbita una stella"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: galassia (variante 297)",
+    "options": [
+      "Corpo celeste che orbita una stella",
+      "Traiettoria di un corpo attorno a un altro",
+      "Insieme enorme di stelle, gas e polveri",
+      "Distanza percorsa dalla luce in un anno"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: pianeta (variante 79)",
+    "options": [
+      "Traiettoria di un corpo attorno a un altro",
+      "Corpo celeste che produce energia tramite fusione nucleare",
+      "Corpo celeste che orbita una stella",
+      "Distanza percorsa dalla luce in un anno"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: galassia (variante 112)",
+    "options": [
+      "Traiettoria di un corpo attorno a un altro",
+      "Distanza percorsa dalla luce in un anno",
+      "Corpo celeste che orbita una stella",
+      "Insieme enorme di stelle, gas e polveri"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: stella (variante 270)",
+    "options": [
+      "Distanza percorsa dalla luce in un anno",
+      "Corpo celeste che orbita una stella",
+      "Insieme enorme di stelle, gas e polveri",
+      "Corpo celeste che produce energia tramite fusione nucleare"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: galassia (variante 350)",
+    "options": [
+      "Corpo che orbita un pianeta (es. la Luna)",
+      "Traiettoria di un corpo attorno a un altro",
+      "Corpo celeste che produce energia tramite fusione nucleare",
+      "Insieme enorme di stelle, gas e polveri"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: anno luce (variante 53)",
+    "options": [
+      "Corpo che orbita un pianeta (es. la Luna)",
+      "Distanza percorsa dalla luce in un anno",
+      "Traiettoria di un corpo attorno a un altro",
+      "Corpo celeste che produce energia tramite fusione nucleare"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: stella (variante 309)",
+    "options": [
+      "Insieme enorme di stelle, gas e polveri",
+      "Corpo celeste che orbita una stella",
+      "Distanza percorsa dalla luce in un anno",
+      "Corpo celeste che produce energia tramite fusione nucleare"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: pianeta (variante 385)",
+    "options": [
+      "Corpo celeste che produce energia tramite fusione nucleare",
+      "Insieme enorme di stelle, gas e polveri",
+      "Corpo celeste che orbita una stella",
+      "Distanza percorsa dalla luce in un anno"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: satellite naturale (variante 250)",
+    "options": [
+      "Corpo che orbita un pianeta (es. la Luna)",
+      "Corpo celeste che orbita una stella",
+      "Distanza percorsa dalla luce in un anno",
+      "Corpo celeste che produce energia tramite fusione nucleare"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: stella (variante 104)",
+    "options": [
+      "Corpo celeste che orbita una stella",
+      "Traiettoria di un corpo attorno a un altro",
+      "Insieme enorme di stelle, gas e polveri",
+      "Corpo celeste che produce energia tramite fusione nucleare"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: galassia (variante 231)",
+    "options": [
+      "Corpo celeste che orbita una stella",
+      "Insieme enorme di stelle, gas e polveri",
+      "Corpo celeste che produce energia tramite fusione nucleare",
+      "Distanza percorsa dalla luce in un anno"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: galassia (variante 13)",
+    "options": [
+      "Corpo celeste che orbita una stella",
+      "Traiettoria di un corpo attorno a un altro",
+      "Insieme enorme di stelle, gas e polveri",
+      "Distanza percorsa dalla luce in un anno"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: pianeta (variante 101)",
+    "options": [
+      "Traiettoria di un corpo attorno a un altro",
+      "Corpo celeste che orbita una stella",
+      "Insieme enorme di stelle, gas e polveri",
+      "Corpo celeste che produce energia tramite fusione nucleare"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: satellite naturale (variante 200)",
+    "options": [
+      "Corpo che orbita un pianeta (es. la Luna)",
+      "Corpo celeste che produce energia tramite fusione nucleare",
+      "Insieme enorme di stelle, gas e polveri",
+      "Traiettoria di un corpo attorno a un altro"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: satellite naturale (variante 321)",
+    "options": [
+      "Corpo che orbita un pianeta (es. la Luna)",
+      "Insieme enorme di stelle, gas e polveri",
+      "Distanza percorsa dalla luce in un anno",
+      "Corpo celeste che orbita una stella"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: orbita (variante 387)",
+    "options": [
+      "Distanza percorsa dalla luce in un anno",
+      "Traiettoria di un corpo attorno a un altro",
+      "Corpo celeste che orbita una stella",
+      "Insieme enorme di stelle, gas e polveri"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: pianeta (variante 255)",
+    "options": [
+      "Corpo celeste che orbita una stella",
+      "Insieme enorme di stelle, gas e polveri",
+      "Distanza percorsa dalla luce in un anno",
+      "Traiettoria di un corpo attorno a un altro"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: pianeta (variante 73)",
+    "options": [
+      "Corpo celeste che orbita una stella",
+      "Corpo che orbita un pianeta (es. la Luna)",
+      "Insieme enorme di stelle, gas e polveri",
+      "Corpo celeste che produce energia tramite fusione nucleare"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: anno luce (variante 242)",
+    "options": [
+      "Corpo celeste che orbita una stella",
+      "Distanza percorsa dalla luce in un anno",
+      "Traiettoria di un corpo attorno a un altro",
+      "Corpo celeste che produce energia tramite fusione nucleare"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: galassia (variante 334)",
+    "options": [
+      "Insieme enorme di stelle, gas e polveri",
+      "Corpo celeste che produce energia tramite fusione nucleare",
+      "Traiettoria di un corpo attorno a un altro",
+      "Corpo che orbita un pianeta (es. la Luna)"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: stella (variante 268)",
+    "options": [
+      "Corpo celeste che produce energia tramite fusione nucleare",
+      "Insieme enorme di stelle, gas e polveri",
+      "Distanza percorsa dalla luce in un anno",
+      "Corpo che orbita un pianeta (es. la Luna)"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: anno luce (variante 198)",
+    "options": [
+      "Corpo che orbita un pianeta (es. la Luna)",
+      "Corpo celeste che orbita una stella",
+      "Distanza percorsa dalla luce in un anno",
+      "Traiettoria di un corpo attorno a un altro"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Astronomia: galassia (variante 216)",
+    "options": [
+      "Corpo celeste che produce energia tramite fusione nucleare",
+      "Corpo che orbita un pianeta (es. la Luna)",
+      "Traiettoria di un corpo attorno a un altro",
+      "Insieme enorme di stelle, gas e polveri"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  }
+]

@@ -1,0 +1,5729 @@
+[
+  {
+    "q": "Qual è il 2° pianeta dal Sole?",
+    "options": [
+      "Urano",
+      "Venere",
+      "Mercurio",
+      "Saturno"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è il 6° pianeta dal Sole?",
+    "options": [
+      "Urano",
+      "Marte",
+      "Saturno",
+      "Terra"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è il 3° pianeta dal Sole?",
+    "options": [
+      "Saturno",
+      "Terra",
+      "Marte",
+      "Urano"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è il 5° pianeta dal Sole?",
+    "options": [
+      "Marte",
+      "Giove",
+      "Mercurio",
+      "Nettuno"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Converti: 11 m in mm.",
+    "options": [
+      "11000",
+      "1100",
+      "11",
+      "110000"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explain": "1 m = 1000 mm."
+  },
+  {
+    "q": "Qual è il 4° pianeta dal Sole?",
+    "options": [
+      "Nettuno",
+      "Marte",
+      "Mercurio",
+      "Venere"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "[Scienze] Seleziona la definizione corretta di “rifrazione”.",
+    "options": [
+      "corpo che orbita attorno a un pianeta (es. Luna)",
+      "fenomeno legato ai campi magnetici",
+      "cambio direzione della luce passando tra mezzi",
+      "sostanza disciolta"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Converti: 16 min in s.",
+    "options": [
+      "9600",
+      "96",
+      "16",
+      "960"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "1 min = 60 s."
+  },
+  {
+    "q": "[Scienze] “energia”: cosa significa?",
+    "options": [
+      "capacità di compiere lavoro",
+      "passaggio da liquido a gas",
+      "fenomeno legato ai campi magnetici",
+      "ambiente naturale in cui vive una specie"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Converti: 23 kg in g.",
+    "options": [
+      "23",
+      "2300",
+      "23000",
+      "230000"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "1 kg = 1000 g."
+  },
+  {
+    "q": "[Scienze] Indica la descrizione corretta di “solidificazione”.",
+    "options": [
+      "flusso di cariche elettriche",
+      "processo con cui le piante producono zuccheri usando luce, acqua e CO₂",
+      "passaggio da liquido a solido",
+      "fenomeno legato ai campi magnetici"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Converti: 150 m in cm.",
+    "options": [
+      "150000",
+      "1500",
+      "150",
+      "15000"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "1 m = 100 cm."
+  },
+  {
+    "q": "Converti: 400 L in mL.",
+    "options": [
+      "400000",
+      "4000000",
+      "40000",
+      "400"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explain": "1 L = 1000 mL."
+  },
+  {
+    "q": "[Scienze] “condensazione” si definisce come…",
+    "options": [
+      "sequenza di chi mangia chi in un ecosistema",
+      "galassia in cui si trova il Sistema Solare",
+      "passaggio da gas a liquido",
+      "materiale che lascia passare corrente"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Scienze] In questo quiz, “solidificazione” vuol dire…",
+    "options": [
+      "passaggio da gas a liquido",
+      "differenza di potenziale elettrico",
+      "passaggio da liquido a solido",
+      "fenomeno legato ai campi magnetici"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Converti: 300 min in s.",
+    "options": [
+      "18000",
+      "180000",
+      "1800",
+      "300"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explain": "1 min = 60 s."
+  },
+  {
+    "q": "[Scienze] Qual è il significato di “attrito”?",
+    "options": [
+      "spazio occupato da un corpo",
+      "sostanza che scioglie il soluto",
+      "forza che si oppone al movimento",
+      "divisione cellulare che produce due cellule identiche"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Qual è il 1° pianeta dal Sole?",
+    "options": [
+      "Mercurio",
+      "Urano",
+      "Terra",
+      "Nettuno"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è il 8° pianeta dal Sole?",
+    "options": [
+      "Giove",
+      "Nettuno",
+      "Terra",
+      "Mercurio"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Converti: 3 m in mm.",
+    "options": [
+      "3",
+      "3000",
+      "300",
+      "30000"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "1 m = 1000 mm."
+  },
+  {
+    "q": "[Scienze] “rivoluzione”: cosa significa?",
+    "options": [
+      "animali cacciati da predatori",
+      "processo con cui le piante producono zuccheri usando luce, acqua e CO₂",
+      "quantità di materia",
+      "moto di un corpo attorno a un altro corpo"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Scienze] Completa: “cellula” = …",
+    "options": [
+      "insieme di stelle, gas e polveri",
+      "unità fondamentale degli esseri viventi",
+      "forza che si oppone al movimento",
+      "rimbalzo della luce su una superficie"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Scienze] Seleziona la definizione corretta di “mitosi”.",
+    "options": [
+      "divisione cellulare che produce due cellule identiche",
+      "insieme di stelle, gas e polveri",
+      "distanza tra due creste successive",
+      "propagazione di un disturbo"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Converti: 18 m in mm.",
+    "options": [
+      "18",
+      "180000",
+      "18000",
+      "1800"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "1 m = 1000 mm."
+  },
+  {
+    "q": "[Scienze] In questo quiz, “riflessione” vuol dire…",
+    "options": [
+      "unità fondamentale degli esseri viventi",
+      "corpo con ghiacci che forma una coda vicino al Sole",
+      "cambio direzione della luce passando tra mezzi",
+      "rimbalzo della luce su una superficie"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Converti: 250 g in mg.",
+    "options": [
+      "2500000",
+      "250",
+      "25000",
+      "250000"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "1 g = 1000 mg."
+  },
+  {
+    "q": "Qual è il 7° pianeta dal Sole?",
+    "options": [
+      "Urano",
+      "Marte",
+      "Saturno",
+      "Giove"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "[Scienze] Indica la descrizione corretta di “soluzione”.",
+    "options": [
+      "tendenza a mantenere lo stato di moto/quiete",
+      "miscuglio omogeneo",
+      "unità fondamentale degli esseri viventi",
+      "variazione di velocità nel tempo"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Scienze] Indica la descrizione corretta di “Via Lattea”.",
+    "options": [
+      "galassia in cui si trova il Sistema Solare",
+      "corpo roccioso che orbita nel Sistema Solare",
+      "opposizione al passaggio di corrente",
+      "molecola coinvolta nella sintesi proteica"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Scienze] In questo quiz, “DNA” vuol dire…",
+    "options": [
+      "sostanza disciolta",
+      "animale che caccia altre prede",
+      "corpo con ghiacci che forma una coda vicino al Sole",
+      "molecola che contiene informazione genetica"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Converti: 2 min in s.",
+    "options": [
+      "1200",
+      "12",
+      "120",
+      "2"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "1 min = 60 s."
+  },
+  {
+    "q": "[Scienze] “orbita”: cosa significa?",
+    "options": [
+      "spazio percorso per unità di tempo",
+      "insieme di atomi legati",
+      "traiettoria di un corpo attorno a un altro",
+      "moto di un corpo attorno a un altro corpo"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Converti: 90 g in mg.",
+    "options": [
+      "90000",
+      "9000",
+      "900000",
+      "90"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explain": "1 g = 1000 mg."
+  },
+  {
+    "q": "[Scienze] Indica la descrizione corretta di “RNA”.",
+    "options": [
+      "corpo roccioso che orbita nel Sistema Solare",
+      "variazione di velocità nel tempo",
+      "molecola coinvolta nella sintesi proteica",
+      "numero di oscillazioni per secondo"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Converti: 37 m in mm.",
+    "options": [
+      "37",
+      "3700",
+      "370000",
+      "37000"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "1 m = 1000 mm."
+  },
+  {
+    "q": "Converti: 250 m in cm.",
+    "options": [
+      "25000",
+      "250",
+      "2500",
+      "250000"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explain": "1 m = 100 cm."
+  },
+  {
+    "q": "[Scienze] Indica la descrizione corretta di “volume”.",
+    "options": [
+      "onda meccanica che si propaga in un mezzo",
+      "insieme di atomi legati",
+      "corpo che orbita attorno a un pianeta (es. Luna)",
+      "spazio occupato da un corpo"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Scienze] “resistenza”: cosa significa?",
+    "options": [
+      "materiale che lascia passare corrente",
+      "moto di un corpo attorno a un altro corpo",
+      "traiettoria di un corpo attorno a un altro",
+      "opposizione al passaggio di corrente"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Converti: 37 cm in mm.",
+    "options": [
+      "370",
+      "370 (4)",
+      "3700",
+      "37"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explain": "1 cm = 10 mm."
+  },
+  {
+    "q": "Converti: 60 kg in g.",
+    "options": [
+      "600000",
+      "6000",
+      "60000",
+      "60"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "1 kg = 1000 g."
+  },
+  {
+    "q": "Converti: 30 kg in g.",
+    "options": [
+      "300000",
+      "30",
+      "3000",
+      "30000"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "1 kg = 1000 g."
+  },
+  {
+    "q": "[Scienze] Il termine “fotosintesi” indica…",
+    "options": [
+      "miscuglio omogeneo",
+      "sostanza che scioglie il soluto",
+      "galassia in cui si trova il Sistema Solare",
+      "processo con cui le piante producono zuccheri usando luce, acqua e CO₂"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Scienze] “asteroide” si definisce come…",
+    "options": [
+      "corpo roccioso che orbita nel Sistema Solare",
+      "molecola coinvolta nella sintesi proteica",
+      "corpo che orbita attorno a un pianeta (es. Luna)",
+      "moto di un corpo attorno a un altro corpo"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Converti: 36 m in cm.",
+    "options": [
+      "3600",
+      "36000",
+      "36",
+      "360"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explain": "1 m = 100 cm."
+  },
+  {
+    "q": "[Scienze] Completa: “densità” = …",
+    "options": [
+      "onda meccanica che si propaga in un mezzo",
+      "molecola che contiene informazione genetica",
+      "propagazione di un disturbo",
+      "rapporto tra massa e volume"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Converti: 6 min in s.",
+    "options": [
+      "360",
+      "3600",
+      "36",
+      "6"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explain": "1 min = 60 s."
+  },
+  {
+    "q": "[Scienze] Completa: “fusione” = …",
+    "options": [
+      "forza che si oppone al movimento",
+      "passaggio da solido a liquido",
+      "unità base della materia",
+      "insieme di atomi legati"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Converti: 80 m in cm.",
+    "options": [
+      "800",
+      "80000",
+      "8000",
+      "80"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "1 m = 100 cm."
+  },
+  {
+    "q": "[Scienze] In questo quiz, “catena alimentare” vuol dire…",
+    "options": [
+      "differenza di potenziale elettrico",
+      "passaggio da liquido a solido",
+      "movimento da alta a bassa concentrazione",
+      "sequenza di chi mangia chi in un ecosistema"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Converti: 14 kg in g.",
+    "options": [
+      "14",
+      "1400",
+      "140000",
+      "14000"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "1 kg = 1000 g."
+  },
+  {
+    "q": "Converti: 38 cm in mm.",
+    "options": [
+      "380",
+      "3800",
+      "380 (4)",
+      "38"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explain": "1 cm = 10 mm."
+  },
+  {
+    "q": "[Scienze] Completa: “attrito” = …",
+    "options": [
+      "movimento da alta a bassa concentrazione",
+      "forza che si oppone al movimento",
+      "variazione di velocità nel tempo",
+      "passaggio da liquido a solido"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Scienze] Il termine “inerzia” indica…",
+    "options": [
+      "divisione cellulare che produce due cellule identiche",
+      "propagazione di un disturbo",
+      "sostanza fatta da un solo tipo di atomi",
+      "tendenza a mantenere lo stato di moto/quiete"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Converti: 7 m in mm.",
+    "options": [
+      "700",
+      "70000",
+      "7000",
+      "7"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "1 m = 1000 mm."
+  },
+  {
+    "q": "[Scienze] Il termine “molecola” indica…",
+    "options": [
+      "insieme di atomi legati",
+      "passaggio da liquido a solido",
+      "miscuglio omogeneo",
+      "movimento da alta a bassa concentrazione"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Scienze] In questo quiz, “Via Lattea” vuol dire…",
+    "options": [
+      "passaggio da liquido a solido",
+      "cambio direzione della luce passando tra mezzi",
+      "passaggio da liquido a gas",
+      "galassia in cui si trova il Sistema Solare"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Scienze] In breve, “magnetismo” è…",
+    "options": [
+      "differenza di potenziale elettrico",
+      "ambiente naturale in cui vive una specie",
+      "processo con cui le piante producono zuccheri usando luce, acqua e CO₂",
+      "fenomeno legato ai campi magnetici"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Scienze] Seleziona la definizione corretta di “attrito”.",
+    "options": [
+      "forza che si oppone al movimento",
+      "fenomeno legato ai campi magnetici",
+      "ambiente naturale in cui vive una specie",
+      "passaggio da liquido a solido"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Converti: 75 h in min.",
+    "options": [
+      "450",
+      "4500",
+      "75",
+      "45000"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "1 h = 60 min."
+  },
+  {
+    "q": "[Scienze] Il termine “soluto” indica…",
+    "options": [
+      "insieme di stelle, gas e polveri",
+      "sostanza disciolta",
+      "propagazione di un disturbo",
+      "cambio direzione della luce passando tra mezzi"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Converti: 300 km in m.",
+    "options": [
+      "300",
+      "300000",
+      "30000",
+      "3000000"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "1 km = 1000 m."
+  },
+  {
+    "q": "Converti: 44 m in mm.",
+    "options": [
+      "4400",
+      "44000",
+      "440000",
+      "44"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "1 m = 1000 mm."
+  },
+  {
+    "q": "[Scienze] In breve, “forza” è…",
+    "options": [
+      "interazione che può cambiare il moto di un corpo",
+      "sequenza di chi mangia chi in un ecosistema",
+      "sostanza disciolta",
+      "processo con cui le piante producono zuccheri usando luce, acqua e CO₂"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Scienze] Che cos'è “habitat”?",
+    "options": [
+      "differenza di potenziale elettrico",
+      "passaggio di solvente attraverso una membrana",
+      "propagazione di un disturbo",
+      "ambiente naturale in cui vive una specie"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Converti: 400 m in cm.",
+    "options": [
+      "400000",
+      "40000",
+      "4000",
+      "400"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "1 m = 100 cm."
+  },
+  {
+    "q": "Converti: 22 g in mg.",
+    "options": [
+      "220000",
+      "22",
+      "22000",
+      "2200"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "1 g = 1000 mg."
+  },
+  {
+    "q": "[Scienze] Indica la descrizione corretta di “ecosistema”.",
+    "options": [
+      "corpo roccioso che orbita nel Sistema Solare",
+      "sostanza disciolta",
+      "insieme di organismi e ambiente in interazione",
+      "moto di un corpo attorno al proprio asse"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Converti: 43 cm in mm.",
+    "options": [
+      "430",
+      "43",
+      "430 (4)",
+      "4300"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explain": "1 cm = 10 mm."
+  },
+  {
+    "q": "[Scienze] Qual è il significato di “soluto”?",
+    "options": [
+      "distanza tra due creste successive",
+      "passaggio da solido a liquido",
+      "insieme di atomi legati",
+      "sostanza disciolta"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Scienze] Che cos'è “evaporazione”?",
+    "options": [
+      "insieme di atomi legati",
+      "spazio percorso per unità di tempo",
+      "passaggio da liquido a gas",
+      "corpo con ghiacci che forma una coda vicino al Sole"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Converti: 11 h in min.",
+    "options": [
+      "6600",
+      "66",
+      "660",
+      "11"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "1 h = 60 min."
+  },
+  {
+    "q": "[Scienze] “riflessione”: cosa significa?",
+    "options": [
+      "insieme di stelle, gas e polveri",
+      "rimbalzo della luce su una superficie",
+      "onda meccanica che si propaga in un mezzo",
+      "animali cacciati da predatori"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Converti: 8 L in mL.",
+    "options": [
+      "8",
+      "8000",
+      "80000",
+      "800"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "1 L = 1000 mL."
+  },
+  {
+    "q": "[Scienze] Indica la descrizione corretta di “evaporazione”.",
+    "options": [
+      "galassia in cui si trova il Sistema Solare",
+      "tendenza a mantenere lo stato di moto/quiete",
+      "cambio direzione della luce passando tra mezzi",
+      "passaggio da liquido a gas"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Converti: 15 km in m.",
+    "options": [
+      "15000",
+      "15",
+      "150000",
+      "1500"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explain": "1 km = 1000 m."
+  },
+  {
+    "q": "Converti: 3 cm in mm.",
+    "options": [
+      "30 (4)",
+      "3",
+      "30",
+      "300"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "1 cm = 10 mm."
+  },
+  {
+    "q": "Converti: 42 h in min.",
+    "options": [
+      "2520",
+      "25200",
+      "42",
+      "252"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explain": "1 h = 60 min."
+  },
+  {
+    "q": "Converti: 400 m in mm.",
+    "options": [
+      "40000",
+      "400",
+      "400000",
+      "4000000"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "1 m = 1000 mm."
+  },
+  {
+    "q": "[Scienze] Seleziona la definizione corretta di “diffusione”.",
+    "options": [
+      "movimento da alta a bassa concentrazione",
+      "corpo con ghiacci che forma una coda vicino al Sole",
+      "numero di oscillazioni per secondo",
+      "spazio occupato da un corpo"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Scienze] Seleziona la definizione corretta di “inerzia”.",
+    "options": [
+      "divisione cellulare che produce due cellule identiche",
+      "quantità di materia",
+      "spazio percorso per unità di tempo",
+      "tendenza a mantenere lo stato di moto/quiete"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Scienze] Che cos'è “predatore”?",
+    "options": [
+      "animale che caccia altre prede",
+      "tendenza a mantenere lo stato di moto/quiete",
+      "misura dell'acidità o basicità di una soluzione",
+      "sostanza formata da elementi diversi"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Scienze] Seleziona la definizione corretta di “osmosi”.",
+    "options": [
+      "rapporto tra massa e volume",
+      "materiale che ostacola corrente",
+      "passaggio di solvente attraverso una membrana",
+      "quantità di materia"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Converti: 27 m in cm.",
+    "options": [
+      "27",
+      "2700",
+      "270",
+      "27000"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "1 m = 100 cm."
+  },
+  {
+    "q": "Converti: 21 m in mm.",
+    "options": [
+      "21",
+      "210000",
+      "21000",
+      "2100"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "1 m = 1000 mm."
+  },
+  {
+    "q": "Converti: 26 L in mL.",
+    "options": [
+      "26000",
+      "2600",
+      "26",
+      "260000"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explain": "1 L = 1000 mL."
+  },
+  {
+    "q": "[Scienze] “orbita” si definisce come…",
+    "options": [
+      "traiettoria di un corpo attorno a un altro",
+      "opposizione al passaggio di corrente",
+      "passaggio da solido a liquido",
+      "molecola che contiene informazione genetica"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Converti: 2 km in m.",
+    "options": [
+      "200",
+      "2",
+      "20000",
+      "2000"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "1 km = 1000 m."
+  },
+  {
+    "q": "[Scienze] In questo quiz, “volume” vuol dire…",
+    "options": [
+      "passaggio di solvente attraverso una membrana",
+      "molecola coinvolta nella sintesi proteica",
+      "animali cacciati da predatori",
+      "spazio occupato da un corpo"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Converti: 41 km in m.",
+    "options": [
+      "41000",
+      "4100",
+      "41",
+      "410000"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explain": "1 km = 1000 m."
+  },
+  {
+    "q": "[Scienze] Qual è il significato di “energia”?",
+    "options": [
+      "varietà di specie viventi",
+      "corpo roccioso che orbita nel Sistema Solare",
+      "capacità di compiere lavoro",
+      "animali cacciati da predatori"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Converti: 24 g in mg.",
+    "options": [
+      "24000",
+      "24",
+      "240000",
+      "2400"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explain": "1 g = 1000 mg."
+  },
+  {
+    "q": "[Scienze] Qual è il significato di “galassia”?",
+    "options": [
+      "ambiente naturale in cui vive una specie",
+      "moto di un corpo attorno al proprio asse",
+      "insieme di stelle, gas e polveri",
+      "sostanza fatta da un solo tipo di atomi"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Scienze] Completa: “solidificazione” = …",
+    "options": [
+      "sequenza di chi mangia chi in un ecosistema",
+      "passaggio da liquido a solido",
+      "animali cacciati da predatori",
+      "materiale che lascia passare corrente"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Scienze] Completa: “condensazione” = …",
+    "options": [
+      "distanza tra due creste successive",
+      "sostanza fatta da un solo tipo di atomi",
+      "materiale che lascia passare corrente",
+      "passaggio da gas a liquido"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Scienze] Seleziona la definizione corretta di “corrente elettrica”.",
+    "options": [
+      "passaggio da liquido a gas",
+      "flusso di cariche elettriche",
+      "radiazione elettromagnetica visibile",
+      "materiale che lascia passare corrente"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Scienze] In breve, “fusione” è…",
+    "options": [
+      "passaggio da solido a liquido",
+      "onda meccanica che si propaga in un mezzo",
+      "fenomeno legato ai campi magnetici",
+      "moto di un corpo attorno a un altro corpo"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Converti: 48 h in min.",
+    "options": [
+      "28800",
+      "2880",
+      "288",
+      "48"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "1 h = 60 min."
+  },
+  {
+    "q": "[Scienze] “satellite naturale” si definisce come…",
+    "options": [
+      "corpo che orbita attorno a un pianeta (es. Luna)",
+      "quantità di materia",
+      "molecola coinvolta nella sintesi proteica",
+      "processo con cui le piante producono zuccheri usando luce, acqua e CO₂"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Converti: 40 g in mg.",
+    "options": [
+      "40000",
+      "4000",
+      "400000",
+      "40"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explain": "1 g = 1000 mg."
+  },
+  {
+    "q": "Converti: 28 m in mm.",
+    "options": [
+      "280000",
+      "28",
+      "28000",
+      "2800"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "1 m = 1000 mm."
+  },
+  {
+    "q": "Converti: 17 L in mL.",
+    "options": [
+      "1700",
+      "17000",
+      "17",
+      "170000"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "1 L = 1000 mL."
+  },
+  {
+    "q": "Converti: 8 g in mg.",
+    "options": [
+      "8",
+      "8000",
+      "800",
+      "80000"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "1 g = 1000 mg."
+  },
+  {
+    "q": "[Scienze] Che cos'è “pH”?",
+    "options": [
+      "cambio direzione della luce passando tra mezzi",
+      "molecola coinvolta nella sintesi proteica",
+      "misura dell'acidità o basicità di una soluzione",
+      "processo con cui le piante producono zuccheri usando luce, acqua e CO₂"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Converti: 19 m in cm.",
+    "options": [
+      "190",
+      "19000",
+      "19",
+      "1900"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "1 m = 100 cm."
+  },
+  {
+    "q": "Converti: 29 cm in mm.",
+    "options": [
+      "290 (4)",
+      "290",
+      "2900",
+      "29"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "1 cm = 10 mm."
+  },
+  {
+    "q": "[Scienze] In questo quiz, “lunghezza d'onda” vuol dire…",
+    "options": [
+      "distanza tra due creste successive",
+      "quantità di materia",
+      "tendenza a mantenere lo stato di moto/quiete",
+      "spazio percorso per unità di tempo"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Converti: 48 m in cm.",
+    "options": [
+      "48",
+      "48000",
+      "4800",
+      "480"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "1 m = 100 cm."
+  },
+  {
+    "q": "[Scienze] Seleziona la definizione corretta di “luce”.",
+    "options": [
+      "radiazione elettromagnetica visibile",
+      "flusso di cariche elettriche",
+      "capacità di compiere lavoro",
+      "materiale che lascia passare corrente"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Scienze] Qual è il significato di “rifrazione”?",
+    "options": [
+      "differenza di potenziale elettrico",
+      "flusso di cariche elettriche",
+      "cambio direzione della luce passando tra mezzi",
+      "insieme di atomi legati"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Converti: 8 min in s.",
+    "options": [
+      "480",
+      "48",
+      "4800",
+      "8"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explain": "1 min = 60 s."
+  },
+  {
+    "q": "Converti: 26 m in cm.",
+    "options": [
+      "26",
+      "260",
+      "26000",
+      "2600"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "1 m = 100 cm."
+  },
+  {
+    "q": "Converti: 47 L in mL.",
+    "options": [
+      "47",
+      "4700",
+      "47000",
+      "470000"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "1 L = 1000 mL."
+  },
+  {
+    "q": "Converti: 50 g in mg.",
+    "options": [
+      "50000",
+      "50",
+      "5000",
+      "500000"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explain": "1 g = 1000 mg."
+  },
+  {
+    "q": "[Scienze] “magnetismo” si definisce come…",
+    "options": [
+      "capacità di compiere lavoro",
+      "flusso di cariche elettriche",
+      "fenomeno legato ai campi magnetici",
+      "divisione cellulare che produce due cellule identiche"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Converti: 27 h in min.",
+    "options": [
+      "27",
+      "16200",
+      "1620",
+      "162"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "1 h = 60 min."
+  },
+  {
+    "q": "Converti: 250 cm in mm.",
+    "options": [
+      "2500",
+      "25000",
+      "250",
+      "2500 (4)"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explain": "1 cm = 10 mm."
+  },
+  {
+    "q": "Converti: 37 min in s.",
+    "options": [
+      "222",
+      "2220",
+      "37",
+      "22200"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "1 min = 60 s."
+  },
+  {
+    "q": "[Scienze] Indica la descrizione corretta di “fusione”.",
+    "options": [
+      "insieme di stelle, gas e polveri",
+      "spazio percorso per unità di tempo",
+      "passaggio da solido a liquido",
+      "corpo roccioso che orbita nel Sistema Solare"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Scienze] “mitosi” si definisce come…",
+    "options": [
+      "passaggio da liquido a gas",
+      "fenomeno legato ai campi magnetici",
+      "movimento da alta a bassa concentrazione",
+      "divisione cellulare che produce due cellule identiche"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Scienze] In breve, “energia” è…",
+    "options": [
+      "miscuglio omogeneo",
+      "passaggio da liquido a gas",
+      "processo con cui le piante producono zuccheri usando luce, acqua e CO₂",
+      "capacità di compiere lavoro"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Scienze] In breve, “frequenza” è…",
+    "options": [
+      "corpo con ghiacci che forma una coda vicino al Sole",
+      "passaggio da liquido a solido",
+      "sostanza fatta da un solo tipo di atomi",
+      "numero di oscillazioni per secondo"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Scienze] Seleziona la definizione corretta di “prede”.",
+    "options": [
+      "galassia in cui si trova il Sistema Solare",
+      "molecola coinvolta nella sintesi proteica",
+      "animali cacciati da predatori",
+      "spazio percorso per unità di tempo"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Converti: 28 km in m.",
+    "options": [
+      "28000",
+      "280000",
+      "2800",
+      "28"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explain": "1 km = 1000 m."
+  },
+  {
+    "q": "Converti: 35 min in s.",
+    "options": [
+      "2100",
+      "35",
+      "210",
+      "21000"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explain": "1 min = 60 s."
+  },
+  {
+    "q": "[Scienze] In breve, “atomo” è…",
+    "options": [
+      "unità base della materia",
+      "divisione cellulare che produce due cellule identiche",
+      "insieme di stelle, gas e polveri",
+      "ambiente naturale in cui vive una specie"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Converti: 44 h in min.",
+    "options": [
+      "2640",
+      "44",
+      "264",
+      "26400"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explain": "1 h = 60 min."
+  },
+  {
+    "q": "[Scienze] Seleziona la definizione corretta di “miscuglio”.",
+    "options": [
+      "spazio occupato da un corpo",
+      "spazio percorso per unità di tempo",
+      "insieme di sostanze non legate chimicamente",
+      "rapporto tra massa e volume"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Converti: 28 min in s.",
+    "options": [
+      "168",
+      "1680",
+      "28",
+      "16800"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "1 min = 60 s."
+  },
+  {
+    "q": "[Scienze] Completa: “riflessione” = …",
+    "options": [
+      "numero di oscillazioni per secondo",
+      "passaggio da gas a liquido",
+      "processo con cui le piante producono zuccheri usando luce, acqua e CO₂",
+      "rimbalzo della luce su una superficie"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Converti: 36 cm in mm.",
+    "options": [
+      "36",
+      "360",
+      "360 (4)",
+      "3600"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "1 cm = 10 mm."
+  },
+  {
+    "q": "Converti: 39 kg in g.",
+    "options": [
+      "39",
+      "3900",
+      "39000",
+      "390000"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "1 kg = 1000 g."
+  },
+  {
+    "q": "Converti: 45 g in mg.",
+    "options": [
+      "450000",
+      "45",
+      "4500",
+      "45000"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "1 g = 1000 mg."
+  },
+  {
+    "q": "[Scienze] In questo quiz, “corrente elettrica” vuol dire…",
+    "options": [
+      "passaggio da solido a gas",
+      "insieme di atomi legati",
+      "molecola che contiene informazione genetica",
+      "flusso di cariche elettriche"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Converti: 31 m in cm.",
+    "options": [
+      "31000",
+      "3100",
+      "310",
+      "31"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "1 m = 100 cm."
+  },
+  {
+    "q": "Converti: 23 cm in mm.",
+    "options": [
+      "230 (4)",
+      "230",
+      "23",
+      "2300"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "1 cm = 10 mm."
+  },
+  {
+    "q": "[Scienze] In questo quiz, “attrito” vuol dire…",
+    "options": [
+      "moto di un corpo attorno al proprio asse",
+      "traiettoria di un corpo attorno a un altro",
+      "spazio percorso per unità di tempo",
+      "forza che si oppone al movimento"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Converti: 2 m in cm.",
+    "options": [
+      "2000",
+      "2",
+      "200",
+      "20"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "1 m = 100 cm."
+  },
+  {
+    "q": "Converti: 15 h in min.",
+    "options": [
+      "90",
+      "15",
+      "900",
+      "9000"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "1 h = 60 min."
+  },
+  {
+    "q": "[Scienze] “pH” si definisce come…",
+    "options": [
+      "animale che caccia altre prede",
+      "sostanza formata da elementi diversi",
+      "flusso di cariche elettriche",
+      "misura dell'acidità o basicità di una soluzione"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Scienze] Il termine “elemento chimico” indica…",
+    "options": [
+      "variazione di velocità nel tempo",
+      "sostanza fatta da un solo tipo di atomi",
+      "spazio percorso per unità di tempo",
+      "quantità di materia"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Scienze] In breve, “pH” è…",
+    "options": [
+      "animali cacciati da predatori",
+      "cambio direzione della luce passando tra mezzi",
+      "misura dell'acidità o basicità di una soluzione",
+      "passaggio da liquido a solido"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Converti: 40 min in s.",
+    "options": [
+      "2400",
+      "24000",
+      "40",
+      "240"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explain": "1 min = 60 s."
+  },
+  {
+    "q": "[Scienze] Qual è il significato di “onda”?",
+    "options": [
+      "animale che caccia altre prede",
+      "propagazione di un disturbo",
+      "passaggio di solvente attraverso una membrana",
+      "opposizione al passaggio di corrente"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Scienze] Il termine “tensione” indica…",
+    "options": [
+      "differenza di potenziale elettrico",
+      "distanza tra due creste successive",
+      "sostanza che scioglie il soluto",
+      "processo con cui le piante producono zuccheri usando luce, acqua e CO₂"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Converti: 43 g in mg.",
+    "options": [
+      "430000",
+      "43000",
+      "4300",
+      "43"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "1 g = 1000 mg."
+  },
+  {
+    "q": "[Scienze] Seleziona la definizione corretta di “solvente”.",
+    "options": [
+      "insieme di organismi e ambiente in interazione",
+      "passaggio di solvente attraverso una membrana",
+      "rapporto tra massa e volume",
+      "sostanza che scioglie il soluto"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Scienze] Completa: “prede” = …",
+    "options": [
+      "materiale che lascia passare corrente",
+      "animali cacciati da predatori",
+      "moto di un corpo attorno al proprio asse",
+      "tendenza a mantenere lo stato di moto/quiete"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Converti: 11 L in mL.",
+    "options": [
+      "110000",
+      "1100",
+      "11000",
+      "11"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "1 L = 1000 mL."
+  },
+  {
+    "q": "[Scienze] Qual è il significato di “evaporazione”?",
+    "options": [
+      "varietà di specie viventi",
+      "capacità di compiere lavoro",
+      "passaggio da liquido a gas",
+      "insieme di stelle, gas e polveri"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Scienze] Seleziona la definizione corretta di “frequenza”.",
+    "options": [
+      "passaggio da solido a liquido",
+      "numero di oscillazioni per secondo",
+      "ambiente naturale in cui vive una specie",
+      "forza che si oppone al movimento"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Scienze] In breve, “satellite naturale” è…",
+    "options": [
+      "rimbalzo della luce su una superficie",
+      "traiettoria di un corpo attorno a un altro",
+      "galassia in cui si trova il Sistema Solare",
+      "corpo che orbita attorno a un pianeta (es. Luna)"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Converti: 13 cm in mm.",
+    "options": [
+      "1300",
+      "13",
+      "130 (4)",
+      "130"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "1 cm = 10 mm."
+  },
+  {
+    "q": "[Scienze] Seleziona la definizione corretta di “fusione”.",
+    "options": [
+      "quantità di materia",
+      "radiazione elettromagnetica visibile",
+      "insieme di stelle, gas e polveri",
+      "passaggio da solido a liquido"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Scienze] Il termine “rotazione” indica…",
+    "options": [
+      "spazio occupato da un corpo",
+      "materiale che lascia passare corrente",
+      "moto di un corpo attorno al proprio asse",
+      "sostanza formata da elementi diversi"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Converti: 24 L in mL.",
+    "options": [
+      "2400",
+      "24",
+      "240000",
+      "24000"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "1 L = 1000 mL."
+  },
+  {
+    "q": "[Scienze] Indica la descrizione corretta di “tensione”.",
+    "options": [
+      "variazione di velocità nel tempo",
+      "differenza di potenziale elettrico",
+      "sequenza di chi mangia chi in un ecosistema",
+      "spazio occupato da un corpo"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Scienze] Che cos'è “catena alimentare”?",
+    "options": [
+      "tendenza a mantenere lo stato di moto/quiete",
+      "galassia in cui si trova il Sistema Solare",
+      "opposizione al passaggio di corrente",
+      "sequenza di chi mangia chi in un ecosistema"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Scienze] Qual è il significato di “resistenza”?",
+    "options": [
+      "varietà di specie viventi",
+      "opposizione al passaggio di corrente",
+      "unità base della materia",
+      "animali cacciati da predatori"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Scienze] “solidificazione”: cosa significa?",
+    "options": [
+      "distanza tra due creste successive",
+      "passaggio da liquido a solido",
+      "spazio percorso per unità di tempo",
+      "forza che si oppone al movimento"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Scienze] In questo quiz, “energia” vuol dire…",
+    "options": [
+      "capacità di compiere lavoro",
+      "passaggio da solido a gas",
+      "animale che caccia altre prede",
+      "numero di oscillazioni per secondo"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Converti: 24 min in s.",
+    "options": [
+      "144",
+      "14400",
+      "24",
+      "1440"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "1 min = 60 s."
+  },
+  {
+    "q": "[Scienze] “DNA” si definisce come…",
+    "options": [
+      "animale che caccia altre prede",
+      "passaggio da solido a liquido",
+      "spazio occupato da un corpo",
+      "molecola che contiene informazione genetica"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Converti: 34 g in mg.",
+    "options": [
+      "34000",
+      "34",
+      "340000",
+      "3400"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explain": "1 g = 1000 mg."
+  },
+  {
+    "q": "[Scienze] Seleziona la definizione corretta di “velocità”.",
+    "options": [
+      "propagazione di un disturbo",
+      "moto di un corpo attorno al proprio asse",
+      "insieme di organismi e ambiente in interazione",
+      "spazio percorso per unità di tempo"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Scienze] Indica la descrizione corretta di “biodiversità”.",
+    "options": [
+      "varietà di specie viventi",
+      "differenza di potenziale elettrico",
+      "interazione che può cambiare il moto di un corpo",
+      "unità base della materia"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Scienze] “solvente” si definisce come…",
+    "options": [
+      "sostanza che scioglie il soluto",
+      "passaggio da solido a gas",
+      "rimbalzo della luce su una superficie",
+      "variazione di velocità nel tempo"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Scienze] Il termine “evaporazione” indica…",
+    "options": [
+      "passaggio da liquido a gas",
+      "cambio direzione della luce passando tra mezzi",
+      "passaggio da solido a liquido",
+      "sostanza fatta da un solo tipo di atomi"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Converti: 10 kg in g.",
+    "options": [
+      "1000",
+      "100000",
+      "10",
+      "10000"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "1 kg = 1000 g."
+  },
+  {
+    "q": "[Scienze] Seleziona la definizione corretta di “fotosintesi”.",
+    "options": [
+      "sostanza che scioglie il soluto",
+      "passaggio da solido a gas",
+      "processo con cui le piante producono zuccheri usando luce, acqua e CO₂",
+      "forza che si oppone al movimento"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Scienze] Che cos'è “attrito”?",
+    "options": [
+      "materiale che lascia passare corrente",
+      "forza che si oppone al movimento",
+      "sostanza che scioglie il soluto",
+      "capacità di compiere lavoro"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Converti: 42 cm in mm.",
+    "options": [
+      "420 (4)",
+      "420",
+      "4200",
+      "42"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "1 cm = 10 mm."
+  },
+  {
+    "q": "[Scienze] In breve, “attrito” è…",
+    "options": [
+      "materiale che ostacola corrente",
+      "forza che si oppone al movimento",
+      "fenomeno legato ai campi magnetici",
+      "moto di un corpo attorno al proprio asse"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Converti: 400 min in s.",
+    "options": [
+      "400",
+      "240000",
+      "24000",
+      "2400"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "1 min = 60 s."
+  },
+  {
+    "q": "[Scienze] Che cos'è “rifrazione”?",
+    "options": [
+      "galassia in cui si trova il Sistema Solare",
+      "cambio direzione della luce passando tra mezzi",
+      "sostanza che scioglie il soluto",
+      "unità fondamentale degli esseri viventi"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Scienze] “onda”: cosa significa?",
+    "options": [
+      "passaggio da solido a liquido",
+      "sequenza di chi mangia chi in un ecosistema",
+      "moto di un corpo attorno al proprio asse",
+      "propagazione di un disturbo"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Scienze] Che cos'è “cometa”?",
+    "options": [
+      "insieme di stelle, gas e polveri",
+      "molecola coinvolta nella sintesi proteica",
+      "variazione di velocità nel tempo",
+      "corpo con ghiacci che forma una coda vicino al Sole"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Converti: 10 m in mm.",
+    "options": [
+      "100000",
+      "1000",
+      "10",
+      "10000"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "1 m = 1000 mm."
+  },
+  {
+    "q": "Converti: 250 min in s.",
+    "options": [
+      "250",
+      "15000",
+      "1500",
+      "150000"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "1 min = 60 s."
+  },
+  {
+    "q": "[Scienze] Il termine “prede” indica…",
+    "options": [
+      "passaggio da liquido a solido",
+      "animali cacciati da predatori",
+      "insieme di organismi e ambiente in interazione",
+      "rapporto tra massa e volume"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Scienze] Completa: “luce” = …",
+    "options": [
+      "rimbalzo della luce su una superficie",
+      "radiazione elettromagnetica visibile",
+      "forza che si oppone al movimento",
+      "quantità di materia"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Scienze] In breve, “rifrazione” è…",
+    "options": [
+      "unità fondamentale degli esseri viventi",
+      "sostanza formata da elementi diversi",
+      "cambio direzione della luce passando tra mezzi",
+      "numero di oscillazioni per secondo"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Scienze] Indica la descrizione corretta di “frequenza”.",
+    "options": [
+      "opposizione al passaggio di corrente",
+      "corpo roccioso che orbita nel Sistema Solare",
+      "numero di oscillazioni per secondo",
+      "unità base della materia"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Converti: 11 km in m.",
+    "options": [
+      "1100",
+      "11",
+      "110000",
+      "11000"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "1 km = 1000 m."
+  },
+  {
+    "q": "[Scienze] “isolante” si definisce come…",
+    "options": [
+      "materiale che ostacola corrente",
+      "insieme di stelle, gas e polveri",
+      "distanza tra due creste successive",
+      "propagazione di un disturbo"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Converti: 26 g in mg.",
+    "options": [
+      "26",
+      "2600",
+      "260000",
+      "26000"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "1 g = 1000 mg."
+  },
+  {
+    "q": "Converti: 45 m in mm.",
+    "options": [
+      "450000",
+      "45",
+      "4500",
+      "45000"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "1 m = 1000 mm."
+  },
+  {
+    "q": "[Scienze] In questo quiz, “forza” vuol dire…",
+    "options": [
+      "interazione che può cambiare il moto di un corpo (4)",
+      "corpo che orbita attorno a un pianeta (es. Luna)",
+      "interazione che può cambiare il moto di un corpo",
+      "passaggio da solido a liquido"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Scienze] Qual è il significato di “riflessione”?",
+    "options": [
+      "spazio occupato da un corpo",
+      "forza che si oppone al movimento",
+      "insieme di organismi e ambiente in interazione",
+      "rimbalzo della luce su una superficie"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Converti: 26 km in m.",
+    "options": [
+      "260000",
+      "2600",
+      "26000",
+      "26"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "1 km = 1000 m."
+  },
+  {
+    "q": "Converti: 25 L in mL.",
+    "options": [
+      "250000",
+      "25000",
+      "25",
+      "2500"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "1 L = 1000 mL."
+  },
+  {
+    "q": "[Scienze] Completa: “accelerazione” = …",
+    "options": [
+      "sequenza di chi mangia chi in un ecosistema",
+      "passaggio da solido a gas",
+      "spazio percorso per unità di tempo",
+      "variazione di velocità nel tempo"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Converti: 14 m in cm.",
+    "options": [
+      "14",
+      "140",
+      "14000",
+      "1400"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "1 m = 100 cm."
+  },
+  {
+    "q": "Converti: 4 L in mL.",
+    "options": [
+      "400",
+      "4000",
+      "40000",
+      "4"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "1 L = 1000 mL."
+  },
+  {
+    "q": "[Scienze] Il termine “sublimazione” indica…",
+    "options": [
+      "passaggio da gas a liquido",
+      "rapporto tra massa e volume",
+      "passaggio da solido a gas",
+      "animale che caccia altre prede"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Scienze] Qual è il significato di “sublimazione”?",
+    "options": [
+      "passaggio da solido a gas",
+      "corpo che orbita attorno a un pianeta (es. Luna)",
+      "miscuglio omogeneo",
+      "rapporto tra massa e volume"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Scienze] “onda” si definisce come…",
+    "options": [
+      "processo con cui le piante producono zuccheri usando luce, acqua e CO₂",
+      "passaggio da liquido a gas",
+      "forza di attrazione tra masse",
+      "propagazione di un disturbo"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Converti: 44 m in cm.",
+    "options": [
+      "4400",
+      "44",
+      "44000",
+      "440"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explain": "1 m = 100 cm."
+  },
+  {
+    "q": "[Scienze] “solidificazione” si definisce come…",
+    "options": [
+      "quantità di materia",
+      "cambio direzione della luce passando tra mezzi",
+      "galassia in cui si trova il Sistema Solare",
+      "passaggio da liquido a solido"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Converti: 80 min in s.",
+    "options": [
+      "480",
+      "80",
+      "48000",
+      "4800"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "1 min = 60 s."
+  },
+  {
+    "q": "[Scienze] Completa: “magnetismo” = …",
+    "options": [
+      "fenomeno legato ai campi magnetici",
+      "onda meccanica che si propaga in un mezzo",
+      "sequenza di chi mangia chi in un ecosistema",
+      "corpo che orbita attorno a un pianeta (es. Luna)"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Scienze] Qual è il significato di “massa”?",
+    "options": [
+      "sostanza disciolta",
+      "quantità di materia",
+      "propagazione di un disturbo",
+      "passaggio da solido a gas"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Converti: 13 g in mg.",
+    "options": [
+      "13000",
+      "13",
+      "1300",
+      "130000"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explain": "1 g = 1000 mg."
+  },
+  {
+    "q": "[Scienze] Che cos'è “magnetismo”?",
+    "options": [
+      "quantità di materia",
+      "corpo roccioso che orbita nel Sistema Solare",
+      "corpo che orbita attorno a un pianeta (es. Luna)",
+      "fenomeno legato ai campi magnetici"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Converti: 35 cm in mm.",
+    "options": [
+      "350 (4)",
+      "3500",
+      "350",
+      "35"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "1 cm = 10 mm."
+  },
+  {
+    "q": "Converti: 33 m in mm.",
+    "options": [
+      "33",
+      "3300",
+      "33000",
+      "330000"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "1 m = 1000 mm."
+  },
+  {
+    "q": "[Scienze] In breve, “fotosintesi” è…",
+    "options": [
+      "processo con cui le piante producono zuccheri usando luce, acqua e CO₂",
+      "interazione che può cambiare il moto di un corpo",
+      "flusso di cariche elettriche",
+      "cambio direzione della luce passando tra mezzi"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Converti: 300 m in cm.",
+    "options": [
+      "3000",
+      "30000",
+      "300000",
+      "300"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "1 m = 100 cm."
+  },
+  {
+    "q": "[Scienze] Qual è il significato di “accelerazione”?",
+    "options": [
+      "passaggio da solido a gas",
+      "variazione di velocità nel tempo",
+      "propagazione di un disturbo",
+      "passaggio di solvente attraverso una membrana"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Scienze] In questo quiz, “pH” vuol dire…",
+    "options": [
+      "misura dell'acidità o basicità di una soluzione",
+      "ambiente naturale in cui vive una specie",
+      "insieme di sostanze non legate chimicamente",
+      "passaggio da solido a gas"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Converti: 29 kg in g.",
+    "options": [
+      "2900",
+      "29000",
+      "29",
+      "290000"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "1 kg = 1000 g."
+  },
+  {
+    "q": "Converti: 7 m in cm.",
+    "options": [
+      "70",
+      "700",
+      "7000",
+      "7"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "1 m = 100 cm."
+  },
+  {
+    "q": "[Scienze] In breve, “condensazione” è…",
+    "options": [
+      "insieme di stelle, gas e polveri",
+      "ambiente naturale in cui vive una specie",
+      "passaggio da gas a liquido",
+      "onda meccanica che si propaga in un mezzo"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Scienze] “osmosi” si definisce come…",
+    "options": [
+      "onda meccanica che si propaga in un mezzo",
+      "passaggio da solido a liquido",
+      "movimento da alta a bassa concentrazione",
+      "passaggio di solvente attraverso una membrana"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Scienze] Il termine “densità” indica…",
+    "options": [
+      "rapporto tra massa e volume",
+      "quantità di materia",
+      "animale che caccia altre prede",
+      "radiazione elettromagnetica visibile"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Converti: 5 g in mg.",
+    "options": [
+      "500",
+      "5",
+      "5000",
+      "50000"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "1 g = 1000 mg."
+  },
+  {
+    "q": "Converti: 23 m in cm.",
+    "options": [
+      "2300",
+      "230",
+      "23",
+      "23000"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explain": "1 m = 100 cm."
+  },
+  {
+    "q": "[Scienze] Il termine “suono” indica…",
+    "options": [
+      "sostanza formata da elementi diversi",
+      "animale che caccia altre prede",
+      "passaggio da liquido a gas",
+      "onda meccanica che si propaga in un mezzo"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Scienze] In questo quiz, “rivoluzione” vuol dire…",
+    "options": [
+      "sostanza formata da elementi diversi",
+      "moto di un corpo attorno a un altro corpo",
+      "tendenza a mantenere lo stato di moto/quiete",
+      "ambiente naturale in cui vive una specie"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Converti: 2 h in min.",
+    "options": [
+      "1200",
+      "2",
+      "12",
+      "120"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "1 h = 60 min."
+  },
+  {
+    "q": "[Scienze] In breve, “tensione” è…",
+    "options": [
+      "differenza di potenziale elettrico",
+      "sostanza che scioglie il soluto",
+      "materiale che lascia passare corrente",
+      "molecola coinvolta nella sintesi proteica"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Converti: 300 m in mm.",
+    "options": [
+      "300000",
+      "30000",
+      "3000000",
+      "300"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explain": "1 m = 1000 mm."
+  },
+  {
+    "q": "[Scienze] Seleziona la definizione corretta di “biodiversità”.",
+    "options": [
+      "differenza di potenziale elettrico",
+      "materiale che ostacola corrente",
+      "varietà di specie viventi",
+      "animale che caccia altre prede"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Converti: 29 L in mL.",
+    "options": [
+      "290000",
+      "29",
+      "2900",
+      "29000"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "1 L = 1000 mL."
+  },
+  {
+    "q": "Converti: 75 cm in mm.",
+    "options": [
+      "75",
+      "750",
+      "7500",
+      "750 (4)"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "1 cm = 10 mm."
+  },
+  {
+    "q": "[Scienze] In breve, “isolante” è…",
+    "options": [
+      "passaggio da solido a liquido",
+      "tendenza a mantenere lo stato di moto/quiete",
+      "materiale che ostacola corrente",
+      "sequenza di chi mangia chi in un ecosistema"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Scienze] Il termine “corrente elettrica” indica…",
+    "options": [
+      "sostanza fatta da un solo tipo di atomi",
+      "flusso di cariche elettriche",
+      "materiale che lascia passare corrente",
+      "misura dell'acidità o basicità di una soluzione"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Converti: 80 km in m.",
+    "options": [
+      "80",
+      "8000",
+      "800000",
+      "80000"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "1 km = 1000 m."
+  },
+  {
+    "q": "[Scienze] Indica la descrizione corretta di “composto”.",
+    "options": [
+      "numero di oscillazioni per secondo",
+      "sostanza formata da elementi diversi",
+      "animale che caccia altre prede",
+      "materiale che lascia passare corrente"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Converti: 43 h in min.",
+    "options": [
+      "25800",
+      "258",
+      "2580",
+      "43"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "1 h = 60 min."
+  },
+  {
+    "q": "[Scienze] In questo quiz, “onda” vuol dire…",
+    "options": [
+      "capacità di compiere lavoro",
+      "propagazione di un disturbo",
+      "animale che caccia altre prede",
+      "moto di un corpo attorno al proprio asse"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Scienze] Qual è il significato di “ecosistema”?",
+    "options": [
+      "insieme di organismi e ambiente in interazione",
+      "miscuglio omogeneo",
+      "moto di un corpo attorno a un altro corpo",
+      "propagazione di un disturbo"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Converti: 9 L in mL.",
+    "options": [
+      "900",
+      "9000",
+      "9",
+      "90000"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "1 L = 1000 mL."
+  },
+  {
+    "q": "[Scienze] “velocità”: cosa significa?",
+    "options": [
+      "rapporto tra massa e volume",
+      "miscuglio omogeneo",
+      "animale che caccia altre prede",
+      "spazio percorso per unità di tempo"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Scienze] “rotazione” si definisce come…",
+    "options": [
+      "traiettoria di un corpo attorno a un altro",
+      "onda meccanica che si propaga in un mezzo",
+      "moto di un corpo attorno al proprio asse",
+      "unità base della materia"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Converti: 60 m in mm.",
+    "options": [
+      "60",
+      "600000",
+      "6000",
+      "60000"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "1 m = 1000 mm."
+  },
+  {
+    "q": "Converti: 37 m in cm.",
+    "options": [
+      "370",
+      "37000",
+      "3700",
+      "37"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "1 m = 100 cm."
+  },
+  {
+    "q": "[Scienze] Indica la descrizione corretta di “sublimazione”.",
+    "options": [
+      "rapporto tra massa e volume",
+      "flusso di cariche elettriche",
+      "tendenza a mantenere lo stato di moto/quiete",
+      "passaggio da solido a gas"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Converti: 31 h in min.",
+    "options": [
+      "1860",
+      "31",
+      "18600",
+      "186"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explain": "1 h = 60 min."
+  },
+  {
+    "q": "Converti: 100 km in m.",
+    "options": [
+      "10000",
+      "1000000",
+      "100000",
+      "100"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "1 km = 1000 m."
+  },
+  {
+    "q": "Converti: 21 cm in mm.",
+    "options": [
+      "2100",
+      "210 (4)",
+      "210",
+      "21"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "1 cm = 10 mm."
+  },
+  {
+    "q": "[Scienze] Il termine “energia” indica…",
+    "options": [
+      "capacità di compiere lavoro",
+      "rimbalzo della luce su una superficie",
+      "insieme di stelle, gas e polveri",
+      "tendenza a mantenere lo stato di moto/quiete"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Scienze] Completa: “onda” = …",
+    "options": [
+      "divisione cellulare che produce due cellule identiche",
+      "opposizione al passaggio di corrente",
+      "sostanza formata da elementi diversi",
+      "propagazione di un disturbo"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Scienze] In questo quiz, “suono” vuol dire…",
+    "options": [
+      "passaggio da solido a liquido",
+      "passaggio da gas a liquido",
+      "onda meccanica che si propaga in un mezzo",
+      "onda meccanica che si propaga in un mezzo (4)"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Scienze] Indica la descrizione corretta di “gravità”.",
+    "options": [
+      "passaggio da solido a gas",
+      "corpo che orbita attorno a un pianeta (es. Luna)",
+      "forza di attrazione tra masse",
+      "propagazione di un disturbo"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Converti: 2 cm in mm.",
+    "options": [
+      "20 (4)",
+      "2",
+      "200",
+      "20"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "1 cm = 10 mm."
+  },
+  {
+    "q": "Converti: 46 min in s.",
+    "options": [
+      "46",
+      "2760",
+      "276",
+      "27600"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "1 min = 60 s."
+  },
+  {
+    "q": "Converti: 38 m in cm.",
+    "options": [
+      "38",
+      "380",
+      "3800",
+      "38000"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "1 m = 100 cm."
+  },
+  {
+    "q": "[Scienze] Seleziona la definizione corretta di “soluto”.",
+    "options": [
+      "varietà di specie viventi",
+      "sostanza disciolta",
+      "variazione di velocità nel tempo",
+      "spazio occupato da un corpo"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Converti: 11 cm in mm.",
+    "options": [
+      "110",
+      "110 (4)",
+      "1100",
+      "11"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explain": "1 cm = 10 mm."
+  },
+  {
+    "q": "Converti: 41 m in mm.",
+    "options": [
+      "410000",
+      "41",
+      "4100",
+      "41000"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "1 m = 1000 mm."
+  },
+  {
+    "q": "[Scienze] Indica la descrizione corretta di “habitat”.",
+    "options": [
+      "ambiente naturale in cui vive una specie",
+      "moto di un corpo attorno a un altro corpo",
+      "distanza tra due creste successive",
+      "propagazione di un disturbo"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Scienze] Che cos'è “conduttore”?",
+    "options": [
+      "materiale che lascia passare corrente",
+      "insieme di organismi e ambiente in interazione",
+      "misura dell'acidità o basicità di una soluzione",
+      "passaggio da gas a liquido"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Scienze] Che cos'è “onda”?",
+    "options": [
+      "quantità di materia",
+      "propagazione di un disturbo",
+      "varietà di specie viventi",
+      "materiale che lascia passare corrente"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Scienze] Completa: “ecosistema” = …",
+    "options": [
+      "passaggio da solido a gas",
+      "passaggio da solido a liquido",
+      "materiale che lascia passare corrente",
+      "insieme di organismi e ambiente in interazione"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Converti: 80 h in min.",
+    "options": [
+      "4800",
+      "480",
+      "48000",
+      "80"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explain": "1 h = 60 min."
+  },
+  {
+    "q": "[Scienze] Qual è il significato di “inerzia”?",
+    "options": [
+      "fenomeno legato ai campi magnetici",
+      "radiazione elettromagnetica visibile",
+      "tendenza a mantenere lo stato di moto/quiete",
+      "opposizione al passaggio di corrente"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Converti: 19 h in min.",
+    "options": [
+      "114",
+      "19",
+      "1140",
+      "11400"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "1 h = 60 min."
+  },
+  {
+    "q": "[Scienze] Indica la descrizione corretta di “massa”.",
+    "options": [
+      "sostanza che scioglie il soluto",
+      "sequenza di chi mangia chi in un ecosistema",
+      "molecola che contiene informazione genetica",
+      "quantità di materia"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Scienze] “massa”: cosa significa?",
+    "options": [
+      "materiale che ostacola corrente",
+      "corpo roccioso che orbita nel Sistema Solare",
+      "quantità di materia",
+      "fenomeno legato ai campi magnetici"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Scienze] “lunghezza d'onda” si definisce come…",
+    "options": [
+      "unità base della materia",
+      "distanza tra due creste successive",
+      "varietà di specie viventi",
+      "sostanza che scioglie il soluto"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Scienze] Che cos'è “condensazione”?",
+    "options": [
+      "passaggio da gas a liquido",
+      "cambio direzione della luce passando tra mezzi",
+      "rimbalzo della luce su una superficie",
+      "distanza tra due creste successive"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Converti: 16 L in mL.",
+    "options": [
+      "16000",
+      "1600",
+      "160000",
+      "16"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explain": "1 L = 1000 mL."
+  },
+  {
+    "q": "Converti: 27 m in mm.",
+    "options": [
+      "270000",
+      "27000",
+      "2700",
+      "27"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "1 m = 1000 mm."
+  },
+  {
+    "q": "[Scienze] Indica la descrizione corretta di “magnetismo”.",
+    "options": [
+      "corpo con ghiacci che forma una coda vicino al Sole",
+      "miscuglio omogeneo",
+      "fenomeno legato ai campi magnetici",
+      "passaggio da gas a liquido"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Converti: 28 g in mg.",
+    "options": [
+      "28000",
+      "28",
+      "280000",
+      "2800"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explain": "1 g = 1000 mg."
+  },
+  {
+    "q": "[Scienze] Che cos'è “solvente”?",
+    "options": [
+      "passaggio da solido a liquido",
+      "sostanza che scioglie il soluto",
+      "passaggio da liquido a solido",
+      "radiazione elettromagnetica visibile"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Converti: 22 min in s.",
+    "options": [
+      "1320",
+      "22",
+      "132",
+      "13200"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explain": "1 min = 60 s."
+  },
+  {
+    "q": "[Scienze] “riflessione” si definisce come…",
+    "options": [
+      "rimbalzo della luce su una superficie",
+      "passaggio di solvente attraverso una membrana",
+      "opposizione al passaggio di corrente",
+      "insieme di stelle, gas e polveri"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Converti: 27 min in s.",
+    "options": [
+      "27",
+      "162",
+      "1620",
+      "16200"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "1 min = 60 s."
+  },
+  {
+    "q": "Converti: 250 km in m.",
+    "options": [
+      "2500000",
+      "250",
+      "250000",
+      "25000"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "1 km = 1000 m."
+  },
+  {
+    "q": "Converti: 18 L in mL.",
+    "options": [
+      "180000",
+      "18000",
+      "18",
+      "1800"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "1 L = 1000 mL."
+  },
+  {
+    "q": "Converti: 13 km in m.",
+    "options": [
+      "1300",
+      "13",
+      "13000",
+      "130000"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "1 km = 1000 m."
+  },
+  {
+    "q": "[Scienze] “densità”: cosa significa?",
+    "options": [
+      "unità base della materia",
+      "differenza di potenziale elettrico",
+      "interazione che può cambiare il moto di un corpo",
+      "rapporto tra massa e volume"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Scienze] “composto”: cosa significa?",
+    "options": [
+      "sostanza formata da elementi diversi",
+      "forza che si oppone al movimento",
+      "insieme di organismi e ambiente in interazione",
+      "unità base della materia"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Scienze] Che cos'è “lunghezza d'onda”?",
+    "options": [
+      "spazio occupato da un corpo",
+      "forza che si oppone al movimento",
+      "distanza tra due creste successive",
+      "animale che caccia altre prede"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Converti: 46 m in cm.",
+    "options": [
+      "46",
+      "46000",
+      "460",
+      "4600"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "1 m = 100 cm."
+  },
+  {
+    "q": "[Scienze] In questo quiz, “sublimazione” vuol dire…",
+    "options": [
+      "sequenza di chi mangia chi in un ecosistema",
+      "ambiente naturale in cui vive una specie",
+      "insieme di sostanze non legate chimicamente",
+      "passaggio da solido a gas"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Scienze] “miscuglio” si definisce come…",
+    "options": [
+      "distanza tra due creste successive",
+      "interazione che può cambiare il moto di un corpo",
+      "molecola che contiene informazione genetica",
+      "insieme di sostanze non legate chimicamente"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Scienze] Completa: “sublimazione” = …",
+    "options": [
+      "insieme di organismi e ambiente in interazione",
+      "sostanza fatta da un solo tipo di atomi",
+      "passaggio da solido a liquido",
+      "passaggio da solido a gas"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Converti: 35 g in mg.",
+    "options": [
+      "350000",
+      "35000",
+      "35",
+      "3500"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "1 g = 1000 mg."
+  },
+  {
+    "q": "[Scienze] In questo quiz, “conduttore” vuol dire…",
+    "options": [
+      "sostanza disciolta",
+      "passaggio da solido a liquido",
+      "materiale che lascia passare corrente",
+      "misura dell'acidità o basicità di una soluzione"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Scienze] Seleziona la definizione corretta di “lunghezza d'onda”.",
+    "options": [
+      "corpo roccioso che orbita nel Sistema Solare",
+      "distanza tra due creste successive",
+      "molecola che contiene informazione genetica",
+      "rapporto tra massa e volume"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Converti: 90 min in s.",
+    "options": [
+      "54000",
+      "90",
+      "540",
+      "5400"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "1 min = 60 s."
+  },
+  {
+    "q": "Converti: 120 L in mL.",
+    "options": [
+      "12000",
+      "1200000",
+      "120",
+      "120000"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "1 L = 1000 mL."
+  },
+  {
+    "q": "Converti: 28 kg in g.",
+    "options": [
+      "28000",
+      "2800",
+      "280000",
+      "28"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explain": "1 kg = 1000 g."
+  },
+  {
+    "q": "[Scienze] Qual è il significato di “conduttore”?",
+    "options": [
+      "tendenza a mantenere lo stato di moto/quiete",
+      "varietà di specie viventi",
+      "materiale che lascia passare corrente",
+      "molecola che contiene informazione genetica"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Converti: 30 L in mL.",
+    "options": [
+      "30000",
+      "30",
+      "300000",
+      "3000"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explain": "1 L = 1000 mL."
+  },
+  {
+    "q": "Converti: 9 min in s.",
+    "options": [
+      "9",
+      "540",
+      "5400",
+      "54"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "1 min = 60 s."
+  },
+  {
+    "q": "Converti: 5 cm in mm.",
+    "options": [
+      "50",
+      "50 (4)",
+      "5",
+      "500"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explain": "1 cm = 10 mm."
+  },
+  {
+    "q": "Converti: 75 L in mL.",
+    "options": [
+      "75",
+      "75000",
+      "750000",
+      "7500"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "1 L = 1000 mL."
+  },
+  {
+    "q": "Converti: 42 L in mL.",
+    "options": [
+      "42",
+      "42000",
+      "4200",
+      "420000"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "1 L = 1000 mL."
+  },
+  {
+    "q": "[Scienze] Il termine “cometa” indica…",
+    "options": [
+      "sostanza formata da elementi diversi",
+      "moto di un corpo attorno a un altro corpo",
+      "corpo con ghiacci che forma una coda vicino al Sole",
+      "numero di oscillazioni per secondo"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Scienze] Che cos'è “Via Lattea”?",
+    "options": [
+      "unità fondamentale degli esseri viventi",
+      "animali cacciati da predatori",
+      "traiettoria di un corpo attorno a un altro",
+      "galassia in cui si trova il Sistema Solare"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Scienze] In questo quiz, “evaporazione” vuol dire…",
+    "options": [
+      "opposizione al passaggio di corrente",
+      "distanza tra due creste successive",
+      "passaggio da liquido a gas",
+      "sostanza che scioglie il soluto"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Converti: 8 h in min.",
+    "options": [
+      "480",
+      "48",
+      "8",
+      "4800"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explain": "1 h = 60 min."
+  },
+  {
+    "q": "Converti: 30 g in mg.",
+    "options": [
+      "30000",
+      "30",
+      "300000",
+      "3000"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explain": "1 g = 1000 mg."
+  },
+  {
+    "q": "[Scienze] Qual è il significato di “predatore”?",
+    "options": [
+      "tendenza a mantenere lo stato di moto/quiete",
+      "passaggio da liquido a solido",
+      "animale che caccia altre prede",
+      "corpo che orbita attorno a un pianeta (es. Luna)"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Converti: 31 min in s.",
+    "options": [
+      "18600",
+      "31",
+      "1860",
+      "186"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "1 min = 60 s."
+  },
+  {
+    "q": "Converti: 5 min in s.",
+    "options": [
+      "3000",
+      "30",
+      "5",
+      "300"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "1 min = 60 s."
+  },
+  {
+    "q": "Converti: 45 cm in mm.",
+    "options": [
+      "45",
+      "450",
+      "450 (4)",
+      "4500"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "1 cm = 10 mm."
+  },
+  {
+    "q": "Converti: 36 min in s.",
+    "options": [
+      "216",
+      "21600",
+      "36",
+      "2160"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "1 min = 60 s."
+  },
+  {
+    "q": "[Scienze] Il termine “DNA” indica…",
+    "options": [
+      "traiettoria di un corpo attorno a un altro",
+      "molecola che contiene informazione genetica",
+      "moto di un corpo attorno a un altro corpo",
+      "miscuglio omogeneo"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Scienze] In breve, “osmosi” è…",
+    "options": [
+      "flusso di cariche elettriche",
+      "passaggio di solvente attraverso una membrana",
+      "interazione che può cambiare il moto di un corpo",
+      "rapporto tra massa e volume"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Converti: 41 L in mL.",
+    "options": [
+      "41",
+      "41000",
+      "410000",
+      "4100"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "1 L = 1000 mL."
+  },
+  {
+    "q": "[Scienze] “soluto” si definisce come…",
+    "options": [
+      "sostanza disciolta",
+      "passaggio da liquido a gas",
+      "passaggio da gas a liquido",
+      "capacità di compiere lavoro"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Scienze] Qual è il significato di “RNA”?",
+    "options": [
+      "molecola coinvolta nella sintesi proteica",
+      "moto di un corpo attorno al proprio asse",
+      "moto di un corpo attorno a un altro corpo",
+      "materiale che ostacola corrente"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Converti: 30 h in min.",
+    "options": [
+      "30",
+      "1800",
+      "180",
+      "18000"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "1 h = 60 min."
+  },
+  {
+    "q": "Converti: 37 km in m.",
+    "options": [
+      "37",
+      "37000",
+      "3700",
+      "370000"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "1 km = 1000 m."
+  },
+  {
+    "q": "Converti: 37 h in min.",
+    "options": [
+      "222",
+      "22200",
+      "37",
+      "2220"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "1 h = 60 min."
+  },
+  {
+    "q": "Converti: 19 cm in mm.",
+    "options": [
+      "190 (4)",
+      "19",
+      "190",
+      "1900"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "1 cm = 10 mm."
+  },
+  {
+    "q": "[Scienze] Seleziona la definizione corretta di “evaporazione”.",
+    "options": [
+      "passaggio da liquido a gas",
+      "animali cacciati da predatori",
+      "unità fondamentale degli esseri viventi",
+      "molecola coinvolta nella sintesi proteica"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Converti: 34 min in s.",
+    "options": [
+      "2040",
+      "34",
+      "20400",
+      "204"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explain": "1 min = 60 s."
+  },
+  {
+    "q": "[Scienze] In questo quiz, “fusione” vuol dire…",
+    "options": [
+      "passaggio da solido a gas",
+      "interazione che può cambiare il moto di un corpo",
+      "molecola coinvolta nella sintesi proteica",
+      "passaggio da solido a liquido"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Converti: 18 min in s.",
+    "options": [
+      "108",
+      "1080",
+      "18",
+      "10800"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "1 min = 60 s."
+  },
+  {
+    "q": "[Scienze] “Via Lattea” si definisce come…",
+    "options": [
+      "rapporto tra massa e volume",
+      "flusso di cariche elettriche",
+      "interazione che può cambiare il moto di un corpo",
+      "galassia in cui si trova il Sistema Solare"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Scienze] Indica la descrizione corretta di “condensazione”.",
+    "options": [
+      "opposizione al passaggio di corrente",
+      "passaggio da gas a liquido",
+      "galassia in cui si trova il Sistema Solare",
+      "forza di attrazione tra masse"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Scienze] “cometa” si definisce come…",
+    "options": [
+      "rimbalzo della luce su una superficie",
+      "corpo con ghiacci che forma una coda vicino al Sole",
+      "miscuglio omogeneo",
+      "divisione cellulare che produce due cellule identiche"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Scienze] In breve, “sublimazione” è…",
+    "options": [
+      "passaggio da gas a liquido",
+      "passaggio da solido a gas",
+      "animali cacciati da predatori",
+      "insieme di sostanze non legate chimicamente"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Scienze] Il termine “satellite naturale” indica…",
+    "options": [
+      "misura dell'acidità o basicità di una soluzione",
+      "corpo che orbita attorno a un pianeta (es. Luna)",
+      "molecola coinvolta nella sintesi proteica",
+      "quantità di materia"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Converti: 44 kg in g.",
+    "options": [
+      "44000",
+      "4400",
+      "44",
+      "440000"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explain": "1 kg = 1000 g."
+  },
+  {
+    "q": "Converti: 32 L in mL.",
+    "options": [
+      "32000",
+      "32",
+      "320000",
+      "3200"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explain": "1 L = 1000 mL."
+  },
+  {
+    "q": "[Scienze] Qual è il significato di “tensione”?",
+    "options": [
+      "fenomeno legato ai campi magnetici",
+      "corpo roccioso che orbita nel Sistema Solare",
+      "differenza di potenziale elettrico",
+      "rapporto tra massa e volume"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Converti: 16 m in cm.",
+    "options": [
+      "16",
+      "16000",
+      "160",
+      "1600"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "1 m = 100 cm."
+  },
+  {
+    "q": "[Scienze] “accelerazione” si definisce come…",
+    "options": [
+      "differenza di potenziale elettrico",
+      "variazione di velocità nel tempo",
+      "radiazione elettromagnetica visibile",
+      "opposizione al passaggio di corrente"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Scienze] In questo quiz, “accelerazione” vuol dire…",
+    "options": [
+      "divisione cellulare che produce due cellule identiche",
+      "corpo con ghiacci che forma una coda vicino al Sole",
+      "spazio occupato da un corpo",
+      "variazione di velocità nel tempo"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Scienze] Completa: “miscuglio” = …",
+    "options": [
+      "insieme di sostanze non legate chimicamente",
+      "unità base della materia",
+      "propagazione di un disturbo",
+      "passaggio di solvente attraverso una membrana"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Converti: 2 m in mm.",
+    "options": [
+      "200",
+      "2",
+      "20000",
+      "2000"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "1 m = 1000 mm."
+  },
+  {
+    "q": "[Scienze] In breve, “diffusione” è…",
+    "options": [
+      "traiettoria di un corpo attorno a un altro",
+      "passaggio da gas a liquido",
+      "movimento da alta a bassa concentrazione",
+      "corpo roccioso che orbita nel Sistema Solare"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Scienze] “elemento chimico” si definisce come…",
+    "options": [
+      "corpo con ghiacci che forma una coda vicino al Sole",
+      "moto di un corpo attorno a un altro corpo",
+      "sostanza fatta da un solo tipo di atomi",
+      "galassia in cui si trova il Sistema Solare"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Scienze] In breve, “suono” è…",
+    "options": [
+      "distanza tra due creste successive",
+      "radiazione elettromagnetica visibile",
+      "onda meccanica che si propaga in un mezzo",
+      "corpo che orbita attorno a un pianeta (es. Luna)"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Scienze] “molecola”: cosa significa?",
+    "options": [
+      "quantità di materia",
+      "insieme di atomi legati",
+      "materiale che ostacola corrente",
+      "misura dell'acidità o basicità di una soluzione"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Scienze] Che cos'è “soluto”?",
+    "options": [
+      "sostanza disciolta",
+      "sostanza formata da elementi diversi",
+      "variazione di velocità nel tempo",
+      "materiale che lascia passare corrente"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Scienze] Il termine “atomo” indica…",
+    "options": [
+      "passaggio da solido a liquido",
+      "animale che caccia altre prede",
+      "unità base della materia",
+      "differenza di potenziale elettrico"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Scienze] In breve, “evaporazione” è…",
+    "options": [
+      "rimbalzo della luce su una superficie",
+      "insieme di sostanze non legate chimicamente",
+      "passaggio da liquido a gas",
+      "onda meccanica che si propaga in un mezzo"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Scienze] “accelerazione”: cosa significa?",
+    "options": [
+      "variazione di velocità nel tempo",
+      "moto di un corpo attorno a un altro corpo",
+      "passaggio da liquido a gas",
+      "ambiente naturale in cui vive una specie"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Converti: 25 m in mm.",
+    "options": [
+      "2500",
+      "25000",
+      "25",
+      "250000"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "1 m = 1000 mm."
+  },
+  {
+    "q": "Converti: 31 km in m.",
+    "options": [
+      "3100",
+      "31",
+      "310000",
+      "31000"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "1 km = 1000 m."
+  },
+  {
+    "q": "[Scienze] Seleziona la definizione corretta di “atomo”.",
+    "options": [
+      "unità base della materia",
+      "passaggio da liquido a gas",
+      "rimbalzo della luce su una superficie",
+      "unità fondamentale degli esseri viventi"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Converti: 60 km in m.",
+    "options": [
+      "60",
+      "60000",
+      "6000",
+      "600000"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "1 km = 1000 m."
+  },
+  {
+    "q": "[Scienze] Il termine “Via Lattea” indica…",
+    "options": [
+      "varietà di specie viventi",
+      "sostanza che scioglie il soluto",
+      "galassia in cui si trova il Sistema Solare",
+      "rapporto tra massa e volume"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Converti: 32 g in mg.",
+    "options": [
+      "32000",
+      "3200",
+      "320000",
+      "32"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explain": "1 g = 1000 mg."
+  },
+  {
+    "q": "Converti: 100 h in min.",
+    "options": [
+      "600",
+      "6000",
+      "100",
+      "60000"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "1 h = 60 min."
+  },
+  {
+    "q": "[Scienze] Indica la descrizione corretta di “energia”.",
+    "options": [
+      "capacità di compiere lavoro",
+      "sostanza che scioglie il soluto",
+      "molecola coinvolta nella sintesi proteica",
+      "unità base della materia"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Scienze] Completa: “resistenza” = …",
+    "options": [
+      "fenomeno legato ai campi magnetici",
+      "opposizione al passaggio di corrente",
+      "traiettoria di un corpo attorno a un altro",
+      "cambio direzione della luce passando tra mezzi"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Scienze] Qual è il significato di “isolante”?",
+    "options": [
+      "materiale che ostacola corrente",
+      "unità base della materia",
+      "capacità di compiere lavoro",
+      "passaggio da liquido a solido"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Converti: 6 cm in mm.",
+    "options": [
+      "60 (4)",
+      "60",
+      "6",
+      "600"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "1 cm = 10 mm."
+  },
+  {
+    "q": "[Scienze] Qual è il significato di “lunghezza d'onda”?",
+    "options": [
+      "distanza tra due creste successive",
+      "forza che si oppone al movimento",
+      "tendenza a mantenere lo stato di moto/quiete",
+      "unità base della materia"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Scienze] In questo quiz, “gravità” vuol dire…",
+    "options": [
+      "variazione di velocità nel tempo",
+      "forza di attrazione tra masse",
+      "sostanza fatta da un solo tipo di atomi",
+      "passaggio da gas a liquido"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Scienze] Seleziona la definizione corretta di “accelerazione”.",
+    "options": [
+      "variazione di velocità nel tempo",
+      "interazione che può cambiare il moto di un corpo",
+      "passaggio da liquido a gas",
+      "materiale che lascia passare corrente"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Converti: 5 km in m.",
+    "options": [
+      "5000",
+      "5",
+      "500",
+      "50000"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explain": "1 km = 1000 m."
+  },
+  {
+    "q": "Converti: 150 min in s.",
+    "options": [
+      "900",
+      "150",
+      "90000",
+      "9000"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "1 min = 60 s."
+  },
+  {
+    "q": "Converti: 50 km in m.",
+    "options": [
+      "5000",
+      "500000",
+      "50",
+      "50000"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "1 km = 1000 m."
+  },
+  {
+    "q": "[Scienze] Che cos'è “solidificazione”?",
+    "options": [
+      "passaggio da liquido a gas",
+      "rimbalzo della luce su una superficie",
+      "insieme di atomi legati",
+      "passaggio da liquido a solido"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Converti: 400 cm in mm.",
+    "options": [
+      "4000 (4)",
+      "400",
+      "40000",
+      "4000"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "1 cm = 10 mm."
+  },
+  {
+    "q": "Converti: 22 kg in g.",
+    "options": [
+      "220000",
+      "22000",
+      "22",
+      "2200"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "1 kg = 1000 g."
+  },
+  {
+    "q": "[Scienze] Che cos'è “atomo”?",
+    "options": [
+      "galassia in cui si trova il Sistema Solare",
+      "quantità di materia",
+      "fenomeno legato ai campi magnetici",
+      "unità base della materia"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Converti: 24 km in m.",
+    "options": [
+      "24000",
+      "240000",
+      "24",
+      "2400"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explain": "1 km = 1000 m."
+  },
+  {
+    "q": "[Scienze] Completa: “molecola” = …",
+    "options": [
+      "quantità di materia",
+      "corpo roccioso che orbita nel Sistema Solare",
+      "insieme di atomi legati",
+      "opposizione al passaggio di corrente"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Converti: 75 km in m.",
+    "options": [
+      "750000",
+      "75000",
+      "7500",
+      "75"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "1 km = 1000 m."
+  },
+  {
+    "q": "Converti: 42 kg in g.",
+    "options": [
+      "42000",
+      "4200",
+      "420000",
+      "42"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explain": "1 kg = 1000 g."
+  },
+  {
+    "q": "Converti: 38 h in min.",
+    "options": [
+      "38",
+      "228",
+      "22800",
+      "2280"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "1 h = 60 min."
+  },
+  {
+    "q": "Converti: 48 g in mg.",
+    "options": [
+      "480000",
+      "4800",
+      "48",
+      "48000"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "1 g = 1000 mg."
+  },
+  {
+    "q": "Converti: 12 km in m.",
+    "options": [
+      "1200",
+      "120000",
+      "12000",
+      "12"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "1 km = 1000 m."
+  },
+  {
+    "q": "[Scienze] Completa: “evaporazione” = …",
+    "options": [
+      "spazio occupato da un corpo",
+      "passaggio da liquido a gas",
+      "sostanza fatta da un solo tipo di atomi",
+      "misura dell'acidità o basicità di una soluzione"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Scienze] Completa: “orbita” = …",
+    "options": [
+      "movimento da alta a bassa concentrazione",
+      "traiettoria di un corpo attorno a un altro",
+      "ambiente naturale in cui vive una specie",
+      "passaggio di solvente attraverso una membrana"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Converti: 18 kg in g.",
+    "options": [
+      "18",
+      "1800",
+      "180000",
+      "18000"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "1 kg = 1000 g."
+  },
+  {
+    "q": "Converti: 22 m in mm.",
+    "options": [
+      "2200",
+      "22",
+      "22000",
+      "220000"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "1 m = 1000 mm."
+  },
+  {
+    "q": "[Scienze] Che cos'è “forza”?",
+    "options": [
+      "passaggio di solvente attraverso una membrana",
+      "tendenza a mantenere lo stato di moto/quiete",
+      "interazione che può cambiare il moto di un corpo",
+      "movimento da alta a bassa concentrazione"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Converti: 6 L in mL.",
+    "options": [
+      "6000",
+      "60000",
+      "600",
+      "6"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explain": "1 L = 1000 mL."
+  },
+  {
+    "q": "[Scienze] “galassia” si definisce come…",
+    "options": [
+      "onda meccanica che si propaga in un mezzo",
+      "passaggio da solido a gas",
+      "forza di attrazione tra masse",
+      "insieme di stelle, gas e polveri"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Converti: 16 m in mm.",
+    "options": [
+      "16000",
+      "16",
+      "1600",
+      "160000"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explain": "1 m = 1000 mm."
+  },
+  {
+    "q": "[Scienze] Completa: “asteroide” = …",
+    "options": [
+      "interazione che può cambiare il moto di un corpo",
+      "corpo roccioso che orbita nel Sistema Solare",
+      "passaggio da gas a liquido",
+      "fenomeno legato ai campi magnetici"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Converti: 30 cm in mm.",
+    "options": [
+      "30",
+      "300",
+      "3000",
+      "300 (4)"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "1 cm = 10 mm."
+  },
+  {
+    "q": "[Scienze] Completa: “galassia” = …",
+    "options": [
+      "rimbalzo della luce su una superficie",
+      "insieme di stelle, gas e polveri",
+      "passaggio da solido a liquido",
+      "sostanza formata da elementi diversi"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Scienze] In breve, “inerzia” è…",
+    "options": [
+      "moto di un corpo attorno al proprio asse",
+      "tendenza a mantenere lo stato di moto/quiete",
+      "materiale che ostacola corrente",
+      "unità base della materia"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Converti: 200 m in cm.",
+    "options": [
+      "2000",
+      "20000",
+      "200",
+      "200000"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "1 m = 100 cm."
+  },
+  {
+    "q": "Converti: 11 g in mg.",
+    "options": [
+      "110000",
+      "1100",
+      "11000",
+      "11"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "1 g = 1000 mg."
+  },
+  {
+    "q": "[Scienze] “biodiversità”: cosa significa?",
+    "options": [
+      "galassia in cui si trova il Sistema Solare",
+      "corpo con ghiacci che forma una coda vicino al Sole",
+      "varietà di specie viventi",
+      "insieme di sostanze non legate chimicamente"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Converti: 60 min in s.",
+    "options": [
+      "36000",
+      "60",
+      "360",
+      "3600"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "1 min = 60 s."
+  },
+  {
+    "q": "[Scienze] Il termine “attrito” indica…",
+    "options": [
+      "misura dell'acidità o basicità di una soluzione",
+      "forza che si oppone al movimento",
+      "moto di un corpo attorno a un altro corpo",
+      "passaggio da solido a gas"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Scienze] Qual è il significato di “corrente elettrica”?",
+    "options": [
+      "variazione di velocità nel tempo",
+      "insieme di sostanze non legate chimicamente",
+      "spazio percorso per unità di tempo",
+      "flusso di cariche elettriche"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Converti: 90 kg in g.",
+    "options": [
+      "900000",
+      "90000",
+      "90",
+      "9000"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "1 kg = 1000 g."
+  },
+  {
+    "q": "[Scienze] Che cos'è “resistenza”?",
+    "options": [
+      "moto di un corpo attorno al proprio asse",
+      "opposizione al passaggio di corrente",
+      "ambiente naturale in cui vive una specie",
+      "numero di oscillazioni per secondo"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Converti: 300 kg in g.",
+    "options": [
+      "30000",
+      "300000",
+      "3000000",
+      "300"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "1 kg = 1000 g."
+  },
+  {
+    "q": "Converti: 26 cm in mm.",
+    "options": [
+      "26",
+      "2600",
+      "260",
+      "260 (4)"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "1 cm = 10 mm."
+  },
+  {
+    "q": "[Scienze] Che cos'è “densità”?",
+    "options": [
+      "ambiente naturale in cui vive una specie",
+      "rapporto tra massa e volume",
+      "passaggio da solido a gas",
+      "unità base della materia"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Scienze] “composto” si definisce come…",
+    "options": [
+      "distanza tra due creste successive",
+      "sostanza formata da elementi diversi",
+      "sostanza che scioglie il soluto",
+      "sequenza di chi mangia chi in un ecosistema"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Scienze] Seleziona la definizione corretta di “ecosistema”.",
+    "options": [
+      "propagazione di un disturbo",
+      "flusso di cariche elettriche",
+      "insieme di organismi e ambiente in interazione",
+      "passaggio da liquido a solido"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Converti: 32 cm in mm.",
+    "options": [
+      "32",
+      "320 (4)",
+      "320",
+      "3200"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "1 cm = 10 mm."
+  },
+  {
+    "q": "[Scienze] Il termine “riflessione” indica…",
+    "options": [
+      "rapporto tra massa e volume",
+      "opposizione al passaggio di corrente",
+      "numero di oscillazioni per secondo",
+      "rimbalzo della luce su una superficie"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Scienze] Qual è il significato di “soluzione”?",
+    "options": [
+      "insieme di organismi e ambiente in interazione",
+      "differenza di potenziale elettrico",
+      "opposizione al passaggio di corrente",
+      "miscuglio omogeneo"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Converti: 13 L in mL.",
+    "options": [
+      "130000",
+      "1300",
+      "13",
+      "13000"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "1 L = 1000 mL."
+  },
+  {
+    "q": "Converti: 49 m in cm.",
+    "options": [
+      "490",
+      "4900",
+      "49000",
+      "49"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "1 m = 100 cm."
+  },
+  {
+    "q": "[Scienze] In questo quiz, “luce” vuol dire…",
+    "options": [
+      "cambio direzione della luce passando tra mezzi",
+      "corpo con ghiacci che forma una coda vicino al Sole",
+      "radiazione elettromagnetica visibile",
+      "molecola coinvolta nella sintesi proteica"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Converti: 500 km in m.",
+    "options": [
+      "5000000",
+      "500000",
+      "50000",
+      "500"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "1 km = 1000 m."
+  },
+  {
+    "q": "[Scienze] In questo quiz, “tensione” vuol dire…",
+    "options": [
+      "differenza di potenziale elettrico",
+      "passaggio di solvente attraverso una membrana",
+      "corpo roccioso che orbita nel Sistema Solare",
+      "miscuglio omogeneo"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Scienze] In breve, “gravità” è…",
+    "options": [
+      "insieme di organismi e ambiente in interazione",
+      "interazione che può cambiare il moto di un corpo",
+      "animali cacciati da predatori",
+      "forza di attrazione tra masse"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Scienze] Seleziona la definizione corretta di “sublimazione”.",
+    "options": [
+      "distanza tra due creste successive",
+      "passaggio da solido a gas",
+      "rapporto tra massa e volume",
+      "passaggio da liquido a solido"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Converti: 80 L in mL.",
+    "options": [
+      "80",
+      "800000",
+      "8000",
+      "80000"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "1 L = 1000 mL."
+  },
+  {
+    "q": "Converti: 17 g in mg.",
+    "options": [
+      "17000",
+      "170000",
+      "1700",
+      "17"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explain": "1 g = 1000 mg."
+  },
+  {
+    "q": "[Scienze] Che cos'è “corrente elettrica”?",
+    "options": [
+      "flusso di cariche elettriche",
+      "tendenza a mantenere lo stato di moto/quiete",
+      "insieme di sostanze non legate chimicamente",
+      "opposizione al passaggio di corrente"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Scienze] “resistenza” si definisce come…",
+    "options": [
+      "opposizione al passaggio di corrente",
+      "animali cacciati da predatori",
+      "insieme di organismi e ambiente in interazione",
+      "passaggio di solvente attraverso una membrana"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Scienze] Completa: “rivoluzione” = …",
+    "options": [
+      "spazio occupato da un corpo",
+      "ambiente naturale in cui vive una specie",
+      "moto di un corpo attorno a un altro corpo",
+      "processo con cui le piante producono zuccheri usando luce, acqua e CO₂"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Converti: 48 km in m.",
+    "options": [
+      "48",
+      "480000",
+      "4800",
+      "48000"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "1 km = 1000 m."
+  },
+  {
+    "q": "[Scienze] “elemento chimico”: cosa significa?",
+    "options": [
+      "sostanza fatta da un solo tipo di atomi",
+      "ambiente naturale in cui vive una specie",
+      "capacità di compiere lavoro",
+      "opposizione al passaggio di corrente"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Converti: 18 m in cm.",
+    "options": [
+      "1800",
+      "18000",
+      "180",
+      "18"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explain": "1 m = 100 cm."
+  },
+  {
+    "q": "[Scienze] “diffusione”: cosa significa?",
+    "options": [
+      "movimento da alta a bassa concentrazione",
+      "differenza di potenziale elettrico",
+      "sostanza che scioglie il soluto",
+      "passaggio da liquido a gas"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Scienze] “densità” si definisce come…",
+    "options": [
+      "rapporto tra massa e volume",
+      "opposizione al passaggio di corrente",
+      "spazio occupato da un corpo",
+      "traiettoria di un corpo attorno a un altro"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Scienze] In breve, “resistenza” è…",
+    "options": [
+      "radiazione elettromagnetica visibile",
+      "opposizione al passaggio di corrente",
+      "interazione che può cambiare il moto di un corpo",
+      "moto di un corpo attorno al proprio asse"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Scienze] Qual è il significato di “molecola”?",
+    "options": [
+      "unità base della materia",
+      "insieme di atomi legati",
+      "varietà di specie viventi",
+      "passaggio da solido a liquido"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Scienze] Seleziona la definizione corretta di “soluzione”.",
+    "options": [
+      "movimento da alta a bassa concentrazione",
+      "miscuglio omogeneo",
+      "sostanza formata da elementi diversi",
+      "radiazione elettromagnetica visibile"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Scienze] “fotosintesi”: cosa significa?",
+    "options": [
+      "fenomeno legato ai campi magnetici",
+      "processo con cui le piante producono zuccheri usando luce, acqua e CO₂",
+      "propagazione di un disturbo",
+      "insieme di organismi e ambiente in interazione"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Converti: 1 L in mL.",
+    "options": [
+      "100",
+      "1000",
+      "10000",
+      "1"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "1 L = 1000 mL."
+  },
+  {
+    "q": "[Scienze] Completa: “corrente elettrica” = …",
+    "options": [
+      "propagazione di un disturbo",
+      "movimento da alta a bassa concentrazione",
+      "distanza tra due creste successive",
+      "flusso di cariche elettriche"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Converti: 47 m in cm.",
+    "options": [
+      "47",
+      "4700",
+      "47000",
+      "470"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "1 m = 100 cm."
+  },
+  {
+    "q": "Converti: 120 m in cm.",
+    "options": [
+      "120",
+      "1200",
+      "120000",
+      "12000"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "1 m = 100 cm."
+  },
+  {
+    "q": "Converti: 49 h in min.",
+    "options": [
+      "29400",
+      "2940",
+      "49",
+      "294"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "1 h = 60 min."
+  },
+  {
+    "q": "[Scienze] Il termine “condensazione” indica…",
+    "options": [
+      "variazione di velocità nel tempo",
+      "interazione che può cambiare il moto di un corpo",
+      "passaggio da gas a liquido",
+      "rapporto tra massa e volume"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Scienze] Seleziona la definizione corretta di “Via Lattea”.",
+    "options": [
+      "passaggio da liquido a solido",
+      "sostanza disciolta",
+      "galassia in cui si trova il Sistema Solare",
+      "moto di un corpo attorno al proprio asse"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Scienze] Completa: “DNA” = …",
+    "options": [
+      "molecola che contiene informazione genetica",
+      "miscuglio omogeneo",
+      "corpo che orbita attorno a un pianeta (es. Luna)",
+      "differenza di potenziale elettrico"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Converti: 1 h in min.",
+    "options": [
+      "60",
+      "600",
+      "6",
+      "1"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explain": "1 h = 60 min."
+  },
+  {
+    "q": "Converti: 40 cm in mm.",
+    "options": [
+      "4000",
+      "400 (4)",
+      "40",
+      "400"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "1 cm = 10 mm."
+  },
+  {
+    "q": "Converti: 48 min in s.",
+    "options": [
+      "28800",
+      "2880",
+      "288",
+      "48"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "1 min = 60 s."
+  },
+  {
+    "q": "[Scienze] Il termine “solidificazione” indica…",
+    "options": [
+      "passaggio da liquido a solido",
+      "animali cacciati da predatori",
+      "unità fondamentale degli esseri viventi",
+      "insieme di stelle, gas e polveri"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Scienze] In breve, “habitat” è…",
+    "options": [
+      "insieme di sostanze non legate chimicamente",
+      "corpo che orbita attorno a un pianeta (es. Luna)",
+      "ambiente naturale in cui vive una specie",
+      "insieme di organismi e ambiente in interazione"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Scienze] Indica la descrizione corretta di “galassia”.",
+    "options": [
+      "insieme di stelle, gas e polveri",
+      "rimbalzo della luce su una superficie",
+      "spazio percorso per unità di tempo",
+      "distanza tra due creste successive"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Converti: 32 kg in g.",
+    "options": [
+      "320000",
+      "3200",
+      "32",
+      "32000"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "1 kg = 1000 g."
+  },
+  {
+    "q": "[Scienze] Qual è il significato di “forza”?",
+    "options": [
+      "rapporto tra massa e volume",
+      "quantità di materia",
+      "interazione che può cambiare il moto di un corpo",
+      "moto di un corpo attorno al proprio asse"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Converti: 4 cm in mm.",
+    "options": [
+      "40 (4)",
+      "4",
+      "40",
+      "400"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "1 cm = 10 mm."
+  },
+  {
+    "q": "Converti: 80 cm in mm.",
+    "options": [
+      "8000",
+      "800 (4)",
+      "80",
+      "800"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "1 cm = 10 mm."
+  },
+  {
+    "q": "Converti: 12 h in min.",
+    "options": [
+      "720",
+      "7200",
+      "12",
+      "72"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explain": "1 h = 60 min."
+  },
+  {
+    "q": "[Scienze] Qual è il significato di “atomo”?",
+    "options": [
+      "fenomeno legato ai campi magnetici",
+      "unità base della materia",
+      "passaggio da liquido a gas",
+      "opposizione al passaggio di corrente"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Scienze] In questo quiz, “fotosintesi” vuol dire…",
+    "options": [
+      "movimento da alta a bassa concentrazione",
+      "processo con cui le piante producono zuccheri usando luce, acqua e CO₂",
+      "distanza tra due creste successive",
+      "sequenza di chi mangia chi in un ecosistema"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Scienze] In breve, “rivoluzione” è…",
+    "options": [
+      "unità base della materia",
+      "spazio percorso per unità di tempo",
+      "materiale che ostacola corrente",
+      "moto di un corpo attorno a un altro corpo"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Converti: 15 m in mm.",
+    "options": [
+      "150000",
+      "15000",
+      "15",
+      "1500"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "1 m = 1000 mm."
+  },
+  {
+    "q": "Converti: 500 cm in mm.",
+    "options": [
+      "5000",
+      "5000 (4)",
+      "50000",
+      "500"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explain": "1 cm = 10 mm."
+  },
+  {
+    "q": "[Scienze] Qual è il significato di “prede”?",
+    "options": [
+      "moto di un corpo attorno a un altro corpo",
+      "molecola che contiene informazione genetica",
+      "corpo con ghiacci che forma una coda vicino al Sole",
+      "animali cacciati da predatori"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Converti: 60 L in mL.",
+    "options": [
+      "60",
+      "60000",
+      "600000",
+      "6000"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "1 L = 1000 mL."
+  },
+  {
+    "q": "Converti: 25 kg in g.",
+    "options": [
+      "2500",
+      "25",
+      "25000",
+      "250000"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "1 kg = 1000 g."
+  },
+  {
+    "q": "Converti: 25 g in mg.",
+    "options": [
+      "250000",
+      "2500",
+      "25",
+      "25000"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "1 g = 1000 mg."
+  },
+  {
+    "q": "[Scienze] In breve, “onda” è…",
+    "options": [
+      "cambio direzione della luce passando tra mezzi",
+      "propagazione di un disturbo",
+      "animali cacciati da predatori",
+      "forza che si oppone al movimento"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Scienze] Seleziona la definizione corretta di “densità”.",
+    "options": [
+      "capacità di compiere lavoro",
+      "rapporto tra massa e volume",
+      "misura dell'acidità o basicità di una soluzione",
+      "fenomeno legato ai campi magnetici"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Scienze] Qual è il significato di “magnetismo”?",
+    "options": [
+      "fenomeno legato ai campi magnetici",
+      "passaggio da solido a gas",
+      "sostanza formata da elementi diversi",
+      "passaggio da liquido a solido"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Scienze] “volume” si definisce come…",
+    "options": [
+      "radiazione elettromagnetica visibile",
+      "spazio occupato da un corpo",
+      "insieme di stelle, gas e polveri",
+      "traiettoria di un corpo attorno a un altro"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Scienze] “frequenza” si definisce come…",
+    "options": [
+      "numero di oscillazioni per secondo",
+      "capacità di compiere lavoro",
+      "variazione di velocità nel tempo",
+      "misura dell'acidità o basicità di una soluzione"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Scienze] In questo quiz, “solvente” vuol dire…",
+    "options": [
+      "passaggio da liquido a solido",
+      "sostanza che scioglie il soluto",
+      "unità fondamentale degli esseri viventi",
+      "materiale che ostacola corrente"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Scienze] “attrito” si definisce come…",
+    "options": [
+      "capacità di compiere lavoro",
+      "sostanza formata da elementi diversi",
+      "forza che si oppone al movimento",
+      "interazione che può cambiare il moto di un corpo"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Scienze] In breve, “Via Lattea” è…",
+    "options": [
+      "galassia in cui si trova il Sistema Solare",
+      "capacità di compiere lavoro",
+      "passaggio da solido a liquido",
+      "cambio direzione della luce passando tra mezzi"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Scienze] Seleziona la definizione corretta di “composto”.",
+    "options": [
+      "sostanza formata da elementi diversi",
+      "opposizione al passaggio di corrente",
+      "misura dell'acidità o basicità di una soluzione",
+      "sequenza di chi mangia chi in un ecosistema"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Converti: 5 m in mm.",
+    "options": [
+      "50000",
+      "500",
+      "5000",
+      "5"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "1 m = 1000 mm."
+  },
+  {
+    "q": "Converti: 25 m in cm.",
+    "options": [
+      "2500",
+      "25000",
+      "250",
+      "25"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explain": "1 m = 100 cm."
+  },
+  {
+    "q": "Converti: 25 cm in mm.",
+    "options": [
+      "2500",
+      "25",
+      "250 (4)",
+      "250"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "1 cm = 10 mm."
+  },
+  {
+    "q": "Converti: 3 h in min.",
+    "options": [
+      "1800",
+      "180",
+      "3",
+      "18"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "1 h = 60 min."
+  },
+  {
+    "q": "Converti: 33 L in mL.",
+    "options": [
+      "3300",
+      "330000",
+      "33000",
+      "33"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "1 L = 1000 mL."
+  },
+  {
+    "q": "[Scienze] In breve, “mitosi” è…",
+    "options": [
+      "quantità di materia",
+      "miscuglio omogeneo",
+      "passaggio da liquido a solido",
+      "divisione cellulare che produce due cellule identiche"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Scienze] Completa: “mitosi” = …",
+    "options": [
+      "moto di un corpo attorno a un altro corpo",
+      "sostanza formata da elementi diversi",
+      "insieme di stelle, gas e polveri",
+      "divisione cellulare che produce due cellule identiche"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Scienze] Completa: “isolante” = …",
+    "options": [
+      "forza di attrazione tra masse",
+      "passaggio da gas a liquido",
+      "passaggio da solido a liquido",
+      "materiale che ostacola corrente"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Converti: 3 min in s.",
+    "options": [
+      "3",
+      "1800",
+      "180",
+      "18"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "1 min = 60 s."
+  },
+  {
+    "q": "Converti: 500 kg in g.",
+    "options": [
+      "5000000",
+      "500000",
+      "50000",
+      "500"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "1 kg = 1000 g."
+  },
+  {
+    "q": "Converti: 23 m in mm.",
+    "options": [
+      "2300",
+      "23000",
+      "23",
+      "230000"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "1 m = 1000 mm."
+  },
+  {
+    "q": "[Scienze] In breve, “riflessione” è…",
+    "options": [
+      "distanza tra due creste successive",
+      "spazio occupato da un corpo",
+      "forza che si oppone al movimento",
+      "rimbalzo della luce su una superficie"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Scienze] Qual è il significato di “frequenza”?",
+    "options": [
+      "numero di oscillazioni per secondo",
+      "passaggio da liquido a solido",
+      "molecola che contiene informazione genetica",
+      "opposizione al passaggio di corrente"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Converti: 47 m in mm.",
+    "options": [
+      "47000",
+      "470000",
+      "4700",
+      "47"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explain": "1 m = 1000 mm."
+  },
+  {
+    "q": "Converti: 40 m in cm.",
+    "options": [
+      "40000",
+      "4000",
+      "400",
+      "40"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "1 m = 100 cm."
+  },
+  {
+    "q": "Converti: 2 g in mg.",
+    "options": [
+      "20000",
+      "2000",
+      "2",
+      "200"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "1 g = 1000 mg."
+  },
+  {
+    "q": "Converti: 39 h in min.",
+    "options": [
+      "234",
+      "39",
+      "23400",
+      "2340"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "1 h = 60 min."
+  },
+  {
+    "q": "[Scienze] In breve, “massa” è…",
+    "options": [
+      "insieme di atomi legati",
+      "quantità di materia",
+      "corpo roccioso che orbita nel Sistema Solare",
+      "sequenza di chi mangia chi in un ecosistema"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Converti: 150 cm in mm.",
+    "options": [
+      "1500 (4)",
+      "15000",
+      "1500",
+      "150"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "1 cm = 10 mm."
+  },
+  {
+    "q": "[Scienze] Indica la descrizione corretta di “riflessione”.",
+    "options": [
+      "rimbalzo della luce su una superficie",
+      "forza di attrazione tra masse",
+      "cambio direzione della luce passando tra mezzi",
+      "onda meccanica che si propaga in un mezzo"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Scienze] Il termine “fusione” indica…",
+    "options": [
+      "variazione di velocità nel tempo",
+      "passaggio da solido a liquido",
+      "animale che caccia altre prede",
+      "opposizione al passaggio di corrente"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Scienze] Che cos'è “accelerazione”?",
+    "options": [
+      "processo con cui le piante producono zuccheri usando luce, acqua e CO₂",
+      "variazione di velocità nel tempo",
+      "quantità di materia",
+      "insieme di atomi legati"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Scienze] In questo quiz, “composto” vuol dire…",
+    "options": [
+      "sostanza disciolta",
+      "sostanza formata da elementi diversi",
+      "interazione che può cambiare il moto di un corpo",
+      "unità fondamentale degli esseri viventi"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Converti: 23 min in s.",
+    "options": [
+      "23",
+      "13800",
+      "138",
+      "1380"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "1 min = 60 s."
+  },
+  {
+    "q": "Converti: 7 kg in g.",
+    "options": [
+      "7",
+      "7000",
+      "70000",
+      "700"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "1 kg = 1000 g."
+  },
+  {
+    "q": "Converti: 8 m in mm.",
+    "options": [
+      "8",
+      "8000",
+      "800",
+      "80000"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "1 m = 1000 mm."
+  },
+  {
+    "q": "[Scienze] Che cos'è “fusione”?",
+    "options": [
+      "propagazione di un disturbo",
+      "forza che si oppone al movimento",
+      "varietà di specie viventi",
+      "passaggio da solido a liquido"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Converti: 37 L in mL.",
+    "options": [
+      "3700",
+      "370000",
+      "37000",
+      "37"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "1 L = 1000 mL."
+  },
+  {
+    "q": "Converti: 6 g in mg.",
+    "options": [
+      "6",
+      "600",
+      "60000",
+      "6000"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "1 g = 1000 mg."
+  },
+  {
+    "q": "[Scienze] Il termine “volume” indica…",
+    "options": [
+      "passaggio da solido a liquido",
+      "spazio occupato da un corpo",
+      "variazione di velocità nel tempo",
+      "varietà di specie viventi"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Converti: 150 kg in g.",
+    "options": [
+      "150",
+      "150000",
+      "1500000",
+      "15000"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "1 kg = 1000 g."
+  },
+  {
+    "q": "Converti: 47 kg in g.",
+    "options": [
+      "47000",
+      "4700",
+      "47",
+      "470000"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explain": "1 kg = 1000 g."
+  },
+  {
+    "q": "[Scienze] Completa: “pH” = …",
+    "options": [
+      "spazio occupato da un corpo",
+      "misura dell'acidità o basicità di una soluzione",
+      "sostanza fatta da un solo tipo di atomi",
+      "molecola che contiene informazione genetica"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Scienze] Completa: “diffusione” = …",
+    "options": [
+      "passaggio da gas a liquido",
+      "quantità di materia",
+      "unità fondamentale degli esseri viventi",
+      "movimento da alta a bassa concentrazione"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Scienze] Seleziona la definizione corretta di “cellula”.",
+    "options": [
+      "insieme di sostanze non legate chimicamente",
+      "unità fondamentale degli esseri viventi",
+      "tendenza a mantenere lo stato di moto/quiete",
+      "galassia in cui si trova il Sistema Solare"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Converti: 15 g in mg.",
+    "options": [
+      "1500",
+      "15000",
+      "15",
+      "150000"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "1 g = 1000 mg."
+  },
+  {
+    "q": "Converti: 47 g in mg.",
+    "options": [
+      "4700",
+      "47000",
+      "470000",
+      "47"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "1 g = 1000 mg."
+  },
+  {
+    "q": "[Scienze] “sublimazione” si definisce come…",
+    "options": [
+      "passaggio da solido a liquido",
+      "rimbalzo della luce su una superficie",
+      "passaggio da solido a gas",
+      "movimento da alta a bassa concentrazione"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Converti: 37 kg in g.",
+    "options": [
+      "370000",
+      "3700",
+      "37",
+      "37000"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "1 kg = 1000 g."
+  },
+  {
+    "q": "[Scienze] Che cos'è “elemento chimico”?",
+    "options": [
+      "passaggio da gas a liquido",
+      "capacità di compiere lavoro",
+      "forza che si oppone al movimento",
+      "sostanza fatta da un solo tipo di atomi"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Scienze] Il termine “isolante” indica…",
+    "options": [
+      "animale che caccia altre prede",
+      "varietà di specie viventi",
+      "passaggio da solido a liquido",
+      "materiale che ostacola corrente"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Scienze] “fusione” si definisce come…",
+    "options": [
+      "passaggio da solido a liquido",
+      "differenza di potenziale elettrico",
+      "passaggio da gas a liquido",
+      "distanza tra due creste successive"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Scienze] Il termine “resistenza” indica…",
+    "options": [
+      "opposizione al passaggio di corrente",
+      "sostanza formata da elementi diversi",
+      "passaggio da solido a liquido",
+      "interazione che può cambiare il moto di un corpo"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Converti: 4 kg in g.",
+    "options": [
+      "4",
+      "40000",
+      "400",
+      "4000"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "1 kg = 1000 g."
+  },
+  {
+    "q": "[Scienze] “asteroide”: cosa significa?",
+    "options": [
+      "traiettoria di un corpo attorno a un altro",
+      "animale che caccia altre prede",
+      "corpo roccioso che orbita nel Sistema Solare",
+      "variazione di velocità nel tempo"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Converti: 33 g in mg.",
+    "options": [
+      "330000",
+      "33",
+      "3300",
+      "33000"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "1 g = 1000 mg."
+  },
+  {
+    "q": "[Scienze] “DNA”: cosa significa?",
+    "options": [
+      "molecola che contiene informazione genetica",
+      "passaggio da solido a liquido",
+      "divisione cellulare che produce due cellule identiche",
+      "interazione che può cambiare il moto di un corpo"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Scienze] Il termine “solvente” indica…",
+    "options": [
+      "passaggio da liquido a gas",
+      "sostanza che scioglie il soluto",
+      "passaggio da liquido a solido",
+      "radiazione elettromagnetica visibile"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Scienze] Seleziona la definizione corretta di “volume”.",
+    "options": [
+      "passaggio da liquido a solido",
+      "spazio occupato da un corpo",
+      "variazione di velocità nel tempo",
+      "insieme di atomi legati"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "[Scienze] Seleziona la definizione corretta di “satellite naturale”.",
+    "options": [
+      "onda meccanica che si propaga in un mezzo",
+      "corpo che orbita attorno a un pianeta (es. Luna)",
+      "molecola coinvolta nella sintesi proteica",
+      "fenomeno legato ai campi magnetici"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Converti: 10 L in mL.",
+    "options": [
+      "1000",
+      "10000",
+      "100000",
+      "10"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "1 L = 1000 mL."
+  }
+]

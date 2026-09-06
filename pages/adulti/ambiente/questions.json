@@ -1,0 +1,3302 @@
+[
+  {
+    "q": "Ambiente (variante 136): quale azione riduce rifiuti?",
+    "options": [
+      "Ridurre, riutilizzare, riciclare",
+      "Buttare tutto indifferenziato",
+      "Bruciare rifiuti all'aperto",
+      "Usare più plastica monouso"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Ambiente (variante 231): quale azione riduce rifiuti?",
+    "options": [
+      "Usare più plastica monouso",
+      "Bruciare rifiuti all'aperto",
+      "Ridurre, riutilizzare, riciclare",
+      "Buttare tutto indifferenziato"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Ambiente (variante 30): quale azione riduce rifiuti?",
+    "options": [
+      "Bruciare rifiuti all'aperto",
+      "Ridurre, riutilizzare, riciclare",
+      "Buttare tutto indifferenziato",
+      "Usare più plastica monouso"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Ambiente (variante 160): cos'è la biodiversità?",
+    "options": [
+      "Temperatura media giornaliera",
+      "Un tipo di energia fossile",
+      "Varietà di specie viventi in un ecosistema",
+      "Quantità di CO₂ nell'aria"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Ambiente (variante 46): quale azione riduce rifiuti?",
+    "options": [
+      "Ridurre, riutilizzare, riciclare",
+      "Buttare tutto indifferenziato",
+      "Bruciare rifiuti all'aperto",
+      "Usare più plastica monouso"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Ambiente (variante 186): cos'è la biodiversità?",
+    "options": [
+      "Quantità di CO₂ nell'aria",
+      "Varietà di specie viventi in un ecosistema",
+      "Un tipo di energia fossile",
+      "Temperatura media giornaliera"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Ambiente (variante 119): quale azione riduce rifiuti?",
+    "options": [
+      "Usare più plastica monouso",
+      "Ridurre, riutilizzare, riciclare",
+      "Bruciare rifiuti all'aperto",
+      "Buttare tutto indifferenziato"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Ambiente (variante 174): quale azione riduce rifiuti?",
+    "options": [
+      "Usare più plastica monouso",
+      "Ridurre, riutilizzare, riciclare",
+      "Buttare tutto indifferenziato",
+      "Bruciare rifiuti all'aperto"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Ambiente (variante 134): cos'è la biodiversità?",
+    "options": [
+      "Temperatura media giornaliera",
+      "Un tipo di energia fossile",
+      "Varietà di specie viventi in un ecosistema",
+      "Quantità di CO₂ nell'aria"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Ambiente (variante 164): cos'è la biodiversità?",
+    "options": [
+      "Un tipo di energia fossile",
+      "Temperatura media giornaliera",
+      "Varietà di specie viventi in un ecosistema",
+      "Quantità di CO₂ nell'aria"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Ambiente (variante 52): cos'è la biodiversità?",
+    "options": [
+      "Un tipo di energia fossile",
+      "Temperatura media giornaliera",
+      "Quantità di CO₂ nell'aria",
+      "Varietà di specie viventi in un ecosistema"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Ambiente (variante 86): cos'è la biodiversità?",
+    "options": [
+      "Un tipo di energia fossile",
+      "Varietà di specie viventi in un ecosistema",
+      "Temperatura media giornaliera",
+      "Quantità di CO₂ nell'aria"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Ambiente (variante 156): quale azione riduce rifiuti?",
+    "options": [
+      "Bruciare rifiuti all'aperto",
+      "Usare più plastica monouso",
+      "Ridurre, riutilizzare, riciclare",
+      "Buttare tutto indifferenziato"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Ambiente (variante 4): quale azione riduce rifiuti?",
+    "options": [
+      "Bruciare rifiuti all'aperto",
+      "Buttare tutto indifferenziato",
+      "Ridurre, riutilizzare, riciclare",
+      "Usare più plastica monouso"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Ambiente (variante 157): cos'è la biodiversità?",
+    "options": [
+      "Quantità di CO₂ nell'aria",
+      "Temperatura media giornaliera",
+      "Varietà di specie viventi in un ecosistema",
+      "Un tipo di energia fossile"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Ambiente (variante 202): quale azione riduce rifiuti?",
+    "options": [
+      "Ridurre, riutilizzare, riciclare",
+      "Usare più plastica monouso",
+      "Buttare tutto indifferenziato",
+      "Bruciare rifiuti all'aperto"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Ambiente (variante 49): quale azione riduce rifiuti?",
+    "options": [
+      "Bruciare rifiuti all'aperto",
+      "Usare più plastica monouso",
+      "Buttare tutto indifferenziato",
+      "Ridurre, riutilizzare, riciclare"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Ambiente (variante 20): cos'è la biodiversità?",
+    "options": [
+      "Quantità di CO₂ nell'aria",
+      "Temperatura media giornaliera",
+      "Varietà di specie viventi in un ecosistema",
+      "Un tipo di energia fossile"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Ambiente (variante 19): quale azione riduce rifiuti?",
+    "options": [
+      "Buttare tutto indifferenziato",
+      "Usare più plastica monouso",
+      "Bruciare rifiuti all'aperto",
+      "Ridurre, riutilizzare, riciclare"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Ambiente (variante 133): cos'è la biodiversità?",
+    "options": [
+      "Un tipo di energia fossile",
+      "Varietà di specie viventi in un ecosistema",
+      "Quantità di CO₂ nell'aria",
+      "Temperatura media giornaliera"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Ambiente (variante 27): quale azione riduce rifiuti?",
+    "options": [
+      "Bruciare rifiuti all'aperto",
+      "Ridurre, riutilizzare, riciclare",
+      "Usare più plastica monouso",
+      "Buttare tutto indifferenziato"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Ambiente (variante 243): quale azione riduce rifiuti?",
+    "options": [
+      "Usare più plastica monouso",
+      "Ridurre, riutilizzare, riciclare",
+      "Buttare tutto indifferenziato",
+      "Bruciare rifiuti all'aperto"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Ambiente (variante 116): quale azione riduce rifiuti?",
+    "options": [
+      "Buttare tutto indifferenziato",
+      "Ridurre, riutilizzare, riciclare",
+      "Usare più plastica monouso",
+      "Bruciare rifiuti all'aperto"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Ambiente (variante 181): cos'è la biodiversità?",
+    "options": [
+      "Un tipo di energia fossile",
+      "Temperatura media giornaliera",
+      "Quantità di CO₂ nell'aria",
+      "Varietà di specie viventi in un ecosistema"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Ambiente (variante 154): quale azione riduce rifiuti?",
+    "options": [
+      "Buttare tutto indifferenziato",
+      "Usare più plastica monouso",
+      "Bruciare rifiuti all'aperto",
+      "Ridurre, riutilizzare, riciclare"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Ambiente (variante 169): cos'è la biodiversità?",
+    "options": [
+      "Un tipo di energia fossile",
+      "Varietà di specie viventi in un ecosistema",
+      "Temperatura media giornaliera",
+      "Quantità di CO₂ nell'aria"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Ambiente (variante 152): quale azione riduce rifiuti?",
+    "options": [
+      "Bruciare rifiuti all'aperto",
+      "Usare più plastica monouso",
+      "Ridurre, riutilizzare, riciclare",
+      "Buttare tutto indifferenziato"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Ambiente (variante 223): quale azione riduce rifiuti?",
+    "options": [
+      "Ridurre, riutilizzare, riciclare",
+      "Bruciare rifiuti all'aperto",
+      "Usare più plastica monouso",
+      "Buttare tutto indifferenziato"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Ambiente (variante 256): cos'è la biodiversità?",
+    "options": [
+      "Temperatura media giornaliera",
+      "Quantità di CO₂ nell'aria",
+      "Un tipo di energia fossile",
+      "Varietà di specie viventi in un ecosistema"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Ambiente (variante 79): cos'è la biodiversità?",
+    "options": [
+      "Quantità di CO₂ nell'aria",
+      "Varietà di specie viventi in un ecosistema",
+      "Un tipo di energia fossile",
+      "Temperatura media giornaliera"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Ambiente (variante 188): quale azione riduce rifiuti?",
+    "options": [
+      "Usare più plastica monouso",
+      "Ridurre, riutilizzare, riciclare",
+      "Buttare tutto indifferenziato",
+      "Bruciare rifiuti all'aperto"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Ambiente (variante 185): quale azione riduce rifiuti?",
+    "options": [
+      "Bruciare rifiuti all'aperto",
+      "Usare più plastica monouso",
+      "Ridurre, riutilizzare, riciclare",
+      "Buttare tutto indifferenziato"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Ambiente (variante 130): quale azione riduce rifiuti?",
+    "options": [
+      "Buttare tutto indifferenziato",
+      "Ridurre, riutilizzare, riciclare",
+      "Usare più plastica monouso",
+      "Bruciare rifiuti all'aperto"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Ambiente (variante 59): cos'è la biodiversità?",
+    "options": [
+      "Varietà di specie viventi in un ecosistema",
+      "Un tipo di energia fossile",
+      "Quantità di CO₂ nell'aria",
+      "Temperatura media giornaliera"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Ambiente (variante 189): quale azione riduce rifiuti?",
+    "options": [
+      "Bruciare rifiuti all'aperto",
+      "Buttare tutto indifferenziato",
+      "Ridurre, riutilizzare, riciclare",
+      "Usare più plastica monouso"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Ambiente (variante 3): cos'è la biodiversità?",
+    "options": [
+      "Temperatura media giornaliera",
+      "Quantità di CO₂ nell'aria",
+      "Varietà di specie viventi in un ecosistema",
+      "Un tipo di energia fossile"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Ambiente (variante 195): cos'è la biodiversità?",
+    "options": [
+      "Un tipo di energia fossile",
+      "Quantità di CO₂ nell'aria",
+      "Temperatura media giornaliera",
+      "Varietà di specie viventi in un ecosistema"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Ambiente (variante 32): quale azione riduce rifiuti?",
+    "options": [
+      "Usare più plastica monouso",
+      "Buttare tutto indifferenziato",
+      "Bruciare rifiuti all'aperto",
+      "Ridurre, riutilizzare, riciclare"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Ambiente (variante 125): cos'è la biodiversità?",
+    "options": [
+      "Varietà di specie viventi in un ecosistema",
+      "Temperatura media giornaliera",
+      "Quantità di CO₂ nell'aria",
+      "Un tipo di energia fossile"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Ambiente (variante 101): cos'è la biodiversità?",
+    "options": [
+      "Un tipo di energia fossile",
+      "Temperatura media giornaliera",
+      "Quantità di CO₂ nell'aria",
+      "Varietà di specie viventi in un ecosistema"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Ambiente (variante 149): cos'è la biodiversità?",
+    "options": [
+      "Un tipo di energia fossile",
+      "Temperatura media giornaliera",
+      "Quantità di CO₂ nell'aria",
+      "Varietà di specie viventi in un ecosistema"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Ambiente (variante 237): cos'è la biodiversità?",
+    "options": [
+      "Varietà di specie viventi in un ecosistema",
+      "Quantità di CO₂ nell'aria",
+      "Un tipo di energia fossile",
+      "Temperatura media giornaliera"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Ambiente (variante 88): quale azione riduce rifiuti?",
+    "options": [
+      "Bruciare rifiuti all'aperto",
+      "Ridurre, riutilizzare, riciclare",
+      "Buttare tutto indifferenziato",
+      "Usare più plastica monouso"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Ambiente (variante 37): cos'è la biodiversità?",
+    "options": [
+      "Un tipo di energia fossile",
+      "Varietà di specie viventi in un ecosistema",
+      "Quantità di CO₂ nell'aria",
+      "Temperatura media giornaliera"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Ambiente (variante 108): quale azione riduce rifiuti?",
+    "options": [
+      "Bruciare rifiuti all'aperto",
+      "Ridurre, riutilizzare, riciclare",
+      "Buttare tutto indifferenziato",
+      "Usare più plastica monouso"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Ambiente (variante 104): quale azione riduce rifiuti?",
+    "options": [
+      "Ridurre, riutilizzare, riciclare",
+      "Buttare tutto indifferenziato",
+      "Bruciare rifiuti all'aperto",
+      "Usare più plastica monouso"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Ambiente (variante 69): cos'è la biodiversità?",
+    "options": [
+      "Varietà di specie viventi in un ecosistema",
+      "Quantità di CO₂ nell'aria",
+      "Un tipo di energia fossile",
+      "Temperatura media giornaliera"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Ambiente (variante 199): quale azione riduce rifiuti?",
+    "options": [
+      "Bruciare rifiuti all'aperto",
+      "Ridurre, riutilizzare, riciclare",
+      "Usare più plastica monouso",
+      "Buttare tutto indifferenziato"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Ambiente (variante 98): cos'è la biodiversità?",
+    "options": [
+      "Un tipo di energia fossile",
+      "Temperatura media giornaliera",
+      "Varietà di specie viventi in un ecosistema",
+      "Quantità di CO₂ nell'aria"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Ambiente (variante 176): cos'è la biodiversità?",
+    "options": [
+      "Varietà di specie viventi in un ecosistema",
+      "Quantità di CO₂ nell'aria",
+      "Un tipo di energia fossile",
+      "Temperatura media giornaliera"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Ambiente (variante 100): quale azione riduce rifiuti?",
+    "options": [
+      "Ridurre, riutilizzare, riciclare",
+      "Buttare tutto indifferenziato",
+      "Usare più plastica monouso",
+      "Bruciare rifiuti all'aperto"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Ambiente (variante 67): cos'è la biodiversità?",
+    "options": [
+      "Temperatura media giornaliera",
+      "Varietà di specie viventi in un ecosistema",
+      "Quantità di CO₂ nell'aria",
+      "Un tipo di energia fossile"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Ambiente (variante 119): cos'è la biodiversità?",
+    "options": [
+      "Quantità di CO₂ nell'aria",
+      "Un tipo di energia fossile",
+      "Temperatura media giornaliera",
+      "Varietà di specie viventi in un ecosistema"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Ambiente (variante 216): quale azione riduce rifiuti?",
+    "options": [
+      "Buttare tutto indifferenziato",
+      "Ridurre, riutilizzare, riciclare",
+      "Bruciare rifiuti all'aperto",
+      "Usare più plastica monouso"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Ambiente (variante 234): cos'è la biodiversità?",
+    "options": [
+      "Quantità di CO₂ nell'aria",
+      "Un tipo di energia fossile",
+      "Temperatura media giornaliera",
+      "Varietà di specie viventi in un ecosistema"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Ambiente (variante 229): quale azione riduce rifiuti?",
+    "options": [
+      "Usare più plastica monouso",
+      "Ridurre, riutilizzare, riciclare",
+      "Bruciare rifiuti all'aperto",
+      "Buttare tutto indifferenziato"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Ambiente (variante 237): quale azione riduce rifiuti?",
+    "options": [
+      "Buttare tutto indifferenziato",
+      "Usare più plastica monouso",
+      "Ridurre, riutilizzare, riciclare",
+      "Bruciare rifiuti all'aperto"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Ambiente (variante 66): cos'è la biodiversità?",
+    "options": [
+      "Varietà di specie viventi in un ecosistema",
+      "Quantità di CO₂ nell'aria",
+      "Un tipo di energia fossile",
+      "Temperatura media giornaliera"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Ambiente (variante 15): cos'è la biodiversità?",
+    "options": [
+      "Temperatura media giornaliera",
+      "Quantità di CO₂ nell'aria",
+      "Un tipo di energia fossile",
+      "Varietà di specie viventi in un ecosistema"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Ambiente (variante 76): cos'è la biodiversità?",
+    "options": [
+      "Temperatura media giornaliera",
+      "Varietà di specie viventi in un ecosistema",
+      "Un tipo di energia fossile",
+      "Quantità di CO₂ nell'aria"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Ambiente (variante 71): quale azione riduce rifiuti?",
+    "options": [
+      "Bruciare rifiuti all'aperto",
+      "Ridurre, riutilizzare, riciclare",
+      "Buttare tutto indifferenziato",
+      "Usare più plastica monouso"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Ambiente (variante 259): cos'è la biodiversità?",
+    "options": [
+      "Un tipo di energia fossile",
+      "Quantità di CO₂ nell'aria",
+      "Varietà di specie viventi in un ecosistema",
+      "Temperatura media giornaliera"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Ambiente (variante 37): quale azione riduce rifiuti?",
+    "options": [
+      "Buttare tutto indifferenziato",
+      "Usare più plastica monouso",
+      "Ridurre, riutilizzare, riciclare",
+      "Bruciare rifiuti all'aperto"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Ambiente (variante 34): quale azione riduce rifiuti?",
+    "options": [
+      "Buttare tutto indifferenziato",
+      "Bruciare rifiuti all'aperto",
+      "Ridurre, riutilizzare, riciclare",
+      "Usare più plastica monouso"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Ambiente (variante 190): quale azione riduce rifiuti?",
+    "options": [
+      "Ridurre, riutilizzare, riciclare",
+      "Bruciare rifiuti all'aperto",
+      "Usare più plastica monouso",
+      "Buttare tutto indifferenziato"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Ambiente (variante 225): cos'è la biodiversità?",
+    "options": [
+      "Quantità di CO₂ nell'aria",
+      "Temperatura media giornaliera",
+      "Varietà di specie viventi in un ecosistema",
+      "Un tipo di energia fossile"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Ambiente (variante 216): cos'è la biodiversità?",
+    "options": [
+      "Un tipo di energia fossile",
+      "Varietà di specie viventi in un ecosistema",
+      "Quantità di CO₂ nell'aria",
+      "Temperatura media giornaliera"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Ambiente (variante 121): quale azione riduce rifiuti?",
+    "options": [
+      "Usare più plastica monouso",
+      "Buttare tutto indifferenziato",
+      "Bruciare rifiuti all'aperto",
+      "Ridurre, riutilizzare, riciclare"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Ambiente (variante 1): quale azione riduce rifiuti?",
+    "options": [
+      "Bruciare rifiuti all'aperto",
+      "Usare più plastica monouso",
+      "Ridurre, riutilizzare, riciclare",
+      "Buttare tutto indifferenziato"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Ambiente (variante 203): quale azione riduce rifiuti?",
+    "options": [
+      "Ridurre, riutilizzare, riciclare",
+      "Buttare tutto indifferenziato",
+      "Usare più plastica monouso",
+      "Bruciare rifiuti all'aperto"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Ambiente (variante 92): cos'è la biodiversità?",
+    "options": [
+      "Un tipo di energia fossile",
+      "Temperatura media giornaliera",
+      "Varietà di specie viventi in un ecosistema",
+      "Quantità di CO₂ nell'aria"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Ambiente (variante 26): quale azione riduce rifiuti?",
+    "options": [
+      "Buttare tutto indifferenziato",
+      "Bruciare rifiuti all'aperto",
+      "Usare più plastica monouso",
+      "Ridurre, riutilizzare, riciclare"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Ambiente (variante 201): cos'è la biodiversità?",
+    "options": [
+      "Un tipo di energia fossile",
+      "Temperatura media giornaliera",
+      "Varietà di specie viventi in un ecosistema",
+      "Quantità di CO₂ nell'aria"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Ambiente (variante 162): cos'è la biodiversità?",
+    "options": [
+      "Un tipo di energia fossile",
+      "Temperatura media giornaliera",
+      "Varietà di specie viventi in un ecosistema",
+      "Quantità di CO₂ nell'aria"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Ambiente (variante 38): cos'è la biodiversità?",
+    "options": [
+      "Un tipo di energia fossile",
+      "Quantità di CO₂ nell'aria",
+      "Temperatura media giornaliera",
+      "Varietà di specie viventi in un ecosistema"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Ambiente (variante 58): cos'è la biodiversità?",
+    "options": [
+      "Temperatura media giornaliera",
+      "Quantità di CO₂ nell'aria",
+      "Un tipo di energia fossile",
+      "Varietà di specie viventi in un ecosistema"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Ambiente (variante 99): cos'è la biodiversità?",
+    "options": [
+      "Un tipo di energia fossile",
+      "Quantità di CO₂ nell'aria",
+      "Varietà di specie viventi in un ecosistema",
+      "Temperatura media giornaliera"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Ambiente (variante 128): cos'è la biodiversità?",
+    "options": [
+      "Temperatura media giornaliera",
+      "Un tipo di energia fossile",
+      "Quantità di CO₂ nell'aria",
+      "Varietà di specie viventi in un ecosistema"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Ambiente (variante 13): quale azione riduce rifiuti?",
+    "options": [
+      "Usare più plastica monouso",
+      "Buttare tutto indifferenziato",
+      "Ridurre, riutilizzare, riciclare",
+      "Bruciare rifiuti all'aperto"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Ambiente (variante 63): quale azione riduce rifiuti?",
+    "options": [
+      "Ridurre, riutilizzare, riciclare",
+      "Buttare tutto indifferenziato",
+      "Bruciare rifiuti all'aperto",
+      "Usare più plastica monouso"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Ambiente (variante 234): quale azione riduce rifiuti?",
+    "options": [
+      "Usare più plastica monouso",
+      "Buttare tutto indifferenziato",
+      "Ridurre, riutilizzare, riciclare",
+      "Bruciare rifiuti all'aperto"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Ambiente (variante 85): quale azione riduce rifiuti?",
+    "options": [
+      "Usare più plastica monouso",
+      "Buttare tutto indifferenziato",
+      "Ridurre, riutilizzare, riciclare",
+      "Bruciare rifiuti all'aperto"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Ambiente (variante 156): cos'è la biodiversità?",
+    "options": [
+      "Quantità di CO₂ nell'aria",
+      "Temperatura media giornaliera",
+      "Varietà di specie viventi in un ecosistema",
+      "Un tipo di energia fossile"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Ambiente (variante 231): cos'è la biodiversità?",
+    "options": [
+      "Temperatura media giornaliera",
+      "Quantità di CO₂ nell'aria",
+      "Un tipo di energia fossile",
+      "Varietà di specie viventi in un ecosistema"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Ambiente (variante 80): quale azione riduce rifiuti?",
+    "options": [
+      "Ridurre, riutilizzare, riciclare",
+      "Usare più plastica monouso",
+      "Buttare tutto indifferenziato",
+      "Bruciare rifiuti all'aperto"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Ambiente (variante 143): cos'è la biodiversità?",
+    "options": [
+      "Varietà di specie viventi in un ecosistema",
+      "Temperatura media giornaliera",
+      "Quantità di CO₂ nell'aria",
+      "Un tipo di energia fossile"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Ambiente (variante 240): cos'è la biodiversità?",
+    "options": [
+      "Quantità di CO₂ nell'aria",
+      "Temperatura media giornaliera",
+      "Un tipo di energia fossile",
+      "Varietà di specie viventi in un ecosistema"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Ambiente (variante 167): cos'è la biodiversità?",
+    "options": [
+      "Temperatura media giornaliera",
+      "Quantità di CO₂ nell'aria",
+      "Varietà di specie viventi in un ecosistema",
+      "Un tipo di energia fossile"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Ambiente (variante 173): quale azione riduce rifiuti?",
+    "options": [
+      "Ridurre, riutilizzare, riciclare",
+      "Usare più plastica monouso",
+      "Buttare tutto indifferenziato",
+      "Bruciare rifiuti all'aperto"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Ambiente (variante 126): cos'è la biodiversità?",
+    "options": [
+      "Varietà di specie viventi in un ecosistema",
+      "Un tipo di energia fossile",
+      "Quantità di CO₂ nell'aria",
+      "Temperatura media giornaliera"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Ambiente (variante 111): cos'è la biodiversità?",
+    "options": [
+      "Temperatura media giornaliera",
+      "Un tipo di energia fossile",
+      "Quantità di CO₂ nell'aria",
+      "Varietà di specie viventi in un ecosistema"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Ambiente (variante 125): quale azione riduce rifiuti?",
+    "options": [
+      "Bruciare rifiuti all'aperto",
+      "Usare più plastica monouso",
+      "Buttare tutto indifferenziato",
+      "Ridurre, riutilizzare, riciclare"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Ambiente (variante 221): quale azione riduce rifiuti?",
+    "options": [
+      "Usare più plastica monouso",
+      "Buttare tutto indifferenziato",
+      "Bruciare rifiuti all'aperto",
+      "Ridurre, riutilizzare, riciclare"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Ambiente (variante 213): cos'è la biodiversità?",
+    "options": [
+      "Un tipo di energia fossile",
+      "Varietà di specie viventi in un ecosistema",
+      "Temperatura media giornaliera",
+      "Quantità di CO₂ nell'aria"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Ambiente (variante 78): quale azione riduce rifiuti?",
+    "options": [
+      "Ridurre, riutilizzare, riciclare",
+      "Bruciare rifiuti all'aperto",
+      "Buttare tutto indifferenziato",
+      "Usare più plastica monouso"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Ambiente (variante 44): cos'è la biodiversità?",
+    "options": [
+      "Varietà di specie viventi in un ecosistema",
+      "Un tipo di energia fossile",
+      "Temperatura media giornaliera",
+      "Quantità di CO₂ nell'aria"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Ambiente (variante 213): quale azione riduce rifiuti?",
+    "options": [
+      "Usare più plastica monouso",
+      "Buttare tutto indifferenziato",
+      "Ridurre, riutilizzare, riciclare",
+      "Bruciare rifiuti all'aperto"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Ambiente (variante 191): quale azione riduce rifiuti?",
+    "options": [
+      "Usare più plastica monouso",
+      "Bruciare rifiuti all'aperto",
+      "Ridurre, riutilizzare, riciclare",
+      "Buttare tutto indifferenziato"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Ambiente (variante 240): quale azione riduce rifiuti?",
+    "options": [
+      "Usare più plastica monouso",
+      "Buttare tutto indifferenziato",
+      "Ridurre, riutilizzare, riciclare",
+      "Bruciare rifiuti all'aperto"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Ambiente (variante 47): quale azione riduce rifiuti?",
+    "options": [
+      "Buttare tutto indifferenziato",
+      "Bruciare rifiuti all'aperto",
+      "Usare più plastica monouso",
+      "Ridurre, riutilizzare, riciclare"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Ambiente (variante 2): quale azione riduce rifiuti?",
+    "options": [
+      "Buttare tutto indifferenziato",
+      "Usare più plastica monouso",
+      "Ridurre, riutilizzare, riciclare",
+      "Bruciare rifiuti all'aperto"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Ambiente (variante 184): cos'è la biodiversità?",
+    "options": [
+      "Un tipo di energia fossile",
+      "Temperatura media giornaliera",
+      "Varietà di specie viventi in un ecosistema",
+      "Quantità di CO₂ nell'aria"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Ambiente (variante 173): cos'è la biodiversità?",
+    "options": [
+      "Varietà di specie viventi in un ecosistema",
+      "Temperatura media giornaliera",
+      "Un tipo di energia fossile",
+      "Quantità di CO₂ nell'aria"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Ambiente (variante 236): cos'è la biodiversità?",
+    "options": [
+      "Quantità di CO₂ nell'aria",
+      "Temperatura media giornaliera",
+      "Varietà di specie viventi in un ecosistema",
+      "Un tipo di energia fossile"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Ambiente (variante 126): quale azione riduce rifiuti?",
+    "options": [
+      "Bruciare rifiuti all'aperto",
+      "Usare più plastica monouso",
+      "Buttare tutto indifferenziato",
+      "Ridurre, riutilizzare, riciclare"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Ambiente (variante 235): quale azione riduce rifiuti?",
+    "options": [
+      "Usare più plastica monouso",
+      "Ridurre, riutilizzare, riciclare",
+      "Buttare tutto indifferenziato",
+      "Bruciare rifiuti all'aperto"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Ambiente (variante 138): quale azione riduce rifiuti?",
+    "options": [
+      "Bruciare rifiuti all'aperto",
+      "Usare più plastica monouso",
+      "Buttare tutto indifferenziato",
+      "Ridurre, riutilizzare, riciclare"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Ambiente (variante 245): cos'è la biodiversità?",
+    "options": [
+      "Temperatura media giornaliera",
+      "Un tipo di energia fossile",
+      "Varietà di specie viventi in un ecosistema",
+      "Quantità di CO₂ nell'aria"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Ambiente (variante 243): cos'è la biodiversità?",
+    "options": [
+      "Un tipo di energia fossile",
+      "Temperatura media giornaliera",
+      "Quantità di CO₂ nell'aria",
+      "Varietà di specie viventi in un ecosistema"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Ambiente (variante 191): cos'è la biodiversità?",
+    "options": [
+      "Varietà di specie viventi in un ecosistema",
+      "Un tipo di energia fossile",
+      "Temperatura media giornaliera",
+      "Quantità di CO₂ nell'aria"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Ambiente (variante 197): cos'è la biodiversità?",
+    "options": [
+      "Un tipo di energia fossile",
+      "Temperatura media giornaliera",
+      "Quantità di CO₂ nell'aria",
+      "Varietà di specie viventi in un ecosistema"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Ambiente (variante 80): cos'è la biodiversità?",
+    "options": [
+      "Quantità di CO₂ nell'aria",
+      "Varietà di specie viventi in un ecosistema",
+      "Un tipo di energia fossile",
+      "Temperatura media giornaliera"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Ambiente (variante 241): quale azione riduce rifiuti?",
+    "options": [
+      "Ridurre, riutilizzare, riciclare",
+      "Bruciare rifiuti all'aperto",
+      "Usare più plastica monouso",
+      "Buttare tutto indifferenziato"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Ambiente (variante 117): cos'è la biodiversità?",
+    "options": [
+      "Varietà di specie viventi in un ecosistema",
+      "Temperatura media giornaliera",
+      "Un tipo di energia fossile",
+      "Quantità di CO₂ nell'aria"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Ambiente (variante 82): quale azione riduce rifiuti?",
+    "options": [
+      "Buttare tutto indifferenziato",
+      "Usare più plastica monouso",
+      "Bruciare rifiuti all'aperto",
+      "Ridurre, riutilizzare, riciclare"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Ambiente (variante 74): cos'è la biodiversità?",
+    "options": [
+      "Quantità di CO₂ nell'aria",
+      "Varietà di specie viventi in un ecosistema",
+      "Temperatura media giornaliera",
+      "Un tipo di energia fossile"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Ambiente (variante 93): quale azione riduce rifiuti?",
+    "options": [
+      "Bruciare rifiuti all'aperto",
+      "Usare più plastica monouso",
+      "Ridurre, riutilizzare, riciclare",
+      "Buttare tutto indifferenziato"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Ambiente (variante 35): quale azione riduce rifiuti?",
+    "options": [
+      "Bruciare rifiuti all'aperto",
+      "Usare più plastica monouso",
+      "Ridurre, riutilizzare, riciclare",
+      "Buttare tutto indifferenziato"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Ambiente (variante 9): quale azione riduce rifiuti?",
+    "options": [
+      "Bruciare rifiuti all'aperto",
+      "Ridurre, riutilizzare, riciclare",
+      "Usare più plastica monouso",
+      "Buttare tutto indifferenziato"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Ambiente (variante 122): cos'è la biodiversità?",
+    "options": [
+      "Quantità di CO₂ nell'aria",
+      "Temperatura media giornaliera",
+      "Varietà di specie viventi in un ecosistema",
+      "Un tipo di energia fossile"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Ambiente (variante 7): cos'è la biodiversità?",
+    "options": [
+      "Quantità di CO₂ nell'aria",
+      "Un tipo di energia fossile",
+      "Varietà di specie viventi in un ecosistema",
+      "Temperatura media giornaliera"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Ambiente (variante 25): cos'è la biodiversità?",
+    "options": [
+      "Varietà di specie viventi in un ecosistema",
+      "Temperatura media giornaliera",
+      "Un tipo di energia fossile",
+      "Quantità di CO₂ nell'aria"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Ambiente (variante 33): cos'è la biodiversità?",
+    "options": [
+      "Quantità di CO₂ nell'aria",
+      "Temperatura media giornaliera",
+      "Un tipo di energia fossile",
+      "Varietà di specie viventi in un ecosistema"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Ambiente (variante 153): cos'è la biodiversità?",
+    "options": [
+      "Temperatura media giornaliera",
+      "Un tipo di energia fossile",
+      "Quantità di CO₂ nell'aria",
+      "Varietà di specie viventi in un ecosistema"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Ambiente (variante 186): quale azione riduce rifiuti?",
+    "options": [
+      "Bruciare rifiuti all'aperto",
+      "Usare più plastica monouso",
+      "Ridurre, riutilizzare, riciclare",
+      "Buttare tutto indifferenziato"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Ambiente (variante 150): quale azione riduce rifiuti?",
+    "options": [
+      "Buttare tutto indifferenziato",
+      "Usare più plastica monouso",
+      "Ridurre, riutilizzare, riciclare",
+      "Bruciare rifiuti all'aperto"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Ambiente (variante 102): cos'è la biodiversità?",
+    "options": [
+      "Temperatura media giornaliera",
+      "Varietà di specie viventi in un ecosistema",
+      "Un tipo di energia fossile",
+      "Quantità di CO₂ nell'aria"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Ambiente (variante 74): quale azione riduce rifiuti?",
+    "options": [
+      "Bruciare rifiuti all'aperto",
+      "Buttare tutto indifferenziato",
+      "Usare più plastica monouso",
+      "Ridurre, riutilizzare, riciclare"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Ambiente (variante 194): quale azione riduce rifiuti?",
+    "options": [
+      "Bruciare rifiuti all'aperto",
+      "Buttare tutto indifferenziato",
+      "Ridurre, riutilizzare, riciclare",
+      "Usare più plastica monouso"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Ambiente (variante 146): quale azione riduce rifiuti?",
+    "options": [
+      "Usare più plastica monouso",
+      "Bruciare rifiuti all'aperto",
+      "Buttare tutto indifferenziato",
+      "Ridurre, riutilizzare, riciclare"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Ambiente (variante 97): quale azione riduce rifiuti?",
+    "options": [
+      "Buttare tutto indifferenziato",
+      "Ridurre, riutilizzare, riciclare",
+      "Usare più plastica monouso",
+      "Bruciare rifiuti all'aperto"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Ambiente (variante 122): quale azione riduce rifiuti?",
+    "options": [
+      "Bruciare rifiuti all'aperto",
+      "Usare più plastica monouso",
+      "Ridurre, riutilizzare, riciclare",
+      "Buttare tutto indifferenziato"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Ambiente (variante 205): quale azione riduce rifiuti?",
+    "options": [
+      "Usare più plastica monouso",
+      "Ridurre, riutilizzare, riciclare",
+      "Bruciare rifiuti all'aperto",
+      "Buttare tutto indifferenziato"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Ambiente (variante 45): cos'è la biodiversità?",
+    "options": [
+      "Quantità di CO₂ nell'aria",
+      "Temperatura media giornaliera",
+      "Un tipo di energia fossile",
+      "Varietà di specie viventi in un ecosistema"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Ambiente (variante 16): cos'è la biodiversità?",
+    "options": [
+      "Varietà di specie viventi in un ecosistema",
+      "Un tipo di energia fossile",
+      "Quantità di CO₂ nell'aria",
+      "Temperatura media giornaliera"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Ambiente (variante 143): quale azione riduce rifiuti?",
+    "options": [
+      "Usare più plastica monouso",
+      "Ridurre, riutilizzare, riciclare",
+      "Bruciare rifiuti all'aperto",
+      "Buttare tutto indifferenziato"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Ambiente (variante 94): quale azione riduce rifiuti?",
+    "options": [
+      "Bruciare rifiuti all'aperto",
+      "Usare più plastica monouso",
+      "Ridurre, riutilizzare, riciclare",
+      "Buttare tutto indifferenziato"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Ambiente (variante 75): quale azione riduce rifiuti?",
+    "options": [
+      "Buttare tutto indifferenziato",
+      "Bruciare rifiuti all'aperto",
+      "Usare più plastica monouso",
+      "Ridurre, riutilizzare, riciclare"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Ambiente (variante 171): quale azione riduce rifiuti?",
+    "options": [
+      "Usare più plastica monouso",
+      "Bruciare rifiuti all'aperto",
+      "Buttare tutto indifferenziato",
+      "Ridurre, riutilizzare, riciclare"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Ambiente (variante 136): cos'è la biodiversità?",
+    "options": [
+      "Quantità di CO₂ nell'aria",
+      "Temperatura media giornaliera",
+      "Un tipo di energia fossile",
+      "Varietà di specie viventi in un ecosistema"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Ambiente (variante 112): cos'è la biodiversità?",
+    "options": [
+      "Varietà di specie viventi in un ecosistema",
+      "Temperatura media giornaliera",
+      "Un tipo di energia fossile",
+      "Quantità di CO₂ nell'aria"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Ambiente (variante 232): cos'è la biodiversità?",
+    "options": [
+      "Varietà di specie viventi in un ecosistema",
+      "Temperatura media giornaliera",
+      "Un tipo di energia fossile",
+      "Quantità di CO₂ nell'aria"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Ambiente (variante 249): quale azione riduce rifiuti?",
+    "options": [
+      "Ridurre, riutilizzare, riciclare",
+      "Buttare tutto indifferenziato",
+      "Usare più plastica monouso",
+      "Bruciare rifiuti all'aperto"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Ambiente (variante 242): cos'è la biodiversità?",
+    "options": [
+      "Un tipo di energia fossile",
+      "Varietà di specie viventi in un ecosistema",
+      "Quantità di CO₂ nell'aria",
+      "Temperatura media giornaliera"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Ambiente (variante 250): quale azione riduce rifiuti?",
+    "options": [
+      "Buttare tutto indifferenziato",
+      "Usare più plastica monouso",
+      "Bruciare rifiuti all'aperto",
+      "Ridurre, riutilizzare, riciclare"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Ambiente (variante 46): cos'è la biodiversità?",
+    "options": [
+      "Varietà di specie viventi in un ecosistema",
+      "Quantità di CO₂ nell'aria",
+      "Un tipo di energia fossile",
+      "Temperatura media giornaliera"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Ambiente (variante 255): cos'è la biodiversità?",
+    "options": [
+      "Un tipo di energia fossile",
+      "Varietà di specie viventi in un ecosistema",
+      "Temperatura media giornaliera",
+      "Quantità di CO₂ nell'aria"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Ambiente (variante 232): quale azione riduce rifiuti?",
+    "options": [
+      "Usare più plastica monouso",
+      "Ridurre, riutilizzare, riciclare",
+      "Bruciare rifiuti all'aperto",
+      "Buttare tutto indifferenziato"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Ambiente (variante 65): quale azione riduce rifiuti?",
+    "options": [
+      "Buttare tutto indifferenziato",
+      "Bruciare rifiuti all'aperto",
+      "Ridurre, riutilizzare, riciclare",
+      "Usare più plastica monouso"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Ambiente (variante 72): quale azione riduce rifiuti?",
+    "options": [
+      "Bruciare rifiuti all'aperto",
+      "Ridurre, riutilizzare, riciclare",
+      "Usare più plastica monouso",
+      "Buttare tutto indifferenziato"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Ambiente (variante 128): quale azione riduce rifiuti?",
+    "options": [
+      "Buttare tutto indifferenziato",
+      "Usare più plastica monouso",
+      "Bruciare rifiuti all'aperto",
+      "Ridurre, riutilizzare, riciclare"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Ambiente (variante 218): cos'è la biodiversità?",
+    "options": [
+      "Quantità di CO₂ nell'aria",
+      "Un tipo di energia fossile",
+      "Varietà di specie viventi in un ecosistema",
+      "Temperatura media giornaliera"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Ambiente (variante 209): cos'è la biodiversità?",
+    "options": [
+      "Un tipo di energia fossile",
+      "Varietà di specie viventi in un ecosistema",
+      "Temperatura media giornaliera",
+      "Quantità di CO₂ nell'aria"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Ambiente (variante 155): cos'è la biodiversità?",
+    "options": [
+      "Un tipo di energia fossile",
+      "Temperatura media giornaliera",
+      "Quantità di CO₂ nell'aria",
+      "Varietà di specie viventi in un ecosistema"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Ambiente (variante 209): quale azione riduce rifiuti?",
+    "options": [
+      "Usare più plastica monouso",
+      "Bruciare rifiuti all'aperto",
+      "Buttare tutto indifferenziato",
+      "Ridurre, riutilizzare, riciclare"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Ambiente (variante 147): quale azione riduce rifiuti?",
+    "options": [
+      "Bruciare rifiuti all'aperto",
+      "Buttare tutto indifferenziato",
+      "Usare più plastica monouso",
+      "Ridurre, riutilizzare, riciclare"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Ambiente (variante 179): cos'è la biodiversità?",
+    "options": [
+      "Quantità di CO₂ nell'aria",
+      "Temperatura media giornaliera",
+      "Un tipo di energia fossile",
+      "Varietà di specie viventi in un ecosistema"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Ambiente (variante 107): cos'è la biodiversità?",
+    "options": [
+      "Un tipo di energia fossile",
+      "Temperatura media giornaliera",
+      "Quantità di CO₂ nell'aria",
+      "Varietà di specie viventi in un ecosistema"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Ambiente (variante 70): quale azione riduce rifiuti?",
+    "options": [
+      "Bruciare rifiuti all'aperto",
+      "Ridurre, riutilizzare, riciclare",
+      "Usare più plastica monouso",
+      "Buttare tutto indifferenziato"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Ambiente (variante 161): quale azione riduce rifiuti?",
+    "options": [
+      "Ridurre, riutilizzare, riciclare",
+      "Usare più plastica monouso",
+      "Buttare tutto indifferenziato",
+      "Bruciare rifiuti all'aperto"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Ambiente (variante 163): cos'è la biodiversità?",
+    "options": [
+      "Temperatura media giornaliera",
+      "Quantità di CO₂ nell'aria",
+      "Varietà di specie viventi in un ecosistema",
+      "Un tipo di energia fossile"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Ambiente (variante 201): quale azione riduce rifiuti?",
+    "options": [
+      "Bruciare rifiuti all'aperto",
+      "Ridurre, riutilizzare, riciclare",
+      "Buttare tutto indifferenziato",
+      "Usare più plastica monouso"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Ambiente (variante 160): quale azione riduce rifiuti?",
+    "options": [
+      "Buttare tutto indifferenziato",
+      "Ridurre, riutilizzare, riciclare",
+      "Bruciare rifiuti all'aperto",
+      "Usare più plastica monouso"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Ambiente (variante 113): cos'è la biodiversità?",
+    "options": [
+      "Varietà di specie viventi in un ecosistema",
+      "Quantità di CO₂ nell'aria",
+      "Un tipo di energia fossile",
+      "Temperatura media giornaliera"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Ambiente (variante 11): cos'è la biodiversità?",
+    "options": [
+      "Un tipo di energia fossile",
+      "Varietà di specie viventi in un ecosistema",
+      "Quantità di CO₂ nell'aria",
+      "Temperatura media giornaliera"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Ambiente (variante 106): quale azione riduce rifiuti?",
+    "options": [
+      "Usare più plastica monouso",
+      "Buttare tutto indifferenziato",
+      "Bruciare rifiuti all'aperto",
+      "Ridurre, riutilizzare, riciclare"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Ambiente (variante 215): quale azione riduce rifiuti?",
+    "options": [
+      "Usare più plastica monouso",
+      "Ridurre, riutilizzare, riciclare",
+      "Buttare tutto indifferenziato",
+      "Bruciare rifiuti all'aperto"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Ambiente (variante 182): quale azione riduce rifiuti?",
+    "options": [
+      "Ridurre, riutilizzare, riciclare",
+      "Bruciare rifiuti all'aperto",
+      "Usare più plastica monouso",
+      "Buttare tutto indifferenziato"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Ambiente (variante 54): quale azione riduce rifiuti?",
+    "options": [
+      "Bruciare rifiuti all'aperto",
+      "Buttare tutto indifferenziato",
+      "Usare più plastica monouso",
+      "Ridurre, riutilizzare, riciclare"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Ambiente (variante 35): cos'è la biodiversità?",
+    "options": [
+      "Temperatura media giornaliera",
+      "Quantità di CO₂ nell'aria",
+      "Un tipo di energia fossile",
+      "Varietà di specie viventi in un ecosistema"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Ambiente (variante 178): cos'è la biodiversità?",
+    "options": [
+      "Un tipo di energia fossile",
+      "Varietà di specie viventi in un ecosistema",
+      "Quantità di CO₂ nell'aria",
+      "Temperatura media giornaliera"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Ambiente (variante 33): quale azione riduce rifiuti?",
+    "options": [
+      "Buttare tutto indifferenziato",
+      "Ridurre, riutilizzare, riciclare",
+      "Usare più plastica monouso",
+      "Bruciare rifiuti all'aperto"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Ambiente (variante 42): quale azione riduce rifiuti?",
+    "options": [
+      "Bruciare rifiuti all'aperto",
+      "Buttare tutto indifferenziato",
+      "Usare più plastica monouso",
+      "Ridurre, riutilizzare, riciclare"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Ambiente (variante 148): quale azione riduce rifiuti?",
+    "options": [
+      "Usare più plastica monouso",
+      "Buttare tutto indifferenziato",
+      "Ridurre, riutilizzare, riciclare",
+      "Bruciare rifiuti all'aperto"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Ambiente (variante 72): cos'è la biodiversità?",
+    "options": [
+      "Quantità di CO₂ nell'aria",
+      "Varietà di specie viventi in un ecosistema",
+      "Temperatura media giornaliera",
+      "Un tipo di energia fossile"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Ambiente (variante 83): cos'è la biodiversità?",
+    "options": [
+      "Un tipo di energia fossile",
+      "Varietà di specie viventi in un ecosistema",
+      "Quantità di CO₂ nell'aria",
+      "Temperatura media giornaliera"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Ambiente (variante 233): quale azione riduce rifiuti?",
+    "options": [
+      "Ridurre, riutilizzare, riciclare",
+      "Usare più plastica monouso",
+      "Bruciare rifiuti all'aperto",
+      "Buttare tutto indifferenziato"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Ambiente (variante 132): quale azione riduce rifiuti?",
+    "options": [
+      "Buttare tutto indifferenziato",
+      "Bruciare rifiuti all'aperto",
+      "Usare più plastica monouso",
+      "Ridurre, riutilizzare, riciclare"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Ambiente (variante 217): cos'è la biodiversità?",
+    "options": [
+      "Temperatura media giornaliera",
+      "Quantità di CO₂ nell'aria",
+      "Un tipo di energia fossile",
+      "Varietà di specie viventi in un ecosistema"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Ambiente (variante 57): cos'è la biodiversità?",
+    "options": [
+      "Quantità di CO₂ nell'aria",
+      "Un tipo di energia fossile",
+      "Temperatura media giornaliera",
+      "Varietà di specie viventi in un ecosistema"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Ambiente (variante 247): quale azione riduce rifiuti?",
+    "options": [
+      "Bruciare rifiuti all'aperto",
+      "Buttare tutto indifferenziato",
+      "Usare più plastica monouso",
+      "Ridurre, riutilizzare, riciclare"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Ambiente (variante 138): cos'è la biodiversità?",
+    "options": [
+      "Quantità di CO₂ nell'aria",
+      "Temperatura media giornaliera",
+      "Varietà di specie viventi in un ecosistema",
+      "Un tipo di energia fossile"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Ambiente (variante 131): cos'è la biodiversità?",
+    "options": [
+      "Quantità di CO₂ nell'aria",
+      "Temperatura media giornaliera",
+      "Varietà di specie viventi in un ecosistema",
+      "Un tipo di energia fossile"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Ambiente (variante 98): quale azione riduce rifiuti?",
+    "options": [
+      "Ridurre, riutilizzare, riciclare",
+      "Bruciare rifiuti all'aperto",
+      "Buttare tutto indifferenziato",
+      "Usare più plastica monouso"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Ambiente (variante 92): quale azione riduce rifiuti?",
+    "options": [
+      "Ridurre, riutilizzare, riciclare",
+      "Bruciare rifiuti all'aperto",
+      "Usare più plastica monouso",
+      "Buttare tutto indifferenziato"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Ambiente (variante 166): cos'è la biodiversità?",
+    "options": [
+      "Varietà di specie viventi in un ecosistema",
+      "Temperatura media giornaliera",
+      "Un tipo di energia fossile",
+      "Quantità di CO₂ nell'aria"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Ambiente (variante 40): quale azione riduce rifiuti?",
+    "options": [
+      "Usare più plastica monouso",
+      "Bruciare rifiuti all'aperto",
+      "Ridurre, riutilizzare, riciclare",
+      "Buttare tutto indifferenziato"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Ambiente (variante 163): quale azione riduce rifiuti?",
+    "options": [
+      "Bruciare rifiuti all'aperto",
+      "Usare più plastica monouso",
+      "Buttare tutto indifferenziato",
+      "Ridurre, riutilizzare, riciclare"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Ambiente (variante 73): quale azione riduce rifiuti?",
+    "options": [
+      "Bruciare rifiuti all'aperto",
+      "Usare più plastica monouso",
+      "Buttare tutto indifferenziato",
+      "Ridurre, riutilizzare, riciclare"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Ambiente (variante 10): quale azione riduce rifiuti?",
+    "options": [
+      "Bruciare rifiuti all'aperto",
+      "Usare più plastica monouso",
+      "Buttare tutto indifferenziato",
+      "Ridurre, riutilizzare, riciclare"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Ambiente (variante 224): quale azione riduce rifiuti?",
+    "options": [
+      "Bruciare rifiuti all'aperto",
+      "Usare più plastica monouso",
+      "Ridurre, riutilizzare, riciclare",
+      "Buttare tutto indifferenziato"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Ambiente (variante 60): cos'è la biodiversità?",
+    "options": [
+      "Un tipo di energia fossile",
+      "Temperatura media giornaliera",
+      "Quantità di CO₂ nell'aria",
+      "Varietà di specie viventi in un ecosistema"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Ambiente (variante 99): quale azione riduce rifiuti?",
+    "options": [
+      "Bruciare rifiuti all'aperto",
+      "Buttare tutto indifferenziato",
+      "Ridurre, riutilizzare, riciclare",
+      "Usare più plastica monouso"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Ambiente (variante 39): quale azione riduce rifiuti?",
+    "options": [
+      "Ridurre, riutilizzare, riciclare",
+      "Bruciare rifiuti all'aperto",
+      "Usare più plastica monouso",
+      "Buttare tutto indifferenziato"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Ambiente (variante 155): quale azione riduce rifiuti?",
+    "options": [
+      "Bruciare rifiuti all'aperto",
+      "Usare più plastica monouso",
+      "Ridurre, riutilizzare, riciclare",
+      "Buttare tutto indifferenziato"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Ambiente (variante 259): quale azione riduce rifiuti?",
+    "options": [
+      "Ridurre, riutilizzare, riciclare",
+      "Bruciare rifiuti all'aperto",
+      "Buttare tutto indifferenziato",
+      "Usare più plastica monouso"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Ambiente (variante 239): cos'è la biodiversità?",
+    "options": [
+      "Temperatura media giornaliera",
+      "Un tipo di energia fossile",
+      "Varietà di specie viventi in un ecosistema",
+      "Quantità di CO₂ nell'aria"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Ambiente (variante 16): quale azione riduce rifiuti?",
+    "options": [
+      "Ridurre, riutilizzare, riciclare",
+      "Buttare tutto indifferenziato",
+      "Bruciare rifiuti all'aperto",
+      "Usare più plastica monouso"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Ambiente (variante 251): cos'è la biodiversità?",
+    "options": [
+      "Temperatura media giornaliera",
+      "Varietà di specie viventi in un ecosistema",
+      "Quantità di CO₂ nell'aria",
+      "Un tipo di energia fossile"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Ambiente (variante 198): quale azione riduce rifiuti?",
+    "options": [
+      "Bruciare rifiuti all'aperto",
+      "Ridurre, riutilizzare, riciclare",
+      "Usare più plastica monouso",
+      "Buttare tutto indifferenziato"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Ambiente (variante 17): cos'è la biodiversità?",
+    "options": [
+      "Un tipo di energia fossile",
+      "Temperatura media giornaliera",
+      "Quantità di CO₂ nell'aria",
+      "Varietà di specie viventi in un ecosistema"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Ambiente (variante 193): cos'è la biodiversità?",
+    "options": [
+      "Varietà di specie viventi in un ecosistema",
+      "Un tipo di energia fossile",
+      "Temperatura media giornaliera",
+      "Quantità di CO₂ nell'aria"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Ambiente (variante 187): quale azione riduce rifiuti?",
+    "options": [
+      "Usare più plastica monouso",
+      "Buttare tutto indifferenziato",
+      "Ridurre, riutilizzare, riciclare",
+      "Bruciare rifiuti all'aperto"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Ambiente (variante 252): cos'è la biodiversità?",
+    "options": [
+      "Quantità di CO₂ nell'aria",
+      "Temperatura media giornaliera",
+      "Varietà di specie viventi in un ecosistema",
+      "Un tipo di energia fossile"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Ambiente (variante 204): quale azione riduce rifiuti?",
+    "options": [
+      "Ridurre, riutilizzare, riciclare",
+      "Bruciare rifiuti all'aperto",
+      "Buttare tutto indifferenziato",
+      "Usare più plastica monouso"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Ambiente (variante 224): cos'è la biodiversità?",
+    "options": [
+      "Temperatura media giornaliera",
+      "Un tipo di energia fossile",
+      "Varietà di specie viventi in un ecosistema",
+      "Quantità di CO₂ nell'aria"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Ambiente (variante 56): quale azione riduce rifiuti?",
+    "options": [
+      "Buttare tutto indifferenziato",
+      "Ridurre, riutilizzare, riciclare",
+      "Bruciare rifiuti all'aperto",
+      "Usare più plastica monouso"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Ambiente (variante 127): quale azione riduce rifiuti?",
+    "options": [
+      "Ridurre, riutilizzare, riciclare",
+      "Bruciare rifiuti all'aperto",
+      "Usare più plastica monouso",
+      "Buttare tutto indifferenziato"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Ambiente (variante 103): cos'è la biodiversità?",
+    "options": [
+      "Temperatura media giornaliera",
+      "Quantità di CO₂ nell'aria",
+      "Varietà di specie viventi in un ecosistema",
+      "Un tipo di energia fossile"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Ambiente (variante 146): cos'è la biodiversità?",
+    "options": [
+      "Un tipo di energia fossile",
+      "Varietà di specie viventi in un ecosistema",
+      "Quantità di CO₂ nell'aria",
+      "Temperatura media giornaliera"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Ambiente (variante 14): cos'è la biodiversità?",
+    "options": [
+      "Un tipo di energia fossile",
+      "Temperatura media giornaliera",
+      "Varietà di specie viventi in un ecosistema",
+      "Quantità di CO₂ nell'aria"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Ambiente (variante 199): cos'è la biodiversità?",
+    "options": [
+      "Quantità di CO₂ nell'aria",
+      "Varietà di specie viventi in un ecosistema",
+      "Temperatura media giornaliera",
+      "Un tipo di energia fossile"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Ambiente (variante 214): quale azione riduce rifiuti?",
+    "options": [
+      "Buttare tutto indifferenziato",
+      "Ridurre, riutilizzare, riciclare",
+      "Bruciare rifiuti all'aperto",
+      "Usare più plastica monouso"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Ambiente (variante 238): quale azione riduce rifiuti?",
+    "options": [
+      "Ridurre, riutilizzare, riciclare",
+      "Usare più plastica monouso",
+      "Bruciare rifiuti all'aperto",
+      "Buttare tutto indifferenziato"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Ambiente (variante 257): cos'è la biodiversità?",
+    "options": [
+      "Quantità di CO₂ nell'aria",
+      "Varietà di specie viventi in un ecosistema",
+      "Temperatura media giornaliera",
+      "Un tipo di energia fossile"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Ambiente (variante 51): quale azione riduce rifiuti?",
+    "options": [
+      "Bruciare rifiuti all'aperto",
+      "Usare più plastica monouso",
+      "Buttare tutto indifferenziato",
+      "Ridurre, riutilizzare, riciclare"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Ambiente (variante 3): quale azione riduce rifiuti?",
+    "options": [
+      "Usare più plastica monouso",
+      "Bruciare rifiuti all'aperto",
+      "Buttare tutto indifferenziato",
+      "Ridurre, riutilizzare, riciclare"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Ambiente (variante 11): quale azione riduce rifiuti?",
+    "options": [
+      "Usare più plastica monouso",
+      "Buttare tutto indifferenziato",
+      "Bruciare rifiuti all'aperto",
+      "Ridurre, riutilizzare, riciclare"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Ambiente (variante 212): cos'è la biodiversità?",
+    "options": [
+      "Un tipo di energia fossile",
+      "Quantità di CO₂ nell'aria",
+      "Varietà di specie viventi in un ecosistema",
+      "Temperatura media giornaliera"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Ambiente (variante 139): quale azione riduce rifiuti?",
+    "options": [
+      "Usare più plastica monouso",
+      "Bruciare rifiuti all'aperto",
+      "Buttare tutto indifferenziato",
+      "Ridurre, riutilizzare, riciclare"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Ambiente (variante 85): cos'è la biodiversità?",
+    "options": [
+      "Varietà di specie viventi in un ecosistema",
+      "Temperatura media giornaliera",
+      "Quantità di CO₂ nell'aria",
+      "Un tipo di energia fossile"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Ambiente (variante 170): quale azione riduce rifiuti?",
+    "options": [
+      "Buttare tutto indifferenziato",
+      "Bruciare rifiuti all'aperto",
+      "Ridurre, riutilizzare, riciclare",
+      "Usare più plastica monouso"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Ambiente (variante 68): quale azione riduce rifiuti?",
+    "options": [
+      "Ridurre, riutilizzare, riciclare",
+      "Buttare tutto indifferenziato",
+      "Bruciare rifiuti all'aperto",
+      "Usare più plastica monouso"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Ambiente (variante 165): quale azione riduce rifiuti?",
+    "options": [
+      "Ridurre, riutilizzare, riciclare",
+      "Buttare tutto indifferenziato",
+      "Bruciare rifiuti all'aperto",
+      "Usare più plastica monouso"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Ambiente (variante 13): cos'è la biodiversità?",
+    "options": [
+      "Un tipo di energia fossile",
+      "Quantità di CO₂ nell'aria",
+      "Temperatura media giornaliera",
+      "Varietà di specie viventi in un ecosistema"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Ambiente (variante 55): cos'è la biodiversità?",
+    "options": [
+      "Quantità di CO₂ nell'aria",
+      "Un tipo di energia fossile",
+      "Temperatura media giornaliera",
+      "Varietà di specie viventi in un ecosistema"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Ambiente (variante 212): quale azione riduce rifiuti?",
+    "options": [
+      "Bruciare rifiuti all'aperto",
+      "Usare più plastica monouso",
+      "Buttare tutto indifferenziato",
+      "Ridurre, riutilizzare, riciclare"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Ambiente (variante 158): cos'è la biodiversità?",
+    "options": [
+      "Un tipo di energia fossile",
+      "Varietà di specie viventi in un ecosistema",
+      "Quantità di CO₂ nell'aria",
+      "Temperatura media giornaliera"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Ambiente (variante 195): quale azione riduce rifiuti?",
+    "options": [
+      "Ridurre, riutilizzare, riciclare",
+      "Bruciare rifiuti all'aperto",
+      "Usare più plastica monouso",
+      "Buttare tutto indifferenziato"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Ambiente (variante 207): cos'è la biodiversità?",
+    "options": [
+      "Varietà di specie viventi in un ecosistema",
+      "Quantità di CO₂ nell'aria",
+      "Temperatura media giornaliera",
+      "Un tipo di energia fossile"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Ambiente (variante 22): cos'è la biodiversità?",
+    "options": [
+      "Varietà di specie viventi in un ecosistema",
+      "Temperatura media giornaliera",
+      "Un tipo di energia fossile",
+      "Quantità di CO₂ nell'aria"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Ambiente (variante 43): quale azione riduce rifiuti?",
+    "options": [
+      "Bruciare rifiuti all'aperto",
+      "Usare più plastica monouso",
+      "Ridurre, riutilizzare, riciclare",
+      "Buttare tutto indifferenziato"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Ambiente (variante 4): cos'è la biodiversità?",
+    "options": [
+      "Temperatura media giornaliera",
+      "Varietà di specie viventi in un ecosistema",
+      "Quantità di CO₂ nell'aria",
+      "Un tipo di energia fossile"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Ambiente (variante 246): quale azione riduce rifiuti?",
+    "options": [
+      "Buttare tutto indifferenziato",
+      "Bruciare rifiuti all'aperto",
+      "Usare più plastica monouso",
+      "Ridurre, riutilizzare, riciclare"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Ambiente (variante 64): cos'è la biodiversità?",
+    "options": [
+      "Quantità di CO₂ nell'aria",
+      "Temperatura media giornaliera",
+      "Varietà di specie viventi in un ecosistema",
+      "Un tipo di energia fossile"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Ambiente (variante 20): quale azione riduce rifiuti?",
+    "options": [
+      "Usare più plastica monouso",
+      "Bruciare rifiuti all'aperto",
+      "Buttare tutto indifferenziato",
+      "Ridurre, riutilizzare, riciclare"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Ambiente (variante 53): quale azione riduce rifiuti?",
+    "options": [
+      "Usare più plastica monouso",
+      "Buttare tutto indifferenziato",
+      "Bruciare rifiuti all'aperto",
+      "Ridurre, riutilizzare, riciclare"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Ambiente (variante 196): quale azione riduce rifiuti?",
+    "options": [
+      "Ridurre, riutilizzare, riciclare",
+      "Buttare tutto indifferenziato",
+      "Usare più plastica monouso",
+      "Bruciare rifiuti all'aperto"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Ambiente (variante 134): quale azione riduce rifiuti?",
+    "options": [
+      "Buttare tutto indifferenziato",
+      "Usare più plastica monouso",
+      "Bruciare rifiuti all'aperto",
+      "Ridurre, riutilizzare, riciclare"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Ambiente (variante 210): quale azione riduce rifiuti?",
+    "options": [
+      "Usare più plastica monouso",
+      "Buttare tutto indifferenziato",
+      "Bruciare rifiuti all'aperto",
+      "Ridurre, riutilizzare, riciclare"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Ambiente (variante 140): quale azione riduce rifiuti?",
+    "options": [
+      "Usare più plastica monouso",
+      "Bruciare rifiuti all'aperto",
+      "Buttare tutto indifferenziato",
+      "Ridurre, riutilizzare, riciclare"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Ambiente (variante 165): cos'è la biodiversità?",
+    "options": [
+      "Temperatura media giornaliera",
+      "Quantità di CO₂ nell'aria",
+      "Un tipo di energia fossile",
+      "Varietà di specie viventi in un ecosistema"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Ambiente (variante 24): quale azione riduce rifiuti?",
+    "options": [
+      "Bruciare rifiuti all'aperto",
+      "Ridurre, riutilizzare, riciclare",
+      "Usare più plastica monouso",
+      "Buttare tutto indifferenziato"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Ambiente (variante 59): quale azione riduce rifiuti?",
+    "options": [
+      "Ridurre, riutilizzare, riciclare",
+      "Usare più plastica monouso",
+      "Bruciare rifiuti all'aperto",
+      "Buttare tutto indifferenziato"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Ambiente (variante 193): quale azione riduce rifiuti?",
+    "options": [
+      "Usare più plastica monouso",
+      "Buttare tutto indifferenziato",
+      "Bruciare rifiuti all'aperto",
+      "Ridurre, riutilizzare, riciclare"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Ambiente (variante 177): quale azione riduce rifiuti?",
+    "options": [
+      "Buttare tutto indifferenziato",
+      "Usare più plastica monouso",
+      "Bruciare rifiuti all'aperto",
+      "Ridurre, riutilizzare, riciclare"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Ambiente (variante 105): quale azione riduce rifiuti?",
+    "options": [
+      "Usare più plastica monouso",
+      "Bruciare rifiuti all'aperto",
+      "Buttare tutto indifferenziato",
+      "Ridurre, riutilizzare, riciclare"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Ambiente (variante 183): quale azione riduce rifiuti?",
+    "options": [
+      "Buttare tutto indifferenziato",
+      "Bruciare rifiuti all'aperto",
+      "Usare più plastica monouso",
+      "Ridurre, riutilizzare, riciclare"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Ambiente (variante 77): cos'è la biodiversità?",
+    "options": [
+      "Quantità di CO₂ nell'aria",
+      "Temperatura media giornaliera",
+      "Un tipo di energia fossile",
+      "Varietà di specie viventi in un ecosistema"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Ambiente (variante 90): cos'è la biodiversità?",
+    "options": [
+      "Varietà di specie viventi in un ecosistema",
+      "Temperatura media giornaliera",
+      "Un tipo di energia fossile",
+      "Quantità di CO₂ nell'aria"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Ambiente (variante 89): cos'è la biodiversità?",
+    "options": [
+      "Temperatura media giornaliera",
+      "Quantità di CO₂ nell'aria",
+      "Varietà di specie viventi in un ecosistema",
+      "Un tipo di energia fossile"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Ambiente (variante 49): cos'è la biodiversità?",
+    "options": [
+      "Temperatura media giornaliera",
+      "Un tipo di energia fossile",
+      "Quantità di CO₂ nell'aria",
+      "Varietà di specie viventi in un ecosistema"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Ambiente (variante 89): quale azione riduce rifiuti?",
+    "options": [
+      "Ridurre, riutilizzare, riciclare",
+      "Bruciare rifiuti all'aperto",
+      "Usare più plastica monouso",
+      "Buttare tutto indifferenziato"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Ambiente (variante 140): cos'è la biodiversità?",
+    "options": [
+      "Temperatura media giornaliera",
+      "Un tipo di energia fossile",
+      "Quantità di CO₂ nell'aria",
+      "Varietà di specie viventi in un ecosistema"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Ambiente (variante 38): quale azione riduce rifiuti?",
+    "options": [
+      "Usare più plastica monouso",
+      "Ridurre, riutilizzare, riciclare",
+      "Buttare tutto indifferenziato",
+      "Bruciare rifiuti all'aperto"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Ambiente (variante 214): cos'è la biodiversità?",
+    "options": [
+      "Varietà di specie viventi in un ecosistema",
+      "Quantità di CO₂ nell'aria",
+      "Temperatura media giornaliera",
+      "Un tipo di energia fossile"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Ambiente (variante 79): quale azione riduce rifiuti?",
+    "options": [
+      "Bruciare rifiuti all'aperto",
+      "Usare più plastica monouso",
+      "Ridurre, riutilizzare, riciclare",
+      "Buttare tutto indifferenziato"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Ambiente (variante 60): quale azione riduce rifiuti?",
+    "options": [
+      "Usare più plastica monouso",
+      "Ridurre, riutilizzare, riciclare",
+      "Bruciare rifiuti all'aperto",
+      "Buttare tutto indifferenziato"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Ambiente (variante 91): quale azione riduce rifiuti?",
+    "options": [
+      "Ridurre, riutilizzare, riciclare",
+      "Bruciare rifiuti all'aperto",
+      "Buttare tutto indifferenziato",
+      "Usare più plastica monouso"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Ambiente (variante 135): quale azione riduce rifiuti?",
+    "options": [
+      "Ridurre, riutilizzare, riciclare",
+      "Bruciare rifiuti all'aperto",
+      "Usare più plastica monouso",
+      "Buttare tutto indifferenziato"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Ambiente (variante 157): quale azione riduce rifiuti?",
+    "options": [
+      "Ridurre, riutilizzare, riciclare",
+      "Usare più plastica monouso",
+      "Buttare tutto indifferenziato",
+      "Bruciare rifiuti all'aperto"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Ambiente (variante 228): cos'è la biodiversità?",
+    "options": [
+      "Quantità di CO₂ nell'aria",
+      "Temperatura media giornaliera",
+      "Varietà di specie viventi in un ecosistema",
+      "Un tipo di energia fossile"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Ambiente (variante 239): quale azione riduce rifiuti?",
+    "options": [
+      "Usare più plastica monouso",
+      "Buttare tutto indifferenziato",
+      "Bruciare rifiuti all'aperto",
+      "Ridurre, riutilizzare, riciclare"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Ambiente (variante 7): quale azione riduce rifiuti?",
+    "options": [
+      "Ridurre, riutilizzare, riciclare",
+      "Bruciare rifiuti all'aperto",
+      "Usare più plastica monouso",
+      "Buttare tutto indifferenziato"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Ambiente (variante 97): cos'è la biodiversità?",
+    "options": [
+      "Temperatura media giornaliera",
+      "Quantità di CO₂ nell'aria",
+      "Varietà di specie viventi in un ecosistema",
+      "Un tipo di energia fossile"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Ambiente (variante 133): quale azione riduce rifiuti?",
+    "options": [
+      "Usare più plastica monouso",
+      "Ridurre, riutilizzare, riciclare",
+      "Buttare tutto indifferenziato",
+      "Bruciare rifiuti all'aperto"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Ambiente (variante 260): cos'è la biodiversità?",
+    "options": [
+      "Quantità di CO₂ nell'aria",
+      "Un tipo di energia fossile",
+      "Varietà di specie viventi in un ecosistema",
+      "Temperatura media giornaliera"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Ambiente (variante 150): cos'è la biodiversità?",
+    "options": [
+      "Varietà di specie viventi in un ecosistema",
+      "Temperatura media giornaliera",
+      "Quantità di CO₂ nell'aria",
+      "Un tipo di energia fossile"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Ambiente (variante 196): cos'è la biodiversità?",
+    "options": [
+      "Un tipo di energia fossile",
+      "Quantità di CO₂ nell'aria",
+      "Varietà di specie viventi in un ecosistema",
+      "Temperatura media giornaliera"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Ambiente (variante 172): cos'è la biodiversità?",
+    "options": [
+      "Un tipo di energia fossile",
+      "Varietà di specie viventi in un ecosistema",
+      "Quantità di CO₂ nell'aria",
+      "Temperatura media giornaliera"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Ambiente (variante 36): quale azione riduce rifiuti?",
+    "options": [
+      "Usare più plastica monouso",
+      "Ridurre, riutilizzare, riciclare",
+      "Bruciare rifiuti all'aperto",
+      "Buttare tutto indifferenziato"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Ambiente (variante 103): quale azione riduce rifiuti?",
+    "options": [
+      "Bruciare rifiuti all'aperto",
+      "Ridurre, riutilizzare, riciclare",
+      "Usare più plastica monouso",
+      "Buttare tutto indifferenziato"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Ambiente (variante 120): quale azione riduce rifiuti?",
+    "options": [
+      "Usare più plastica monouso",
+      "Ridurre, riutilizzare, riciclare",
+      "Buttare tutto indifferenziato",
+      "Bruciare rifiuti all'aperto"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Ambiente (variante 107): quale azione riduce rifiuti?",
+    "options": [
+      "Ridurre, riutilizzare, riciclare",
+      "Buttare tutto indifferenziato",
+      "Usare più plastica monouso",
+      "Bruciare rifiuti all'aperto"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Ambiente (variante 120): cos'è la biodiversità?",
+    "options": [
+      "Varietà di specie viventi in un ecosistema",
+      "Un tipo di energia fossile",
+      "Temperatura media giornaliera",
+      "Quantità di CO₂ nell'aria"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Ambiente (variante 244): quale azione riduce rifiuti?",
+    "options": [
+      "Bruciare rifiuti all'aperto",
+      "Ridurre, riutilizzare, riciclare",
+      "Usare più plastica monouso",
+      "Buttare tutto indifferenziato"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Ambiente (variante 102): quale azione riduce rifiuti?",
+    "options": [
+      "Usare più plastica monouso",
+      "Ridurre, riutilizzare, riciclare",
+      "Bruciare rifiuti all'aperto",
+      "Buttare tutto indifferenziato"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Ambiente (variante 109): cos'è la biodiversità?",
+    "options": [
+      "Varietà di specie viventi in un ecosistema",
+      "Temperatura media giornaliera",
+      "Quantità di CO₂ nell'aria",
+      "Un tipo di energia fossile"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Ambiente (variante 113): quale azione riduce rifiuti?",
+    "options": [
+      "Bruciare rifiuti all'aperto",
+      "Ridurre, riutilizzare, riciclare",
+      "Buttare tutto indifferenziato",
+      "Usare più plastica monouso"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Ambiente (variante 154): cos'è la biodiversità?",
+    "options": [
+      "Temperatura media giornaliera",
+      "Varietà di specie viventi in un ecosistema",
+      "Un tipo di energia fossile",
+      "Quantità di CO₂ nell'aria"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Ambiente (variante 241): cos'è la biodiversità?",
+    "options": [
+      "Varietà di specie viventi in un ecosistema",
+      "Temperatura media giornaliera",
+      "Quantità di CO₂ nell'aria",
+      "Un tipo di energia fossile"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Ambiente (variante 142): cos'è la biodiversità?",
+    "options": [
+      "Temperatura media giornaliera",
+      "Varietà di specie viventi in un ecosistema",
+      "Un tipo di energia fossile",
+      "Quantità di CO₂ nell'aria"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Ambiente (variante 257): quale azione riduce rifiuti?",
+    "options": [
+      "Ridurre, riutilizzare, riciclare",
+      "Bruciare rifiuti all'aperto",
+      "Buttare tutto indifferenziato",
+      "Usare più plastica monouso"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Ambiente (variante 226): cos'è la biodiversità?",
+    "options": [
+      "Quantità di CO₂ nell'aria",
+      "Temperatura media giornaliera",
+      "Varietà di specie viventi in un ecosistema",
+      "Un tipo di energia fossile"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Ambiente (variante 124): quale azione riduce rifiuti?",
+    "options": [
+      "Buttare tutto indifferenziato",
+      "Bruciare rifiuti all'aperto",
+      "Ridurre, riutilizzare, riciclare",
+      "Usare più plastica monouso"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Ambiente (variante 31): quale azione riduce rifiuti?",
+    "options": [
+      "Bruciare rifiuti all'aperto",
+      "Usare più plastica monouso",
+      "Ridurre, riutilizzare, riciclare",
+      "Buttare tutto indifferenziato"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Ambiente (variante 105): cos'è la biodiversità?",
+    "options": [
+      "Quantità di CO₂ nell'aria",
+      "Temperatura media giornaliera",
+      "Varietà di specie viventi in un ecosistema",
+      "Un tipo di energia fossile"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Ambiente (variante 220): quale azione riduce rifiuti?",
+    "options": [
+      "Bruciare rifiuti all'aperto",
+      "Buttare tutto indifferenziato",
+      "Usare più plastica monouso",
+      "Ridurre, riutilizzare, riciclare"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Ambiente (variante 258): quale azione riduce rifiuti?",
+    "options": [
+      "Buttare tutto indifferenziato",
+      "Bruciare rifiuti all'aperto",
+      "Ridurre, riutilizzare, riciclare",
+      "Usare più plastica monouso"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Ambiente (variante 87): cos'è la biodiversità?",
+    "options": [
+      "Varietà di specie viventi in un ecosistema",
+      "Quantità di CO₂ nell'aria",
+      "Un tipo di energia fossile",
+      "Temperatura media giornaliera"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Ambiente (variante 21): cos'è la biodiversità?",
+    "options": [
+      "Un tipo di energia fossile",
+      "Temperatura media giornaliera",
+      "Quantità di CO₂ nell'aria",
+      "Varietà di specie viventi in un ecosistema"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Ambiente (variante 204): cos'è la biodiversità?",
+    "options": [
+      "Un tipo di energia fossile",
+      "Temperatura media giornaliera",
+      "Quantità di CO₂ nell'aria",
+      "Varietà di specie viventi in un ecosistema"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Ambiente (variante 56): cos'è la biodiversità?",
+    "options": [
+      "Quantità di CO₂ nell'aria",
+      "Varietà di specie viventi in un ecosistema",
+      "Un tipo di energia fossile",
+      "Temperatura media giornaliera"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Ambiente (variante 166): quale azione riduce rifiuti?",
+    "options": [
+      "Ridurre, riutilizzare, riciclare",
+      "Usare più plastica monouso",
+      "Buttare tutto indifferenziato",
+      "Bruciare rifiuti all'aperto"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Ambiente (variante 48): cos'è la biodiversità?",
+    "options": [
+      "Varietà di specie viventi in un ecosistema",
+      "Temperatura media giornaliera",
+      "Quantità di CO₂ nell'aria",
+      "Un tipo di energia fossile"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Ambiente (variante 19): cos'è la biodiversità?",
+    "options": [
+      "Un tipo di energia fossile",
+      "Temperatura media giornaliera",
+      "Varietà di specie viventi in un ecosistema",
+      "Quantità di CO₂ nell'aria"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Ambiente (variante 18): cos'è la biodiversità?",
+    "options": [
+      "Un tipo di energia fossile",
+      "Quantità di CO₂ nell'aria",
+      "Varietà di specie viventi in un ecosistema",
+      "Temperatura media giornaliera"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Ambiente (variante 45): quale azione riduce rifiuti?",
+    "options": [
+      "Bruciare rifiuti all'aperto",
+      "Ridurre, riutilizzare, riciclare",
+      "Buttare tutto indifferenziato",
+      "Usare più plastica monouso"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Ambiente (variante 226): quale azione riduce rifiuti?",
+    "options": [
+      "Bruciare rifiuti all'aperto",
+      "Ridurre, riutilizzare, riciclare",
+      "Buttare tutto indifferenziato",
+      "Usare più plastica monouso"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Ambiente (variante 116): cos'è la biodiversità?",
+    "options": [
+      "Quantità di CO₂ nell'aria",
+      "Varietà di specie viventi in un ecosistema",
+      "Un tipo di energia fossile",
+      "Temperatura media giornaliera"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  }
+]

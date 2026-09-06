@@ -1,0 +1,68 @@
+<!doctype html>
+<html lang="it">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Quiz per Fasce d'Età — QuizMania.it</title>
+  <meta name="description" content="Quiz per fasce d'età: 3–5, 6–8, 9–11, 12–14, 15–18. Tante domande per bambini e scuola." />
+  <link rel="icon" href="/assets/favicon.ico" />
+  <link rel="stylesheet" href="/assets/css/quizmania.css" />
+  <script defer src="/assets/js/quizmania.js"></script>
+  <script defer src="/assets/js/catalog.js"></script>
+</head>
+<body>
+  <header class="qm-topbar">
+    <div class="qm-topbar-inner">
+      <a class="qm-iconbtn" href="/" aria-label="Home">🏠</a>
+      <a class="qm-brand" href="/">
+        <span class="qm-logo" aria-hidden="true"></span>
+        <span>
+          <span class="qm-brand-name">Fasce d'Età</span><br />
+          <span class="qm-brand-sub">Quiz calibrati e divertenti</span>
+        </span>
+      </a>
+      <span class="qm-spacer"></span>
+      <button class="qm-iconbtn" type="button" data-action="open-settings" aria-label="Impostazioni">⚙️</button>
+    </div>
+  </header>
+
+  <div class="qm-shell">
+    <section class="qm-hero">
+      <div class="qm-hero-inner">
+        <div>
+          <h1 class="qm-h1">Quiz su misura per ogni età.</h1>
+          <p class="qm-lead">Domande semplici e visuali per i più piccoli, quiz misti per primaria e medie, fino a sfide più complesse per ragazzi.</p>
+          <div class="qm-pillrow">
+            <a class='qm-pill' href='/pages/scuola/scuola'>🏫 Scuola</a>
+            <a class='qm-pill' href='/pages/adulti/'>🧑‍🎓 Adulti</a>
+            <a class='qm-pill' href='/pages/patenti/'>🚗 Patenti</a>
+          </div>
+        </div>
+        <div>
+          <div class="qm-search">
+            <span aria-hidden="true">🔎</span>
+            <input data-qm-search type="text" placeholder="Cerca (es. 6–8, 12–14, kids…)" autocomplete="off" />
+            <button class="qm-btn" type="button" onclick="document.querySelector('[data-qm-search]').focus()">Cerca</button>
+          </div>
+          <div style="margin-top:12px;display:flex;gap:10px;flex-wrap:wrap;">
+            <a class='qm-btn' href='/pages/fasce_eta/eta_3_5/'>🌈 3–5</a>
+            <a class='qm-btn secondary' href='/pages/fasce_eta/eta_6_8/'>📗 6–8</a>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="qm-section">
+      <div class="qm-section-title">
+        <h2>Scegli la tua fascia</h2>
+        <div class="qm-small">Più giochi, più migliori</div>
+      </div>
+      <div class="qm-grid" data-qm-catalog data-filter="fasce_eta"></div>
+    </section>
+
+    <footer class="qm-footer">
+      <a class="qm-btn secondary" href="/">⬅ Torna alla Home</a>
+    </footer>
+  </div>
+</body>
+</html>

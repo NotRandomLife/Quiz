@@ -1,0 +1,3448 @@
+[
+  {
+    "q": "In economia, che cos'è deficit? (variante 73)",
+    "options": [
+      "Quantità che i produttori vogliono vendere a un certo prezzo",
+      "Valore complessivo di beni e servizi prodotti in un Paese in un periodo",
+      "Quando le spese superano le entrate",
+      "Mercato con un solo venditore dominante"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Prezzo 800€. Sconto 10%. Quanto paghi? (variante 174)",
+    "options": [
+      "880€",
+      "720€",
+      "80€",
+      "800€"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "Prezzo finale = prezzo − sconto."
+  },
+  {
+    "q": "Prezzo 1000€. Sconto 15%. Quanto paghi? (variante 40)",
+    "options": [
+      "1000€",
+      "850€",
+      "1150€",
+      "150€"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "Prezzo finale = prezzo − sconto."
+  },
+  {
+    "q": "In economia, che cos'è tasso di interesse? (variante 173)",
+    "options": [
+      "Quando le spese superano le entrate",
+      "Prezzo del denaro nel tempo",
+      "Diminuzione generalizzata dei prezzi",
+      "Aumento generalizzato e persistente dei prezzi"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "In economia, che cos'è PIL? (variante 127)",
+    "options": [
+      "Mercato con un solo venditore dominante",
+      "Quantità che i produttori vogliono vendere a un certo prezzo",
+      "Valore complessivo di beni e servizi prodotti in un Paese in un periodo",
+      "Diminuzione generalizzata dei prezzi"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "In economia, che cos'è surplus? (variante 3)",
+    "options": [
+      "Quantità che i consumatori vogliono acquistare a un certo prezzo",
+      "Mercato con più venditori che competono",
+      "Mercato con un solo venditore dominante",
+      "Quando le entrate superano le spese"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "In economia, che cos'è inflazione? (variante 135)",
+    "options": [
+      "Aumento generalizzato e persistente dei prezzi",
+      "Quando le entrate superano le spese",
+      "Quantità che i consumatori vogliono acquistare a un certo prezzo",
+      "Mercato con più venditori che competono"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Prezzo 300€. Sconto 10%. Quanto paghi? (variante 116)",
+    "options": [
+      "330€",
+      "30€",
+      "270€",
+      "300€"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "Prezzo finale = prezzo − sconto."
+  },
+  {
+    "q": "In economia, che cos'è PIL? (variante 9)",
+    "options": [
+      "Quantità che i consumatori vogliono acquistare a un certo prezzo",
+      "Aumento generalizzato e persistente dei prezzi",
+      "Diminuzione generalizzata dei prezzi",
+      "Valore complessivo di beni e servizi prodotti in un Paese in un periodo"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "In economia, che cos'è deflazione? (variante 185)",
+    "options": [
+      "Quando le spese superano le entrate",
+      "Diminuzione generalizzata dei prezzi",
+      "Valore complessivo di beni e servizi prodotti in un Paese in un periodo",
+      "Mercato con più venditori che competono"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Prezzo 2000€. Sconto 25%. Quanto paghi? (variante 118)",
+    "options": [
+      "2000€",
+      "500€",
+      "1500€",
+      "2500€"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "Prezzo finale = prezzo − sconto."
+  },
+  {
+    "q": "In economia, che cos'è inflazione? (variante 96)",
+    "options": [
+      "Aumento generalizzato e persistente dei prezzi",
+      "Valore complessivo di beni e servizi prodotti in un Paese in un periodo",
+      "Quando le entrate superano le spese",
+      "Prezzo del denaro nel tempo"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "In economia, che cos'è domanda? (variante 196)",
+    "options": [
+      "Mercato con un solo venditore dominante",
+      "Quantità che i consumatori vogliono acquistare a un certo prezzo",
+      "Mercato con più venditori che competono",
+      "Quantità che i produttori vogliono vendere a un certo prezzo"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Prezzo 100€. Sconto 50%. Quanto paghi? (variante 160)",
+    "options": [
+      "100€",
+      "50€",
+      "50€ (4)",
+      "150€"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "Prezzo finale = prezzo − sconto."
+  },
+  {
+    "q": "In economia, che cos'è domanda? (variante 39)",
+    "options": [
+      "Diminuzione generalizzata dei prezzi",
+      "Mercato con un solo venditore dominante",
+      "Quantità che i consumatori vogliono acquistare a un certo prezzo",
+      "Aumento generalizzato e persistente dei prezzi"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "In economia, che cos'è domanda? (variante 100)",
+    "options": [
+      "Quando le spese superano le entrate",
+      "Valore complessivo di beni e servizi prodotti in un Paese in un periodo",
+      "Quantità che i consumatori vogliono acquistare a un certo prezzo",
+      "Diminuzione generalizzata dei prezzi"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Prezzo 800€. Sconto 50%. Quanto paghi? (variante 99)",
+    "options": [
+      "800€",
+      "1200€",
+      "400€ (4)",
+      "400€"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "Prezzo finale = prezzo − sconto."
+  },
+  {
+    "q": "Prezzo 300€. Sconto 40%. Quanto paghi? (variante 6)",
+    "options": [
+      "300€",
+      "180€",
+      "120€",
+      "420€"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "Prezzo finale = prezzo − sconto."
+  },
+  {
+    "q": "In economia, che cos'è surplus? (variante 13)",
+    "options": [
+      "Aumento generalizzato e persistente dei prezzi",
+      "Valore complessivo di beni e servizi prodotti in un Paese in un periodo",
+      "Quando le entrate superano le spese",
+      "Prezzo del denaro nel tempo"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Prezzo 1000€. Sconto 25%. Quanto paghi? (variante 200)",
+    "options": [
+      "1250€",
+      "750€",
+      "1000€",
+      "250€"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "Prezzo finale = prezzo − sconto."
+  },
+  {
+    "q": "In economia, che cos'è concorrenza? (variante 65)",
+    "options": [
+      "Valore complessivo di beni e servizi prodotti in un Paese in un periodo",
+      "Mercato con un solo venditore dominante",
+      "Aumento generalizzato e persistente dei prezzi",
+      "Mercato con più venditori che competono"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "In economia, che cos'è deficit? (variante 180)",
+    "options": [
+      "Mercato con più venditori che competono",
+      "Prezzo del denaro nel tempo",
+      "Quando le spese superano le entrate",
+      "Diminuzione generalizzata dei prezzi"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "In economia, che cos'è PIL? (variante 123)",
+    "options": [
+      "Quantità che i produttori vogliono vendere a un certo prezzo",
+      "Prezzo del denaro nel tempo",
+      "Mercato con un solo venditore dominante",
+      "Valore complessivo di beni e servizi prodotti in un Paese in un periodo"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "In economia, che cos'è deflazione? (variante 165)",
+    "options": [
+      "Prezzo del denaro nel tempo",
+      "Quando le entrate superano le spese",
+      "Diminuzione generalizzata dei prezzi",
+      "Quando le spese superano le entrate"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "In economia, che cos'è domanda? (variante 143)",
+    "options": [
+      "Prezzo del denaro nel tempo",
+      "Aumento generalizzato e persistente dei prezzi",
+      "Quantità che i consumatori vogliono acquistare a un certo prezzo",
+      "Mercato con più venditori che competono"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "In economia, che cos'è surplus? (variante 114)",
+    "options": [
+      "Quando le entrate superano le spese",
+      "Prezzo del denaro nel tempo",
+      "Quantità che i produttori vogliono vendere a un certo prezzo",
+      "Quantità che i consumatori vogliono acquistare a un certo prezzo"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "In economia, che cos'è offerta? (variante 207)",
+    "options": [
+      "Quantità che i produttori vogliono vendere a un certo prezzo",
+      "Mercato con un solo venditore dominante",
+      "Diminuzione generalizzata dei prezzi",
+      "Aumento generalizzato e persistente dei prezzi"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "In economia, che cos'è deficit? (variante 199)",
+    "options": [
+      "Mercato con più venditori che competono",
+      "Quando le spese superano le entrate",
+      "Diminuzione generalizzata dei prezzi",
+      "Quantità che i consumatori vogliono acquistare a un certo prezzo"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Prezzo 200€. Sconto 30%. Quanto paghi? (variante 172)",
+    "options": [
+      "200€",
+      "60€",
+      "260€",
+      "140€"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "Prezzo finale = prezzo − sconto."
+  },
+  {
+    "q": "Prezzo 2000€. Sconto 40%. Quanto paghi? (variante 19)",
+    "options": [
+      "2800€",
+      "2000€",
+      "800€",
+      "1200€"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "Prezzo finale = prezzo − sconto."
+  },
+  {
+    "q": "Prezzo 1500€. Sconto 10%. Quanto paghi? (variante 220)",
+    "options": [
+      "150€",
+      "1500€",
+      "1350€",
+      "1650€"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "Prezzo finale = prezzo − sconto."
+  },
+  {
+    "q": "In economia, che cos'è tasso di interesse? (variante 20)",
+    "options": [
+      "Prezzo del denaro nel tempo",
+      "Quantità che i consumatori vogliono acquistare a un certo prezzo",
+      "Quando le entrate superano le spese",
+      "Aumento generalizzato e persistente dei prezzi"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Prezzo 2000€. Sconto 40%. Quanto paghi? (variante 12)",
+    "options": [
+      "2000€",
+      "1200€",
+      "2800€",
+      "800€"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "Prezzo finale = prezzo − sconto."
+  },
+  {
+    "q": "In economia, che cos'è tasso di interesse? (variante 120)",
+    "options": [
+      "Aumento generalizzato e persistente dei prezzi",
+      "Prezzo del denaro nel tempo",
+      "Valore complessivo di beni e servizi prodotti in un Paese in un periodo",
+      "Quando le spese superano le entrate"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "In economia, che cos'è deflazione? (variante 161)",
+    "options": [
+      "Mercato con più venditori che competono",
+      "Mercato con un solo venditore dominante",
+      "Valore complessivo di beni e servizi prodotti in un Paese in un periodo",
+      "Diminuzione generalizzata dei prezzi"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Prezzo 300€. Sconto 25%. Quanto paghi? (variante 176)",
+    "options": [
+      "300€",
+      "225€",
+      "375€",
+      "75€"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "Prezzo finale = prezzo − sconto."
+  },
+  {
+    "q": "Prezzo 2000€. Sconto 50%. Quanto paghi? (variante 139)",
+    "options": [
+      "2000€",
+      "1000€ (4)",
+      "3000€",
+      "1000€"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "Prezzo finale = prezzo − sconto."
+  },
+  {
+    "q": "Che cos'è il potere d'acquisto?",
+    "options": [
+      "Il numero di carte di credito",
+      "La velocità del denaro",
+      "Il PIL per abitante",
+      "Quanta merce/servizi puoi comprare con una certa somma"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Prezzo 800€. Sconto 30%. Quanto paghi? (variante 7)",
+    "options": [
+      "1040€",
+      "240€",
+      "800€",
+      "560€"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "Prezzo finale = prezzo − sconto."
+  },
+  {
+    "q": "Prezzo 500€. Sconto 20%. Quanto paghi? (variante 28)",
+    "options": [
+      "400€",
+      "600€",
+      "500€",
+      "100€"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explain": "Prezzo finale = prezzo − sconto."
+  },
+  {
+    "q": "Prezzo 1500€. Sconto 30%. Quanto paghi? (variante 155)",
+    "options": [
+      "1050€",
+      "450€",
+      "1950€",
+      "1500€"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explain": "Prezzo finale = prezzo − sconto."
+  },
+  {
+    "q": "In economia, che cos'è concorrenza? (variante 21)",
+    "options": [
+      "Mercato con più venditori che competono",
+      "Mercato con un solo venditore dominante",
+      "Diminuzione generalizzata dei prezzi",
+      "Quantità che i produttori vogliono vendere a un certo prezzo"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Prezzo 1000€. Sconto 40%. Quanto paghi? (variante 91)",
+    "options": [
+      "1400€",
+      "600€",
+      "400€",
+      "1000€"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "Prezzo finale = prezzo − sconto."
+  },
+  {
+    "q": "In economia, che cos'è deficit? (variante 32)",
+    "options": [
+      "Quantità che i consumatori vogliono acquistare a un certo prezzo",
+      "Prezzo del denaro nel tempo",
+      "Aumento generalizzato e persistente dei prezzi",
+      "Quando le spese superano le entrate"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Prezzo 200€. Sconto 15%. Quanto paghi? (variante 162)",
+    "options": [
+      "170€",
+      "30€",
+      "200€",
+      "230€"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explain": "Prezzo finale = prezzo − sconto."
+  },
+  {
+    "q": "In economia, che cos'è surplus? (variante 150)",
+    "options": [
+      "Quantità che i consumatori vogliono acquistare a un certo prezzo",
+      "Diminuzione generalizzata dei prezzi",
+      "Quando le entrate superano le spese",
+      "Mercato con un solo venditore dominante"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Prezzo 2000€. Sconto 5%. Quanto paghi? (variante 159)",
+    "options": [
+      "2000€",
+      "100€",
+      "1900€",
+      "2100€"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "Prezzo finale = prezzo − sconto."
+  },
+  {
+    "q": "In economia, che cos'è tasso di interesse? (variante 14)",
+    "options": [
+      "Quantità che i consumatori vogliono acquistare a un certo prezzo",
+      "Diminuzione generalizzata dei prezzi",
+      "Quando le spese superano le entrate",
+      "Prezzo del denaro nel tempo"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Prezzo 2000€. Sconto 20%. Quanto paghi? (variante 173)",
+    "options": [
+      "1600€",
+      "400€",
+      "2400€",
+      "2000€"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explain": "Prezzo finale = prezzo − sconto."
+  },
+  {
+    "q": "Prezzo 1500€. Sconto 20%. Quanto paghi? (variante 192)",
+    "options": [
+      "1800€",
+      "300€",
+      "1200€",
+      "1500€"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "Prezzo finale = prezzo − sconto."
+  },
+  {
+    "q": "In economia, che cos'è domanda? (variante 138)",
+    "options": [
+      "Mercato con più venditori che competono",
+      "Quando le entrate superano le spese",
+      "Quantità che i consumatori vogliono acquistare a un certo prezzo",
+      "Valore complessivo di beni e servizi prodotti in un Paese in un periodo"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "In economia, che cos'è PIL? (variante 2)",
+    "options": [
+      "Prezzo del denaro nel tempo",
+      "Valore complessivo di beni e servizi prodotti in un Paese in un periodo",
+      "Diminuzione generalizzata dei prezzi",
+      "Mercato con un solo venditore dominante"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "In economia, che cos'è monopolio? (variante 137)",
+    "options": [
+      "Prezzo del denaro nel tempo",
+      "Mercato con un solo venditore dominante",
+      "Quantità che i consumatori vogliono acquistare a un certo prezzo",
+      "Quando le spese superano le entrate"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "In economia, che cos'è PIL? (variante 26)",
+    "options": [
+      "Mercato con un solo venditore dominante",
+      "Quando le entrate superano le spese",
+      "Valore complessivo di beni e servizi prodotti in un Paese in un periodo",
+      "Mercato con più venditori che competono"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "In economia, che cos'è inflazione? (variante 146)",
+    "options": [
+      "Aumento generalizzato e persistente dei prezzi",
+      "Valore complessivo di beni e servizi prodotti in un Paese in un periodo",
+      "Mercato con più venditori che competono",
+      "Quantità che i consumatori vogliono acquistare a un certo prezzo"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "In economia, che cos'è domanda? (variante 41)",
+    "options": [
+      "Aumento generalizzato e persistente dei prezzi",
+      "Quantità che i consumatori vogliono acquistare a un certo prezzo",
+      "Quando le spese superano le entrate",
+      "Mercato con più venditori che competono"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Prezzo 800€. Sconto 15%. Quanto paghi? (variante 193)",
+    "options": [
+      "920€",
+      "120€",
+      "680€",
+      "800€"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "Prezzo finale = prezzo − sconto."
+  },
+  {
+    "q": "Prezzo 500€. Sconto 50%. Quanto paghi? (variante 135)",
+    "options": [
+      "250€",
+      "250€ (4)",
+      "500€",
+      "750€"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explain": "Prezzo finale = prezzo − sconto."
+  },
+  {
+    "q": "In economia, che cos'è tasso di interesse? (variante 119)",
+    "options": [
+      "Quantità che i produttori vogliono vendere a un certo prezzo",
+      "Quantità che i consumatori vogliono acquistare a un certo prezzo",
+      "Prezzo del denaro nel tempo",
+      "Mercato con più venditori che competono"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Prezzo 1500€. Sconto 10%. Quanto paghi? (variante 33)",
+    "options": [
+      "1350€",
+      "1500€",
+      "1650€",
+      "150€"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explain": "Prezzo finale = prezzo − sconto."
+  },
+  {
+    "q": "Prezzo 100€. Sconto 5%. Quanto paghi? (variante 55)",
+    "options": [
+      "105€",
+      "5€",
+      "100€",
+      "95€"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "Prezzo finale = prezzo − sconto."
+  },
+  {
+    "q": "Prezzo 1500€. Sconto 25%. Quanto paghi? (variante 171)",
+    "options": [
+      "1875€",
+      "375€",
+      "1125€",
+      "1500€"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "Prezzo finale = prezzo − sconto."
+  },
+  {
+    "q": "In economia, che cos'è domanda? (variante 16)",
+    "options": [
+      "Aumento generalizzato e persistente dei prezzi",
+      "Diminuzione generalizzata dei prezzi",
+      "Quantità che i consumatori vogliono acquistare a un certo prezzo",
+      "Valore complessivo di beni e servizi prodotti in un Paese in un periodo"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "In economia, che cos'è domanda? (variante 95)",
+    "options": [
+      "Aumento generalizzato e persistente dei prezzi",
+      "Quantità che i consumatori vogliono acquistare a un certo prezzo",
+      "Mercato con più venditori che competono",
+      "Mercato con un solo venditore dominante"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Prezzo 1500€. Sconto 15%. Quanto paghi? (variante 175)",
+    "options": [
+      "1500€",
+      "1275€",
+      "1725€",
+      "225€"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "Prezzo finale = prezzo − sconto."
+  },
+  {
+    "q": "Prezzo 300€. Sconto 10%. Quanto paghi? (variante 119)",
+    "options": [
+      "300€",
+      "330€",
+      "30€",
+      "270€"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "Prezzo finale = prezzo − sconto."
+  },
+  {
+    "q": "In economia, che cos'è offerta? (variante 172)",
+    "options": [
+      "Diminuzione generalizzata dei prezzi",
+      "Aumento generalizzato e persistente dei prezzi",
+      "Quantità che i produttori vogliono vendere a un certo prezzo",
+      "Valore complessivo di beni e servizi prodotti in un Paese in un periodo"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Prezzo 200€. Sconto 50%. Quanto paghi? (variante 114)",
+    "options": [
+      "100€",
+      "100€ (4)",
+      "200€",
+      "300€"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explain": "Prezzo finale = prezzo − sconto."
+  },
+  {
+    "q": "In economia, che cos'è concorrenza? (variante 71)",
+    "options": [
+      "Quantità che i produttori vogliono vendere a un certo prezzo",
+      "Diminuzione generalizzata dei prezzi",
+      "Mercato con più venditori che competono",
+      "Mercato con un solo venditore dominante"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Prezzo 100€. Sconto 50%. Quanto paghi? (variante 113)",
+    "options": [
+      "100€",
+      "50€",
+      "50€ (4)",
+      "150€"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "Prezzo finale = prezzo − sconto."
+  },
+  {
+    "q": "Prezzo 1500€. Sconto 50%. Quanto paghi? (variante 158)",
+    "options": [
+      "2250€",
+      "750€",
+      "750€ (4)",
+      "1500€"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "Prezzo finale = prezzo − sconto."
+  },
+  {
+    "q": "In economia, che cos'è surplus? (variante 210)",
+    "options": [
+      "Quantità che i consumatori vogliono acquistare a un certo prezzo",
+      "Quantità che i produttori vogliono vendere a un certo prezzo",
+      "Quando le entrate superano le spese",
+      "Aumento generalizzato e persistente dei prezzi"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Prezzo 800€. Sconto 40%. Quanto paghi? (variante 47)",
+    "options": [
+      "800€",
+      "480€",
+      "1120€",
+      "320€"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "Prezzo finale = prezzo − sconto."
+  },
+  {
+    "q": "Prezzo 1000€. Sconto 40%. Quanto paghi? (variante 100)",
+    "options": [
+      "600€",
+      "1400€",
+      "1000€",
+      "400€"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explain": "Prezzo finale = prezzo − sconto."
+  },
+  {
+    "q": "In economia, che cos'è PIL? (variante 40)",
+    "options": [
+      "Valore complessivo di beni e servizi prodotti in un Paese in un periodo",
+      "Diminuzione generalizzata dei prezzi",
+      "Quando le spese superano le entrate",
+      "Quantità che i consumatori vogliono acquistare a un certo prezzo"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Prezzo 800€. Sconto 5%. Quanto paghi? (variante 204)",
+    "options": [
+      "760€",
+      "800€",
+      "40€",
+      "840€"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explain": "Prezzo finale = prezzo − sconto."
+  },
+  {
+    "q": "In economia, che cos'è surplus? (variante 58)",
+    "options": [
+      "Mercato con più venditori che competono",
+      "Aumento generalizzato e persistente dei prezzi",
+      "Quando le entrate superano le spese",
+      "Prezzo del denaro nel tempo"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Prezzo 100€. Sconto 30%. Quanto paghi? (variante 35)",
+    "options": [
+      "100€",
+      "130€",
+      "30€",
+      "70€"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "Prezzo finale = prezzo − sconto."
+  },
+  {
+    "q": "In economia, che cos'è domanda? (variante 129)",
+    "options": [
+      "Diminuzione generalizzata dei prezzi",
+      "Quando le spese superano le entrate",
+      "Aumento generalizzato e persistente dei prezzi",
+      "Quantità che i consumatori vogliono acquistare a un certo prezzo"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Prezzo 200€. Sconto 20%. Quanto paghi? (variante 4)",
+    "options": [
+      "200€",
+      "160€",
+      "40€",
+      "240€"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "Prezzo finale = prezzo − sconto."
+  },
+  {
+    "q": "Prezzo 800€. Sconto 50%. Quanto paghi? (variante 56)",
+    "options": [
+      "400€ (4)",
+      "1200€",
+      "400€",
+      "800€"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "Prezzo finale = prezzo − sconto."
+  },
+  {
+    "q": "Prezzo 100€. Sconto 30%. Quanto paghi? (variante 63)",
+    "options": [
+      "70€",
+      "130€",
+      "30€",
+      "100€"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explain": "Prezzo finale = prezzo − sconto."
+  },
+  {
+    "q": "Prezzo 300€. Sconto 25%. Quanto paghi? (variante 59)",
+    "options": [
+      "375€",
+      "225€",
+      "300€",
+      "75€"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "Prezzo finale = prezzo − sconto."
+  },
+  {
+    "q": "In economia, che cos'è PIL? (variante 98)",
+    "options": [
+      "Mercato con più venditori che competono",
+      "Quantità che i consumatori vogliono acquistare a un certo prezzo",
+      "Valore complessivo di beni e servizi prodotti in un Paese in un periodo",
+      "Aumento generalizzato e persistente dei prezzi"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Prezzo 500€. Sconto 50%. Quanto paghi? (variante 149)",
+    "options": [
+      "500€",
+      "750€",
+      "250€",
+      "250€ (4)"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "Prezzo finale = prezzo − sconto."
+  },
+  {
+    "q": "In economia, che cos'è deficit? (variante 211)",
+    "options": [
+      "Quando le spese superano le entrate",
+      "Mercato con un solo venditore dominante",
+      "Valore complessivo di beni e servizi prodotti in un Paese in un periodo",
+      "Quando le entrate superano le spese"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Prezzo 300€. Sconto 15%. Quanto paghi? (variante 124)",
+    "options": [
+      "300€",
+      "255€",
+      "345€",
+      "45€"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "Prezzo finale = prezzo − sconto."
+  },
+  {
+    "q": "In economia, che cos'è PIL? (variante 198)",
+    "options": [
+      "Quando le entrate superano le spese",
+      "Mercato con più venditori che competono",
+      "Diminuzione generalizzata dei prezzi",
+      "Valore complessivo di beni e servizi prodotti in un Paese in un periodo"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Prezzo 2000€. Sconto 15%. Quanto paghi? (variante 103)",
+    "options": [
+      "2000€",
+      "2300€",
+      "300€",
+      "1700€"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "Prezzo finale = prezzo − sconto."
+  },
+  {
+    "q": "Prezzo 1500€. Sconto 50%. Quanto paghi? (variante 27)",
+    "options": [
+      "1500€",
+      "750€",
+      "2250€",
+      "750€ (4)"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "Prezzo finale = prezzo − sconto."
+  },
+  {
+    "q": "In economia, che cos'è concorrenza? (variante 213)",
+    "options": [
+      "Quando le entrate superano le spese",
+      "Mercato con più venditori che competono",
+      "Diminuzione generalizzata dei prezzi",
+      "Quantità che i consumatori vogliono acquistare a un certo prezzo"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Prezzo 200€. Sconto 40%. Quanto paghi? (variante 137)",
+    "options": [
+      "120€",
+      "280€",
+      "80€",
+      "200€"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explain": "Prezzo finale = prezzo − sconto."
+  },
+  {
+    "q": "In economia, che cos'è monopolio? (variante 75)",
+    "options": [
+      "Quando le spese superano le entrate",
+      "Prezzo del denaro nel tempo",
+      "Mercato con un solo venditore dominante",
+      "Quantità che i consumatori vogliono acquistare a un certo prezzo"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "In economia, che cos'è deficit? (variante 126)",
+    "options": [
+      "Diminuzione generalizzata dei prezzi",
+      "Quando le spese superano le entrate",
+      "Aumento generalizzato e persistente dei prezzi",
+      "Prezzo del denaro nel tempo"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "In economia, che cos'è deflazione? (variante 69)",
+    "options": [
+      "Diminuzione generalizzata dei prezzi",
+      "Mercato con più venditori che competono",
+      "Quantità che i produttori vogliono vendere a un certo prezzo",
+      "Aumento generalizzato e persistente dei prezzi"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "In economia, che cos'è inflazione? (variante 10)",
+    "options": [
+      "Aumento generalizzato e persistente dei prezzi",
+      "Quantità che i produttori vogliono vendere a un certo prezzo",
+      "Quantità che i consumatori vogliono acquistare a un certo prezzo",
+      "Mercato con più venditori che competono"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Prezzo 300€. Sconto 25%. Quanto paghi? (variante 165)",
+    "options": [
+      "75€",
+      "225€",
+      "300€",
+      "375€"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "Prezzo finale = prezzo − sconto."
+  },
+  {
+    "q": "Prezzo 500€. Sconto 50%. Quanto paghi? (variante 203)",
+    "options": [
+      "750€",
+      "250€",
+      "500€",
+      "250€ (4)"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "Prezzo finale = prezzo − sconto."
+  },
+  {
+    "q": "Prezzo 800€. Sconto 5%. Quanto paghi? (variante 202)",
+    "options": [
+      "760€",
+      "800€",
+      "40€",
+      "840€"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explain": "Prezzo finale = prezzo − sconto."
+  },
+  {
+    "q": "In economia, che cos'è tasso di interesse? (variante 220)",
+    "options": [
+      "Prezzo del denaro nel tempo",
+      "Mercato con più venditori che competono",
+      "Aumento generalizzato e persistente dei prezzi",
+      "Diminuzione generalizzata dei prezzi"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Prezzo 800€. Sconto 30%. Quanto paghi? (variante 108)",
+    "options": [
+      "240€",
+      "1040€",
+      "800€",
+      "560€"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "Prezzo finale = prezzo − sconto."
+  },
+  {
+    "q": "Prezzo 200€. Sconto 15%. Quanto paghi? (variante 201)",
+    "options": [
+      "30€",
+      "170€",
+      "200€",
+      "230€"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "Prezzo finale = prezzo − sconto."
+  },
+  {
+    "q": "Prezzo 2000€. Sconto 50%. Quanto paghi? (variante 96)",
+    "options": [
+      "2000€",
+      "1000€ (4)",
+      "3000€",
+      "1000€"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "Prezzo finale = prezzo − sconto."
+  },
+  {
+    "q": "In economia, che cos'è tasso di interesse? (variante 48)",
+    "options": [
+      "Quando le entrate superano le spese",
+      "Prezzo del denaro nel tempo",
+      "Mercato con più venditori che competono",
+      "Valore complessivo di beni e servizi prodotti in un Paese in un periodo"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Prezzo 800€. Sconto 15%. Quanto paghi? (variante 206)",
+    "options": [
+      "920€",
+      "680€",
+      "800€",
+      "120€"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "Prezzo finale = prezzo − sconto."
+  },
+  {
+    "q": "In economia, che cos'è surplus? (variante 27)",
+    "options": [
+      "Valore complessivo di beni e servizi prodotti in un Paese in un periodo",
+      "Aumento generalizzato e persistente dei prezzi",
+      "Quando le entrate superano le spese",
+      "Quando le spese superano le entrate"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "In economia, che cos'è surplus? (variante 104)",
+    "options": [
+      "Mercato con un solo venditore dominante",
+      "Quando le entrate superano le spese",
+      "Valore complessivo di beni e servizi prodotti in un Paese in un periodo",
+      "Prezzo del denaro nel tempo"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "In economia, che cos'è offerta? (variante 28)",
+    "options": [
+      "Valore complessivo di beni e servizi prodotti in un Paese in un periodo",
+      "Aumento generalizzato e persistente dei prezzi",
+      "Quantità che i produttori vogliono vendere a un certo prezzo",
+      "Quantità che i consumatori vogliono acquistare a un certo prezzo"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "In economia, che cos'è deflazione? (variante 125)",
+    "options": [
+      "Prezzo del denaro nel tempo",
+      "Quantità che i consumatori vogliono acquistare a un certo prezzo",
+      "Quantità che i produttori vogliono vendere a un certo prezzo",
+      "Diminuzione generalizzata dei prezzi"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Prezzo 200€. Sconto 30%. Quanto paghi? (variante 29)",
+    "options": [
+      "60€",
+      "260€",
+      "200€",
+      "140€"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "Prezzo finale = prezzo − sconto."
+  },
+  {
+    "q": "Prezzo 1000€. Sconto 25%. Quanto paghi? (variante 89)",
+    "options": [
+      "1000€",
+      "1250€",
+      "750€",
+      "250€"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "Prezzo finale = prezzo − sconto."
+  },
+  {
+    "q": "In economia, che cos'è deficit? (variante 57)",
+    "options": [
+      "Mercato con più venditori che competono",
+      "Prezzo del denaro nel tempo",
+      "Diminuzione generalizzata dei prezzi",
+      "Quando le spese superano le entrate"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Prezzo 1000€. Sconto 15%. Quanto paghi? (variante 184)",
+    "options": [
+      "150€",
+      "1000€",
+      "850€",
+      "1150€"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "Prezzo finale = prezzo − sconto."
+  },
+  {
+    "q": "Prezzo 500€. Sconto 15%. Quanto paghi? (variante 49)",
+    "options": [
+      "500€",
+      "75€",
+      "575€",
+      "425€"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "Prezzo finale = prezzo − sconto."
+  },
+  {
+    "q": "Prezzo 200€. Sconto 30%. Quanto paghi? (variante 127)",
+    "options": [
+      "200€",
+      "260€",
+      "140€",
+      "60€"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "Prezzo finale = prezzo − sconto."
+  },
+  {
+    "q": "Prezzo 1000€. Sconto 5%. Quanto paghi? (variante 44)",
+    "options": [
+      "1000€",
+      "1050€",
+      "50€",
+      "950€"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "Prezzo finale = prezzo − sconto."
+  },
+  {
+    "q": "In economia, che cos'è domanda? (variante 24)",
+    "options": [
+      "Quantità che i produttori vogliono vendere a un certo prezzo",
+      "Mercato con un solo venditore dominante",
+      "Quantità che i consumatori vogliono acquistare a un certo prezzo",
+      "Diminuzione generalizzata dei prezzi"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Prezzo 1500€. Sconto 15%. Quanto paghi? (variante 185)",
+    "options": [
+      "1500€",
+      "1725€",
+      "225€",
+      "1275€"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "Prezzo finale = prezzo − sconto."
+  },
+  {
+    "q": "Prezzo 500€. Sconto 30%. Quanto paghi? (variante 83)",
+    "options": [
+      "350€",
+      "150€",
+      "500€",
+      "650€"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explain": "Prezzo finale = prezzo − sconto."
+  },
+  {
+    "q": "In economia, che cos'è tasso di interesse? (variante 99)",
+    "options": [
+      "Aumento generalizzato e persistente dei prezzi",
+      "Quantità che i produttori vogliono vendere a un certo prezzo",
+      "Prezzo del denaro nel tempo",
+      "Quando le spese superano le entrate"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Se la domanda aumenta e l'offerta resta uguale, cosa tende a fare il prezzo?",
+    "options": [
+      "Resta uguale",
+      "Aumenta",
+      "Diminuisce",
+      "Diventa zero"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "In economia, che cos'è monopolio? (variante 97)",
+    "options": [
+      "Quantità che i consumatori vogliono acquistare a un certo prezzo",
+      "Valore complessivo di beni e servizi prodotti in un Paese in un periodo",
+      "Mercato con più venditori che competono",
+      "Mercato con un solo venditore dominante"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Prezzo 300€. Sconto 50%. Quanto paghi? (variante 136)",
+    "options": [
+      "450€",
+      "300€",
+      "150€",
+      "150€ (4)"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "Prezzo finale = prezzo − sconto."
+  },
+  {
+    "q": "In economia, che cos'è monopolio? (variante 201)",
+    "options": [
+      "Mercato con più venditori che competono",
+      "Valore complessivo di beni e servizi prodotti in un Paese in un periodo",
+      "Quantità che i produttori vogliono vendere a un certo prezzo",
+      "Mercato con un solo venditore dominante"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "In economia, che cos'è monopolio? (variante 1)",
+    "options": [
+      "Prezzo del denaro nel tempo",
+      "Quantità che i consumatori vogliono acquistare a un certo prezzo",
+      "Quando le spese superano le entrate",
+      "Mercato con un solo venditore dominante"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "In economia, che cos'è surplus? (variante 51)",
+    "options": [
+      "Quando le entrate superano le spese",
+      "Quando le spese superano le entrate",
+      "Aumento generalizzato e persistente dei prezzi",
+      "Quantità che i consumatori vogliono acquistare a un certo prezzo"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "In economia, che cos'è deficit? (variante 43)",
+    "options": [
+      "Quando le spese superano le entrate",
+      "Mercato con un solo venditore dominante",
+      "Aumento generalizzato e persistente dei prezzi",
+      "Quantità che i produttori vogliono vendere a un certo prezzo"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "In economia, che cos'è deflazione? (variante 88)",
+    "options": [
+      "Quantità che i produttori vogliono vendere a un certo prezzo",
+      "Aumento generalizzato e persistente dei prezzi",
+      "Valore complessivo di beni e servizi prodotti in un Paese in un periodo",
+      "Diminuzione generalizzata dei prezzi"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Prezzo 300€. Sconto 40%. Quanto paghi? (variante 166)",
+    "options": [
+      "300€",
+      "420€",
+      "120€",
+      "180€"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "Prezzo finale = prezzo − sconto."
+  },
+  {
+    "q": "Prezzo 1500€. Sconto 15%. Quanto paghi? (variante 179)",
+    "options": [
+      "1725€",
+      "225€",
+      "1500€",
+      "1275€"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "Prezzo finale = prezzo − sconto."
+  },
+  {
+    "q": "Prezzo 1500€. Sconto 50%. Quanto paghi? (variante 53)",
+    "options": [
+      "750€",
+      "750€ (4)",
+      "1500€",
+      "2250€"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explain": "Prezzo finale = prezzo − sconto."
+  },
+  {
+    "q": "Prezzo 100€. Sconto 20%. Quanto paghi? (variante 196)",
+    "options": [
+      "20€",
+      "100€",
+      "80€",
+      "120€"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "Prezzo finale = prezzo − sconto."
+  },
+  {
+    "q": "Prezzo 500€. Sconto 20%. Quanto paghi? (variante 161)",
+    "options": [
+      "100€",
+      "400€",
+      "500€",
+      "600€"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "Prezzo finale = prezzo − sconto."
+  },
+  {
+    "q": "In economia, che cos'è inflazione? (variante 89)",
+    "options": [
+      "Mercato con un solo venditore dominante",
+      "Aumento generalizzato e persistente dei prezzi",
+      "Quantità che i consumatori vogliono acquistare a un certo prezzo",
+      "Diminuzione generalizzata dei prezzi"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "In economia, che cos'è monopolio? (variante 192)",
+    "options": [
+      "Prezzo del denaro nel tempo",
+      "Mercato con un solo venditore dominante",
+      "Quando le entrate superano le spese",
+      "Quantità che i produttori vogliono vendere a un certo prezzo"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Prezzo 1000€. Sconto 30%. Quanto paghi? (variante 60)",
+    "options": [
+      "1300€",
+      "1000€",
+      "700€",
+      "300€"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "Prezzo finale = prezzo − sconto."
+  },
+  {
+    "q": "Prezzo 200€. Sconto 5%. Quanto paghi? (variante 207)",
+    "options": [
+      "190€",
+      "10€",
+      "200€",
+      "210€"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explain": "Prezzo finale = prezzo − sconto."
+  },
+  {
+    "q": "Prezzo 300€. Sconto 20%. Quanto paghi? (variante 199)",
+    "options": [
+      "360€",
+      "60€",
+      "240€",
+      "300€"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "Prezzo finale = prezzo − sconto."
+  },
+  {
+    "q": "Prezzo 200€. Sconto 5%. Quanto paghi? (variante 9)",
+    "options": [
+      "200€",
+      "210€",
+      "190€",
+      "10€"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "Prezzo finale = prezzo − sconto."
+  },
+  {
+    "q": "Prezzo 100€. Sconto 50%. Quanto paghi? (variante 84)",
+    "options": [
+      "50€ (4)",
+      "50€",
+      "150€",
+      "100€"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "Prezzo finale = prezzo − sconto."
+  },
+  {
+    "q": "Prezzo 1500€. Sconto 5%. Quanto paghi? (variante 214)",
+    "options": [
+      "75€",
+      "1500€",
+      "1425€",
+      "1575€"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "Prezzo finale = prezzo − sconto."
+  },
+  {
+    "q": "In economia, che cos'è concorrenza? (variante 124)",
+    "options": [
+      "Aumento generalizzato e persistente dei prezzi",
+      "Mercato con più venditori che competono",
+      "Quantità che i consumatori vogliono acquistare a un certo prezzo",
+      "Valore complessivo di beni e servizi prodotti in un Paese in un periodo"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Prezzo 200€. Sconto 30%. Quanto paghi? (variante 134)",
+    "options": [
+      "140€",
+      "260€",
+      "200€",
+      "60€"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explain": "Prezzo finale = prezzo − sconto."
+  },
+  {
+    "q": "Prezzo 2000€. Sconto 5%. Quanto paghi? (variante 1)",
+    "options": [
+      "2000€",
+      "1900€",
+      "100€",
+      "2100€"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "Prezzo finale = prezzo − sconto."
+  },
+  {
+    "q": "Prezzo 800€. Sconto 5%. Quanto paghi? (variante 140)",
+    "options": [
+      "760€",
+      "800€",
+      "40€",
+      "840€"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explain": "Prezzo finale = prezzo − sconto."
+  },
+  {
+    "q": "In economia, che cos'è concorrenza? (variante 111)",
+    "options": [
+      "Quantità che i produttori vogliono vendere a un certo prezzo",
+      "Valore complessivo di beni e servizi prodotti in un Paese in un periodo",
+      "Mercato con più venditori che competono",
+      "Quantità che i consumatori vogliono acquistare a un certo prezzo"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "In economia, che cos'è PIL? (variante 155)",
+    "options": [
+      "Valore complessivo di beni e servizi prodotti in un Paese in un periodo",
+      "Quantità che i consumatori vogliono acquistare a un certo prezzo",
+      "Prezzo del denaro nel tempo",
+      "Aumento generalizzato e persistente dei prezzi"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "In economia, che cos'è offerta? (variante 156)",
+    "options": [
+      "Quando le entrate superano le spese",
+      "Aumento generalizzato e persistente dei prezzi",
+      "Valore complessivo di beni e servizi prodotti in un Paese in un periodo",
+      "Quantità che i produttori vogliono vendere a un certo prezzo"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Prezzo 1000€. Sconto 40%. Quanto paghi? (variante 78)",
+    "options": [
+      "1000€",
+      "400€",
+      "1400€",
+      "600€"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "Prezzo finale = prezzo − sconto."
+  },
+  {
+    "q": "In economia, che cos'è deficit? (variante 81)",
+    "options": [
+      "Quantità che i consumatori vogliono acquistare a un certo prezzo",
+      "Mercato con un solo venditore dominante",
+      "Quando le spese superano le entrate",
+      "Aumento generalizzato e persistente dei prezzi"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Prezzo 500€. Sconto 15%. Quanto paghi? (variante 115)",
+    "options": [
+      "75€",
+      "500€",
+      "425€",
+      "575€"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "Prezzo finale = prezzo − sconto."
+  },
+  {
+    "q": "In economia, che cos'è monopolio? (variante 193)",
+    "options": [
+      "Valore complessivo di beni e servizi prodotti in un Paese in un periodo",
+      "Mercato con un solo venditore dominante",
+      "Quando le spese superano le entrate",
+      "Prezzo del denaro nel tempo"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Prezzo 300€. Sconto 25%. Quanto paghi? (variante 71)",
+    "options": [
+      "75€",
+      "300€",
+      "225€",
+      "375€"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "Prezzo finale = prezzo − sconto."
+  },
+  {
+    "q": "Prezzo 2000€. Sconto 10%. Quanto paghi? (variante 10)",
+    "options": [
+      "1800€",
+      "2000€",
+      "2200€",
+      "200€"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explain": "Prezzo finale = prezzo − sconto."
+  },
+  {
+    "q": "Prezzo 300€. Sconto 50%. Quanto paghi? (variante 209)",
+    "options": [
+      "450€",
+      "300€",
+      "150€ (4)",
+      "150€"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "Prezzo finale = prezzo − sconto."
+  },
+  {
+    "q": "In economia, che cos'è PIL? (variante 70)",
+    "options": [
+      "Prezzo del denaro nel tempo",
+      "Valore complessivo di beni e servizi prodotti in un Paese in un periodo",
+      "Quantità che i consumatori vogliono acquistare a un certo prezzo",
+      "Aumento generalizzato e persistente dei prezzi"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "In economia, che cos'è deflazione? (variante 107)",
+    "options": [
+      "Diminuzione generalizzata dei prezzi",
+      "Quantità che i consumatori vogliono acquistare a un certo prezzo",
+      "Mercato con più venditori che competono",
+      "Mercato con un solo venditore dominante"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "In economia, che cos'è domanda? (variante 30)",
+    "options": [
+      "Mercato con più venditori che competono",
+      "Quando le spese superano le entrate",
+      "Quantità che i consumatori vogliono acquistare a un certo prezzo",
+      "Prezzo del denaro nel tempo"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "In economia, che cos'è monopolio? (variante 66)",
+    "options": [
+      "Mercato con un solo venditore dominante",
+      "Quando le spese superano le entrate",
+      "Diminuzione generalizzata dei prezzi",
+      "Quantità che i consumatori vogliono acquistare a un certo prezzo"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "In economia, che cos'è PIL? (variante 5)",
+    "options": [
+      "Mercato con più venditori che competono",
+      "Quando le spese superano le entrate",
+      "Valore complessivo di beni e servizi prodotti in un Paese in un periodo",
+      "Mercato con un solo venditore dominante"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Prezzo 1500€. Sconto 15%. Quanto paghi? (variante 121)",
+    "options": [
+      "1500€",
+      "1725€",
+      "225€",
+      "1275€"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "Prezzo finale = prezzo − sconto."
+  },
+  {
+    "q": "Prezzo 200€. Sconto 50%. Quanto paghi? (variante 169)",
+    "options": [
+      "200€",
+      "100€ (4)",
+      "100€",
+      "300€"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "Prezzo finale = prezzo − sconto."
+  },
+  {
+    "q": "In economia, che cos'è offerta? (variante 63)",
+    "options": [
+      "Quantità che i produttori vogliono vendere a un certo prezzo",
+      "Quando le spese superano le entrate",
+      "Quantità che i consumatori vogliono acquistare a un certo prezzo",
+      "Mercato con più venditori che competono"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Prezzo 200€. Sconto 50%. Quanto paghi? (variante 208)",
+    "options": [
+      "100€ (4)",
+      "100€",
+      "300€",
+      "200€"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "Prezzo finale = prezzo − sconto."
+  },
+  {
+    "q": "Prezzo 1500€. Sconto 30%. Quanto paghi? (variante 67)",
+    "options": [
+      "1500€",
+      "1950€",
+      "1050€",
+      "450€"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "Prezzo finale = prezzo − sconto."
+  },
+  {
+    "q": "In economia, che cos'è inflazione? (variante 17)",
+    "options": [
+      "Quando le entrate superano le spese",
+      "Quantità che i produttori vogliono vendere a un certo prezzo",
+      "Aumento generalizzato e persistente dei prezzi",
+      "Prezzo del denaro nel tempo"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Prezzo 2000€. Sconto 50%. Quanto paghi? (variante 93)",
+    "options": [
+      "1000€",
+      "3000€",
+      "2000€",
+      "1000€ (4)"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explain": "Prezzo finale = prezzo − sconto."
+  },
+  {
+    "q": "In economia, che cos'è PIL? (variante 11)",
+    "options": [
+      "Quantità che i produttori vogliono vendere a un certo prezzo",
+      "Mercato con un solo venditore dominante",
+      "Valore complessivo di beni e servizi prodotti in un Paese in un periodo",
+      "Diminuzione generalizzata dei prezzi"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "In economia, che cos'è PIL? (variante 186)",
+    "options": [
+      "Diminuzione generalizzata dei prezzi",
+      "Quantità che i produttori vogliono vendere a un certo prezzo",
+      "Prezzo del denaro nel tempo",
+      "Valore complessivo di beni e servizi prodotti in un Paese in un periodo"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "In economia, che cos'è PIL? (variante 72)",
+    "options": [
+      "Quando le spese superano le entrate",
+      "Quando le entrate superano le spese",
+      "Diminuzione generalizzata dei prezzi",
+      "Valore complessivo di beni e servizi prodotti in un Paese in un periodo"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "In economia, che cos'è surplus? (variante 31)",
+    "options": [
+      "Aumento generalizzato e persistente dei prezzi",
+      "Quando le entrate superano le spese",
+      "Valore complessivo di beni e servizi prodotti in un Paese in un periodo",
+      "Prezzo del denaro nel tempo"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "In economia, che cos'è domanda? (variante 23)",
+    "options": [
+      "Mercato con un solo venditore dominante",
+      "Diminuzione generalizzata dei prezzi",
+      "Quantità che i consumatori vogliono acquistare a un certo prezzo",
+      "Quando le entrate superano le spese"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Prezzo 1500€. Sconto 40%. Quanto paghi? (variante 38)",
+    "options": [
+      "1500€",
+      "2100€",
+      "600€",
+      "900€"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "Prezzo finale = prezzo − sconto."
+  },
+  {
+    "q": "Prezzo 800€. Sconto 15%. Quanto paghi? (variante 133)",
+    "options": [
+      "680€",
+      "120€",
+      "920€",
+      "800€"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explain": "Prezzo finale = prezzo − sconto."
+  },
+  {
+    "q": "In economia, che cos'è surplus? (variante 34)",
+    "options": [
+      "Valore complessivo di beni e servizi prodotti in un Paese in un periodo",
+      "Quando le entrate superano le spese",
+      "Quantità che i consumatori vogliono acquistare a un certo prezzo",
+      "Mercato con più venditori che competono"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "In economia, che cos'è surplus? (variante 109)",
+    "options": [
+      "Aumento generalizzato e persistente dei prezzi",
+      "Quando le entrate superano le spese",
+      "Mercato con un solo venditore dominante",
+      "Valore complessivo di beni e servizi prodotti in un Paese in un periodo"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "In economia, che cos'è PIL? (variante 15)",
+    "options": [
+      "Quantità che i consumatori vogliono acquistare a un certo prezzo",
+      "Mercato con più venditori che competono",
+      "Valore complessivo di beni e servizi prodotti in un Paese in un periodo",
+      "Diminuzione generalizzata dei prezzi"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Prezzo 1000€. Sconto 40%. Quanto paghi? (variante 191)",
+    "options": [
+      "1000€",
+      "600€",
+      "400€",
+      "1400€"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "Prezzo finale = prezzo − sconto."
+  },
+  {
+    "q": "In economia, che cos'è domanda? (variante 76)",
+    "options": [
+      "Quantità che i consumatori vogliono acquistare a un certo prezzo",
+      "Quantità che i produttori vogliono vendere a un certo prezzo",
+      "Valore complessivo di beni e servizi prodotti in un Paese in un periodo",
+      "Mercato con un solo venditore dominante"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Prezzo 2000€. Sconto 20%. Quanto paghi? (variante 216)",
+    "options": [
+      "400€",
+      "2400€",
+      "1600€",
+      "2000€"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "Prezzo finale = prezzo − sconto."
+  },
+  {
+    "q": "Prezzo 800€. Sconto 25%. Quanto paghi? (variante 13)",
+    "options": [
+      "1000€",
+      "200€",
+      "800€",
+      "600€"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "Prezzo finale = prezzo − sconto."
+  },
+  {
+    "q": "Prezzo 300€. Sconto 25%. Quanto paghi? (variante 82)",
+    "options": [
+      "75€",
+      "300€",
+      "375€",
+      "225€"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "Prezzo finale = prezzo − sconto."
+  },
+  {
+    "q": "In economia, che cos'è concorrenza? (variante 52)",
+    "options": [
+      "Prezzo del denaro nel tempo",
+      "Quantità che i consumatori vogliono acquistare a un certo prezzo",
+      "Mercato con più venditori che competono",
+      "Mercato con un solo venditore dominante"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Prezzo 1500€. Sconto 50%. Quanto paghi? (variante 131)",
+    "options": [
+      "750€ (4)",
+      "750€",
+      "2250€",
+      "1500€"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "Prezzo finale = prezzo − sconto."
+  },
+  {
+    "q": "In economia, che cos'è concorrenza? (variante 141)",
+    "options": [
+      "Mercato con un solo venditore dominante",
+      "Valore complessivo di beni e servizi prodotti in un Paese in un periodo",
+      "Mercato con più venditori che competono",
+      "Quando le entrate superano le spese"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "In economia, che cos'è deflazione? (variante 59)",
+    "options": [
+      "Quantità che i produttori vogliono vendere a un certo prezzo",
+      "Diminuzione generalizzata dei prezzi",
+      "Quantità che i consumatori vogliono acquistare a un certo prezzo",
+      "Quando le spese superano le entrate"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Prezzo 2000€. Sconto 5%. Quanto paghi? (variante 68)",
+    "options": [
+      "1900€",
+      "2000€",
+      "100€",
+      "2100€"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explain": "Prezzo finale = prezzo − sconto."
+  },
+  {
+    "q": "In economia, che cos'è deficit? (variante 214)",
+    "options": [
+      "Aumento generalizzato e persistente dei prezzi",
+      "Mercato con più venditori che competono",
+      "Quando le spese superano le entrate",
+      "Prezzo del denaro nel tempo"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "In economia, che cos'è tasso di interesse? (variante 147)",
+    "options": [
+      "Aumento generalizzato e persistente dei prezzi",
+      "Quando le entrate superano le spese",
+      "Prezzo del denaro nel tempo",
+      "Quantità che i produttori vogliono vendere a un certo prezzo"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Prezzo 200€. Sconto 20%. Quanto paghi? (variante 25)",
+    "options": [
+      "40€",
+      "160€",
+      "240€",
+      "200€"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "Prezzo finale = prezzo − sconto."
+  },
+  {
+    "q": "Prezzo 800€. Sconto 20%. Quanto paghi? (variante 168)",
+    "options": [
+      "960€",
+      "800€",
+      "160€",
+      "640€"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "Prezzo finale = prezzo − sconto."
+  },
+  {
+    "q": "Prezzo 1500€. Sconto 10%. Quanto paghi? (variante 215)",
+    "options": [
+      "150€",
+      "1500€",
+      "1650€",
+      "1350€"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "Prezzo finale = prezzo − sconto."
+  },
+  {
+    "q": "Prezzo 500€. Sconto 20%. Quanto paghi? (variante 211)",
+    "options": [
+      "100€",
+      "600€",
+      "500€",
+      "400€"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "Prezzo finale = prezzo − sconto."
+  },
+  {
+    "q": "In economia, che cos'è inflazione? (variante 131)",
+    "options": [
+      "Valore complessivo di beni e servizi prodotti in un Paese in un periodo",
+      "Quantità che i produttori vogliono vendere a un certo prezzo",
+      "Mercato con un solo venditore dominante",
+      "Aumento generalizzato e persistente dei prezzi"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Prezzo 1500€. Sconto 40%. Quanto paghi? (variante 138)",
+    "options": [
+      "600€",
+      "900€",
+      "1500€",
+      "2100€"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "Prezzo finale = prezzo − sconto."
+  },
+  {
+    "q": "Prezzo 100€. Sconto 25%. Quanto paghi? (variante 111)",
+    "options": [
+      "25€",
+      "100€",
+      "75€",
+      "125€"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "Prezzo finale = prezzo − sconto."
+  },
+  {
+    "q": "In economia, che cos'è deficit? (variante 212)",
+    "options": [
+      "Prezzo del denaro nel tempo",
+      "Quando le spese superano le entrate",
+      "Quando le entrate superano le spese",
+      "Diminuzione generalizzata dei prezzi"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "In economia, che cos'è offerta? (variante 46)",
+    "options": [
+      "Quantità che i produttori vogliono vendere a un certo prezzo",
+      "Prezzo del denaro nel tempo",
+      "Aumento generalizzato e persistente dei prezzi",
+      "Quantità che i consumatori vogliono acquistare a un certo prezzo"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Prezzo 2000€. Sconto 25%. Quanto paghi? (variante 101)",
+    "options": [
+      "1500€",
+      "2500€",
+      "500€",
+      "2000€"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explain": "Prezzo finale = prezzo − sconto."
+  },
+  {
+    "q": "In economia, che cos'è concorrenza? (variante 217)",
+    "options": [
+      "Quando le spese superano le entrate",
+      "Diminuzione generalizzata dei prezzi",
+      "Mercato con più venditori che competono",
+      "Mercato con un solo venditore dominante"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "In economia, che cos'è PIL? (variante 85)",
+    "options": [
+      "Quantità che i produttori vogliono vendere a un certo prezzo",
+      "Quando le entrate superano le spese",
+      "Quando le spese superano le entrate",
+      "Valore complessivo di beni e servizi prodotti in un Paese in un periodo"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "In economia, che cos'è concorrenza? (variante 157)",
+    "options": [
+      "Mercato con più venditori che competono",
+      "Quantità che i produttori vogliono vendere a un certo prezzo",
+      "Quando le spese superano le entrate",
+      "Valore complessivo di beni e servizi prodotti in un Paese in un periodo"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "In economia, che cos'è tasso di interesse? (variante 4)",
+    "options": [
+      "Valore complessivo di beni e servizi prodotti in un Paese in un periodo",
+      "Mercato con più venditori che competono",
+      "Prezzo del denaro nel tempo",
+      "Diminuzione generalizzata dei prezzi"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "In economia, che cos'è domanda? (variante 38)",
+    "options": [
+      "Quantità che i consumatori vogliono acquistare a un certo prezzo",
+      "Prezzo del denaro nel tempo",
+      "Mercato con più venditori che competono",
+      "Valore complessivo di beni e servizi prodotti in un Paese in un periodo"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "In economia, che cos'è tasso di interesse? (variante 219)",
+    "options": [
+      "Mercato con più venditori che competono",
+      "Aumento generalizzato e persistente dei prezzi",
+      "Prezzo del denaro nel tempo",
+      "Valore complessivo di beni e servizi prodotti in un Paese in un periodo"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Prezzo 500€. Sconto 20%. Quanto paghi? (variante 104)",
+    "options": [
+      "600€",
+      "400€",
+      "500€",
+      "100€"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "Prezzo finale = prezzo − sconto."
+  },
+  {
+    "q": "Prezzo 1000€. Sconto 40%. Quanto paghi? (variante 5)",
+    "options": [
+      "1400€",
+      "1000€",
+      "400€",
+      "600€"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "Prezzo finale = prezzo − sconto."
+  },
+  {
+    "q": "Prezzo 100€. Sconto 50%. Quanto paghi? (variante 54)",
+    "options": [
+      "150€",
+      "50€",
+      "50€ (4)",
+      "100€"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "Prezzo finale = prezzo − sconto."
+  },
+  {
+    "q": "In economia, che cos'è inflazione? (variante 29)",
+    "options": [
+      "Prezzo del denaro nel tempo",
+      "Aumento generalizzato e persistente dei prezzi",
+      "Mercato con un solo venditore dominante",
+      "Quantità che i consumatori vogliono acquistare a un certo prezzo"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "In economia, che cos'è inflazione? (variante 106)",
+    "options": [
+      "Mercato con più venditori che competono",
+      "Aumento generalizzato e persistente dei prezzi",
+      "Quando le entrate superano le spese",
+      "Prezzo del denaro nel tempo"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Prezzo 1500€. Sconto 10%. Quanto paghi? (variante 117)",
+    "options": [
+      "1500€",
+      "150€",
+      "1350€",
+      "1650€"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "Prezzo finale = prezzo − sconto."
+  },
+  {
+    "q": "Prezzo 300€. Sconto 40%. Quanto paghi? (variante 14)",
+    "options": [
+      "120€",
+      "420€",
+      "300€",
+      "180€"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "Prezzo finale = prezzo − sconto."
+  },
+  {
+    "q": "Prezzo 1500€. Sconto 50%. Quanto paghi? (variante 195)",
+    "options": [
+      "2250€",
+      "750€",
+      "750€ (4)",
+      "1500€"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "Prezzo finale = prezzo − sconto."
+  },
+  {
+    "q": "Prezzo 2000€. Sconto 25%. Quanto paghi? (variante 123)",
+    "options": [
+      "2500€",
+      "2000€",
+      "1500€",
+      "500€"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "Prezzo finale = prezzo − sconto."
+  },
+  {
+    "q": "In economia, che cos'è surplus? (variante 175)",
+    "options": [
+      "Quando le entrate superano le spese",
+      "Quantità che i consumatori vogliono acquistare a un certo prezzo",
+      "Quando le spese superano le entrate",
+      "Mercato con più venditori che competono"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Prezzo 300€. Sconto 50%. Quanto paghi? (variante 112)",
+    "options": [
+      "150€ (4)",
+      "450€",
+      "300€",
+      "150€"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "Prezzo finale = prezzo − sconto."
+  },
+  {
+    "q": "In economia, che cos'è concorrenza? (variante 19)",
+    "options": [
+      "Aumento generalizzato e persistente dei prezzi",
+      "Mercato con più venditori che competono",
+      "Quando le spese superano le entrate",
+      "Quantità che i consumatori vogliono acquistare a un certo prezzo"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "In economia, che cos'è inflazione? (variante 105)",
+    "options": [
+      "Aumento generalizzato e persistente dei prezzi",
+      "Quando le spese superano le entrate",
+      "Diminuzione generalizzata dei prezzi",
+      "Quando le entrate superano le spese"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "In economia, che cos'è domanda? (variante 49)",
+    "options": [
+      "Prezzo del denaro nel tempo",
+      "Quantità che i consumatori vogliono acquistare a un certo prezzo",
+      "Mercato con più venditori che competono",
+      "Quando le spese superano le entrate"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Prezzo 800€. Sconto 30%. Quanto paghi? (variante 51)",
+    "options": [
+      "1040€",
+      "800€",
+      "560€",
+      "240€"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "Prezzo finale = prezzo − sconto."
+  },
+  {
+    "q": "In economia, che cos'è monopolio? (variante 218)",
+    "options": [
+      "Prezzo del denaro nel tempo",
+      "Diminuzione generalizzata dei prezzi",
+      "Mercato con un solo venditore dominante",
+      "Quando le spese superano le entrate"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "In economia, che cos'è offerta? (variante 47)",
+    "options": [
+      "Quantità che i produttori vogliono vendere a un certo prezzo",
+      "Diminuzione generalizzata dei prezzi",
+      "Valore complessivo di beni e servizi prodotti in un Paese in un periodo",
+      "Mercato con più venditori che competono"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "In economia, che cos'è offerta? (variante 163)",
+    "options": [
+      "Quantità che i consumatori vogliono acquistare a un certo prezzo",
+      "Quantità che i produttori vogliono vendere a un certo prezzo",
+      "Mercato con un solo venditore dominante",
+      "Prezzo del denaro nel tempo"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "In economia, che cos'è surplus? (variante 151)",
+    "options": [
+      "Quando le entrate superano le spese",
+      "Diminuzione generalizzata dei prezzi",
+      "Valore complessivo di beni e servizi prodotti in un Paese in un periodo",
+      "Quantità che i consumatori vogliono acquistare a un certo prezzo"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "In economia, che cos'è tasso di interesse? (variante 159)",
+    "options": [
+      "Quantità che i consumatori vogliono acquistare a un certo prezzo",
+      "Prezzo del denaro nel tempo",
+      "Valore complessivo di beni e servizi prodotti in un Paese in un periodo",
+      "Quando le entrate superano le spese"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Prezzo 300€. Sconto 10%. Quanto paghi? (variante 141)",
+    "options": [
+      "300€",
+      "330€",
+      "270€",
+      "30€"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "Prezzo finale = prezzo − sconto."
+  },
+  {
+    "q": "Prezzo 800€. Sconto 5%. Quanto paghi? (variante 18)",
+    "options": [
+      "40€",
+      "840€",
+      "760€",
+      "800€"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "Prezzo finale = prezzo − sconto."
+  },
+  {
+    "q": "Prezzo 1500€. Sconto 50%. Quanto paghi? (variante 178)",
+    "options": [
+      "750€ (4)",
+      "2250€",
+      "750€",
+      "1500€"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "Prezzo finale = prezzo − sconto."
+  },
+  {
+    "q": "In economia, che cos'è deflazione? (variante 64)",
+    "options": [
+      "Diminuzione generalizzata dei prezzi",
+      "Aumento generalizzato e persistente dei prezzi",
+      "Mercato con più venditori che competono",
+      "Quantità che i consumatori vogliono acquistare a un certo prezzo"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Prezzo 2000€. Sconto 40%. Quanto paghi? (variante 190)",
+    "options": [
+      "800€",
+      "2000€",
+      "2800€",
+      "1200€"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "Prezzo finale = prezzo − sconto."
+  },
+  {
+    "q": "In economia, che cos'è deflazione? (variante 204)",
+    "options": [
+      "Quantità che i consumatori vogliono acquistare a un certo prezzo",
+      "Mercato con più venditori che competono",
+      "Diminuzione generalizzata dei prezzi",
+      "Aumento generalizzato e persistente dei prezzi"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Prezzo 2000€. Sconto 50%. Quanto paghi? (variante 156)",
+    "options": [
+      "1000€",
+      "2000€",
+      "3000€",
+      "1000€ (4)"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explain": "Prezzo finale = prezzo − sconto."
+  },
+  {
+    "q": "In economia, che cos'è deficit? (variante 93)",
+    "options": [
+      "Valore complessivo di beni e servizi prodotti in un Paese in un periodo",
+      "Quando le spese superano le entrate",
+      "Quando le entrate superano le spese",
+      "Quantità che i produttori vogliono vendere a un certo prezzo"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "In economia, che cos'è PIL? (variante 83)",
+    "options": [
+      "Valore complessivo di beni e servizi prodotti in un Paese in un periodo",
+      "Quantità che i produttori vogliono vendere a un certo prezzo",
+      "Diminuzione generalizzata dei prezzi",
+      "Mercato con più venditori che competono"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Prezzo 2000€. Sconto 10%. Quanto paghi? (variante 157)",
+    "options": [
+      "2000€",
+      "1800€",
+      "200€",
+      "2200€"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "Prezzo finale = prezzo − sconto."
+  },
+  {
+    "q": "In economia, che cos'è inflazione? (variante 160)",
+    "options": [
+      "Quantità che i consumatori vogliono acquistare a un certo prezzo",
+      "Quando le spese superano le entrate",
+      "Aumento generalizzato e persistente dei prezzi",
+      "Prezzo del denaro nel tempo"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Prezzo 2000€. Sconto 15%. Quanto paghi? (variante 61)",
+    "options": [
+      "300€",
+      "1700€",
+      "2300€",
+      "2000€"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "Prezzo finale = prezzo − sconto."
+  },
+  {
+    "q": "In economia, che cos'è surplus? (variante 168)",
+    "options": [
+      "Diminuzione generalizzata dei prezzi",
+      "Quando le entrate superano le spese",
+      "Valore complessivo di beni e servizi prodotti in un Paese in un periodo",
+      "Quantità che i consumatori vogliono acquistare a un certo prezzo"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "In economia, che cos'è tasso di interesse? (variante 149)",
+    "options": [
+      "Prezzo del denaro nel tempo",
+      "Aumento generalizzato e persistente dei prezzi",
+      "Quantità che i produttori vogliono vendere a un certo prezzo",
+      "Mercato con un solo venditore dominante"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Prezzo 800€. Sconto 20%. Quanto paghi? (variante 128)",
+    "options": [
+      "960€",
+      "800€",
+      "640€",
+      "160€"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "Prezzo finale = prezzo − sconto."
+  },
+  {
+    "q": "Prezzo 200€. Sconto 25%. Quanto paghi? (variante 105)",
+    "options": [
+      "200€",
+      "150€",
+      "250€",
+      "50€"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "Prezzo finale = prezzo − sconto."
+  },
+  {
+    "q": "In economia, che cos'è inflazione? (variante 184)",
+    "options": [
+      "Prezzo del denaro nel tempo",
+      "Valore complessivo di beni e servizi prodotti in un Paese in un periodo",
+      "Aumento generalizzato e persistente dei prezzi",
+      "Quantità che i consumatori vogliono acquistare a un certo prezzo"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "In economia, che cos'è offerta? (variante 136)",
+    "options": [
+      "Mercato con più venditori che competono",
+      "Quantità che i produttori vogliono vendere a un certo prezzo",
+      "Quando le entrate superano le spese",
+      "Quantità che i consumatori vogliono acquistare a un certo prezzo"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Prezzo 1500€. Sconto 25%. Quanto paghi? (variante 106)",
+    "options": [
+      "1500€",
+      "1875€",
+      "1125€",
+      "375€"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "Prezzo finale = prezzo − sconto."
+  },
+  {
+    "q": "Prezzo 2000€. Sconto 5%. Quanto paghi? (variante 62)",
+    "options": [
+      "2100€",
+      "100€",
+      "1900€",
+      "2000€"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "Prezzo finale = prezzo − sconto."
+  },
+  {
+    "q": "In economia, che cos'è monopolio? (variante 87)",
+    "options": [
+      "Mercato con più venditori che competono",
+      "Mercato con un solo venditore dominante",
+      "Quando le spese superano le entrate",
+      "Quando le entrate superano le spese"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "In economia, che cos'è surplus? (variante 144)",
+    "options": [
+      "Prezzo del denaro nel tempo",
+      "Quando le entrate superano le spese",
+      "Aumento generalizzato e persistente dei prezzi",
+      "Quando le spese superano le entrate"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "In economia, che cos'è PIL? (variante 209)",
+    "options": [
+      "Prezzo del denaro nel tempo",
+      "Valore complessivo di beni e servizi prodotti in un Paese in un periodo",
+      "Mercato con più venditori che competono",
+      "Quando le entrate superano le spese"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Prezzo 1000€. Sconto 50%. Quanto paghi? (variante 50)",
+    "options": [
+      "500€ (4)",
+      "500€",
+      "1000€",
+      "1500€"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "Prezzo finale = prezzo − sconto."
+  },
+  {
+    "q": "Prezzo 200€. Sconto 20%. Quanto paghi? (variante 102)",
+    "options": [
+      "40€",
+      "200€",
+      "240€",
+      "160€"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "Prezzo finale = prezzo − sconto."
+  },
+  {
+    "q": "In economia, che cos'è deficit? (variante 117)",
+    "options": [
+      "Valore complessivo di beni e servizi prodotti in un Paese in un periodo",
+      "Mercato con più venditori che competono",
+      "Quando le spese superano le entrate",
+      "Mercato con un solo venditore dominante"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Prezzo 100€. Sconto 20%. Quanto paghi? (variante 183)",
+    "options": [
+      "120€",
+      "100€",
+      "80€",
+      "20€"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "Prezzo finale = prezzo − sconto."
+  },
+  {
+    "q": "Prezzo 2000€. Sconto 25%. Quanto paghi? (variante 107)",
+    "options": [
+      "500€",
+      "2000€",
+      "2500€",
+      "1500€"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "Prezzo finale = prezzo − sconto."
+  },
+  {
+    "q": "In economia, che cos'è concorrenza? (variante 132)",
+    "options": [
+      "Quantità che i produttori vogliono vendere a un certo prezzo",
+      "Aumento generalizzato e persistente dei prezzi",
+      "Diminuzione generalizzata dei prezzi",
+      "Mercato con più venditori che competono"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Prezzo 200€. Sconto 20%. Quanto paghi? (variante 64)",
+    "options": [
+      "160€",
+      "240€",
+      "200€",
+      "40€"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explain": "Prezzo finale = prezzo − sconto."
+  },
+  {
+    "q": "Prezzo 1500€. Sconto 40%. Quanto paghi? (variante 74)",
+    "options": [
+      "2100€",
+      "900€",
+      "600€",
+      "1500€"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "Prezzo finale = prezzo − sconto."
+  },
+  {
+    "q": "Prezzo 1000€. Sconto 15%. Quanto paghi? (variante 181)",
+    "options": [
+      "1000€",
+      "150€",
+      "1150€",
+      "850€"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "Prezzo finale = prezzo − sconto."
+  },
+  {
+    "q": "In economia, che cos'è deficit? (variante 56)",
+    "options": [
+      "Mercato con un solo venditore dominante",
+      "Quando le entrate superano le spese",
+      "Diminuzione generalizzata dei prezzi",
+      "Quando le spese superano le entrate"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Prezzo 800€. Sconto 15%. Quanto paghi? (variante 43)",
+    "options": [
+      "800€",
+      "120€",
+      "920€",
+      "680€"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "Prezzo finale = prezzo − sconto."
+  },
+  {
+    "q": "Prezzo 500€. Sconto 5%. Quanto paghi? (variante 39)",
+    "options": [
+      "500€",
+      "475€",
+      "25€",
+      "525€"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "Prezzo finale = prezzo − sconto."
+  },
+  {
+    "q": "In economia, che cos'è offerta? (variante 108)",
+    "options": [
+      "Aumento generalizzato e persistente dei prezzi",
+      "Mercato con più venditori che competono",
+      "Quantità che i produttori vogliono vendere a un certo prezzo",
+      "Quando le spese superano le entrate"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "In economia, che cos'è PIL? (variante 190)",
+    "options": [
+      "Quantità che i consumatori vogliono acquistare a un certo prezzo",
+      "Valore complessivo di beni e servizi prodotti in un Paese in un periodo",
+      "Aumento generalizzato e persistente dei prezzi",
+      "Quantità che i produttori vogliono vendere a un certo prezzo"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "In economia, che cos'è inflazione? (variante 74)",
+    "options": [
+      "Aumento generalizzato e persistente dei prezzi",
+      "Quantità che i produttori vogliono vendere a un certo prezzo",
+      "Prezzo del denaro nel tempo",
+      "Quando le entrate superano le spese"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "In economia, che cos'è PIL? (variante 133)",
+    "options": [
+      "Valore complessivo di beni e servizi prodotti in un Paese in un periodo",
+      "Diminuzione generalizzata dei prezzi",
+      "Prezzo del denaro nel tempo",
+      "Quantità che i consumatori vogliono acquistare a un certo prezzo"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Prezzo 2000€. Sconto 5%. Quanto paghi? (variante 23)",
+    "options": [
+      "2100€",
+      "1900€",
+      "2000€",
+      "100€"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "Prezzo finale = prezzo − sconto."
+  },
+  {
+    "q": "Prezzo 2000€. Sconto 40%. Quanto paghi? (variante 167)",
+    "options": [
+      "2800€",
+      "2000€",
+      "1200€",
+      "800€"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "Prezzo finale = prezzo − sconto."
+  },
+  {
+    "q": "In economia, che cos'è surplus? (variante 169)",
+    "options": [
+      "Diminuzione generalizzata dei prezzi",
+      "Mercato con un solo venditore dominante",
+      "Mercato con più venditori che competono",
+      "Quando le entrate superano le spese"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "In economia, che cos'è monopolio? (variante 55)",
+    "options": [
+      "Mercato con un solo venditore dominante",
+      "Quantità che i produttori vogliono vendere a un certo prezzo",
+      "Valore complessivo di beni e servizi prodotti in un Paese in un periodo",
+      "Quando le entrate superano le spese"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Prezzo 2000€. Sconto 20%. Quanto paghi? (variante 21)",
+    "options": [
+      "2400€",
+      "400€",
+      "2000€",
+      "1600€"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "Prezzo finale = prezzo − sconto."
+  },
+  {
+    "q": "In economia, che cos'è deficit? (variante 197)",
+    "options": [
+      "Diminuzione generalizzata dei prezzi",
+      "Mercato con più venditori che competono",
+      "Quando le spese superano le entrate",
+      "Quantità che i produttori vogliono vendere a un certo prezzo"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "In economia, che cos'è surplus? (variante 215)",
+    "options": [
+      "Quantità che i produttori vogliono vendere a un certo prezzo",
+      "Quando le entrate superano le spese",
+      "Mercato con più venditori che competono",
+      "Prezzo del denaro nel tempo"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "In economia, che cos'è offerta? (variante 187)",
+    "options": [
+      "Aumento generalizzato e persistente dei prezzi",
+      "Mercato con più venditori che competono",
+      "Quantità che i consumatori vogliono acquistare a un certo prezzo",
+      "Quantità che i produttori vogliono vendere a un certo prezzo"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Prezzo 1000€. Sconto 25%. Quanto paghi? (variante 81)",
+    "options": [
+      "250€",
+      "1250€",
+      "1000€",
+      "750€"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "Prezzo finale = prezzo − sconto."
+  },
+  {
+    "q": "Prezzo 1000€. Sconto 50%. Quanto paghi? (variante 87)",
+    "options": [
+      "1000€",
+      "500€",
+      "500€ (4)",
+      "1500€"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "Prezzo finale = prezzo − sconto."
+  },
+  {
+    "q": "In economia, che cos'è deficit? (variante 92)",
+    "options": [
+      "Quantità che i produttori vogliono vendere a un certo prezzo",
+      "Quando le spese superano le entrate",
+      "Quantità che i consumatori vogliono acquistare a un certo prezzo",
+      "Diminuzione generalizzata dei prezzi"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Prezzo 100€. Sconto 20%. Quanto paghi? (variante 132)",
+    "options": [
+      "120€",
+      "100€",
+      "20€",
+      "80€"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "Prezzo finale = prezzo − sconto."
+  },
+  {
+    "q": "Prezzo 200€. Sconto 5%. Quanto paghi? (variante 72)",
+    "options": [
+      "10€",
+      "190€",
+      "200€",
+      "210€"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "Prezzo finale = prezzo − sconto."
+  },
+  {
+    "q": "Prezzo 1000€. Sconto 5%. Quanto paghi? (variante 94)",
+    "options": [
+      "50€",
+      "1000€",
+      "1050€",
+      "950€"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "Prezzo finale = prezzo − sconto."
+  },
+  {
+    "q": "Prezzo 2000€. Sconto 10%. Quanto paghi? (variante 153)",
+    "options": [
+      "2200€",
+      "1800€",
+      "200€",
+      "2000€"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "Prezzo finale = prezzo − sconto."
+  },
+  {
+    "q": "Prezzo 2000€. Sconto 50%. Quanto paghi? (variante 88)",
+    "options": [
+      "2000€",
+      "1000€ (4)",
+      "3000€",
+      "1000€"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "Prezzo finale = prezzo − sconto."
+  },
+  {
+    "q": "In economia, che cos'è deflazione? (variante 166)",
+    "options": [
+      "Quando le spese superano le entrate",
+      "Prezzo del denaro nel tempo",
+      "Aumento generalizzato e persistente dei prezzi",
+      "Diminuzione generalizzata dei prezzi"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "In economia, che cos'è deficit? (variante 152)",
+    "options": [
+      "Quantità che i produttori vogliono vendere a un certo prezzo",
+      "Diminuzione generalizzata dei prezzi",
+      "Quando le spese superano le entrate",
+      "Quantità che i consumatori vogliono acquistare a un certo prezzo"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Prezzo 300€. Sconto 20%. Quanto paghi? (variante 20)",
+    "options": [
+      "300€",
+      "240€",
+      "360€",
+      "60€"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "Prezzo finale = prezzo − sconto."
+  },
+  {
+    "q": "Prezzo 100€. Sconto 15%. Quanto paghi? (variante 150)",
+    "options": [
+      "85€",
+      "115€",
+      "100€",
+      "15€"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explain": "Prezzo finale = prezzo − sconto."
+  },
+  {
+    "q": "In economia, che cos'è tasso di interesse? (variante 12)",
+    "options": [
+      "Quando le entrate superano le spese",
+      "Quantità che i produttori vogliono vendere a un certo prezzo",
+      "Diminuzione generalizzata dei prezzi",
+      "Prezzo del denaro nel tempo"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "In economia, che cos'è deficit? (variante 91)",
+    "options": [
+      "Quando le spese superano le entrate",
+      "Mercato con più venditori che competono",
+      "Prezzo del denaro nel tempo",
+      "Quantità che i consumatori vogliono acquistare a un certo prezzo"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "In economia, che cos'è domanda? (variante 205)",
+    "options": [
+      "Valore complessivo di beni e servizi prodotti in un Paese in un periodo",
+      "Quantità che i consumatori vogliono acquistare a un certo prezzo",
+      "Mercato con più venditori che competono",
+      "Diminuzione generalizzata dei prezzi"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "In economia, che cos'è domanda? (variante 140)",
+    "options": [
+      "Valore complessivo di beni e servizi prodotti in un Paese in un periodo",
+      "Quando le entrate superano le spese",
+      "Diminuzione generalizzata dei prezzi",
+      "Quantità che i consumatori vogliono acquistare a un certo prezzo"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Prezzo 1000€. Sconto 15%. Quanto paghi? (variante 218)",
+    "options": [
+      "150€",
+      "1000€",
+      "850€",
+      "1150€"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "Prezzo finale = prezzo − sconto."
+  },
+  {
+    "q": "Prezzo 500€. Sconto 40%. Quanto paghi? (variante 205)",
+    "options": [
+      "200€",
+      "500€",
+      "300€",
+      "700€"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "Prezzo finale = prezzo − sconto."
+  },
+  {
+    "q": "In economia, che cos'è surplus? (variante 181)",
+    "options": [
+      "Aumento generalizzato e persistente dei prezzi",
+      "Mercato con più venditori che competono",
+      "Quando le spese superano le entrate",
+      "Quando le entrate superano le spese"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "In economia, che cos'è deficit? (variante 191)",
+    "options": [
+      "Diminuzione generalizzata dei prezzi",
+      "Quando le spese superano le entrate",
+      "Mercato con un solo venditore dominante",
+      "Valore complessivo di beni e servizi prodotti in un Paese in un periodo"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Prezzo 800€. Sconto 15%. Quanto paghi? (variante 77)",
+    "options": [
+      "120€",
+      "920€",
+      "800€",
+      "680€"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "Prezzo finale = prezzo − sconto."
+  },
+  {
+    "q": "In economia, che cos'è PIL? (variante 35)",
+    "options": [
+      "Quando le spese superano le entrate",
+      "Mercato con più venditori che competono",
+      "Valore complessivo di beni e servizi prodotti in un Paese in un periodo",
+      "Quando le entrate superano le spese"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Prezzo 300€. Sconto 20%. Quanto paghi? (variante 66)",
+    "options": [
+      "60€",
+      "300€",
+      "240€",
+      "360€"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "Prezzo finale = prezzo − sconto."
+  },
+  {
+    "q": "Prezzo 100€. Sconto 50%. Quanto paghi? (variante 187)",
+    "options": [
+      "50€",
+      "150€",
+      "50€ (4)",
+      "100€"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explain": "Prezzo finale = prezzo − sconto."
+  },
+  {
+    "q": "In economia, che cos'è concorrenza? (variante 42)",
+    "options": [
+      "Quantità che i produttori vogliono vendere a un certo prezzo",
+      "Quantità che i consumatori vogliono acquistare a un certo prezzo",
+      "Valore complessivo di beni e servizi prodotti in un Paese in un periodo",
+      "Mercato con più venditori che competono"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "In economia, che cos'è surplus? (variante 176)",
+    "options": [
+      "Aumento generalizzato e persistente dei prezzi",
+      "Quantità che i consumatori vogliono acquistare a un certo prezzo",
+      "Quando le entrate superano le spese",
+      "Diminuzione generalizzata dei prezzi"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "In economia, che cos'è deflazione? (variante 60)",
+    "options": [
+      "Mercato con un solo venditore dominante",
+      "Quando le spese superano le entrate",
+      "Diminuzione generalizzata dei prezzi",
+      "Quantità che i consumatori vogliono acquistare a un certo prezzo"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "In economia, che cos'è offerta? (variante 121)",
+    "options": [
+      "Quando le entrate superano le spese",
+      "Quando le spese superano le entrate",
+      "Quantità che i produttori vogliono vendere a un certo prezzo",
+      "Aumento generalizzato e persistente dei prezzi"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  }
+]

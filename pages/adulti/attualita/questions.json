@@ -1,0 +1,3302 @@
+[
+  {
+    "q": "Verifica notizie online (variante 99): qual è la pratica migliore?",
+    "options": [
+      "Fidarsi dei commenti",
+      "Condividere subito se emozionante",
+      "Leggere solo il titolo",
+      "Controllare più fonti affidabili e la data"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Verifica notizie online (variante 104): qual è la pratica migliore?",
+    "options": [
+      "Fidarsi dei commenti",
+      "Condividere subito se emozionante",
+      "Controllare più fonti affidabili e la data",
+      "Leggere solo il titolo"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Verifica notizie online (variante 105): qual è la pratica migliore?",
+    "options": [
+      "Condividere subito se emozionante",
+      "Controllare più fonti affidabili e la data",
+      "Leggere solo il titolo",
+      "Fidarsi dei commenti"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Attualità digitale: cos'è phishing? (variante 55)",
+    "options": [
+      "Truffa per rubare credenziali",
+      "Piccolo dato salvato dal browser da un sito",
+      "Copia di sicurezza dei dati",
+      "Connessione cifrata che protegge traffico e privacy"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Verifica notizie online (variante 59): qual è la pratica migliore?",
+    "options": [
+      "Condividere subito se emozionante",
+      "Controllare più fonti affidabili e la data",
+      "Leggere solo il titolo",
+      "Fidarsi dei commenti"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Attualità digitale: cos'è crittografia? (variante 131)",
+    "options": [
+      "Copia di sicurezza dei dati",
+      "Falso contenuto generato con IA che imita volti/voce",
+      "Piccolo dato salvato dal browser da un sito",
+      "Protezione dei dati tramite cifratura"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Sostenibilità (variante 5): quale azione riduce le emissioni di CO₂?",
+    "options": [
+      "Aumentare consumi inutili",
+      "Ridurre sprechi energetici e usare trasporti efficienti",
+      "Bruciare rifiuti all'aperto",
+      "Tenere luci accese sempre"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Attualità digitale: cos'è 2FA? (variante 81)",
+    "options": [
+      "Truffa per rubare credenziali",
+      "Copia di sicurezza dei dati",
+      "Connessione cifrata che protegge traffico e privacy",
+      "Autenticazione a due fattori"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Educazione civica: cos'è il/la magistratura? (variante 24)",
+    "options": [
+      "Obblighi verso la comunità e le leggi",
+      "Organo giudiziario che decide su controversie",
+      "Potere che amministra la giustizia",
+      "Tutele e libertà riconosciute alle persone"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Attualità digitale: cos'è VPN? (variante 32)",
+    "options": [
+      "Autenticazione a due fattori",
+      "Falso contenuto generato con IA che imita volti/voce",
+      "Connessione cifrata che protegge traffico e privacy",
+      "Copia di sicurezza dei dati"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Verifica notizie online (variante 51): qual è la pratica migliore?",
+    "options": [
+      "Leggere solo il titolo",
+      "Fidarsi dei commenti",
+      "Controllare più fonti affidabili e la data",
+      "Condividere subito se emozionante"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Verifica notizie online (variante 60): qual è la pratica migliore?",
+    "options": [
+      "Controllare più fonti affidabili e la data",
+      "Condividere subito se emozionante",
+      "Fidarsi dei commenti",
+      "Leggere solo il titolo"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Educazione civica: cos'è il/la referendum? (variante 118)",
+    "options": [
+      "Istituzione che approva le leggi",
+      "Organo che esercita il potere esecutivo",
+      "Votazione diretta su una proposta",
+      "Legge fondamentale di uno Stato"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Sostenibilità (variante 117): quale azione riduce le emissioni di CO₂?",
+    "options": [
+      "Tenere luci accese sempre",
+      "Ridurre sprechi energetici e usare trasporti efficienti",
+      "Aumentare consumi inutili",
+      "Bruciare rifiuti all'aperto"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Verifica notizie online (variante 109): qual è la pratica migliore?",
+    "options": [
+      "Condividere subito se emozionante",
+      "Controllare più fonti affidabili e la data",
+      "Fidarsi dei commenti",
+      "Leggere solo il titolo"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Verifica notizie online (variante 70): qual è la pratica migliore?",
+    "options": [
+      "Condividere subito se emozionante",
+      "Controllare più fonti affidabili e la data",
+      "Leggere solo il titolo",
+      "Fidarsi dei commenti"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Verifica notizie online (variante 85): qual è la pratica migliore?",
+    "options": [
+      "Fidarsi dei commenti",
+      "Condividere subito se emozionante",
+      "Leggere solo il titolo",
+      "Controllare più fonti affidabili e la data"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Attualità digitale: cos'è backup? (variante 82)",
+    "options": [
+      "Protezione dei dati tramite cifratura",
+      "Falso contenuto generato con IA che imita volti/voce",
+      "Piccolo dato salvato dal browser da un sito",
+      "Copia di sicurezza dei dati"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Educazione civica: cos'è il/la magistratura? (variante 54)",
+    "options": [
+      "Potere che amministra la giustizia",
+      "Votazione diretta su una proposta",
+      "Legge fondamentale di uno Stato",
+      "Organo che esercita il potere esecutivo"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Attualità digitale: cos'è deepfake? (variante 146)",
+    "options": [
+      "Falso contenuto generato con IA che imita volti/voce",
+      "Connessione cifrata che protegge traffico e privacy",
+      "Copia di sicurezza dei dati",
+      "Protezione dei dati tramite cifratura"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Sostenibilità (variante 19): quale azione riduce le emissioni di CO₂?",
+    "options": [
+      "Aumentare consumi inutili",
+      "Ridurre sprechi energetici e usare trasporti efficienti",
+      "Tenere luci accese sempre",
+      "Bruciare rifiuti all'aperto"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Attualità digitale: cos'è cookie? (variante 2)",
+    "options": [
+      "Copia di sicurezza dei dati",
+      "Falso contenuto generato con IA che imita volti/voce",
+      "Piccolo dato salvato dal browser da un sito",
+      "Truffa per rubare credenziali"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Attualità digitale: cos'è deepfake? (variante 77)",
+    "options": [
+      "Autenticazione a due fattori",
+      "Connessione cifrata che protegge traffico e privacy",
+      "Piccolo dato salvato dal browser da un sito",
+      "Falso contenuto generato con IA che imita volti/voce"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Educazione civica: cos'è il/la diritti? (variante 47)",
+    "options": [
+      "Processo per scegliere rappresentanti",
+      "Organo giudiziario che decide su controversie",
+      "Tutele e libertà riconosciute alle persone",
+      "Istituzione che approva le leggi"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Sostenibilità (variante 92): quale azione riduce le emissioni di CO₂?",
+    "options": [
+      "Bruciare rifiuti all'aperto",
+      "Aumentare consumi inutili",
+      "Ridurre sprechi energetici e usare trasporti efficienti",
+      "Tenere luci accese sempre"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Educazione civica: cos'è il/la tribunale? (variante 40)",
+    "options": [
+      "Votazione diretta su una proposta",
+      "Processo per scegliere rappresentanti",
+      "Organo giudiziario che decide su controversie",
+      "Organo che esercita il potere esecutivo"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Educazione civica: cos'è il/la referendum? (variante 102)",
+    "options": [
+      "Obblighi verso la comunità e le leggi",
+      "Organo che esercita il potere esecutivo",
+      "Processo per scegliere rappresentanti",
+      "Votazione diretta su una proposta"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Attualità digitale: cos'è backup? (variante 28)",
+    "options": [
+      "Copia di sicurezza dei dati",
+      "Connessione cifrata che protegge traffico e privacy",
+      "Falso contenuto generato con IA che imita volti/voce",
+      "Truffa per rubare credenziali"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Verifica notizie online (variante 84): qual è la pratica migliore?",
+    "options": [
+      "Condividere subito se emozionante",
+      "Leggere solo il titolo",
+      "Controllare più fonti affidabili e la data",
+      "Fidarsi dei commenti"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Sostenibilità (variante 102): quale azione riduce le emissioni di CO₂?",
+    "options": [
+      "Aumentare consumi inutili",
+      "Bruciare rifiuti all'aperto",
+      "Ridurre sprechi energetici e usare trasporti efficienti",
+      "Tenere luci accese sempre"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Attualità digitale: cos'è deepfake? (variante 154)",
+    "options": [
+      "Truffa per rubare credenziali",
+      "Falso contenuto generato con IA che imita volti/voce",
+      "Connessione cifrata che protegge traffico e privacy",
+      "Autenticazione a due fattori"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Verifica notizie online (variante 14): qual è la pratica migliore?",
+    "options": [
+      "Controllare più fonti affidabili e la data",
+      "Leggere solo il titolo",
+      "Condividere subito se emozionante",
+      "Fidarsi dei commenti"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Verifica notizie online (variante 108): qual è la pratica migliore?",
+    "options": [
+      "Fidarsi dei commenti",
+      "Controllare più fonti affidabili e la data",
+      "Leggere solo il titolo",
+      "Condividere subito se emozionante"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Verifica notizie online (variante 98): qual è la pratica migliore?",
+    "options": [
+      "Condividere subito se emozionante",
+      "Fidarsi dei commenti",
+      "Controllare più fonti affidabili e la data",
+      "Leggere solo il titolo"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Sostenibilità (variante 35): quale azione riduce le emissioni di CO₂?",
+    "options": [
+      "Ridurre sprechi energetici e usare trasporti efficienti",
+      "Tenere luci accese sempre",
+      "Bruciare rifiuti all'aperto",
+      "Aumentare consumi inutili"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Verifica notizie online (variante 36): qual è la pratica migliore?",
+    "options": [
+      "Condividere subito se emozionante",
+      "Controllare più fonti affidabili e la data",
+      "Fidarsi dei commenti",
+      "Leggere solo il titolo"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Attualità digitale: cos'è phishing? (variante 56)",
+    "options": [
+      "Autenticazione a due fattori",
+      "Truffa per rubare credenziali",
+      "Copia di sicurezza dei dati",
+      "Piccolo dato salvato dal browser da un sito"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Attualità digitale: cos'è cookie? (variante 6)",
+    "options": [
+      "Connessione cifrata che protegge traffico e privacy",
+      "Piccolo dato salvato dal browser da un sito",
+      "Truffa per rubare credenziali",
+      "Falso contenuto generato con IA che imita volti/voce"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Educazione civica: cos'è il/la Costituzione? (variante 67)",
+    "options": [
+      "Obblighi verso la comunità e le leggi",
+      "Processo per scegliere rappresentanti",
+      "Organo giudiziario che decide su controversie",
+      "Legge fondamentale di uno Stato"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Sostenibilità (variante 2): quale azione riduce le emissioni di CO₂?",
+    "options": [
+      "Bruciare rifiuti all'aperto",
+      "Ridurre sprechi energetici e usare trasporti efficienti",
+      "Aumentare consumi inutili",
+      "Tenere luci accese sempre"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Verifica notizie online (variante 27): qual è la pratica migliore?",
+    "options": [
+      "Condividere subito se emozionante",
+      "Leggere solo il titolo",
+      "Controllare più fonti affidabili e la data",
+      "Fidarsi dei commenti"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Sostenibilità (variante 54): quale azione riduce le emissioni di CO₂?",
+    "options": [
+      "Bruciare rifiuti all'aperto",
+      "Aumentare consumi inutili",
+      "Tenere luci accese sempre",
+      "Ridurre sprechi energetici e usare trasporti efficienti"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Sostenibilità (variante 24): quale azione riduce le emissioni di CO₂?",
+    "options": [
+      "Bruciare rifiuti all'aperto",
+      "Tenere luci accese sempre",
+      "Aumentare consumi inutili",
+      "Ridurre sprechi energetici e usare trasporti efficienti"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Attualità digitale: cos'è 2FA? (variante 18)",
+    "options": [
+      "Autenticazione a due fattori",
+      "Piccolo dato salvato dal browser da un sito",
+      "Truffa per rubare credenziali",
+      "Protezione dei dati tramite cifratura"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Educazione civica: cos'è il/la Governo? (variante 168)",
+    "options": [
+      "Organo che esercita il potere esecutivo",
+      "Obblighi verso la comunità e le leggi",
+      "Istituzione che approva le leggi",
+      "Votazione diretta su una proposta"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Attualità digitale: cos'è crittografia? (variante 103)",
+    "options": [
+      "Connessione cifrata che protegge traffico e privacy",
+      "Falso contenuto generato con IA che imita volti/voce",
+      "Protezione dei dati tramite cifratura",
+      "Copia di sicurezza dei dati"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Attualità digitale: cos'è phishing? (variante 169)",
+    "options": [
+      "Protezione dei dati tramite cifratura",
+      "Truffa per rubare credenziali",
+      "Autenticazione a due fattori",
+      "Piccolo dato salvato dal browser da un sito"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Verifica notizie online (variante 9): qual è la pratica migliore?",
+    "options": [
+      "Controllare più fonti affidabili e la data",
+      "Fidarsi dei commenti",
+      "Condividere subito se emozionante",
+      "Leggere solo il titolo"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Verifica notizie online (variante 57): qual è la pratica migliore?",
+    "options": [
+      "Leggere solo il titolo",
+      "Condividere subito se emozionante",
+      "Fidarsi dei commenti",
+      "Controllare più fonti affidabili e la data"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Verifica notizie online (variante 5): qual è la pratica migliore?",
+    "options": [
+      "Fidarsi dei commenti",
+      "Condividere subito se emozionante",
+      "Controllare più fonti affidabili e la data",
+      "Leggere solo il titolo"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Educazione civica: cos'è il/la elezioni? (variante 68)",
+    "options": [
+      "Tutele e libertà riconosciute alle persone",
+      "Organo che esercita il potere esecutivo",
+      "Processo per scegliere rappresentanti",
+      "Votazione diretta su una proposta"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Attualità digitale: cos'è crittografia? (variante 107)",
+    "options": [
+      "Falso contenuto generato con IA che imita volti/voce",
+      "Piccolo dato salvato dal browser da un sito",
+      "Autenticazione a due fattori",
+      "Protezione dei dati tramite cifratura"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Attualità digitale: cos'è cookie? (variante 54)",
+    "options": [
+      "Copia di sicurezza dei dati",
+      "Connessione cifrata che protegge traffico e privacy",
+      "Piccolo dato salvato dal browser da un sito",
+      "Falso contenuto generato con IA che imita volti/voce"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Verifica notizie online (variante 116): qual è la pratica migliore?",
+    "options": [
+      "Leggere solo il titolo",
+      "Fidarsi dei commenti",
+      "Controllare più fonti affidabili e la data",
+      "Condividere subito se emozionante"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Verifica notizie online (variante 106): qual è la pratica migliore?",
+    "options": [
+      "Fidarsi dei commenti",
+      "Condividere subito se emozionante",
+      "Leggere solo il titolo",
+      "Controllare più fonti affidabili e la data"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Sostenibilità (variante 14): quale azione riduce le emissioni di CO₂?",
+    "options": [
+      "Ridurre sprechi energetici e usare trasporti efficienti",
+      "Tenere luci accese sempre",
+      "Bruciare rifiuti all'aperto",
+      "Aumentare consumi inutili"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Educazione civica: cos'è il/la referendum? (variante 31)",
+    "options": [
+      "Organo che esercita il potere esecutivo",
+      "Istituzione che approva le leggi",
+      "Votazione diretta su una proposta",
+      "Tutele e libertà riconosciute alle persone"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Verifica notizie online (variante 28): qual è la pratica migliore?",
+    "options": [
+      "Condividere subito se emozionante",
+      "Controllare più fonti affidabili e la data",
+      "Leggere solo il titolo",
+      "Fidarsi dei commenti"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Verifica notizie online (variante 115): qual è la pratica migliore?",
+    "options": [
+      "Leggere solo il titolo",
+      "Controllare più fonti affidabili e la data",
+      "Condividere subito se emozionante",
+      "Fidarsi dei commenti"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Attualità digitale: cos'è phishing? (variante 68)",
+    "options": [
+      "Autenticazione a due fattori",
+      "Truffa per rubare credenziali",
+      "Copia di sicurezza dei dati",
+      "Falso contenuto generato con IA che imita volti/voce"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Verifica notizie online (variante 103): qual è la pratica migliore?",
+    "options": [
+      "Controllare più fonti affidabili e la data",
+      "Leggere solo il titolo",
+      "Fidarsi dei commenti",
+      "Condividere subito se emozionante"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Educazione civica: cos'è il/la Costituzione? (variante 23)",
+    "options": [
+      "Tutele e libertà riconosciute alle persone",
+      "Legge fondamentale di uno Stato",
+      "Votazione diretta su una proposta",
+      "Potere che amministra la giustizia"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Educazione civica: cos'è il/la Governo? (variante 130)",
+    "options": [
+      "Legge fondamentale di uno Stato",
+      "Organo che esercita il potere esecutivo",
+      "Potere che amministra la giustizia",
+      "Obblighi verso la comunità e le leggi"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Sostenibilità (variante 20): quale azione riduce le emissioni di CO₂?",
+    "options": [
+      "Aumentare consumi inutili",
+      "Bruciare rifiuti all'aperto",
+      "Tenere luci accese sempre",
+      "Ridurre sprechi energetici e usare trasporti efficienti"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Attualità digitale: cos'è backup? (variante 45)",
+    "options": [
+      "Truffa per rubare credenziali",
+      "Connessione cifrata che protegge traffico e privacy",
+      "Falso contenuto generato con IA che imita volti/voce",
+      "Copia di sicurezza dei dati"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Attualità digitale: cos'è deepfake? (variante 148)",
+    "options": [
+      "Truffa per rubare credenziali",
+      "Piccolo dato salvato dal browser da un sito",
+      "Connessione cifrata che protegge traffico e privacy",
+      "Falso contenuto generato con IA che imita volti/voce"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Educazione civica: cos'è il/la Governo? (variante 60)",
+    "options": [
+      "Istituzione che approva le leggi",
+      "Organo giudiziario che decide su controversie",
+      "Organo che esercita il potere esecutivo",
+      "Votazione diretta su una proposta"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Sostenibilità (variante 74): quale azione riduce le emissioni di CO₂?",
+    "options": [
+      "Aumentare consumi inutili",
+      "Ridurre sprechi energetici e usare trasporti efficienti",
+      "Bruciare rifiuti all'aperto",
+      "Tenere luci accese sempre"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Educazione civica: cos'è il/la tribunale? (variante 124)",
+    "options": [
+      "Istituzione che approva le leggi",
+      "Legge fondamentale di uno Stato",
+      "Organo giudiziario che decide su controversie",
+      "Processo per scegliere rappresentanti"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Attualità digitale: cos'è cookie? (variante 159)",
+    "options": [
+      "Connessione cifrata che protegge traffico e privacy",
+      "Autenticazione a due fattori",
+      "Piccolo dato salvato dal browser da un sito",
+      "Copia di sicurezza dei dati"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Attualità digitale: cos'è VPN? (variante 138)",
+    "options": [
+      "Truffa per rubare credenziali",
+      "Connessione cifrata che protegge traffico e privacy",
+      "Copia di sicurezza dei dati",
+      "Piccolo dato salvato dal browser da un sito"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Verifica notizie online (variante 113): qual è la pratica migliore?",
+    "options": [
+      "Condividere subito se emozionante",
+      "Leggere solo il titolo",
+      "Fidarsi dei commenti",
+      "Controllare più fonti affidabili e la data"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Educazione civica: cos'è il/la elezioni? (variante 77)",
+    "options": [
+      "Processo per scegliere rappresentanti",
+      "Tutele e libertà riconosciute alle persone",
+      "Organo che esercita il potere esecutivo",
+      "Istituzione che approva le leggi"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Attualità digitale: cos'è backup? (variante 164)",
+    "options": [
+      "Falso contenuto generato con IA che imita volti/voce",
+      "Protezione dei dati tramite cifratura",
+      "Autenticazione a due fattori",
+      "Copia di sicurezza dei dati"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Sostenibilità (variante 10): quale azione riduce le emissioni di CO₂?",
+    "options": [
+      "Aumentare consumi inutili",
+      "Tenere luci accese sempre",
+      "Bruciare rifiuti all'aperto",
+      "Ridurre sprechi energetici e usare trasporti efficienti"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Educazione civica: cos'è il/la Costituzione? (variante 6)",
+    "options": [
+      "Istituzione che approva le leggi",
+      "Processo per scegliere rappresentanti",
+      "Legge fondamentale di uno Stato",
+      "Organo giudiziario che decide su controversie"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Attualità digitale: cos'è crittografia? (variante 63)",
+    "options": [
+      "Autenticazione a due fattori",
+      "Piccolo dato salvato dal browser da un sito",
+      "Truffa per rubare credenziali",
+      "Protezione dei dati tramite cifratura"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Educazione civica: cos'è il/la diritti? (variante 3)",
+    "options": [
+      "Istituzione che approva le leggi",
+      "Tutele e libertà riconosciute alle persone",
+      "Organo giudiziario che decide su controversie",
+      "Organo che esercita il potere esecutivo"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Attualità digitale: cos'è 2FA? (variante 130)",
+    "options": [
+      "Autenticazione a due fattori",
+      "Copia di sicurezza dei dati",
+      "Connessione cifrata che protegge traffico e privacy",
+      "Piccolo dato salvato dal browser da un sito"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Educazione civica: cos'è il/la Governo? (variante 105)",
+    "options": [
+      "Processo per scegliere rappresentanti",
+      "Votazione diretta su una proposta",
+      "Organo che esercita il potere esecutivo",
+      "Tutele e libertà riconosciute alle persone"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Attualità digitale: cos'è phishing? (variante 109)",
+    "options": [
+      "Copia di sicurezza dei dati",
+      "Connessione cifrata che protegge traffico e privacy",
+      "Protezione dei dati tramite cifratura",
+      "Truffa per rubare credenziali"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Attualità digitale: cos'è deepfake? (variante 69)",
+    "options": [
+      "Autenticazione a due fattori",
+      "Falso contenuto generato con IA che imita volti/voce",
+      "Copia di sicurezza dei dati",
+      "Protezione dei dati tramite cifratura"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Sostenibilità (variante 73): quale azione riduce le emissioni di CO₂?",
+    "options": [
+      "Tenere luci accese sempre",
+      "Ridurre sprechi energetici e usare trasporti efficienti",
+      "Bruciare rifiuti all'aperto",
+      "Aumentare consumi inutili"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Verifica notizie online (variante 86): qual è la pratica migliore?",
+    "options": [
+      "Condividere subito se emozionante",
+      "Controllare più fonti affidabili e la data",
+      "Fidarsi dei commenti",
+      "Leggere solo il titolo"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Educazione civica: cos'è il/la tribunale? (variante 44)",
+    "options": [
+      "Votazione diretta su una proposta",
+      "Organo giudiziario che decide su controversie",
+      "Processo per scegliere rappresentanti",
+      "Obblighi verso la comunità e le leggi"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Educazione civica: cos'è il/la Costituzione? (variante 164)",
+    "options": [
+      "Tutele e libertà riconosciute alle persone",
+      "Obblighi verso la comunità e le leggi",
+      "Legge fondamentale di uno Stato",
+      "Processo per scegliere rappresentanti"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Educazione civica: cos'è il/la Costituzione? (variante 122)",
+    "options": [
+      "Legge fondamentale di uno Stato",
+      "Organo giudiziario che decide su controversie",
+      "Istituzione che approva le leggi",
+      "Obblighi verso la comunità e le leggi"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Educazione civica: cos'è il/la doveri? (variante 144)",
+    "options": [
+      "Obblighi verso la comunità e le leggi",
+      "Votazione diretta su una proposta",
+      "Organo che esercita il potere esecutivo",
+      "Legge fondamentale di uno Stato"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Sostenibilità (variante 95): quale azione riduce le emissioni di CO₂?",
+    "options": [
+      "Ridurre sprechi energetici e usare trasporti efficienti",
+      "Bruciare rifiuti all'aperto",
+      "Tenere luci accese sempre",
+      "Aumentare consumi inutili"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Educazione civica: cos'è il/la magistratura? (variante 25)",
+    "options": [
+      "Istituzione che approva le leggi",
+      "Legge fondamentale di uno Stato",
+      "Potere che amministra la giustizia",
+      "Organo giudiziario che decide su controversie"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Sostenibilità (variante 103): quale azione riduce le emissioni di CO₂?",
+    "options": [
+      "Tenere luci accese sempre",
+      "Ridurre sprechi energetici e usare trasporti efficienti",
+      "Aumentare consumi inutili",
+      "Bruciare rifiuti all'aperto"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Attualità digitale: cos'è VPN? (variante 66)",
+    "options": [
+      "Connessione cifrata che protegge traffico e privacy",
+      "Autenticazione a due fattori",
+      "Falso contenuto generato con IA che imita volti/voce",
+      "Piccolo dato salvato dal browser da un sito"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Attualità digitale: cos'è crittografia? (variante 50)",
+    "options": [
+      "Autenticazione a due fattori",
+      "Protezione dei dati tramite cifratura",
+      "Connessione cifrata che protegge traffico e privacy",
+      "Copia di sicurezza dei dati"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Verifica notizie online (variante 35): qual è la pratica migliore?",
+    "options": [
+      "Condividere subito se emozionante",
+      "Leggere solo il titolo",
+      "Fidarsi dei commenti",
+      "Controllare più fonti affidabili e la data"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Educazione civica: cos'è il/la tribunale? (variante 4)",
+    "options": [
+      "Tutele e libertà riconosciute alle persone",
+      "Potere che amministra la giustizia",
+      "Organo giudiziario che decide su controversie",
+      "Votazione diretta su una proposta"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Educazione civica: cos'è il/la elezioni? (variante 14)",
+    "options": [
+      "Processo per scegliere rappresentanti",
+      "Legge fondamentale di uno Stato",
+      "Tutele e libertà riconosciute alle persone",
+      "Obblighi verso la comunità e le leggi"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Sostenibilità (variante 120): quale azione riduce le emissioni di CO₂?",
+    "options": [
+      "Aumentare consumi inutili",
+      "Bruciare rifiuti all'aperto",
+      "Ridurre sprechi energetici e usare trasporti efficienti",
+      "Tenere luci accese sempre"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Attualità digitale: cos'è cookie? (variante 9)",
+    "options": [
+      "Piccolo dato salvato dal browser da un sito",
+      "Copia di sicurezza dei dati",
+      "Connessione cifrata che protegge traffico e privacy",
+      "Falso contenuto generato con IA che imita volti/voce"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Verifica notizie online (variante 23): qual è la pratica migliore?",
+    "options": [
+      "Fidarsi dei commenti",
+      "Controllare più fonti affidabili e la data",
+      "Leggere solo il titolo",
+      "Condividere subito se emozionante"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Attualità digitale: cos'è crittografia? (variante 90)",
+    "options": [
+      "Copia di sicurezza dei dati",
+      "Autenticazione a due fattori",
+      "Protezione dei dati tramite cifratura",
+      "Truffa per rubare credenziali"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Attualità digitale: cos'è 2FA? (variante 157)",
+    "options": [
+      "Copia di sicurezza dei dati",
+      "Connessione cifrata che protegge traffico e privacy",
+      "Truffa per rubare credenziali",
+      "Autenticazione a due fattori"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Educazione civica: cos'è il/la diritti? (variante 107)",
+    "options": [
+      "Votazione diretta su una proposta",
+      "Organo giudiziario che decide su controversie",
+      "Istituzione che approva le leggi",
+      "Tutele e libertà riconosciute alle persone"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Educazione civica: cos'è il/la tribunale? (variante 119)",
+    "options": [
+      "Votazione diretta su una proposta",
+      "Organo giudiziario che decide su controversie",
+      "Obblighi verso la comunità e le leggi",
+      "Legge fondamentale di uno Stato"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Verifica notizie online (variante 45): qual è la pratica migliore?",
+    "options": [
+      "Condividere subito se emozionante",
+      "Controllare più fonti affidabili e la data",
+      "Leggere solo il titolo",
+      "Fidarsi dei commenti"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Sostenibilità (variante 33): quale azione riduce le emissioni di CO₂?",
+    "options": [
+      "Tenere luci accese sempre",
+      "Bruciare rifiuti all'aperto",
+      "Aumentare consumi inutili",
+      "Ridurre sprechi energetici e usare trasporti efficienti"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Sostenibilità (variante 114): quale azione riduce le emissioni di CO₂?",
+    "options": [
+      "Aumentare consumi inutili",
+      "Tenere luci accese sempre",
+      "Bruciare rifiuti all'aperto",
+      "Ridurre sprechi energetici e usare trasporti efficienti"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Verifica notizie online (variante 58): qual è la pratica migliore?",
+    "options": [
+      "Condividere subito se emozionante",
+      "Fidarsi dei commenti",
+      "Controllare più fonti affidabili e la data",
+      "Leggere solo il titolo"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Educazione civica: cos'è il/la magistratura? (variante 123)",
+    "options": [
+      "Potere che amministra la giustizia",
+      "Organo giudiziario che decide su controversie",
+      "Votazione diretta su una proposta",
+      "Processo per scegliere rappresentanti"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Attualità digitale: cos'è VPN? (variante 13)",
+    "options": [
+      "Truffa per rubare credenziali",
+      "Falso contenuto generato con IA che imita volti/voce",
+      "Connessione cifrata che protegge traffico e privacy",
+      "Protezione dei dati tramite cifratura"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Verifica notizie online (variante 114): qual è la pratica migliore?",
+    "options": [
+      "Condividere subito se emozionante",
+      "Leggere solo il titolo",
+      "Fidarsi dei commenti",
+      "Controllare più fonti affidabili e la data"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Sostenibilità (variante 55): quale azione riduce le emissioni di CO₂?",
+    "options": [
+      "Ridurre sprechi energetici e usare trasporti efficienti",
+      "Aumentare consumi inutili",
+      "Bruciare rifiuti all'aperto",
+      "Tenere luci accese sempre"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Verifica notizie online (variante 96): qual è la pratica migliore?",
+    "options": [
+      "Condividere subito se emozionante",
+      "Fidarsi dei commenti",
+      "Leggere solo il titolo",
+      "Controllare più fonti affidabili e la data"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Educazione civica: cos'è il/la Parlamento? (variante 157)",
+    "options": [
+      "Istituzione che approva le leggi",
+      "Votazione diretta su una proposta",
+      "Legge fondamentale di uno Stato",
+      "Organo che esercita il potere esecutivo"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Verifica notizie online (variante 81): qual è la pratica migliore?",
+    "options": [
+      "Leggere solo il titolo",
+      "Condividere subito se emozionante",
+      "Controllare più fonti affidabili e la data",
+      "Fidarsi dei commenti"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Verifica notizie online (variante 64): qual è la pratica migliore?",
+    "options": [
+      "Controllare più fonti affidabili e la data",
+      "Fidarsi dei commenti",
+      "Leggere solo il titolo",
+      "Condividere subito se emozionante"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Verifica notizie online (variante 65): qual è la pratica migliore?",
+    "options": [
+      "Condividere subito se emozionante",
+      "Controllare più fonti affidabili e la data",
+      "Fidarsi dei commenti",
+      "Leggere solo il titolo"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Educazione civica: cos'è il/la doveri? (variante 65)",
+    "options": [
+      "Organo che esercita il potere esecutivo",
+      "Legge fondamentale di uno Stato",
+      "Obblighi verso la comunità e le leggi",
+      "Votazione diretta su una proposta"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Sostenibilità (variante 105): quale azione riduce le emissioni di CO₂?",
+    "options": [
+      "Aumentare consumi inutili",
+      "Ridurre sprechi energetici e usare trasporti efficienti",
+      "Bruciare rifiuti all'aperto",
+      "Tenere luci accese sempre"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Attualità digitale: cos'è 2FA? (variante 158)",
+    "options": [
+      "Autenticazione a due fattori",
+      "Falso contenuto generato con IA che imita volti/voce",
+      "Piccolo dato salvato dal browser da un sito",
+      "Connessione cifrata che protegge traffico e privacy"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Educazione civica: cos'è il/la doveri? (variante 46)",
+    "options": [
+      "Organo che esercita il potere esecutivo",
+      "Potere che amministra la giustizia",
+      "Organo giudiziario che decide su controversie",
+      "Obblighi verso la comunità e le leggi"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Verifica notizie online (variante 40): qual è la pratica migliore?",
+    "options": [
+      "Fidarsi dei commenti",
+      "Condividere subito se emozionante",
+      "Leggere solo il titolo",
+      "Controllare più fonti affidabili e la data"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Educazione civica: cos'è il/la Parlamento? (variante 33)",
+    "options": [
+      "Organo giudiziario che decide su controversie",
+      "Istituzione che approva le leggi",
+      "Legge fondamentale di uno Stato",
+      "Obblighi verso la comunità e le leggi"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Attualità digitale: cos'è deepfake? (variante 121)",
+    "options": [
+      "Copia di sicurezza dei dati",
+      "Falso contenuto generato con IA che imita volti/voce",
+      "Truffa per rubare credenziali",
+      "Autenticazione a due fattori"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Attualità digitale: cos'è crittografia? (variante 57)",
+    "options": [
+      "Connessione cifrata che protegge traffico e privacy",
+      "Copia di sicurezza dei dati",
+      "Truffa per rubare credenziali",
+      "Protezione dei dati tramite cifratura"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Attualità digitale: cos'è cookie? (variante 10)",
+    "options": [
+      "Piccolo dato salvato dal browser da un sito",
+      "Protezione dei dati tramite cifratura",
+      "Connessione cifrata che protegge traffico e privacy",
+      "Falso contenuto generato con IA che imita volti/voce"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Attualità digitale: cos'è 2FA? (variante 115)",
+    "options": [
+      "Copia di sicurezza dei dati",
+      "Truffa per rubare credenziali",
+      "Autenticazione a due fattori",
+      "Protezione dei dati tramite cifratura"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Educazione civica: cos'è il/la Costituzione? (variante 93)",
+    "options": [
+      "Istituzione che approva le leggi",
+      "Organo che esercita il potere esecutivo",
+      "Legge fondamentale di uno Stato",
+      "Obblighi verso la comunità e le leggi"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Verifica notizie online (variante 29): qual è la pratica migliore?",
+    "options": [
+      "Controllare più fonti affidabili e la data",
+      "Fidarsi dei commenti",
+      "Leggere solo il titolo",
+      "Condividere subito se emozionante"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Verifica notizie online (variante 6): qual è la pratica migliore?",
+    "options": [
+      "Leggere solo il titolo",
+      "Fidarsi dei commenti",
+      "Condividere subito se emozionante",
+      "Controllare più fonti affidabili e la data"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Educazione civica: cos'è il/la elezioni? (variante 114)",
+    "options": [
+      "Istituzione che approva le leggi",
+      "Potere che amministra la giustizia",
+      "Processo per scegliere rappresentanti",
+      "Tutele e libertà riconosciute alle persone"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Attualità digitale: cos'è VPN? (variante 166)",
+    "options": [
+      "Falso contenuto generato con IA che imita volti/voce",
+      "Connessione cifrata che protegge traffico e privacy",
+      "Piccolo dato salvato dal browser da un sito",
+      "Protezione dei dati tramite cifratura"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Verifica notizie online (variante 89): qual è la pratica migliore?",
+    "options": [
+      "Controllare più fonti affidabili e la data",
+      "Condividere subito se emozionante",
+      "Fidarsi dei commenti",
+      "Leggere solo il titolo"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Verifica notizie online (variante 77): qual è la pratica migliore?",
+    "options": [
+      "Controllare più fonti affidabili e la data",
+      "Leggere solo il titolo",
+      "Condividere subito se emozionante",
+      "Fidarsi dei commenti"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Attualità digitale: cos'è deepfake? (variante 118)",
+    "options": [
+      "Protezione dei dati tramite cifratura",
+      "Autenticazione a due fattori",
+      "Truffa per rubare credenziali",
+      "Falso contenuto generato con IA che imita volti/voce"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Verifica notizie online (variante 26): qual è la pratica migliore?",
+    "options": [
+      "Fidarsi dei commenti",
+      "Condividere subito se emozionante",
+      "Leggere solo il titolo",
+      "Controllare più fonti affidabili e la data"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Sostenibilità (variante 71): quale azione riduce le emissioni di CO₂?",
+    "options": [
+      "Tenere luci accese sempre",
+      "Ridurre sprechi energetici e usare trasporti efficienti",
+      "Aumentare consumi inutili",
+      "Bruciare rifiuti all'aperto"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Educazione civica: cos'è il/la tribunale? (variante 9)",
+    "options": [
+      "Votazione diretta su una proposta",
+      "Organo giudiziario che decide su controversie",
+      "Potere che amministra la giustizia",
+      "Legge fondamentale di uno Stato"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Sostenibilità (variante 50): quale azione riduce le emissioni di CO₂?",
+    "options": [
+      "Ridurre sprechi energetici e usare trasporti efficienti",
+      "Tenere luci accese sempre",
+      "Bruciare rifiuti all'aperto",
+      "Aumentare consumi inutili"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Verifica notizie online (variante 21): qual è la pratica migliore?",
+    "options": [
+      "Condividere subito se emozionante",
+      "Fidarsi dei commenti",
+      "Leggere solo il titolo",
+      "Controllare più fonti affidabili e la data"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Attualità digitale: cos'è 2FA? (variante 152)",
+    "options": [
+      "Autenticazione a due fattori",
+      "Truffa per rubare credenziali",
+      "Connessione cifrata che protegge traffico e privacy",
+      "Copia di sicurezza dei dati"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Educazione civica: cos'è il/la referendum? (variante 42)",
+    "options": [
+      "Legge fondamentale di uno Stato",
+      "Obblighi verso la comunità e le leggi",
+      "Votazione diretta su una proposta",
+      "Potere che amministra la giustizia"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Verifica notizie online (variante 110): qual è la pratica migliore?",
+    "options": [
+      "Fidarsi dei commenti",
+      "Leggere solo il titolo",
+      "Condividere subito se emozionante",
+      "Controllare più fonti affidabili e la data"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Educazione civica: cos'è il/la Governo? (variante 92)",
+    "options": [
+      "Processo per scegliere rappresentanti",
+      "Legge fondamentale di uno Stato",
+      "Tutele e libertà riconosciute alle persone",
+      "Organo che esercita il potere esecutivo"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Attualità digitale: cos'è backup? (variante 151)",
+    "options": [
+      "Connessione cifrata che protegge traffico e privacy",
+      "Copia di sicurezza dei dati",
+      "Protezione dei dati tramite cifratura",
+      "Falso contenuto generato con IA che imita volti/voce"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Sostenibilità (variante 75): quale azione riduce le emissioni di CO₂?",
+    "options": [
+      "Ridurre sprechi energetici e usare trasporti efficienti",
+      "Tenere luci accese sempre",
+      "Bruciare rifiuti all'aperto",
+      "Aumentare consumi inutili"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Educazione civica: cos'è il/la referendum? (variante 110)",
+    "options": [
+      "Votazione diretta su una proposta",
+      "Organo che esercita il potere esecutivo",
+      "Tutele e libertà riconosciute alle persone",
+      "Organo giudiziario che decide su controversie"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Sostenibilità (variante 18): quale azione riduce le emissioni di CO₂?",
+    "options": [
+      "Tenere luci accese sempre",
+      "Bruciare rifiuti all'aperto",
+      "Aumentare consumi inutili",
+      "Ridurre sprechi energetici e usare trasporti efficienti"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Attualità digitale: cos'è backup? (variante 141)",
+    "options": [
+      "Connessione cifrata che protegge traffico e privacy",
+      "Copia di sicurezza dei dati",
+      "Falso contenuto generato con IA che imita volti/voce",
+      "Truffa per rubare credenziali"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Sostenibilità (variante 109): quale azione riduce le emissioni di CO₂?",
+    "options": [
+      "Aumentare consumi inutili",
+      "Tenere luci accese sempre",
+      "Bruciare rifiuti all'aperto",
+      "Ridurre sprechi energetici e usare trasporti efficienti"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Educazione civica: cos'è il/la tribunale? (variante 41)",
+    "options": [
+      "Processo per scegliere rappresentanti",
+      "Organo giudiziario che decide su controversie",
+      "Potere che amministra la giustizia",
+      "Legge fondamentale di uno Stato"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Verifica notizie online (variante 31): qual è la pratica migliore?",
+    "options": [
+      "Controllare più fonti affidabili e la data",
+      "Leggere solo il titolo",
+      "Fidarsi dei commenti",
+      "Condividere subito se emozionante"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Attualità digitale: cos'è VPN? (variante 153)",
+    "options": [
+      "Connessione cifrata che protegge traffico e privacy",
+      "Falso contenuto generato con IA che imita volti/voce",
+      "Truffa per rubare credenziali",
+      "Piccolo dato salvato dal browser da un sito"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Attualità digitale: cos'è VPN? (variante 12)",
+    "options": [
+      "Truffa per rubare credenziali",
+      "Protezione dei dati tramite cifratura",
+      "Connessione cifrata che protegge traffico e privacy",
+      "Autenticazione a due fattori"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Sostenibilità (variante 45): quale azione riduce le emissioni di CO₂?",
+    "options": [
+      "Ridurre sprechi energetici e usare trasporti efficienti",
+      "Aumentare consumi inutili",
+      "Tenere luci accese sempre",
+      "Bruciare rifiuti all'aperto"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Attualità digitale: cos'è phishing? (variante 161)",
+    "options": [
+      "Piccolo dato salvato dal browser da un sito",
+      "Copia di sicurezza dei dati",
+      "Falso contenuto generato con IA che imita volti/voce",
+      "Truffa per rubare credenziali"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Educazione civica: cos'è il/la Costituzione? (variante 127)",
+    "options": [
+      "Legge fondamentale di uno Stato",
+      "Processo per scegliere rappresentanti",
+      "Potere che amministra la giustizia",
+      "Organo giudiziario che decide su controversie"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Educazione civica: cos'è il/la elezioni? (variante 62)",
+    "options": [
+      "Votazione diretta su una proposta",
+      "Processo per scegliere rappresentanti",
+      "Obblighi verso la comunità e le leggi",
+      "Organo che esercita il potere esecutivo"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Attualità digitale: cos'è deepfake? (variante 132)",
+    "options": [
+      "Copia di sicurezza dei dati",
+      "Piccolo dato salvato dal browser da un sito",
+      "Connessione cifrata che protegge traffico e privacy",
+      "Falso contenuto generato con IA che imita volti/voce"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Sostenibilità (variante 57): quale azione riduce le emissioni di CO₂?",
+    "options": [
+      "Tenere luci accese sempre",
+      "Ridurre sprechi energetici e usare trasporti efficienti",
+      "Bruciare rifiuti all'aperto",
+      "Aumentare consumi inutili"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Verifica notizie online (variante 88): qual è la pratica migliore?",
+    "options": [
+      "Controllare più fonti affidabili e la data",
+      "Leggere solo il titolo",
+      "Fidarsi dei commenti",
+      "Condividere subito se emozionante"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Attualità digitale: cos'è deepfake? (variante 137)",
+    "options": [
+      "Protezione dei dati tramite cifratura",
+      "Connessione cifrata che protegge traffico e privacy",
+      "Truffa per rubare credenziali",
+      "Falso contenuto generato con IA che imita volti/voce"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Educazione civica: cos'è il/la Governo? (variante 156)",
+    "options": [
+      "Legge fondamentale di uno Stato",
+      "Organo che esercita il potere esecutivo",
+      "Organo giudiziario che decide su controversie",
+      "Tutele e libertà riconosciute alle persone"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Sostenibilità (variante 39): quale azione riduce le emissioni di CO₂?",
+    "options": [
+      "Tenere luci accese sempre",
+      "Ridurre sprechi energetici e usare trasporti efficienti",
+      "Aumentare consumi inutili",
+      "Bruciare rifiuti all'aperto"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Attualità digitale: cos'è backup? (variante 150)",
+    "options": [
+      "Connessione cifrata che protegge traffico e privacy",
+      "Truffa per rubare credenziali",
+      "Protezione dei dati tramite cifratura",
+      "Copia di sicurezza dei dati"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Educazione civica: cos'è il/la tribunale? (variante 75)",
+    "options": [
+      "Organo che esercita il potere esecutivo",
+      "Organo giudiziario che decide su controversie",
+      "Legge fondamentale di uno Stato",
+      "Votazione diretta su una proposta"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Attualità digitale: cos'è cookie? (variante 15)",
+    "options": [
+      "Copia di sicurezza dei dati",
+      "Autenticazione a due fattori",
+      "Piccolo dato salvato dal browser da un sito",
+      "Connessione cifrata che protegge traffico e privacy"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Sostenibilità (variante 25): quale azione riduce le emissioni di CO₂?",
+    "options": [
+      "Ridurre sprechi energetici e usare trasporti efficienti",
+      "Bruciare rifiuti all'aperto",
+      "Tenere luci accese sempre",
+      "Aumentare consumi inutili"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Educazione civica: cos'è il/la Costituzione? (variante 160)",
+    "options": [
+      "Tutele e libertà riconosciute alle persone",
+      "Legge fondamentale di uno Stato",
+      "Obblighi verso la comunità e le leggi",
+      "Potere che amministra la giustizia"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Educazione civica: cos'è il/la elezioni? (variante 116)",
+    "options": [
+      "Votazione diretta su una proposta",
+      "Processo per scegliere rappresentanti",
+      "Obblighi verso la comunità e le leggi",
+      "Potere che amministra la giustizia"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Educazione civica: cos'è il/la Governo? (variante 96)",
+    "options": [
+      "Legge fondamentale di uno Stato",
+      "Organo che esercita il potere esecutivo",
+      "Potere che amministra la giustizia",
+      "Organo giudiziario che decide su controversie"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Educazione civica: cos'è il/la diritti? (variante 34)",
+    "options": [
+      "Legge fondamentale di uno Stato",
+      "Votazione diretta su una proposta",
+      "Tutele e libertà riconosciute alle persone",
+      "Organo giudiziario che decide su controversie"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Sostenibilità (variante 80): quale azione riduce le emissioni di CO₂?",
+    "options": [
+      "Ridurre sprechi energetici e usare trasporti efficienti",
+      "Bruciare rifiuti all'aperto",
+      "Tenere luci accese sempre",
+      "Aumentare consumi inutili"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Attualità digitale: cos'è 2FA? (variante 75)",
+    "options": [
+      "Piccolo dato salvato dal browser da un sito",
+      "Autenticazione a due fattori",
+      "Truffa per rubare credenziali",
+      "Protezione dei dati tramite cifratura"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Attualità digitale: cos'è deepfake? (variante 8)",
+    "options": [
+      "Falso contenuto generato con IA che imita volti/voce",
+      "Autenticazione a due fattori",
+      "Copia di sicurezza dei dati",
+      "Piccolo dato salvato dal browser da un sito"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Attualità digitale: cos'è crittografia? (variante 29)",
+    "options": [
+      "Protezione dei dati tramite cifratura",
+      "Falso contenuto generato con IA che imita volti/voce",
+      "Copia di sicurezza dei dati",
+      "Connessione cifrata che protegge traffico e privacy"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Verifica notizie online (variante 100): qual è la pratica migliore?",
+    "options": [
+      "Controllare più fonti affidabili e la data",
+      "Leggere solo il titolo",
+      "Fidarsi dei commenti",
+      "Condividere subito se emozionante"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Educazione civica: cos'è il/la doveri? (variante 112)",
+    "options": [
+      "Obblighi verso la comunità e le leggi",
+      "Legge fondamentale di uno Stato",
+      "Istituzione che approva le leggi",
+      "Organo che esercita il potere esecutivo"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Attualità digitale: cos'è phishing? (variante 98)",
+    "options": [
+      "Autenticazione a due fattori",
+      "Copia di sicurezza dei dati",
+      "Connessione cifrata che protegge traffico e privacy",
+      "Truffa per rubare credenziali"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Attualità digitale: cos'è crittografia? (variante 5)",
+    "options": [
+      "Copia di sicurezza dei dati",
+      "Piccolo dato salvato dal browser da un sito",
+      "Protezione dei dati tramite cifratura",
+      "Connessione cifrata che protegge traffico e privacy"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Attualità digitale: cos'è backup? (variante 24)",
+    "options": [
+      "Protezione dei dati tramite cifratura",
+      "Autenticazione a due fattori",
+      "Copia di sicurezza dei dati",
+      "Piccolo dato salvato dal browser da un sito"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Verifica notizie online (variante 13): qual è la pratica migliore?",
+    "options": [
+      "Condividere subito se emozionante",
+      "Leggere solo il titolo",
+      "Fidarsi dei commenti",
+      "Controllare più fonti affidabili e la data"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Verifica notizie online (variante 102): qual è la pratica migliore?",
+    "options": [
+      "Leggere solo il titolo",
+      "Condividere subito se emozionante",
+      "Controllare più fonti affidabili e la data",
+      "Fidarsi dei commenti"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Attualità digitale: cos'è deepfake? (variante 49)",
+    "options": [
+      "Protezione dei dati tramite cifratura",
+      "Autenticazione a due fattori",
+      "Falso contenuto generato con IA che imita volti/voce",
+      "Copia di sicurezza dei dati"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Attualità digitale: cos'è 2FA? (variante 70)",
+    "options": [
+      "Connessione cifrata che protegge traffico e privacy",
+      "Autenticazione a due fattori",
+      "Copia di sicurezza dei dati",
+      "Falso contenuto generato con IA che imita volti/voce"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Sostenibilità (variante 116): quale azione riduce le emissioni di CO₂?",
+    "options": [
+      "Ridurre sprechi energetici e usare trasporti efficienti",
+      "Aumentare consumi inutili",
+      "Bruciare rifiuti all'aperto",
+      "Tenere luci accese sempre"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Educazione civica: cos'è il/la tribunale? (variante 169)",
+    "options": [
+      "Organo giudiziario che decide su controversie",
+      "Istituzione che approva le leggi",
+      "Processo per scegliere rappresentanti",
+      "Votazione diretta su una proposta"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Sostenibilità (variante 76): quale azione riduce le emissioni di CO₂?",
+    "options": [
+      "Ridurre sprechi energetici e usare trasporti efficienti",
+      "Bruciare rifiuti all'aperto",
+      "Aumentare consumi inutili",
+      "Tenere luci accese sempre"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Educazione civica: cos'è il/la Costituzione? (variante 81)",
+    "options": [
+      "Potere che amministra la giustizia",
+      "Processo per scegliere rappresentanti",
+      "Legge fondamentale di uno Stato",
+      "Obblighi verso la comunità e le leggi"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Attualità digitale: cos'è VPN? (variante 127)",
+    "options": [
+      "Falso contenuto generato con IA che imita volti/voce",
+      "Piccolo dato salvato dal browser da un sito",
+      "Protezione dei dati tramite cifratura",
+      "Connessione cifrata che protegge traffico e privacy"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Attualità digitale: cos'è crittografia? (variante 125)",
+    "options": [
+      "Connessione cifrata che protegge traffico e privacy",
+      "Protezione dei dati tramite cifratura",
+      "Truffa per rubare credenziali",
+      "Autenticazione a due fattori"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Verifica notizie online (variante 71): qual è la pratica migliore?",
+    "options": [
+      "Condividere subito se emozionante",
+      "Controllare più fonti affidabili e la data",
+      "Leggere solo il titolo",
+      "Fidarsi dei commenti"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Sostenibilità (variante 40): quale azione riduce le emissioni di CO₂?",
+    "options": [
+      "Bruciare rifiuti all'aperto",
+      "Aumentare consumi inutili",
+      "Tenere luci accese sempre",
+      "Ridurre sprechi energetici e usare trasporti efficienti"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Sostenibilità (variante 29): quale azione riduce le emissioni di CO₂?",
+    "options": [
+      "Ridurre sprechi energetici e usare trasporti efficienti",
+      "Aumentare consumi inutili",
+      "Tenere luci accese sempre",
+      "Bruciare rifiuti all'aperto"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Verifica notizie online (variante 62): qual è la pratica migliore?",
+    "options": [
+      "Leggere solo il titolo",
+      "Fidarsi dei commenti",
+      "Controllare più fonti affidabili e la data",
+      "Condividere subito se emozionante"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Attualità digitale: cos'è cookie? (variante 168)",
+    "options": [
+      "Piccolo dato salvato dal browser da un sito",
+      "Autenticazione a due fattori",
+      "Falso contenuto generato con IA che imita volti/voce",
+      "Copia di sicurezza dei dati"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Educazione civica: cos'è il/la Parlamento? (variante 39)",
+    "options": [
+      "Potere che amministra la giustizia",
+      "Obblighi verso la comunità e le leggi",
+      "Legge fondamentale di uno Stato",
+      "Istituzione che approva le leggi"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Sostenibilità (variante 108): quale azione riduce le emissioni di CO₂?",
+    "options": [
+      "Aumentare consumi inutili",
+      "Ridurre sprechi energetici e usare trasporti efficienti",
+      "Bruciare rifiuti all'aperto",
+      "Tenere luci accese sempre"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Educazione civica: cos'è il/la elezioni? (variante 30)",
+    "options": [
+      "Tutele e libertà riconosciute alle persone",
+      "Istituzione che approva le leggi",
+      "Votazione diretta su una proposta",
+      "Processo per scegliere rappresentanti"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Educazione civica: cos'è il/la doveri? (variante 95)",
+    "options": [
+      "Obblighi verso la comunità e le leggi",
+      "Istituzione che approva le leggi",
+      "Organo che esercita il potere esecutivo",
+      "Potere che amministra la giustizia"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Educazione civica: cos'è il/la elezioni? (variante 63)",
+    "options": [
+      "Obblighi verso la comunità e le leggi",
+      "Processo per scegliere rappresentanti",
+      "Legge fondamentale di uno Stato",
+      "Istituzione che approva le leggi"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Educazione civica: cos'è il/la magistratura? (variante 153)",
+    "options": [
+      "Votazione diretta su una proposta",
+      "Potere che amministra la giustizia",
+      "Organo giudiziario che decide su controversie",
+      "Istituzione che approva le leggi"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Educazione civica: cos'è il/la doveri? (variante 53)",
+    "options": [
+      "Obblighi verso la comunità e le leggi",
+      "Istituzione che approva le leggi",
+      "Votazione diretta su una proposta",
+      "Legge fondamentale di uno Stato"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Verifica notizie online (variante 78): qual è la pratica migliore?",
+    "options": [
+      "Controllare più fonti affidabili e la data",
+      "Leggere solo il titolo",
+      "Condividere subito se emozionante",
+      "Fidarsi dei commenti"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Attualità digitale: cos'è phishing? (variante 72)",
+    "options": [
+      "Falso contenuto generato con IA che imita volti/voce",
+      "Connessione cifrata che protegge traffico e privacy",
+      "Truffa per rubare credenziali",
+      "Copia di sicurezza dei dati"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Verifica notizie online (variante 76): qual è la pratica migliore?",
+    "options": [
+      "Controllare più fonti affidabili e la data",
+      "Fidarsi dei commenti",
+      "Condividere subito se emozionante",
+      "Leggere solo il titolo"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Sostenibilità (variante 15): quale azione riduce le emissioni di CO₂?",
+    "options": [
+      "Bruciare rifiuti all'aperto",
+      "Ridurre sprechi energetici e usare trasporti efficienti",
+      "Aumentare consumi inutili",
+      "Tenere luci accese sempre"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Sostenibilità (variante 100): quale azione riduce le emissioni di CO₂?",
+    "options": [
+      "Aumentare consumi inutili",
+      "Tenere luci accese sempre",
+      "Ridurre sprechi energetici e usare trasporti efficienti",
+      "Bruciare rifiuti all'aperto"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Sostenibilità (variante 89): quale azione riduce le emissioni di CO₂?",
+    "options": [
+      "Bruciare rifiuti all'aperto",
+      "Aumentare consumi inutili",
+      "Ridurre sprechi energetici e usare trasporti efficienti",
+      "Tenere luci accese sempre"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Attualità digitale: cos'è backup? (variante 33)",
+    "options": [
+      "Connessione cifrata che protegge traffico e privacy",
+      "Autenticazione a due fattori",
+      "Piccolo dato salvato dal browser da un sito",
+      "Copia di sicurezza dei dati"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Verifica notizie online (variante 120): qual è la pratica migliore?",
+    "options": [
+      "Condividere subito se emozionante",
+      "Fidarsi dei commenti",
+      "Leggere solo il titolo",
+      "Controllare più fonti affidabili e la data"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Educazione civica: cos'è il/la diritti? (variante 85)",
+    "options": [
+      "Legge fondamentale di uno Stato",
+      "Tutele e libertà riconosciute alle persone",
+      "Organo giudiziario che decide su controversie",
+      "Istituzione che approva le leggi"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Sostenibilità (variante 110): quale azione riduce le emissioni di CO₂?",
+    "options": [
+      "Aumentare consumi inutili",
+      "Bruciare rifiuti all'aperto",
+      "Tenere luci accese sempre",
+      "Ridurre sprechi energetici e usare trasporti efficienti"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Educazione civica: cos'è il/la diritti? (variante 141)",
+    "options": [
+      "Organo che esercita il potere esecutivo",
+      "Processo per scegliere rappresentanti",
+      "Tutele e libertà riconosciute alle persone",
+      "Organo giudiziario che decide su controversie"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Attualità digitale: cos'è 2FA? (variante 67)",
+    "options": [
+      "Autenticazione a due fattori",
+      "Piccolo dato salvato dal browser da un sito",
+      "Truffa per rubare credenziali",
+      "Connessione cifrata che protegge traffico e privacy"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Attualità digitale: cos'è cookie? (variante 64)",
+    "options": [
+      "Truffa per rubare credenziali",
+      "Protezione dei dati tramite cifratura",
+      "Piccolo dato salvato dal browser da un sito",
+      "Autenticazione a due fattori"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Educazione civica: cos'è il/la referendum? (variante 150)",
+    "options": [
+      "Obblighi verso la comunità e le leggi",
+      "Votazione diretta su una proposta",
+      "Potere che amministra la giustizia",
+      "Tutele e libertà riconosciute alle persone"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Educazione civica: cos'è il/la diritti? (variante 99)",
+    "options": [
+      "Legge fondamentale di uno Stato",
+      "Tutele e libertà riconosciute alle persone",
+      "Obblighi verso la comunità e le leggi",
+      "Votazione diretta su una proposta"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Attualità digitale: cos'è phishing? (variante 140)",
+    "options": [
+      "Autenticazione a due fattori",
+      "Falso contenuto generato con IA che imita volti/voce",
+      "Protezione dei dati tramite cifratura",
+      "Truffa per rubare credenziali"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Attualità digitale: cos'è deepfake? (variante 43)",
+    "options": [
+      "Autenticazione a due fattori",
+      "Falso contenuto generato con IA che imita volti/voce",
+      "Connessione cifrata che protegge traffico e privacy",
+      "Piccolo dato salvato dal browser da un sito"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Attualità digitale: cos'è cookie? (variante 133)",
+    "options": [
+      "Protezione dei dati tramite cifratura",
+      "Piccolo dato salvato dal browser da un sito",
+      "Connessione cifrata che protegge traffico e privacy",
+      "Copia di sicurezza dei dati"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Sostenibilità (variante 65): quale azione riduce le emissioni di CO₂?",
+    "options": [
+      "Ridurre sprechi energetici e usare trasporti efficienti",
+      "Tenere luci accese sempre",
+      "Bruciare rifiuti all'aperto",
+      "Aumentare consumi inutili"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Educazione civica: cos'è il/la Governo? (variante 43)",
+    "options": [
+      "Organo che esercita il potere esecutivo",
+      "Processo per scegliere rappresentanti",
+      "Legge fondamentale di uno Stato",
+      "Istituzione che approva le leggi"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Verifica notizie online (variante 52): qual è la pratica migliore?",
+    "options": [
+      "Controllare più fonti affidabili e la data",
+      "Leggere solo il titolo",
+      "Condividere subito se emozionante",
+      "Fidarsi dei commenti"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Attualità digitale: cos'è 2FA? (variante 46)",
+    "options": [
+      "Protezione dei dati tramite cifratura",
+      "Truffa per rubare credenziali",
+      "Connessione cifrata che protegge traffico e privacy",
+      "Autenticazione a due fattori"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Attualità digitale: cos'è phishing? (variante 41)",
+    "options": [
+      "Falso contenuto generato con IA che imita volti/voce",
+      "Autenticazione a due fattori",
+      "Truffa per rubare credenziali",
+      "Connessione cifrata che protegge traffico e privacy"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Verifica notizie online (variante 74): qual è la pratica migliore?",
+    "options": [
+      "Controllare più fonti affidabili e la data",
+      "Fidarsi dei commenti",
+      "Leggere solo il titolo",
+      "Condividere subito se emozionante"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Attualità digitale: cos'è phishing? (variante 88)",
+    "options": [
+      "Copia di sicurezza dei dati",
+      "Truffa per rubare credenziali",
+      "Autenticazione a due fattori",
+      "Falso contenuto generato con IA che imita volti/voce"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Educazione civica: cos'è il/la tribunale? (variante 20)",
+    "options": [
+      "Tutele e libertà riconosciute alle persone",
+      "Istituzione che approva le leggi",
+      "Organo giudiziario che decide su controversie",
+      "Processo per scegliere rappresentanti"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Educazione civica: cos'è il/la referendum? (variante 49)",
+    "options": [
+      "Votazione diretta su una proposta",
+      "Organo che esercita il potere esecutivo",
+      "Organo giudiziario che decide su controversie",
+      "Processo per scegliere rappresentanti"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Educazione civica: cos'è il/la diritti? (variante 27)",
+    "options": [
+      "Potere che amministra la giustizia",
+      "Processo per scegliere rappresentanti",
+      "Tutele e libertà riconosciute alle persone",
+      "Legge fondamentale di uno Stato"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Sostenibilità (variante 16): quale azione riduce le emissioni di CO₂?",
+    "options": [
+      "Tenere luci accese sempre",
+      "Aumentare consumi inutili",
+      "Ridurre sprechi energetici e usare trasporti efficienti",
+      "Bruciare rifiuti all'aperto"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Sostenibilità (variante 66): quale azione riduce le emissioni di CO₂?",
+    "options": [
+      "Bruciare rifiuti all'aperto",
+      "Tenere luci accese sempre",
+      "Ridurre sprechi energetici e usare trasporti efficienti",
+      "Aumentare consumi inutili"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Attualità digitale: cos'è 2FA? (variante 71)",
+    "options": [
+      "Copia di sicurezza dei dati",
+      "Autenticazione a due fattori",
+      "Piccolo dato salvato dal browser da un sito",
+      "Protezione dei dati tramite cifratura"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Sostenibilità (variante 8): quale azione riduce le emissioni di CO₂?",
+    "options": [
+      "Ridurre sprechi energetici e usare trasporti efficienti",
+      "Bruciare rifiuti all'aperto",
+      "Aumentare consumi inutili",
+      "Tenere luci accese sempre"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Educazione civica: cos'è il/la elezioni? (variante 82)",
+    "options": [
+      "Organo giudiziario che decide su controversie",
+      "Votazione diretta su una proposta",
+      "Istituzione che approva le leggi",
+      "Processo per scegliere rappresentanti"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Sostenibilità (variante 41): quale azione riduce le emissioni di CO₂?",
+    "options": [
+      "Bruciare rifiuti all'aperto",
+      "Ridurre sprechi energetici e usare trasporti efficienti",
+      "Tenere luci accese sempre",
+      "Aumentare consumi inutili"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Educazione civica: cos'è il/la magistratura? (variante 71)",
+    "options": [
+      "Organo che esercita il potere esecutivo",
+      "Tutele e libertà riconosciute alle persone",
+      "Processo per scegliere rappresentanti",
+      "Potere che amministra la giustizia"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Sostenibilità (variante 64): quale azione riduce le emissioni di CO₂?",
+    "options": [
+      "Tenere luci accese sempre",
+      "Bruciare rifiuti all'aperto",
+      "Ridurre sprechi energetici e usare trasporti efficienti",
+      "Aumentare consumi inutili"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Attualità digitale: cos'è 2FA? (variante 100)",
+    "options": [
+      "Autenticazione a due fattori",
+      "Falso contenuto generato con IA che imita volti/voce",
+      "Connessione cifrata che protegge traffico e privacy",
+      "Truffa per rubare credenziali"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Sostenibilità (variante 118): quale azione riduce le emissioni di CO₂?",
+    "options": [
+      "Aumentare consumi inutili",
+      "Tenere luci accese sempre",
+      "Ridurre sprechi energetici e usare trasporti efficienti",
+      "Bruciare rifiuti all'aperto"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Attualità digitale: cos'è cookie? (variante 102)",
+    "options": [
+      "Protezione dei dati tramite cifratura",
+      "Copia di sicurezza dei dati",
+      "Autenticazione a due fattori",
+      "Piccolo dato salvato dal browser da un sito"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Educazione civica: cos'è il/la Costituzione? (variante 100)",
+    "options": [
+      "Organo che esercita il potere esecutivo",
+      "Legge fondamentale di uno Stato",
+      "Votazione diretta su una proposta",
+      "Organo giudiziario che decide su controversie"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Educazione civica: cos'è il/la referendum? (variante 5)",
+    "options": [
+      "Potere che amministra la giustizia",
+      "Istituzione che approva le leggi",
+      "Votazione diretta su una proposta",
+      "Organo giudiziario che decide su controversie"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Attualità digitale: cos'è VPN? (variante 23)",
+    "options": [
+      "Copia di sicurezza dei dati",
+      "Connessione cifrata che protegge traffico e privacy",
+      "Autenticazione a due fattori",
+      "Protezione dei dati tramite cifratura"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Verifica notizie online (variante 112): qual è la pratica migliore?",
+    "options": [
+      "Condividere subito se emozionante",
+      "Fidarsi dei commenti",
+      "Leggere solo il titolo",
+      "Controllare più fonti affidabili e la data"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Attualità digitale: cos'è cookie? (variante 160)",
+    "options": [
+      "Copia di sicurezza dei dati",
+      "Piccolo dato salvato dal browser da un sito",
+      "Autenticazione a due fattori",
+      "Protezione dei dati tramite cifratura"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Educazione civica: cos'è il/la Parlamento? (variante 11)",
+    "options": [
+      "Tutele e libertà riconosciute alle persone",
+      "Processo per scegliere rappresentanti",
+      "Istituzione che approva le leggi",
+      "Organo giudiziario che decide su controversie"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Verifica notizie online (variante 79): qual è la pratica migliore?",
+    "options": [
+      "Condividere subito se emozionante",
+      "Fidarsi dei commenti",
+      "Leggere solo il titolo",
+      "Controllare più fonti affidabili e la data"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Attualità digitale: cos'è crittografia? (variante 38)",
+    "options": [
+      "Truffa per rubare credenziali",
+      "Connessione cifrata che protegge traffico e privacy",
+      "Copia di sicurezza dei dati",
+      "Protezione dei dati tramite cifratura"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Educazione civica: cos'è il/la Costituzione? (variante 161)",
+    "options": [
+      "Processo per scegliere rappresentanti",
+      "Obblighi verso la comunità e le leggi",
+      "Votazione diretta su una proposta",
+      "Legge fondamentale di uno Stato"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Sostenibilità (variante 72): quale azione riduce le emissioni di CO₂?",
+    "options": [
+      "Aumentare consumi inutili",
+      "Tenere luci accese sempre",
+      "Bruciare rifiuti all'aperto",
+      "Ridurre sprechi energetici e usare trasporti efficienti"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Verifica notizie online (variante 41): qual è la pratica migliore?",
+    "options": [
+      "Condividere subito se emozionante",
+      "Fidarsi dei commenti",
+      "Leggere solo il titolo",
+      "Controllare più fonti affidabili e la data"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Attualità digitale: cos'è backup? (variante 48)",
+    "options": [
+      "Connessione cifrata che protegge traffico e privacy",
+      "Piccolo dato salvato dal browser da un sito",
+      "Protezione dei dati tramite cifratura",
+      "Copia di sicurezza dei dati"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Verifica notizie online (variante 39): qual è la pratica migliore?",
+    "options": [
+      "Leggere solo il titolo",
+      "Condividere subito se emozionante",
+      "Fidarsi dei commenti",
+      "Controllare più fonti affidabili e la data"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Educazione civica: cos'è il/la magistratura? (variante 111)",
+    "options": [
+      "Tutele e libertà riconosciute alle persone",
+      "Legge fondamentale di uno Stato",
+      "Potere che amministra la giustizia",
+      "Votazione diretta su una proposta"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Sostenibilità (variante 90): quale azione riduce le emissioni di CO₂?",
+    "options": [
+      "Aumentare consumi inutili",
+      "Tenere luci accese sempre",
+      "Bruciare rifiuti all'aperto",
+      "Ridurre sprechi energetici e usare trasporti efficienti"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Verifica notizie online (variante 72): qual è la pratica migliore?",
+    "options": [
+      "Condividere subito se emozionante",
+      "Leggere solo il titolo",
+      "Controllare più fonti affidabili e la data",
+      "Fidarsi dei commenti"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Attualità digitale: cos'è VPN? (variante 93)",
+    "options": [
+      "Protezione dei dati tramite cifratura",
+      "Autenticazione a due fattori",
+      "Truffa per rubare credenziali",
+      "Connessione cifrata che protegge traffico e privacy"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Educazione civica: cos'è il/la Parlamento? (variante 18)",
+    "options": [
+      "Tutele e libertà riconosciute alle persone",
+      "Legge fondamentale di uno Stato",
+      "Istituzione che approva le leggi",
+      "Organo giudiziario che decide su controversie"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Educazione civica: cos'è il/la Parlamento? (variante 8)",
+    "options": [
+      "Istituzione che approva le leggi",
+      "Potere che amministra la giustizia",
+      "Organo giudiziario che decide su controversie",
+      "Organo che esercita il potere esecutivo"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Educazione civica: cos'è il/la magistratura? (variante 7)",
+    "options": [
+      "Potere che amministra la giustizia",
+      "Organo che esercita il potere esecutivo",
+      "Legge fondamentale di uno Stato",
+      "Obblighi verso la comunità e le leggi"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Verifica notizie online (variante 90): qual è la pratica migliore?",
+    "options": [
+      "Condividere subito se emozionante",
+      "Controllare più fonti affidabili e la data",
+      "Leggere solo il titolo",
+      "Fidarsi dei commenti"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Sostenibilità (variante 46): quale azione riduce le emissioni di CO₂?",
+    "options": [
+      "Ridurre sprechi energetici e usare trasporti efficienti",
+      "Aumentare consumi inutili",
+      "Bruciare rifiuti all'aperto",
+      "Tenere luci accese sempre"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Attualità digitale: cos'è backup? (variante 136)",
+    "options": [
+      "Copia di sicurezza dei dati",
+      "Connessione cifrata che protegge traffico e privacy",
+      "Truffa per rubare credenziali",
+      "Piccolo dato salvato dal browser da un sito"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Educazione civica: cos'è il/la elezioni? (variante 69)",
+    "options": [
+      "Tutele e libertà riconosciute alle persone",
+      "Istituzione che approva le leggi",
+      "Potere che amministra la giustizia",
+      "Processo per scegliere rappresentanti"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Attualità digitale: cos'è deepfake? (variante 59)",
+    "options": [
+      "Falso contenuto generato con IA che imita volti/voce",
+      "Copia di sicurezza dei dati",
+      "Piccolo dato salvato dal browser da un sito",
+      "Protezione dei dati tramite cifratura"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Attualità digitale: cos'è VPN? (variante 89)",
+    "options": [
+      "Connessione cifrata che protegge traffico e privacy",
+      "Protezione dei dati tramite cifratura",
+      "Piccolo dato salvato dal browser da un sito",
+      "Falso contenuto generato con IA che imita volti/voce"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Verifica notizie online (variante 34): qual è la pratica migliore?",
+    "options": [
+      "Controllare più fonti affidabili e la data",
+      "Leggere solo il titolo",
+      "Condividere subito se emozionante",
+      "Fidarsi dei commenti"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Educazione civica: cos'è il/la Governo? (variante 19)",
+    "options": [
+      "Istituzione che approva le leggi",
+      "Organo che esercita il potere esecutivo",
+      "Tutele e libertà riconosciute alle persone",
+      "Obblighi verso la comunità e le leggi"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Educazione civica: cos'è il/la Governo? (variante 74)",
+    "options": [
+      "Legge fondamentale di uno Stato",
+      "Organo che esercita il potere esecutivo",
+      "Processo per scegliere rappresentanti",
+      "Organo giudiziario che decide su controversie"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Verifica notizie online (variante 67): qual è la pratica migliore?",
+    "options": [
+      "Condividere subito se emozionante",
+      "Fidarsi dei commenti",
+      "Leggere solo il titolo",
+      "Controllare più fonti affidabili e la data"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Verifica notizie online (variante 53): qual è la pratica migliore?",
+    "options": [
+      "Controllare più fonti affidabili e la data",
+      "Condividere subito se emozionante",
+      "Fidarsi dei commenti",
+      "Leggere solo il titolo"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Sostenibilità (variante 6): quale azione riduce le emissioni di CO₂?",
+    "options": [
+      "Aumentare consumi inutili",
+      "Bruciare rifiuti all'aperto",
+      "Ridurre sprechi energetici e usare trasporti efficienti",
+      "Tenere luci accese sempre"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Attualità digitale: cos'è VPN? (variante 111)",
+    "options": [
+      "Piccolo dato salvato dal browser da un sito",
+      "Connessione cifrata che protegge traffico e privacy",
+      "Autenticazione a due fattori",
+      "Truffa per rubare credenziali"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Attualità digitale: cos'è phishing? (variante 52)",
+    "options": [
+      "Piccolo dato salvato dal browser da un sito",
+      "Truffa per rubare credenziali",
+      "Copia di sicurezza dei dati",
+      "Falso contenuto generato con IA che imita volti/voce"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Attualità digitale: cos'è 2FA? (variante 144)",
+    "options": [
+      "Falso contenuto generato con IA che imita volti/voce",
+      "Connessione cifrata che protegge traffico e privacy",
+      "Truffa per rubare credenziali",
+      "Autenticazione a due fattori"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Educazione civica: cos'è il/la tribunale? (variante 73)",
+    "options": [
+      "Organo giudiziario che decide su controversie",
+      "Legge fondamentale di uno Stato",
+      "Votazione diretta su una proposta",
+      "Organo che esercita il potere esecutivo"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Attualità digitale: cos'è VPN? (variante 126)",
+    "options": [
+      "Piccolo dato salvato dal browser da un sito",
+      "Connessione cifrata che protegge traffico e privacy",
+      "Falso contenuto generato con IA che imita volti/voce",
+      "Autenticazione a due fattori"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Educazione civica: cos'è il/la referendum? (variante 59)",
+    "options": [
+      "Organo che esercita il potere esecutivo",
+      "Istituzione che approva le leggi",
+      "Organo giudiziario che decide su controversie",
+      "Votazione diretta su una proposta"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Verifica notizie online (variante 17): qual è la pratica migliore?",
+    "options": [
+      "Fidarsi dei commenti",
+      "Condividere subito se emozionante",
+      "Controllare più fonti affidabili e la data",
+      "Leggere solo il titolo"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Verifica notizie online (variante 2): qual è la pratica migliore?",
+    "options": [
+      "Leggere solo il titolo",
+      "Condividere subito se emozionante",
+      "Controllare più fonti affidabili e la data",
+      "Fidarsi dei commenti"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Attualità digitale: cos'è 2FA? (variante 106)",
+    "options": [
+      "Truffa per rubare credenziali",
+      "Falso contenuto generato con IA che imita volti/voce",
+      "Autenticazione a due fattori",
+      "Copia di sicurezza dei dati"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Sostenibilità (variante 86): quale azione riduce le emissioni di CO₂?",
+    "options": [
+      "Bruciare rifiuti all'aperto",
+      "Ridurre sprechi energetici e usare trasporti efficienti",
+      "Tenere luci accese sempre",
+      "Aumentare consumi inutili"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Sostenibilità (variante 70): quale azione riduce le emissioni di CO₂?",
+    "options": [
+      "Ridurre sprechi energetici e usare trasporti efficienti",
+      "Bruciare rifiuti all'aperto",
+      "Tenere luci accese sempre",
+      "Aumentare consumi inutili"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Sostenibilità (variante 91): quale azione riduce le emissioni di CO₂?",
+    "options": [
+      "Tenere luci accese sempre",
+      "Ridurre sprechi energetici e usare trasporti efficienti",
+      "Bruciare rifiuti all'aperto",
+      "Aumentare consumi inutili"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Sostenibilità (variante 85): quale azione riduce le emissioni di CO₂?",
+    "options": [
+      "Ridurre sprechi energetici e usare trasporti efficienti",
+      "Aumentare consumi inutili",
+      "Tenere luci accese sempre",
+      "Bruciare rifiuti all'aperto"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Sostenibilità (variante 99): quale azione riduce le emissioni di CO₂?",
+    "options": [
+      "Ridurre sprechi energetici e usare trasporti efficienti",
+      "Tenere luci accese sempre",
+      "Bruciare rifiuti all'aperto",
+      "Aumentare consumi inutili"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Educazione civica: cos'è il/la tribunale? (variante 136)",
+    "options": [
+      "Tutele e libertà riconosciute alle persone",
+      "Istituzione che approva le leggi",
+      "Legge fondamentale di uno Stato",
+      "Organo giudiziario che decide su controversie"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Educazione civica: cos'è il/la diritti? (variante 121)",
+    "options": [
+      "Obblighi verso la comunità e le leggi",
+      "Organo che esercita il potere esecutivo",
+      "Tutele e libertà riconosciute alle persone",
+      "Processo per scegliere rappresentanti"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Verifica notizie online (variante 18): qual è la pratica migliore?",
+    "options": [
+      "Leggere solo il titolo",
+      "Condividere subito se emozionante",
+      "Fidarsi dei commenti",
+      "Controllare più fonti affidabili e la data"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Verifica notizie online (variante 50): qual è la pratica migliore?",
+    "options": [
+      "Leggere solo il titolo",
+      "Condividere subito se emozionante",
+      "Controllare più fonti affidabili e la data",
+      "Fidarsi dei commenti"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Sostenibilità (variante 56): quale azione riduce le emissioni di CO₂?",
+    "options": [
+      "Bruciare rifiuti all'aperto",
+      "Tenere luci accese sempre",
+      "Ridurre sprechi energetici e usare trasporti efficienti",
+      "Aumentare consumi inutili"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Attualità digitale: cos'è phishing? (variante 25)",
+    "options": [
+      "Piccolo dato salvato dal browser da un sito",
+      "Autenticazione a due fattori",
+      "Truffa per rubare credenziali",
+      "Protezione dei dati tramite cifratura"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Educazione civica: cos'è il/la Costituzione? (variante 80)",
+    "options": [
+      "Legge fondamentale di uno Stato",
+      "Istituzione che approva le leggi",
+      "Potere che amministra la giustizia",
+      "Processo per scegliere rappresentanti"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Attualità digitale: cos'è cookie? (variante 85)",
+    "options": [
+      "Protezione dei dati tramite cifratura",
+      "Falso contenuto generato con IA che imita volti/voce",
+      "Copia di sicurezza dei dati",
+      "Piccolo dato salvato dal browser da un sito"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Sostenibilità (variante 97): quale azione riduce le emissioni di CO₂?",
+    "options": [
+      "Tenere luci accese sempre",
+      "Bruciare rifiuti all'aperto",
+      "Ridurre sprechi energetici e usare trasporti efficienti",
+      "Aumentare consumi inutili"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Sostenibilità (variante 61): quale azione riduce le emissioni di CO₂?",
+    "options": [
+      "Bruciare rifiuti all'aperto",
+      "Aumentare consumi inutili",
+      "Tenere luci accese sempre",
+      "Ridurre sprechi energetici e usare trasporti efficienti"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Sostenibilità (variante 58): quale azione riduce le emissioni di CO₂?",
+    "options": [
+      "Ridurre sprechi energetici e usare trasporti efficienti",
+      "Bruciare rifiuti all'aperto",
+      "Tenere luci accese sempre",
+      "Aumentare consumi inutili"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Attualità digitale: cos'è backup? (variante 37)",
+    "options": [
+      "Autenticazione a due fattori",
+      "Piccolo dato salvato dal browser da un sito",
+      "Truffa per rubare credenziali",
+      "Copia di sicurezza dei dati"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Educazione civica: cos'è il/la Governo? (variante 66)",
+    "options": [
+      "Istituzione che approva le leggi",
+      "Organo che esercita il potere esecutivo",
+      "Legge fondamentale di uno Stato",
+      "Potere che amministra la giustizia"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  }
+]

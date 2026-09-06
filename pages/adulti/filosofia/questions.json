@@ -1,0 +1,3302 @@
+[
+  {
+    "q": "Filosofia: Nietzsche (variante 220)",
+    "options": [
+      "Filosofo della 'volontà di potenza'",
+      "Filosofo greco legato al metodo maieutico",
+      "Filosofo della critica della ragione",
+      "Filosofo del 'cogito'"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Platone (variante 141)",
+    "options": [
+      "Filosofo del 'cogito'",
+      "Filosofo greco, studioso di logica e scienze",
+      "Filosofo greco, allievo di Socrate",
+      "Filosofo della 'volontà di potenza'"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Aristotele (variante 393)",
+    "options": [
+      "Filosofo greco, allievo di Socrate",
+      "Filosofo della critica della ragione",
+      "Filosofo greco, studioso di logica e scienze",
+      "Filosofo greco legato al metodo maieutico"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Descartes (variante 218)",
+    "options": [
+      "Filosofo greco legato al metodo maieutico",
+      "Filosofo della critica della ragione",
+      "Filosofo del 'cogito'",
+      "Filosofo della 'volontà di potenza'"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Platone (variante 347)",
+    "options": [
+      "Filosofo del 'cogito'",
+      "Filosofo greco, allievo di Socrate",
+      "Filosofo della 'volontà di potenza'",
+      "Filosofo greco, studioso di logica e scienze"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Socrate (variante 138)",
+    "options": [
+      "Filosofo della 'volontà di potenza'",
+      "Filosofo della critica della ragione",
+      "Filosofo greco legato al metodo maieutico",
+      "Filosofo greco, allievo di Socrate"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Nietzsche (variante 151)",
+    "options": [
+      "Filosofo della 'volontà di potenza'",
+      "Filosofo greco, studioso di logica e scienze",
+      "Filosofo della critica della ragione",
+      "Filosofo greco, allievo di Socrate"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Kant (variante 223)",
+    "options": [
+      "Filosofo della 'volontà di potenza'",
+      "Filosofo greco legato al metodo maieutico",
+      "Filosofo greco, allievo di Socrate",
+      "Filosofo della critica della ragione"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Socrate (variante 16)",
+    "options": [
+      "Filosofo greco legato al metodo maieutico",
+      "Filosofo della critica della ragione",
+      "Filosofo greco, studioso di logica e scienze",
+      "Filosofo greco, allievo di Socrate"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Kant (variante 39)",
+    "options": [
+      "Filosofo della 'volontà di potenza'",
+      "Filosofo della critica della ragione",
+      "Filosofo del 'cogito'",
+      "Filosofo greco, studioso di logica e scienze"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Kant (variante 210)",
+    "options": [
+      "Filosofo greco legato al metodo maieutico",
+      "Filosofo della critica della ragione",
+      "Filosofo del 'cogito'",
+      "Filosofo della 'volontà di potenza'"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Nietzsche (variante 33)",
+    "options": [
+      "Filosofo della 'volontà di potenza'",
+      "Filosofo del 'cogito'",
+      "Filosofo greco, studioso di logica e scienze",
+      "Filosofo della critica della ragione"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Socrate (variante 277)",
+    "options": [
+      "Filosofo del 'cogito'",
+      "Filosofo della 'volontà di potenza'",
+      "Filosofo della critica della ragione",
+      "Filosofo greco legato al metodo maieutico"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Aristotele (variante 326)",
+    "options": [
+      "Filosofo greco legato al metodo maieutico",
+      "Filosofo della 'volontà di potenza'",
+      "Filosofo greco, studioso di logica e scienze",
+      "Filosofo greco, allievo di Socrate"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Aristotele (variante 222)",
+    "options": [
+      "Filosofo del 'cogito'",
+      "Filosofo greco, studioso di logica e scienze",
+      "Filosofo della 'volontà di potenza'",
+      "Filosofo greco, allievo di Socrate"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Descartes (variante 382)",
+    "options": [
+      "Filosofo del 'cogito'",
+      "Filosofo della 'volontà di potenza'",
+      "Filosofo greco, allievo di Socrate",
+      "Filosofo greco, studioso di logica e scienze"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Aristotele (variante 334)",
+    "options": [
+      "Filosofo greco, studioso di logica e scienze",
+      "Filosofo greco legato al metodo maieutico",
+      "Filosofo della 'volontà di potenza'",
+      "Filosofo della critica della ragione"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Aristotele (variante 162)",
+    "options": [
+      "Filosofo della critica della ragione",
+      "Filosofo del 'cogito'",
+      "Filosofo greco legato al metodo maieutico",
+      "Filosofo greco, studioso di logica e scienze"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Kant (variante 361)",
+    "options": [
+      "Filosofo della critica della ragione",
+      "Filosofo greco legato al metodo maieutico",
+      "Filosofo greco, allievo di Socrate",
+      "Filosofo della 'volontà di potenza'"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Nietzsche (variante 389)",
+    "options": [
+      "Filosofo greco, allievo di Socrate",
+      "Filosofo greco, studioso di logica e scienze",
+      "Filosofo della 'volontà di potenza'",
+      "Filosofo greco legato al metodo maieutico"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Socrate (variante 212)",
+    "options": [
+      "Filosofo greco legato al metodo maieutico",
+      "Filosofo del 'cogito'",
+      "Filosofo greco, studioso di logica e scienze",
+      "Filosofo della 'volontà di potenza'"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Aristotele (variante 115)",
+    "options": [
+      "Filosofo greco, allievo di Socrate",
+      "Filosofo della critica della ragione",
+      "Filosofo greco legato al metodo maieutico",
+      "Filosofo greco, studioso di logica e scienze"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Nietzsche (variante 260)",
+    "options": [
+      "Filosofo della 'volontà di potenza'",
+      "Filosofo greco legato al metodo maieutico",
+      "Filosofo greco, allievo di Socrate",
+      "Filosofo della critica della ragione"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Socrate (variante 270)",
+    "options": [
+      "Filosofo del 'cogito'",
+      "Filosofo greco legato al metodo maieutico",
+      "Filosofo della critica della ragione",
+      "Filosofo della 'volontà di potenza'"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Platone (variante 261)",
+    "options": [
+      "Filosofo della critica della ragione",
+      "Filosofo greco legato al metodo maieutico",
+      "Filosofo della 'volontà di potenza'",
+      "Filosofo greco, allievo di Socrate"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Platone (variante 106)",
+    "options": [
+      "Filosofo greco, studioso di logica e scienze",
+      "Filosofo della critica della ragione",
+      "Filosofo del 'cogito'",
+      "Filosofo greco, allievo di Socrate"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Platone (variante 114)",
+    "options": [
+      "Filosofo greco legato al metodo maieutico",
+      "Filosofo greco, allievo di Socrate",
+      "Filosofo greco, studioso di logica e scienze",
+      "Filosofo della critica della ragione"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Descartes (variante 128)",
+    "options": [
+      "Filosofo greco legato al metodo maieutico",
+      "Filosofo greco, allievo di Socrate",
+      "Filosofo della critica della ragione",
+      "Filosofo del 'cogito'"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Platone (variante 362)",
+    "options": [
+      "Filosofo della critica della ragione",
+      "Filosofo greco legato al metodo maieutico",
+      "Filosofo greco, allievo di Socrate",
+      "Filosofo greco, studioso di logica e scienze"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Nietzsche (variante 410)",
+    "options": [
+      "Filosofo della critica della ragione",
+      "Filosofo della 'volontà di potenza'",
+      "Filosofo greco, allievo di Socrate",
+      "Filosofo greco legato al metodo maieutico"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Descartes (variante 287)",
+    "options": [
+      "Filosofo greco, studioso di logica e scienze",
+      "Filosofo della 'volontà di potenza'",
+      "Filosofo greco, allievo di Socrate",
+      "Filosofo del 'cogito'"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Nietzsche (variante 337)",
+    "options": [
+      "Filosofo della 'volontà di potenza'",
+      "Filosofo greco, allievo di Socrate",
+      "Filosofo della critica della ragione",
+      "Filosofo greco legato al metodo maieutico"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Platone (variante 142)",
+    "options": [
+      "Filosofo della 'volontà di potenza'",
+      "Filosofo del 'cogito'",
+      "Filosofo greco, studioso di logica e scienze",
+      "Filosofo greco, allievo di Socrate"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Nietzsche (variante 242)",
+    "options": [
+      "Filosofo della critica della ragione",
+      "Filosofo greco, studioso di logica e scienze",
+      "Filosofo della 'volontà di potenza'",
+      "Filosofo greco legato al metodo maieutico"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Aristotele (variante 88)",
+    "options": [
+      "Filosofo greco, allievo di Socrate",
+      "Filosofo greco, studioso di logica e scienze",
+      "Filosofo della 'volontà di potenza'",
+      "Filosofo greco legato al metodo maieutico"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Aristotele (variante 180)",
+    "options": [
+      "Filosofo greco, allievo di Socrate",
+      "Filosofo della critica della ragione",
+      "Filosofo della 'volontà di potenza'",
+      "Filosofo greco, studioso di logica e scienze"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Descartes (variante 245)",
+    "options": [
+      "Filosofo greco, allievo di Socrate",
+      "Filosofo greco legato al metodo maieutico",
+      "Filosofo del 'cogito'",
+      "Filosofo della 'volontà di potenza'"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Descartes (variante 352)",
+    "options": [
+      "Filosofo greco, studioso di logica e scienze",
+      "Filosofo della 'volontà di potenza'",
+      "Filosofo greco legato al metodo maieutico",
+      "Filosofo del 'cogito'"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Nietzsche (variante 206)",
+    "options": [
+      "Filosofo della 'volontà di potenza'",
+      "Filosofo greco, studioso di logica e scienze",
+      "Filosofo della critica della ragione",
+      "Filosofo del 'cogito'"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Descartes (variante 47)",
+    "options": [
+      "Filosofo greco, studioso di logica e scienze",
+      "Filosofo del 'cogito'",
+      "Filosofo greco, allievo di Socrate",
+      "Filosofo greco legato al metodo maieutico"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Socrate (variante 147)",
+    "options": [
+      "Filosofo greco, studioso di logica e scienze",
+      "Filosofo della 'volontà di potenza'",
+      "Filosofo greco legato al metodo maieutico",
+      "Filosofo del 'cogito'"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Socrate (variante 227)",
+    "options": [
+      "Filosofo greco legato al metodo maieutico",
+      "Filosofo greco, studioso di logica e scienze",
+      "Filosofo del 'cogito'",
+      "Filosofo della 'volontà di potenza'"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Platone (variante 371)",
+    "options": [
+      "Filosofo greco, studioso di logica e scienze",
+      "Filosofo della 'volontà di potenza'",
+      "Filosofo della critica della ragione",
+      "Filosofo greco, allievo di Socrate"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Descartes (variante 15)",
+    "options": [
+      "Filosofo greco legato al metodo maieutico",
+      "Filosofo del 'cogito'",
+      "Filosofo della critica della ragione",
+      "Filosofo della 'volontà di potenza'"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Platone (variante 401)",
+    "options": [
+      "Filosofo della critica della ragione",
+      "Filosofo greco, allievo di Socrate",
+      "Filosofo greco, studioso di logica e scienze",
+      "Filosofo greco legato al metodo maieutico"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Platone (variante 204)",
+    "options": [
+      "Filosofo del 'cogito'",
+      "Filosofo greco, studioso di logica e scienze",
+      "Filosofo greco, allievo di Socrate",
+      "Filosofo della critica della ragione"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Platone (variante 45)",
+    "options": [
+      "Filosofo del 'cogito'",
+      "Filosofo greco, allievo di Socrate",
+      "Filosofo della 'volontà di potenza'",
+      "Filosofo greco, studioso di logica e scienze"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Nietzsche (variante 359)",
+    "options": [
+      "Filosofo della critica della ragione",
+      "Filosofo del 'cogito'",
+      "Filosofo greco legato al metodo maieutico",
+      "Filosofo della 'volontà di potenza'"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Nietzsche (variante 219)",
+    "options": [
+      "Filosofo greco, studioso di logica e scienze",
+      "Filosofo del 'cogito'",
+      "Filosofo greco legato al metodo maieutico",
+      "Filosofo della 'volontà di potenza'"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Socrate (variante 215)",
+    "options": [
+      "Filosofo della 'volontà di potenza'",
+      "Filosofo del 'cogito'",
+      "Filosofo greco legato al metodo maieutico",
+      "Filosofo greco, allievo di Socrate"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Aristotele (variante 96)",
+    "options": [
+      "Filosofo greco legato al metodo maieutico",
+      "Filosofo greco, studioso di logica e scienze",
+      "Filosofo della critica della ragione",
+      "Filosofo greco, allievo di Socrate"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Socrate (variante 1)",
+    "options": [
+      "Filosofo della critica della ragione",
+      "Filosofo greco, allievo di Socrate",
+      "Filosofo della 'volontà di potenza'",
+      "Filosofo greco legato al metodo maieutico"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Nietzsche (variante 367)",
+    "options": [
+      "Filosofo greco, allievo di Socrate",
+      "Filosofo greco, studioso di logica e scienze",
+      "Filosofo della critica della ragione",
+      "Filosofo della 'volontà di potenza'"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Nietzsche (variante 395)",
+    "options": [
+      "Filosofo greco, studioso di logica e scienze",
+      "Filosofo della 'volontà di potenza'",
+      "Filosofo greco legato al metodo maieutico",
+      "Filosofo della critica della ragione"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Descartes (variante 120)",
+    "options": [
+      "Filosofo della critica della ragione",
+      "Filosofo della 'volontà di potenza'",
+      "Filosofo del 'cogito'",
+      "Filosofo greco legato al metodo maieutico"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Socrate (variante 268)",
+    "options": [
+      "Filosofo greco, studioso di logica e scienze",
+      "Filosofo greco, allievo di Socrate",
+      "Filosofo della critica della ragione",
+      "Filosofo greco legato al metodo maieutico"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Platone (variante 103)",
+    "options": [
+      "Filosofo della critica della ragione",
+      "Filosofo greco, studioso di logica e scienze",
+      "Filosofo greco legato al metodo maieutico",
+      "Filosofo greco, allievo di Socrate"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Platone (variante 251)",
+    "options": [
+      "Filosofo greco, studioso di logica e scienze",
+      "Filosofo greco, allievo di Socrate",
+      "Filosofo della critica della ragione",
+      "Filosofo del 'cogito'"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Kant (variante 267)",
+    "options": [
+      "Filosofo della critica della ragione",
+      "Filosofo del 'cogito'",
+      "Filosofo greco, studioso di logica e scienze",
+      "Filosofo della 'volontà di potenza'"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Platone (variante 265)",
+    "options": [
+      "Filosofo greco legato al metodo maieutico",
+      "Filosofo greco, allievo di Socrate",
+      "Filosofo greco, studioso di logica e scienze",
+      "Filosofo della 'volontà di potenza'"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Descartes (variante 113)",
+    "options": [
+      "Filosofo della critica della ragione",
+      "Filosofo greco, studioso di logica e scienze",
+      "Filosofo della 'volontà di potenza'",
+      "Filosofo del 'cogito'"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Aristotele (variante 275)",
+    "options": [
+      "Filosofo greco, studioso di logica e scienze",
+      "Filosofo della 'volontà di potenza'",
+      "Filosofo della critica della ragione",
+      "Filosofo greco legato al metodo maieutico"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Nietzsche (variante 376)",
+    "options": [
+      "Filosofo della 'volontà di potenza'",
+      "Filosofo del 'cogito'",
+      "Filosofo greco legato al metodo maieutico",
+      "Filosofo della critica della ragione"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Kant (variante 342)",
+    "options": [
+      "Filosofo della critica della ragione",
+      "Filosofo del 'cogito'",
+      "Filosofo della 'volontà di potenza'",
+      "Filosofo greco, studioso di logica e scienze"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Descartes (variante 246)",
+    "options": [
+      "Filosofo greco, studioso di logica e scienze",
+      "Filosofo greco legato al metodo maieutico",
+      "Filosofo del 'cogito'",
+      "Filosofo greco, allievo di Socrate"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Platone (variante 314)",
+    "options": [
+      "Filosofo greco, allievo di Socrate",
+      "Filosofo greco, studioso di logica e scienze",
+      "Filosofo della critica della ragione",
+      "Filosofo greco legato al metodo maieutico"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Aristotele (variante 351)",
+    "options": [
+      "Filosofo greco, allievo di Socrate",
+      "Filosofo greco, studioso di logica e scienze",
+      "Filosofo del 'cogito'",
+      "Filosofo greco legato al metodo maieutico"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Aristotele (variante 364)",
+    "options": [
+      "Filosofo greco, allievo di Socrate",
+      "Filosofo del 'cogito'",
+      "Filosofo della 'volontà di potenza'",
+      "Filosofo greco, studioso di logica e scienze"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Nietzsche (variante 221)",
+    "options": [
+      "Filosofo del 'cogito'",
+      "Filosofo della critica della ragione",
+      "Filosofo greco legato al metodo maieutico",
+      "Filosofo della 'volontà di potenza'"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Platone (variante 55)",
+    "options": [
+      "Filosofo della critica della ragione",
+      "Filosofo greco, allievo di Socrate",
+      "Filosofo della 'volontà di potenza'",
+      "Filosofo del 'cogito'"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Platone (variante 290)",
+    "options": [
+      "Filosofo greco, allievo di Socrate",
+      "Filosofo della critica della ragione",
+      "Filosofo della 'volontà di potenza'",
+      "Filosofo del 'cogito'"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Descartes (variante 92)",
+    "options": [
+      "Filosofo del 'cogito'",
+      "Filosofo greco, studioso di logica e scienze",
+      "Filosofo della 'volontà di potenza'",
+      "Filosofo greco legato al metodo maieutico"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Aristotele (variante 89)",
+    "options": [
+      "Filosofo del 'cogito'",
+      "Filosofo della critica della ragione",
+      "Filosofo della 'volontà di potenza'",
+      "Filosofo greco, studioso di logica e scienze"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Nietzsche (variante 70)",
+    "options": [
+      "Filosofo del 'cogito'",
+      "Filosofo greco, allievo di Socrate",
+      "Filosofo della 'volontà di potenza'",
+      "Filosofo greco, studioso di logica e scienze"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Aristotele (variante 184)",
+    "options": [
+      "Filosofo greco, studioso di logica e scienze",
+      "Filosofo della 'volontà di potenza'",
+      "Filosofo del 'cogito'",
+      "Filosofo greco, allievo di Socrate"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Nietzsche (variante 66)",
+    "options": [
+      "Filosofo della 'volontà di potenza'",
+      "Filosofo greco, allievo di Socrate",
+      "Filosofo greco legato al metodo maieutico",
+      "Filosofo della critica della ragione"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Descartes (variante 131)",
+    "options": [
+      "Filosofo della critica della ragione",
+      "Filosofo del 'cogito'",
+      "Filosofo greco legato al metodo maieutico",
+      "Filosofo greco, studioso di logica e scienze"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Kant (variante 211)",
+    "options": [
+      "Filosofo della critica della ragione",
+      "Filosofo greco, allievo di Socrate",
+      "Filosofo greco legato al metodo maieutico",
+      "Filosofo della 'volontà di potenza'"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Socrate (variante 256)",
+    "options": [
+      "Filosofo della 'volontà di potenza'",
+      "Filosofo greco legato al metodo maieutico",
+      "Filosofo del 'cogito'",
+      "Filosofo greco, studioso di logica e scienze"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Socrate (variante 366)",
+    "options": [
+      "Filosofo greco, allievo di Socrate",
+      "Filosofo del 'cogito'",
+      "Filosofo greco legato al metodo maieutico",
+      "Filosofo della 'volontà di potenza'"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Aristotele (variante 58)",
+    "options": [
+      "Filosofo della 'volontà di potenza'",
+      "Filosofo greco legato al metodo maieutico",
+      "Filosofo del 'cogito'",
+      "Filosofo greco, studioso di logica e scienze"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Aristotele (variante 405)",
+    "options": [
+      "Filosofo greco, studioso di logica e scienze",
+      "Filosofo della 'volontà di potenza'",
+      "Filosofo della critica della ragione",
+      "Filosofo greco, allievo di Socrate"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Socrate (variante 37)",
+    "options": [
+      "Filosofo della 'volontà di potenza'",
+      "Filosofo del 'cogito'",
+      "Filosofo greco legato al metodo maieutico",
+      "Filosofo greco, studioso di logica e scienze"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Platone (variante 360)",
+    "options": [
+      "Filosofo del 'cogito'",
+      "Filosofo greco, allievo di Socrate",
+      "Filosofo della critica della ragione",
+      "Filosofo greco, studioso di logica e scienze"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Aristotele (variante 26)",
+    "options": [
+      "Filosofo greco legato al metodo maieutico",
+      "Filosofo greco, studioso di logica e scienze",
+      "Filosofo greco, allievo di Socrate",
+      "Filosofo del 'cogito'"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Socrate (variante 171)",
+    "options": [
+      "Filosofo della critica della ragione",
+      "Filosofo greco legato al metodo maieutico",
+      "Filosofo greco, studioso di logica e scienze",
+      "Filosofo greco, allievo di Socrate"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Socrate (variante 62)",
+    "options": [
+      "Filosofo greco, allievo di Socrate",
+      "Filosofo della critica della ragione",
+      "Filosofo greco legato al metodo maieutico",
+      "Filosofo del 'cogito'"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Socrate (variante 313)",
+    "options": [
+      "Filosofo greco, allievo di Socrate",
+      "Filosofo greco, studioso di logica e scienze",
+      "Filosofo greco legato al metodo maieutico",
+      "Filosofo della critica della ragione"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Aristotele (variante 183)",
+    "options": [
+      "Filosofo greco, allievo di Socrate",
+      "Filosofo della 'volontà di potenza'",
+      "Filosofo greco, studioso di logica e scienze",
+      "Filosofo del 'cogito'"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Kant (variante 48)",
+    "options": [
+      "Filosofo greco legato al metodo maieutico",
+      "Filosofo del 'cogito'",
+      "Filosofo della critica della ragione",
+      "Filosofo greco, studioso di logica e scienze"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Descartes (variante 417)",
+    "options": [
+      "Filosofo greco legato al metodo maieutico",
+      "Filosofo del 'cogito'",
+      "Filosofo greco, allievo di Socrate",
+      "Filosofo greco, studioso di logica e scienze"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Descartes (variante 196)",
+    "options": [
+      "Filosofo greco legato al metodo maieutico",
+      "Filosofo della 'volontà di potenza'",
+      "Filosofo del 'cogito'",
+      "Filosofo della critica della ragione"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Aristotele (variante 81)",
+    "options": [
+      "Filosofo greco legato al metodo maieutico",
+      "Filosofo della critica della ragione",
+      "Filosofo greco, allievo di Socrate",
+      "Filosofo greco, studioso di logica e scienze"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Nietzsche (variante 373)",
+    "options": [
+      "Filosofo greco, studioso di logica e scienze",
+      "Filosofo della 'volontà di potenza'",
+      "Filosofo della critica della ragione",
+      "Filosofo greco, allievo di Socrate"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Aristotele (variante 202)",
+    "options": [
+      "Filosofo del 'cogito'",
+      "Filosofo greco, studioso di logica e scienze",
+      "Filosofo greco legato al metodo maieutico",
+      "Filosofo della critica della ragione"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Kant (variante 316)",
+    "options": [
+      "Filosofo della critica della ragione",
+      "Filosofo greco, allievo di Socrate",
+      "Filosofo greco, studioso di logica e scienze",
+      "Filosofo della 'volontà di potenza'"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Nietzsche (variante 353)",
+    "options": [
+      "Filosofo del 'cogito'",
+      "Filosofo greco legato al metodo maieutico",
+      "Filosofo della 'volontà di potenza'",
+      "Filosofo greco, studioso di logica e scienze"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Descartes (variante 93)",
+    "options": [
+      "Filosofo greco, studioso di logica e scienze",
+      "Filosofo della critica della ragione",
+      "Filosofo greco, allievo di Socrate",
+      "Filosofo del 'cogito'"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Socrate (variante 23)",
+    "options": [
+      "Filosofo del 'cogito'",
+      "Filosofo greco legato al metodo maieutico",
+      "Filosofo della 'volontà di potenza'",
+      "Filosofo greco, allievo di Socrate"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Socrate (variante 336)",
+    "options": [
+      "Filosofo greco legato al metodo maieutico",
+      "Filosofo greco, studioso di logica e scienze",
+      "Filosofo greco, allievo di Socrate",
+      "Filosofo della critica della ragione"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Socrate (variante 72)",
+    "options": [
+      "Filosofo della 'volontà di potenza'",
+      "Filosofo greco legato al metodo maieutico",
+      "Filosofo greco, allievo di Socrate",
+      "Filosofo greco, studioso di logica e scienze"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Platone (variante 332)",
+    "options": [
+      "Filosofo della 'volontà di potenza'",
+      "Filosofo greco, allievo di Socrate",
+      "Filosofo greco, studioso di logica e scienze",
+      "Filosofo del 'cogito'"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Socrate (variante 365)",
+    "options": [
+      "Filosofo della 'volontà di potenza'",
+      "Filosofo del 'cogito'",
+      "Filosofo greco legato al metodo maieutico",
+      "Filosofo della critica della ragione"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Aristotele (variante 100)",
+    "options": [
+      "Filosofo della 'volontà di potenza'",
+      "Filosofo della critica della ragione",
+      "Filosofo greco, allievo di Socrate",
+      "Filosofo greco, studioso di logica e scienze"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Kant (variante 309)",
+    "options": [
+      "Filosofo greco, allievo di Socrate",
+      "Filosofo greco, studioso di logica e scienze",
+      "Filosofo greco legato al metodo maieutico",
+      "Filosofo della critica della ragione"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Aristotele (variante 56)",
+    "options": [
+      "Filosofo greco, studioso di logica e scienze",
+      "Filosofo della 'volontà di potenza'",
+      "Filosofo greco, allievo di Socrate",
+      "Filosofo del 'cogito'"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Socrate (variante 175)",
+    "options": [
+      "Filosofo greco, allievo di Socrate",
+      "Filosofo greco legato al metodo maieutico",
+      "Filosofo della 'volontà di potenza'",
+      "Filosofo greco, studioso di logica e scienze"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Nietzsche (variante 263)",
+    "options": [
+      "Filosofo greco legato al metodo maieutico",
+      "Filosofo del 'cogito'",
+      "Filosofo della 'volontà di potenza'",
+      "Filosofo della critica della ragione"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Descartes (variante 201)",
+    "options": [
+      "Filosofo della 'volontà di potenza'",
+      "Filosofo del 'cogito'",
+      "Filosofo greco, allievo di Socrate",
+      "Filosofo greco legato al metodo maieutico"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Nietzsche (variante 99)",
+    "options": [
+      "Filosofo della 'volontà di potenza'",
+      "Filosofo greco legato al metodo maieutico",
+      "Filosofo del 'cogito'",
+      "Filosofo della critica della ragione"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Aristotele (variante 310)",
+    "options": [
+      "Filosofo greco, studioso di logica e scienze",
+      "Filosofo della 'volontà di potenza'",
+      "Filosofo greco legato al metodo maieutico",
+      "Filosofo della critica della ragione"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Aristotele (variante 315)",
+    "options": [
+      "Filosofo greco, studioso di logica e scienze",
+      "Filosofo greco, allievo di Socrate",
+      "Filosofo della 'volontà di potenza'",
+      "Filosofo della critica della ragione"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Descartes (variante 87)",
+    "options": [
+      "Filosofo del 'cogito'",
+      "Filosofo della 'volontà di potenza'",
+      "Filosofo greco, studioso di logica e scienze",
+      "Filosofo greco legato al metodo maieutico"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Nietzsche (variante 321)",
+    "options": [
+      "Filosofo del 'cogito'",
+      "Filosofo della 'volontà di potenza'",
+      "Filosofo greco legato al metodo maieutico",
+      "Filosofo della critica della ragione"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Platone (variante 137)",
+    "options": [
+      "Filosofo del 'cogito'",
+      "Filosofo greco, allievo di Socrate",
+      "Filosofo della critica della ragione",
+      "Filosofo greco legato al metodo maieutico"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Aristotele (variante 248)",
+    "options": [
+      "Filosofo greco, studioso di logica e scienze",
+      "Filosofo della critica della ragione",
+      "Filosofo del 'cogito'",
+      "Filosofo greco legato al metodo maieutico"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Platone (variante 418)",
+    "options": [
+      "Filosofo greco legato al metodo maieutico",
+      "Filosofo greco, allievo di Socrate",
+      "Filosofo greco, studioso di logica e scienze",
+      "Filosofo della critica della ragione"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Socrate (variante 379)",
+    "options": [
+      "Filosofo greco, studioso di logica e scienze",
+      "Filosofo greco legato al metodo maieutico",
+      "Filosofo greco, allievo di Socrate",
+      "Filosofo della 'volontà di potenza'"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Socrate (variante 187)",
+    "options": [
+      "Filosofo della 'volontà di potenza'",
+      "Filosofo della critica della ragione",
+      "Filosofo greco legato al metodo maieutico",
+      "Filosofo greco, allievo di Socrate"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Socrate (variante 255)",
+    "options": [
+      "Filosofo della 'volontà di potenza'",
+      "Filosofo greco, studioso di logica e scienze",
+      "Filosofo greco legato al metodo maieutico",
+      "Filosofo greco, allievo di Socrate"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Socrate (variante 108)",
+    "options": [
+      "Filosofo della 'volontà di potenza'",
+      "Filosofo della critica della ragione",
+      "Filosofo greco legato al metodo maieutico",
+      "Filosofo greco, allievo di Socrate"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Nietzsche (variante 176)",
+    "options": [
+      "Filosofo della critica della ragione",
+      "Filosofo della 'volontà di potenza'",
+      "Filosofo del 'cogito'",
+      "Filosofo greco, studioso di logica e scienze"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Descartes (variante 205)",
+    "options": [
+      "Filosofo della 'volontà di potenza'",
+      "Filosofo del 'cogito'",
+      "Filosofo greco, studioso di logica e scienze",
+      "Filosofo greco legato al metodo maieutico"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Aristotele (variante 258)",
+    "options": [
+      "Filosofo greco, studioso di logica e scienze",
+      "Filosofo greco legato al metodo maieutico",
+      "Filosofo del 'cogito'",
+      "Filosofo greco, allievo di Socrate"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Platone (variante 259)",
+    "options": [
+      "Filosofo greco, allievo di Socrate",
+      "Filosofo della critica della ragione",
+      "Filosofo greco legato al metodo maieutico",
+      "Filosofo del 'cogito'"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Aristotele (variante 208)",
+    "options": [
+      "Filosofo greco legato al metodo maieutico",
+      "Filosofo della 'volontà di potenza'",
+      "Filosofo della critica della ragione",
+      "Filosofo greco, studioso di logica e scienze"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Platone (variante 214)",
+    "options": [
+      "Filosofo greco, allievo di Socrate",
+      "Filosofo della critica della ragione",
+      "Filosofo della 'volontà di potenza'",
+      "Filosofo del 'cogito'"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Socrate (variante 63)",
+    "options": [
+      "Filosofo della critica della ragione",
+      "Filosofo della 'volontà di potenza'",
+      "Filosofo greco legato al metodo maieutico",
+      "Filosofo greco, studioso di logica e scienze"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Aristotele (variante 298)",
+    "options": [
+      "Filosofo del 'cogito'",
+      "Filosofo della critica della ragione",
+      "Filosofo greco, studioso di logica e scienze",
+      "Filosofo della 'volontà di potenza'"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Socrate (variante 368)",
+    "options": [
+      "Filosofo greco, allievo di Socrate",
+      "Filosofo della 'volontà di potenza'",
+      "Filosofo greco legato al metodo maieutico",
+      "Filosofo greco, studioso di logica e scienze"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Aristotele (variante 412)",
+    "options": [
+      "Filosofo greco, studioso di logica e scienze",
+      "Filosofo della critica della ragione",
+      "Filosofo greco legato al metodo maieutico",
+      "Filosofo greco, allievo di Socrate"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Socrate (variante 289)",
+    "options": [
+      "Filosofo greco, allievo di Socrate",
+      "Filosofo della critica della ragione",
+      "Filosofo del 'cogito'",
+      "Filosofo greco legato al metodo maieutico"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Platone (variante 381)",
+    "options": [
+      "Filosofo greco, allievo di Socrate",
+      "Filosofo del 'cogito'",
+      "Filosofo greco legato al metodo maieutico",
+      "Filosofo della critica della ragione"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Kant (variante 264)",
+    "options": [
+      "Filosofo greco legato al metodo maieutico",
+      "Filosofo greco, allievo di Socrate",
+      "Filosofo della critica della ragione",
+      "Filosofo della 'volontà di potenza'"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Descartes (variante 2)",
+    "options": [
+      "Filosofo del 'cogito'",
+      "Filosofo greco, studioso di logica e scienze",
+      "Filosofo della critica della ragione",
+      "Filosofo greco legato al metodo maieutico"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Socrate (variante 174)",
+    "options": [
+      "Filosofo greco legato al metodo maieutico",
+      "Filosofo del 'cogito'",
+      "Filosofo della 'volontà di potenza'",
+      "Filosofo greco, studioso di logica e scienze"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Kant (variante 4)",
+    "options": [
+      "Filosofo greco, allievo di Socrate",
+      "Filosofo del 'cogito'",
+      "Filosofo della critica della ragione",
+      "Filosofo greco legato al metodo maieutico"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Kant (variante 191)",
+    "options": [
+      "Filosofo greco, studioso di logica e scienze",
+      "Filosofo del 'cogito'",
+      "Filosofo della critica della ragione",
+      "Filosofo della 'volontà di potenza'"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Platone (variante 257)",
+    "options": [
+      "Filosofo della critica della ragione",
+      "Filosofo greco, studioso di logica e scienze",
+      "Filosofo del 'cogito'",
+      "Filosofo greco, allievo di Socrate"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Aristotele (variante 74)",
+    "options": [
+      "Filosofo greco, studioso di logica e scienze",
+      "Filosofo greco legato al metodo maieutico",
+      "Filosofo greco, allievo di Socrate",
+      "Filosofo della critica della ragione"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Socrate (variante 322)",
+    "options": [
+      "Filosofo greco, studioso di logica e scienze",
+      "Filosofo del 'cogito'",
+      "Filosofo greco legato al metodo maieutico",
+      "Filosofo della critica della ragione"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Aristotele (variante 387)",
+    "options": [
+      "Filosofo della 'volontà di potenza'",
+      "Filosofo greco, studioso di logica e scienze",
+      "Filosofo del 'cogito'",
+      "Filosofo greco legato al metodo maieutico"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Kant (variante 150)",
+    "options": [
+      "Filosofo greco, studioso di logica e scienze",
+      "Filosofo della critica della ragione",
+      "Filosofo del 'cogito'",
+      "Filosofo greco, allievo di Socrate"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Platone (variante 252)",
+    "options": [
+      "Filosofo greco, studioso di logica e scienze",
+      "Filosofo greco legato al metodo maieutico",
+      "Filosofo della critica della ragione",
+      "Filosofo greco, allievo di Socrate"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Aristotele (variante 104)",
+    "options": [
+      "Filosofo greco legato al metodo maieutico",
+      "Filosofo del 'cogito'",
+      "Filosofo greco, studioso di logica e scienze",
+      "Filosofo greco, allievo di Socrate"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Nietzsche (variante 385)",
+    "options": [
+      "Filosofo greco, allievo di Socrate",
+      "Filosofo greco legato al metodo maieutico",
+      "Filosofo della 'volontà di potenza'",
+      "Filosofo del 'cogito'"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Aristotele (variante 85)",
+    "options": [
+      "Filosofo del 'cogito'",
+      "Filosofo della 'volontà di potenza'",
+      "Filosofo greco legato al metodo maieutico",
+      "Filosofo greco, studioso di logica e scienze"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Descartes (variante 124)",
+    "options": [
+      "Filosofo della 'volontà di potenza'",
+      "Filosofo greco, allievo di Socrate",
+      "Filosofo greco legato al metodo maieutico",
+      "Filosofo del 'cogito'"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Platone (variante 17)",
+    "options": [
+      "Filosofo della 'volontà di potenza'",
+      "Filosofo greco, allievo di Socrate",
+      "Filosofo del 'cogito'",
+      "Filosofo della critica della ragione"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Nietzsche (variante 30)",
+    "options": [
+      "Filosofo greco legato al metodo maieutico",
+      "Filosofo della 'volontà di potenza'",
+      "Filosofo greco, allievo di Socrate",
+      "Filosofo greco, studioso di logica e scienze"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Nietzsche (variante 420)",
+    "options": [
+      "Filosofo della 'volontà di potenza'",
+      "Filosofo greco legato al metodo maieutico",
+      "Filosofo della critica della ragione",
+      "Filosofo del 'cogito'"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Kant (variante 243)",
+    "options": [
+      "Filosofo greco legato al metodo maieutico",
+      "Filosofo della critica della ragione",
+      "Filosofo greco, allievo di Socrate",
+      "Filosofo del 'cogito'"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Socrate (variante 240)",
+    "options": [
+      "Filosofo della critica della ragione",
+      "Filosofo greco legato al metodo maieutico",
+      "Filosofo greco, studioso di logica e scienze",
+      "Filosofo della 'volontà di potenza'"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Platone (variante 234)",
+    "options": [
+      "Filosofo del 'cogito'",
+      "Filosofo greco, studioso di logica e scienze",
+      "Filosofo greco, allievo di Socrate",
+      "Filosofo greco legato al metodo maieutico"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Socrate (variante 91)",
+    "options": [
+      "Filosofo greco legato al metodo maieutico",
+      "Filosofo del 'cogito'",
+      "Filosofo della 'volontà di potenza'",
+      "Filosofo greco, studioso di logica e scienze"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Platone (variante 110)",
+    "options": [
+      "Filosofo greco legato al metodo maieutico",
+      "Filosofo del 'cogito'",
+      "Filosofo della 'volontà di potenza'",
+      "Filosofo greco, allievo di Socrate"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Aristotele (variante 280)",
+    "options": [
+      "Filosofo greco, studioso di logica e scienze",
+      "Filosofo greco legato al metodo maieutico",
+      "Filosofo della 'volontà di potenza'",
+      "Filosofo greco, allievo di Socrate"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Socrate (variante 102)",
+    "options": [
+      "Filosofo greco legato al metodo maieutico",
+      "Filosofo greco, allievo di Socrate",
+      "Filosofo greco, studioso di logica e scienze",
+      "Filosofo del 'cogito'"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Kant (variante 358)",
+    "options": [
+      "Filosofo della 'volontà di potenza'",
+      "Filosofo greco legato al metodo maieutico",
+      "Filosofo della critica della ragione",
+      "Filosofo del 'cogito'"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Kant (variante 340)",
+    "options": [
+      "Filosofo del 'cogito'",
+      "Filosofo della 'volontà di potenza'",
+      "Filosofo della critica della ragione",
+      "Filosofo greco, allievo di Socrate"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Descartes (variante 38)",
+    "options": [
+      "Filosofo greco legato al metodo maieutico",
+      "Filosofo della critica della ragione",
+      "Filosofo del 'cogito'",
+      "Filosofo greco, allievo di Socrate"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Platone (variante 167)",
+    "options": [
+      "Filosofo del 'cogito'",
+      "Filosofo greco legato al metodo maieutico",
+      "Filosofo greco, allievo di Socrate",
+      "Filosofo greco, studioso di logica e scienze"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Socrate (variante 126)",
+    "options": [
+      "Filosofo greco legato al metodo maieutico",
+      "Filosofo della 'volontà di potenza'",
+      "Filosofo della critica della ragione",
+      "Filosofo del 'cogito'"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Descartes (variante 370)",
+    "options": [
+      "Filosofo della 'volontà di potenza'",
+      "Filosofo della critica della ragione",
+      "Filosofo del 'cogito'",
+      "Filosofo greco, allievo di Socrate"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Descartes (variante 189)",
+    "options": [
+      "Filosofo greco legato al metodo maieutico",
+      "Filosofo del 'cogito'",
+      "Filosofo della 'volontà di potenza'",
+      "Filosofo greco, allievo di Socrate"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Descartes (variante 61)",
+    "options": [
+      "Filosofo greco, studioso di logica e scienze",
+      "Filosofo del 'cogito'",
+      "Filosofo della 'volontà di potenza'",
+      "Filosofo greco, allievo di Socrate"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Kant (variante 406)",
+    "options": [
+      "Filosofo greco, allievo di Socrate",
+      "Filosofo greco, studioso di logica e scienze",
+      "Filosofo della critica della ragione",
+      "Filosofo della 'volontà di potenza'"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Aristotele (variante 80)",
+    "options": [
+      "Filosofo greco, studioso di logica e scienze",
+      "Filosofo della critica della ragione",
+      "Filosofo greco, allievo di Socrate",
+      "Filosofo della 'volontà di potenza'"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Nietzsche (variante 328)",
+    "options": [
+      "Filosofo greco, studioso di logica e scienze",
+      "Filosofo della 'volontà di potenza'",
+      "Filosofo della critica della ragione",
+      "Filosofo del 'cogito'"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Aristotele (variante 60)",
+    "options": [
+      "Filosofo greco, studioso di logica e scienze",
+      "Filosofo greco legato al metodo maieutico",
+      "Filosofo della critica della ragione",
+      "Filosofo della 'volontà di potenza'"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Kant (variante 288)",
+    "options": [
+      "Filosofo greco, allievo di Socrate",
+      "Filosofo della critica della ragione",
+      "Filosofo greco, studioso di logica e scienze",
+      "Filosofo greco legato al metodo maieutico"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Socrate (variante 274)",
+    "options": [
+      "Filosofo del 'cogito'",
+      "Filosofo della critica della ragione",
+      "Filosofo greco legato al metodo maieutico",
+      "Filosofo greco, studioso di logica e scienze"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Aristotele (variante 299)",
+    "options": [
+      "Filosofo greco, allievo di Socrate",
+      "Filosofo della 'volontà di potenza'",
+      "Filosofo greco, studioso di logica e scienze",
+      "Filosofo del 'cogito'"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Aristotele (variante 27)",
+    "options": [
+      "Filosofo della critica della ragione",
+      "Filosofo greco legato al metodo maieutico",
+      "Filosofo greco, studioso di logica e scienze",
+      "Filosofo della 'volontà di potenza'"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Platone (variante 279)",
+    "options": [
+      "Filosofo greco, studioso di logica e scienze",
+      "Filosofo greco legato al metodo maieutico",
+      "Filosofo del 'cogito'",
+      "Filosofo greco, allievo di Socrate"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Platone (variante 21)",
+    "options": [
+      "Filosofo greco, studioso di logica e scienze",
+      "Filosofo del 'cogito'",
+      "Filosofo della 'volontà di potenza'",
+      "Filosofo greco, allievo di Socrate"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Descartes (variante 369)",
+    "options": [
+      "Filosofo del 'cogito'",
+      "Filosofo della 'volontà di potenza'",
+      "Filosofo greco legato al metodo maieutico",
+      "Filosofo greco, studioso di logica e scienze"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Nietzsche (variante 419)",
+    "options": [
+      "Filosofo greco, allievo di Socrate",
+      "Filosofo greco legato al metodo maieutico",
+      "Filosofo della 'volontà di potenza'",
+      "Filosofo della critica della ragione"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Nietzsche (variante 285)",
+    "options": [
+      "Filosofo della 'volontà di potenza'",
+      "Filosofo greco, allievo di Socrate",
+      "Filosofo greco legato al metodo maieutico",
+      "Filosofo del 'cogito'"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Kant (variante 144)",
+    "options": [
+      "Filosofo greco, studioso di logica e scienze",
+      "Filosofo del 'cogito'",
+      "Filosofo della critica della ragione",
+      "Filosofo della 'volontà di potenza'"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Platone (variante 145)",
+    "options": [
+      "Filosofo greco, allievo di Socrate",
+      "Filosofo della 'volontà di potenza'",
+      "Filosofo greco, studioso di logica e scienze",
+      "Filosofo greco legato al metodo maieutico"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Kant (variante 173)",
+    "options": [
+      "Filosofo della critica della ragione",
+      "Filosofo del 'cogito'",
+      "Filosofo greco, studioso di logica e scienze",
+      "Filosofo della 'volontà di potenza'"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Nietzsche (variante 119)",
+    "options": [
+      "Filosofo della critica della ragione",
+      "Filosofo della 'volontà di potenza'",
+      "Filosofo greco, allievo di Socrate",
+      "Filosofo greco legato al metodo maieutico"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Aristotele (variante 84)",
+    "options": [
+      "Filosofo greco, allievo di Socrate",
+      "Filosofo della critica della ragione",
+      "Filosofo del 'cogito'",
+      "Filosofo greco, studioso di logica e scienze"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Socrate (variante 9)",
+    "options": [
+      "Filosofo della critica della ragione",
+      "Filosofo greco, studioso di logica e scienze",
+      "Filosofo della 'volontà di potenza'",
+      "Filosofo greco legato al metodo maieutico"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Descartes (variante 49)",
+    "options": [
+      "Filosofo del 'cogito'",
+      "Filosofo greco, studioso di logica e scienze",
+      "Filosofo greco, allievo di Socrate",
+      "Filosofo greco legato al metodo maieutico"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Descartes (variante 164)",
+    "options": [
+      "Filosofo del 'cogito'",
+      "Filosofo greco, allievo di Socrate",
+      "Filosofo della critica della ragione",
+      "Filosofo greco legato al metodo maieutico"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Nietzsche (variante 111)",
+    "options": [
+      "Filosofo della critica della ragione",
+      "Filosofo greco, studioso di logica e scienze",
+      "Filosofo della 'volontà di potenza'",
+      "Filosofo greco legato al metodo maieutico"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Nietzsche (variante 121)",
+    "options": [
+      "Filosofo del 'cogito'",
+      "Filosofo greco legato al metodo maieutico",
+      "Filosofo della critica della ragione",
+      "Filosofo della 'volontà di potenza'"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Kant (variante 178)",
+    "options": [
+      "Filosofo della critica della ragione",
+      "Filosofo del 'cogito'",
+      "Filosofo della 'volontà di potenza'",
+      "Filosofo greco, studioso di logica e scienze"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Nietzsche (variante 95)",
+    "options": [
+      "Filosofo della critica della ragione",
+      "Filosofo greco, allievo di Socrate",
+      "Filosofo greco, studioso di logica e scienze",
+      "Filosofo della 'volontà di potenza'"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Socrate (variante 237)",
+    "options": [
+      "Filosofo greco legato al metodo maieutico",
+      "Filosofo greco, allievo di Socrate",
+      "Filosofo del 'cogito'",
+      "Filosofo della 'volontà di potenza'"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Nietzsche (variante 107)",
+    "options": [
+      "Filosofo greco, allievo di Socrate",
+      "Filosofo greco legato al metodo maieutico",
+      "Filosofo greco, studioso di logica e scienze",
+      "Filosofo della 'volontà di potenza'"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Nietzsche (variante 238)",
+    "options": [
+      "Filosofo greco, allievo di Socrate",
+      "Filosofo greco, studioso di logica e scienze",
+      "Filosofo della 'volontà di potenza'",
+      "Filosofo della critica della ragione"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Aristotele (variante 190)",
+    "options": [
+      "Filosofo del 'cogito'",
+      "Filosofo greco, studioso di logica e scienze",
+      "Filosofo della critica della ragione",
+      "Filosofo greco legato al metodo maieutico"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Descartes (variante 43)",
+    "options": [
+      "Filosofo del 'cogito'",
+      "Filosofo della critica della ragione",
+      "Filosofo greco, allievo di Socrate",
+      "Filosofo greco, studioso di logica e scienze"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Platone (variante 396)",
+    "options": [
+      "Filosofo greco, allievo di Socrate",
+      "Filosofo greco, studioso di logica e scienze",
+      "Filosofo del 'cogito'",
+      "Filosofo della 'volontà di potenza'"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Descartes (variante 273)",
+    "options": [
+      "Filosofo della 'volontà di potenza'",
+      "Filosofo greco, studioso di logica e scienze",
+      "Filosofo greco legato al metodo maieutico",
+      "Filosofo del 'cogito'"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Socrate (variante 29)",
+    "options": [
+      "Filosofo greco, studioso di logica e scienze",
+      "Filosofo della 'volontà di potenza'",
+      "Filosofo greco, allievo di Socrate",
+      "Filosofo greco legato al metodo maieutico"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Platone (variante 18)",
+    "options": [
+      "Filosofo della 'volontà di potenza'",
+      "Filosofo greco, allievo di Socrate",
+      "Filosofo del 'cogito'",
+      "Filosofo greco, studioso di logica e scienze"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Aristotele (variante 312)",
+    "options": [
+      "Filosofo della 'volontà di potenza'",
+      "Filosofo greco, allievo di Socrate",
+      "Filosofo greco, studioso di logica e scienze",
+      "Filosofo del 'cogito'"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Aristotele (variante 52)",
+    "options": [
+      "Filosofo greco legato al metodo maieutico",
+      "Filosofo greco, allievo di Socrate",
+      "Filosofo greco, studioso di logica e scienze",
+      "Filosofo della 'volontà di potenza'"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Descartes (variante 146)",
+    "options": [
+      "Filosofo della critica della ragione",
+      "Filosofo della 'volontà di potenza'",
+      "Filosofo del 'cogito'",
+      "Filosofo greco, allievo di Socrate"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Descartes (variante 24)",
+    "options": [
+      "Filosofo del 'cogito'",
+      "Filosofo della critica della ragione",
+      "Filosofo greco legato al metodo maieutico",
+      "Filosofo greco, studioso di logica e scienze"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Aristotele (variante 3)",
+    "options": [
+      "Filosofo del 'cogito'",
+      "Filosofo greco, studioso di logica e scienze",
+      "Filosofo greco, allievo di Socrate",
+      "Filosofo greco legato al metodo maieutico"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Kant (variante 118)",
+    "options": [
+      "Filosofo della 'volontà di potenza'",
+      "Filosofo della critica della ragione",
+      "Filosofo greco, studioso di logica e scienze",
+      "Filosofo greco, allievo di Socrate"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Nietzsche (variante 402)",
+    "options": [
+      "Filosofo della critica della ragione",
+      "Filosofo del 'cogito'",
+      "Filosofo della 'volontà di potenza'",
+      "Filosofo greco legato al metodo maieutico"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Descartes (variante 82)",
+    "options": [
+      "Filosofo del 'cogito'",
+      "Filosofo della critica della ragione",
+      "Filosofo della 'volontà di potenza'",
+      "Filosofo greco, allievo di Socrate"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Platone (variante 378)",
+    "options": [
+      "Filosofo della critica della ragione",
+      "Filosofo greco, allievo di Socrate",
+      "Filosofo del 'cogito'",
+      "Filosofo greco, studioso di logica e scienze"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Descartes (variante 384)",
+    "options": [
+      "Filosofo della critica della ragione",
+      "Filosofo del 'cogito'",
+      "Filosofo greco, allievo di Socrate",
+      "Filosofo greco legato al metodo maieutico"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Socrate (variante 155)",
+    "options": [
+      "Filosofo greco legato al metodo maieutico",
+      "Filosofo del 'cogito'",
+      "Filosofo della critica della ragione",
+      "Filosofo della 'volontà di potenza'"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Platone (variante 324)",
+    "options": [
+      "Filosofo greco, allievo di Socrate",
+      "Filosofo della critica della ragione",
+      "Filosofo della 'volontà di potenza'",
+      "Filosofo greco, studioso di logica e scienze"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Nietzsche (variante 244)",
+    "options": [
+      "Filosofo greco, allievo di Socrate",
+      "Filosofo greco, studioso di logica e scienze",
+      "Filosofo greco legato al metodo maieutico",
+      "Filosofo della 'volontà di potenza'"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Nietzsche (variante 236)",
+    "options": [
+      "Filosofo greco, allievo di Socrate",
+      "Filosofo greco legato al metodo maieutico",
+      "Filosofo del 'cogito'",
+      "Filosofo della 'volontà di potenza'"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Nietzsche (variante 350)",
+    "options": [
+      "Filosofo della critica della ragione",
+      "Filosofo greco, allievo di Socrate",
+      "Filosofo del 'cogito'",
+      "Filosofo della 'volontà di potenza'"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Descartes (variante 13)",
+    "options": [
+      "Filosofo greco, allievo di Socrate",
+      "Filosofo della 'volontà di potenza'",
+      "Filosofo greco legato al metodo maieutico",
+      "Filosofo del 'cogito'"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Nietzsche (variante 112)",
+    "options": [
+      "Filosofo della critica della ragione",
+      "Filosofo della 'volontà di potenza'",
+      "Filosofo greco, studioso di logica e scienze",
+      "Filosofo greco, allievo di Socrate"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Kant (variante 123)",
+    "options": [
+      "Filosofo della critica della ragione",
+      "Filosofo greco legato al metodo maieutico",
+      "Filosofo greco, allievo di Socrate",
+      "Filosofo del 'cogito'"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Platone (variante 77)",
+    "options": [
+      "Filosofo greco, allievo di Socrate",
+      "Filosofo della 'volontà di potenza'",
+      "Filosofo greco legato al metodo maieutico",
+      "Filosofo del 'cogito'"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Nietzsche (variante 311)",
+    "options": [
+      "Filosofo greco, studioso di logica e scienze",
+      "Filosofo del 'cogito'",
+      "Filosofo della 'volontà di potenza'",
+      "Filosofo della critica della ragione"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Kant (variante 348)",
+    "options": [
+      "Filosofo della critica della ragione",
+      "Filosofo greco, allievo di Socrate",
+      "Filosofo del 'cogito'",
+      "Filosofo greco legato al metodo maieutico"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Nietzsche (variante 229)",
+    "options": [
+      "Filosofo della critica della ragione",
+      "Filosofo del 'cogito'",
+      "Filosofo greco, studioso di logica e scienze",
+      "Filosofo della 'volontà di potenza'"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Platone (variante 325)",
+    "options": [
+      "Filosofo della critica della ragione",
+      "Filosofo greco, studioso di logica e scienze",
+      "Filosofo della 'volontà di potenza'",
+      "Filosofo greco, allievo di Socrate"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Aristotele (variante 281)",
+    "options": [
+      "Filosofo greco, studioso di logica e scienze",
+      "Filosofo della critica della ragione",
+      "Filosofo greco legato al metodo maieutico",
+      "Filosofo greco, allievo di Socrate"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Descartes (variante 269)",
+    "options": [
+      "Filosofo greco legato al metodo maieutico",
+      "Filosofo della critica della ragione",
+      "Filosofo della 'volontà di potenza'",
+      "Filosofo del 'cogito'"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Descartes (variante 69)",
+    "options": [
+      "Filosofo greco, allievo di Socrate",
+      "Filosofo greco legato al metodo maieutico",
+      "Filosofo della 'volontà di potenza'",
+      "Filosofo del 'cogito'"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Platone (variante 225)",
+    "options": [
+      "Filosofo del 'cogito'",
+      "Filosofo della critica della ragione",
+      "Filosofo greco, allievo di Socrate",
+      "Filosofo greco, studioso di logica e scienze"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Platone (variante 232)",
+    "options": [
+      "Filosofo greco, studioso di logica e scienze",
+      "Filosofo greco, allievo di Socrate",
+      "Filosofo del 'cogito'",
+      "Filosofo della 'volontà di potenza'"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Kant (variante 199)",
+    "options": [
+      "Filosofo greco, studioso di logica e scienze",
+      "Filosofo greco legato al metodo maieutico",
+      "Filosofo della critica della ragione",
+      "Filosofo del 'cogito'"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Aristotele (variante 192)",
+    "options": [
+      "Filosofo greco legato al metodo maieutico",
+      "Filosofo del 'cogito'",
+      "Filosofo greco, studioso di logica e scienze",
+      "Filosofo della 'volontà di potenza'"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Descartes (variante 250)",
+    "options": [
+      "Filosofo greco, studioso di logica e scienze",
+      "Filosofo greco legato al metodo maieutico",
+      "Filosofo del 'cogito'",
+      "Filosofo della 'volontà di potenza'"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Descartes (variante 73)",
+    "options": [
+      "Filosofo greco, studioso di logica e scienze",
+      "Filosofo greco legato al metodo maieutico",
+      "Filosofo del 'cogito'",
+      "Filosofo greco, allievo di Socrate"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Descartes (variante 286)",
+    "options": [
+      "Filosofo greco legato al metodo maieutico",
+      "Filosofo greco, studioso di logica e scienze",
+      "Filosofo del 'cogito'",
+      "Filosofo della 'volontà di potenza'"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Kant (variante 185)",
+    "options": [
+      "Filosofo della 'volontà di potenza'",
+      "Filosofo greco, studioso di logica e scienze",
+      "Filosofo della critica della ragione",
+      "Filosofo greco, allievo di Socrate"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Socrate (variante 262)",
+    "options": [
+      "Filosofo della critica della ragione",
+      "Filosofo greco, studioso di logica e scienze",
+      "Filosofo greco legato al metodo maieutico",
+      "Filosofo greco, allievo di Socrate"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Aristotele (variante 65)",
+    "options": [
+      "Filosofo greco legato al metodo maieutico",
+      "Filosofo della 'volontà di potenza'",
+      "Filosofo greco, studioso di logica e scienze",
+      "Filosofo della critica della ragione"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Socrate (variante 357)",
+    "options": [
+      "Filosofo greco legato al metodo maieutico",
+      "Filosofo del 'cogito'",
+      "Filosofo della critica della ragione",
+      "Filosofo greco, studioso di logica e scienze"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Nietzsche (variante 158)",
+    "options": [
+      "Filosofo greco legato al metodo maieutico",
+      "Filosofo greco, studioso di logica e scienze",
+      "Filosofo della 'volontà di potenza'",
+      "Filosofo greco, allievo di Socrate"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Descartes (variante 97)",
+    "options": [
+      "Filosofo greco, allievo di Socrate",
+      "Filosofo della critica della ragione",
+      "Filosofo del 'cogito'",
+      "Filosofo greco legato al metodo maieutico"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Descartes (variante 296)",
+    "options": [
+      "Filosofo greco, allievo di Socrate",
+      "Filosofo del 'cogito'",
+      "Filosofo della 'volontà di potenza'",
+      "Filosofo della critica della ragione"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Aristotele (variante 318)",
+    "options": [
+      "Filosofo greco legato al metodo maieutico",
+      "Filosofo greco, studioso di logica e scienze",
+      "Filosofo della critica della ragione",
+      "Filosofo della 'volontà di potenza'"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Platone (variante 148)",
+    "options": [
+      "Filosofo della 'volontà di potenza'",
+      "Filosofo greco legato al metodo maieutico",
+      "Filosofo greco, studioso di logica e scienze",
+      "Filosofo greco, allievo di Socrate"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Platone (variante 276)",
+    "options": [
+      "Filosofo greco, allievo di Socrate",
+      "Filosofo del 'cogito'",
+      "Filosofo greco legato al metodo maieutico",
+      "Filosofo greco, studioso di logica e scienze"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Nietzsche (variante 282)",
+    "options": [
+      "Filosofo greco, studioso di logica e scienze",
+      "Filosofo del 'cogito'",
+      "Filosofo della critica della ragione",
+      "Filosofo della 'volontà di potenza'"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Descartes (variante 181)",
+    "options": [
+      "Filosofo greco, studioso di logica e scienze",
+      "Filosofo della 'volontà di potenza'",
+      "Filosofo greco, allievo di Socrate",
+      "Filosofo del 'cogito'"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Aristotele (variante 143)",
+    "options": [
+      "Filosofo greco legato al metodo maieutico",
+      "Filosofo della critica della ragione",
+      "Filosofo greco, studioso di logica e scienze",
+      "Filosofo del 'cogito'"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Platone (variante 345)",
+    "options": [
+      "Filosofo greco, allievo di Socrate",
+      "Filosofo del 'cogito'",
+      "Filosofo greco legato al metodo maieutico",
+      "Filosofo della 'volontà di potenza'"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Nietzsche (variante 278)",
+    "options": [
+      "Filosofo del 'cogito'",
+      "Filosofo della 'volontà di potenza'",
+      "Filosofo della critica della ragione",
+      "Filosofo greco, allievo di Socrate"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Socrate (variante 117)",
+    "options": [
+      "Filosofo della 'volontà di potenza'",
+      "Filosofo greco legato al metodo maieutico",
+      "Filosofo della critica della ragione",
+      "Filosofo greco, studioso di logica e scienze"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Kant (variante 71)",
+    "options": [
+      "Filosofo della 'volontà di potenza'",
+      "Filosofo del 'cogito'",
+      "Filosofo greco, allievo di Socrate",
+      "Filosofo della critica della ragione"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Kant (variante 68)",
+    "options": [
+      "Filosofo greco, studioso di logica e scienze",
+      "Filosofo della critica della ragione",
+      "Filosofo del 'cogito'",
+      "Filosofo della 'volontà di potenza'"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Socrate (variante 233)",
+    "options": [
+      "Filosofo greco legato al metodo maieutico",
+      "Filosofo greco, studioso di logica e scienze",
+      "Filosofo del 'cogito'",
+      "Filosofo della critica della ragione"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Nietzsche (variante 253)",
+    "options": [
+      "Filosofo della critica della ragione",
+      "Filosofo greco, studioso di logica e scienze",
+      "Filosofo del 'cogito'",
+      "Filosofo della 'volontà di potenza'"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Platone (variante 213)",
+    "options": [
+      "Filosofo del 'cogito'",
+      "Filosofo greco legato al metodo maieutico",
+      "Filosofo greco, allievo di Socrate",
+      "Filosofo della 'volontà di potenza'"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Kant (variante 6)",
+    "options": [
+      "Filosofo della 'volontà di potenza'",
+      "Filosofo del 'cogito'",
+      "Filosofo greco legato al metodo maieutico",
+      "Filosofo della critica della ragione"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Nietzsche (variante 22)",
+    "options": [
+      "Filosofo della critica della ragione",
+      "Filosofo greco legato al metodo maieutico",
+      "Filosofo della 'volontà di potenza'",
+      "Filosofo del 'cogito'"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Descartes (variante 411)",
+    "options": [
+      "Filosofo greco, allievo di Socrate",
+      "Filosofo greco legato al metodo maieutico",
+      "Filosofo della 'volontà di potenza'",
+      "Filosofo del 'cogito'"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Socrate (variante 356)",
+    "options": [
+      "Filosofo greco legato al metodo maieutico",
+      "Filosofo della critica della ragione",
+      "Filosofo greco, studioso di logica e scienze",
+      "Filosofo del 'cogito'"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Descartes (variante 397)",
+    "options": [
+      "Filosofo greco, studioso di logica e scienze",
+      "Filosofo della 'volontà di potenza'",
+      "Filosofo del 'cogito'",
+      "Filosofo della critica della ragione"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Aristotele (variante 294)",
+    "options": [
+      "Filosofo della 'volontà di potenza'",
+      "Filosofo del 'cogito'",
+      "Filosofo greco, studioso di logica e scienze",
+      "Filosofo greco legato al metodo maieutico"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Nietzsche (variante 266)",
+    "options": [
+      "Filosofo greco legato al metodo maieutico",
+      "Filosofo della 'volontà di potenza'",
+      "Filosofo della critica della ragione",
+      "Filosofo greco, studioso di logica e scienze"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Descartes (variante 168)",
+    "options": [
+      "Filosofo greco, studioso di logica e scienze",
+      "Filosofo greco legato al metodo maieutico",
+      "Filosofo del 'cogito'",
+      "Filosofo della 'volontà di potenza'"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Kant (variante 392)",
+    "options": [
+      "Filosofo greco, allievo di Socrate",
+      "Filosofo della 'volontà di potenza'",
+      "Filosofo greco, studioso di logica e scienze",
+      "Filosofo della critica della ragione"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Nietzsche (variante 303)",
+    "options": [
+      "Filosofo greco, studioso di logica e scienze",
+      "Filosofo greco legato al metodo maieutico",
+      "Filosofo della 'volontà di potenza'",
+      "Filosofo del 'cogito'"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Socrate (variante 226)",
+    "options": [
+      "Filosofo greco, allievo di Socrate",
+      "Filosofo greco legato al metodo maieutico",
+      "Filosofo della critica della ragione",
+      "Filosofo greco, studioso di logica e scienze"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Descartes (variante 398)",
+    "options": [
+      "Filosofo della critica della ragione",
+      "Filosofo del 'cogito'",
+      "Filosofo della 'volontà di potenza'",
+      "Filosofo greco, allievo di Socrate"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Socrate (variante 198)",
+    "options": [
+      "Filosofo della 'volontà di potenza'",
+      "Filosofo greco, studioso di logica e scienze",
+      "Filosofo del 'cogito'",
+      "Filosofo greco legato al metodo maieutico"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Kant (variante 35)",
+    "options": [
+      "Filosofo greco legato al metodo maieutico",
+      "Filosofo del 'cogito'",
+      "Filosofo greco, allievo di Socrate",
+      "Filosofo della critica della ragione"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Aristotele (variante 388)",
+    "options": [
+      "Filosofo greco, studioso di logica e scienze",
+      "Filosofo del 'cogito'",
+      "Filosofo greco legato al metodo maieutico",
+      "Filosofo greco, allievo di Socrate"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Kant (variante 295)",
+    "options": [
+      "Filosofo del 'cogito'",
+      "Filosofo della 'volontà di potenza'",
+      "Filosofo della critica della ragione",
+      "Filosofo greco legato al metodo maieutico"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Kant (variante 19)",
+    "options": [
+      "Filosofo della 'volontà di potenza'",
+      "Filosofo della critica della ragione",
+      "Filosofo del 'cogito'",
+      "Filosofo greco, allievo di Socrate"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Nietzsche (variante 44)",
+    "options": [
+      "Filosofo greco legato al metodo maieutico",
+      "Filosofo del 'cogito'",
+      "Filosofo della 'volontà di potenza'",
+      "Filosofo greco, allievo di Socrate"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Nietzsche (variante 414)",
+    "options": [
+      "Filosofo della 'volontà di potenza'",
+      "Filosofo greco, studioso di logica e scienze",
+      "Filosofo greco legato al metodo maieutico",
+      "Filosofo greco, allievo di Socrate"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Nietzsche (variante 116)",
+    "options": [
+      "Filosofo della critica della ragione",
+      "Filosofo greco legato al metodo maieutico",
+      "Filosofo della 'volontà di potenza'",
+      "Filosofo greco, studioso di logica e scienze"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Kant (variante 409)",
+    "options": [
+      "Filosofo della critica della ragione",
+      "Filosofo greco, allievo di Socrate",
+      "Filosofo greco, studioso di logica e scienze",
+      "Filosofo greco legato al metodo maieutico"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Nietzsche (variante 135)",
+    "options": [
+      "Filosofo del 'cogito'",
+      "Filosofo della 'volontà di potenza'",
+      "Filosofo della critica della ragione",
+      "Filosofo greco, allievo di Socrate"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Nietzsche (variante 165)",
+    "options": [
+      "Filosofo greco, allievo di Socrate",
+      "Filosofo della 'volontà di potenza'",
+      "Filosofo greco legato al metodo maieutico",
+      "Filosofo greco, studioso di logica e scienze"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Socrate (variante 11)",
+    "options": [
+      "Filosofo della 'volontà di potenza'",
+      "Filosofo greco, allievo di Socrate",
+      "Filosofo della critica della ragione",
+      "Filosofo greco legato al metodo maieutico"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Descartes (variante 86)",
+    "options": [
+      "Filosofo greco, studioso di logica e scienze",
+      "Filosofo greco legato al metodo maieutico",
+      "Filosofo della critica della ragione",
+      "Filosofo del 'cogito'"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Nietzsche (variante 179)",
+    "options": [
+      "Filosofo del 'cogito'",
+      "Filosofo greco, studioso di logica e scienze",
+      "Filosofo greco legato al metodo maieutico",
+      "Filosofo della 'volontà di potenza'"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Nietzsche (variante 53)",
+    "options": [
+      "Filosofo greco, studioso di logica e scienze",
+      "Filosofo del 'cogito'",
+      "Filosofo della 'volontà di potenza'",
+      "Filosofo della critica della ragione"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Socrate (variante 343)",
+    "options": [
+      "Filosofo greco, studioso di logica e scienze",
+      "Filosofo greco, allievo di Socrate",
+      "Filosofo greco legato al metodo maieutico",
+      "Filosofo del 'cogito'"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Kant (variante 231)",
+    "options": [
+      "Filosofo del 'cogito'",
+      "Filosofo greco, allievo di Socrate",
+      "Filosofo della 'volontà di potenza'",
+      "Filosofo della critica della ragione"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Socrate (variante 129)",
+    "options": [
+      "Filosofo della 'volontà di potenza'",
+      "Filosofo del 'cogito'",
+      "Filosofo greco legato al metodo maieutico",
+      "Filosofo greco, studioso di logica e scienze"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Socrate (variante 109)",
+    "options": [
+      "Filosofo del 'cogito'",
+      "Filosofo della critica della ragione",
+      "Filosofo della 'volontà di potenza'",
+      "Filosofo greco legato al metodo maieutico"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Socrate (variante 154)",
+    "options": [
+      "Filosofo greco legato al metodo maieutico",
+      "Filosofo greco, allievo di Socrate",
+      "Filosofo greco, studioso di logica e scienze",
+      "Filosofo della 'volontà di potenza'"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Platone (variante 122)",
+    "options": [
+      "Filosofo della 'volontà di potenza'",
+      "Filosofo greco, allievo di Socrate",
+      "Filosofo greco, studioso di logica e scienze",
+      "Filosofo greco legato al metodo maieutico"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Platone (variante 304)",
+    "options": [
+      "Filosofo della critica della ragione",
+      "Filosofo greco, studioso di logica e scienze",
+      "Filosofo greco, allievo di Socrate",
+      "Filosofo greco legato al metodo maieutico"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Nietzsche (variante 186)",
+    "options": [
+      "Filosofo greco, studioso di logica e scienze",
+      "Filosofo della 'volontà di potenza'",
+      "Filosofo greco legato al metodo maieutico",
+      "Filosofo greco, allievo di Socrate"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Kant (variante 149)",
+    "options": [
+      "Filosofo greco legato al metodo maieutico",
+      "Filosofo del 'cogito'",
+      "Filosofo della critica della ragione",
+      "Filosofo greco, studioso di logica e scienze"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Platone (variante 386)",
+    "options": [
+      "Filosofo greco, studioso di logica e scienze",
+      "Filosofo greco, allievo di Socrate",
+      "Filosofo greco legato al metodo maieutico",
+      "Filosofo della 'volontà di potenza'"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Aristotele (variante 363)",
+    "options": [
+      "Filosofo greco, allievo di Socrate",
+      "Filosofo della critica della ragione",
+      "Filosofo greco, studioso di logica e scienze",
+      "Filosofo del 'cogito'"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Aristotele (variante 153)",
+    "options": [
+      "Filosofo della 'volontà di potenza'",
+      "Filosofo del 'cogito'",
+      "Filosofo greco, allievo di Socrate",
+      "Filosofo greco, studioso di logica e scienze"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Platone (variante 403)",
+    "options": [
+      "Filosofo greco, allievo di Socrate",
+      "Filosofo del 'cogito'",
+      "Filosofo greco, studioso di logica e scienze",
+      "Filosofo della 'volontà di potenza'"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Nietzsche (variante 10)",
+    "options": [
+      "Filosofo greco, studioso di logica e scienze",
+      "Filosofo del 'cogito'",
+      "Filosofo della critica della ragione",
+      "Filosofo della 'volontà di potenza'"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Platone (variante 20)",
+    "options": [
+      "Filosofo greco, allievo di Socrate",
+      "Filosofo della critica della ragione",
+      "Filosofo della 'volontà di potenza'",
+      "Filosofo greco, studioso di logica e scienze"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Socrate (variante 125)",
+    "options": [
+      "Filosofo greco legato al metodo maieutico",
+      "Filosofo della 'volontà di potenza'",
+      "Filosofo greco, studioso di logica e scienze",
+      "Filosofo del 'cogito'"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Nietzsche (variante 235)",
+    "options": [
+      "Filosofo della critica della ragione",
+      "Filosofo greco, studioso di logica e scienze",
+      "Filosofo della 'volontà di potenza'",
+      "Filosofo greco legato al metodo maieutico"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Platone (variante 195)",
+    "options": [
+      "Filosofo greco, allievo di Socrate",
+      "Filosofo della 'volontà di potenza'",
+      "Filosofo del 'cogito'",
+      "Filosofo greco legato al metodo maieutico"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Filosofia: Aristotele (variante 413)",
+    "options": [
+      "Filosofo del 'cogito'",
+      "Filosofo greco, allievo di Socrate",
+      "Filosofo greco, studioso di logica e scienze",
+      "Filosofo greco legato al metodo maieutico"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  }
+]

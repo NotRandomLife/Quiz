@@ -1,0 +1,3302 @@
+[
+  {
+    "q": "Qual è la forma corretta? (variante 109)",
+    "options": [
+      "pò",
+      "po'",
+      "dipende dal contesto",
+      "sono entrambe corrette"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la forma corretta? (variante 82)",
+    "options": [
+      "pò",
+      "dipende dal contesto",
+      "po'",
+      "sono entrambe corrette"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Paolo ha comprato un libro a scuola.\n\nChi è il soggetto della frase?",
+    "options": [
+      "Anna",
+      "Paolo",
+      "Simone",
+      "Davide"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la forma corretta? (variante 4)",
+    "options": [
+      "sono entrambe corrette",
+      "apposto",
+      "a posto",
+      "dipende dal contesto"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Elena ha perso il quaderno in classe.\n\nChi è il soggetto della frase?",
+    "options": [
+      "Paolo",
+      "Elena",
+      "Anna",
+      "Simone"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Anna ha restituito un libro in biblioteca.\n\nChi è il soggetto della frase?",
+    "options": [
+      "Davide",
+      "Sara",
+      "Anna",
+      "Simone"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la forma corretta? (variante 48)",
+    "options": [
+      "qual è",
+      "dipende dal contesto",
+      "sono entrambe corrette",
+      "qual'è"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Giulia ha trovato una penna a casa.\n\nChi è il soggetto della frase?",
+    "options": [
+      "Giulia",
+      "Simone",
+      "Marco",
+      "Sara"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Giulia ha restituito un libro al parco.\n\nChi è il soggetto della frase?",
+    "options": [
+      "Marco",
+      "Giulia",
+      "Sara",
+      "Simone"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la forma corretta? (variante 36)",
+    "options": [
+      "po'",
+      "pò",
+      "sono entrambe corrette",
+      "dipende dal contesto"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Sara ha letto una mappa in classe.\n\nChi è il soggetto della frase?",
+    "options": [
+      "Sara",
+      "Paolo",
+      "Giulia",
+      "Marco"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Marco ha restituito il quaderno in classe.\n\nChi è il soggetto della frase?",
+    "options": [
+      "Sara",
+      "Paolo",
+      "Giulia",
+      "Marco"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Giulia ha perso uno zaino al parco.\n\nChi è il soggetto della frase?",
+    "options": [
+      "Simone",
+      "Paolo",
+      "Sara",
+      "Giulia"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Anna ha restituito il quaderno al parco.\n\nChi è il soggetto della frase?",
+    "options": [
+      "Elena",
+      "Anna",
+      "Giulia",
+      "Davide"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Marta ha dimenticato una mappa al parco.\n\nChi è il soggetto della frase?",
+    "options": [
+      "Marta",
+      "Giulia",
+      "Simone",
+      "Paolo"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Sara ha letto il quaderno al parco.\n\nChi è il soggetto della frase?",
+    "options": [
+      "Giulia",
+      "Sara",
+      "Luca",
+      "Elena"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Sara ha trovato il quaderno al parco.\n\nChi è il soggetto della frase?",
+    "options": [
+      "Davide",
+      "Simone",
+      "Anna",
+      "Sara"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Marco ha letto uno zaino al parco.\n\nChi è il soggetto della frase?",
+    "options": [
+      "Elena",
+      "Paolo",
+      "Davide",
+      "Marco"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la forma corretta? (variante 14)",
+    "options": [
+      "sono entrambe corrette",
+      "dipende dal contesto",
+      "qual'è",
+      "qual è"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Elena ha comprato una mappa in biblioteca.\n\nChi è il soggetto della frase?",
+    "options": [
+      "Sara",
+      "Davide",
+      "Luca",
+      "Elena"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Giulia ha letto una penna in classe.\n\nChi è il soggetto della frase?",
+    "options": [
+      "Giulia",
+      "Luca",
+      "Anna",
+      "Marco"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la forma corretta? (variante 44)",
+    "options": [
+      "dipende dal contesto",
+      "sono entrambe corrette",
+      "ne anche",
+      "neanche"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Luca ha scritto le chiavi a casa.\n\nChi è il soggetto della frase?",
+    "options": [
+      "Davide",
+      "Giulia",
+      "Luca",
+      "Marta"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Anna ha trovato il quaderno a scuola.\n\nChi è il soggetto della frase?",
+    "options": [
+      "Sara",
+      "Giulia",
+      "Marco",
+      "Anna"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la forma corretta? (variante 72)",
+    "options": [
+      "dipende dal contesto",
+      "sono entrambe corrette",
+      "neanche",
+      "ne anche"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Luca ha dimenticato una gomma in classe.\n\nChi è il soggetto della frase?",
+    "options": [
+      "Giulia",
+      "Anna",
+      "Simone",
+      "Luca"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Luca ha letto una mappa a casa.\n\nChi è il soggetto della frase?",
+    "options": [
+      "Luca",
+      "Sara",
+      "Paolo",
+      "Giulia"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Elena ha scritto una mappa a scuola.\n\nChi è il soggetto della frase?",
+    "options": [
+      "Paolo",
+      "Davide",
+      "Elena",
+      "Anna"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Giulia ha prestato le chiavi in biblioteca.\n\nChi è il soggetto della frase?",
+    "options": [
+      "Giulia",
+      "Sara",
+      "Simone",
+      "Marco"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Marco ha prestato una mappa al parco.\n\nChi è il soggetto della frase?",
+    "options": [
+      "Marco",
+      "Davide",
+      "Giulia",
+      "Paolo"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Paolo ha comprato una penna in classe.\n\nChi è il soggetto della frase?",
+    "options": [
+      "Elena",
+      "Paolo",
+      "Davide",
+      "Simone"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la forma corretta? (variante 23)",
+    "options": [
+      "sono entrambe corrette",
+      "dipende dal contesto",
+      "qual'è",
+      "qual è"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la forma corretta? (variante 22)",
+    "options": [
+      "dipende dal contesto",
+      "po'",
+      "pò",
+      "sono entrambe corrette"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la forma corretta? (variante 90)",
+    "options": [
+      "dipende dal contesto",
+      "sono entrambe corrette",
+      "apposto",
+      "a posto"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Marco ha trovato una mappa a casa.\n\nChi è il soggetto della frase?",
+    "options": [
+      "Marco",
+      "Anna",
+      "Simone",
+      "Luca"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Simone ha scritto uno zaino a scuola.\n\nChi è il soggetto della frase?",
+    "options": [
+      "Davide",
+      "Sara",
+      "Simone",
+      "Giulia"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Luca ha letto uno zaino in biblioteca.\n\nChi è il soggetto della frase?",
+    "options": [
+      "Marco",
+      "Luca",
+      "Paolo",
+      "Anna"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Davide ha dimenticato un diario al parco.\n\nChi è il soggetto della frase?",
+    "options": [
+      "Anna",
+      "Marco",
+      "Davide",
+      "Giulia"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Marco ha prestato uno zaino a scuola.\n\nChi è il soggetto della frase?",
+    "options": [
+      "Luca",
+      "Giulia",
+      "Marco",
+      "Simone"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la forma corretta? (variante 65)",
+    "options": [
+      "un po'",
+      "sono entrambe corrette",
+      "dipende dal contesto",
+      "un pò"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la forma corretta? (variante 20)",
+    "options": [
+      "po'",
+      "dipende dal contesto",
+      "pò",
+      "sono entrambe corrette"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la forma corretta? (variante 29)",
+    "options": [
+      "sono entrambe corrette",
+      "qual è",
+      "qual'è",
+      "dipende dal contesto"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Simone ha prestato uno zaino al parco.\n\nChi è il soggetto della frase?",
+    "options": [
+      "Simone",
+      "Giulia",
+      "Anna",
+      "Marta"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Simone ha restituito le chiavi al parco.\n\nChi è il soggetto della frase?",
+    "options": [
+      "Anna",
+      "Davide",
+      "Simone",
+      "Giulia"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la forma corretta? (variante 110)",
+    "options": [
+      "ne anche",
+      "sono entrambe corrette",
+      "neanche",
+      "dipende dal contesto"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Davide ha restituito le chiavi a casa.\n\nChi è il soggetto della frase?",
+    "options": [
+      "Giulia",
+      "Davide",
+      "Marta",
+      "Elena"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Simone ha dimenticato un libro a casa.\n\nChi è il soggetto della frase?",
+    "options": [
+      "Sara",
+      "Paolo",
+      "Simone",
+      "Anna"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Paolo ha dimenticato una gomma a casa.\n\nChi è il soggetto della frase?",
+    "options": [
+      "Marco",
+      "Paolo",
+      "Simone",
+      "Anna"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Giulia ha trovato le chiavi al parco.\n\nChi è il soggetto della frase?",
+    "options": [
+      "Elena",
+      "Giulia",
+      "Paolo",
+      "Sara"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Davide ha scritto le chiavi al parco.\n\nChi è il soggetto della frase?",
+    "options": [
+      "Davide",
+      "Sara",
+      "Anna",
+      "Simone"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Anna ha letto uno zaino al parco.\n\nChi è il soggetto della frase?",
+    "options": [
+      "Elena",
+      "Paolo",
+      "Giulia",
+      "Anna"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la forma corretta? (variante 43)",
+    "options": [
+      "qual'è",
+      "qual è",
+      "sono entrambe corrette",
+      "dipende dal contesto"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la forma corretta? (variante 11)",
+    "options": [
+      "dipende dal contesto",
+      "po'",
+      "sono entrambe corrette",
+      "pò"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Luca ha restituito un libro in biblioteca.\n\nChi è il soggetto della frase?",
+    "options": [
+      "Luca",
+      "Davide",
+      "Paolo",
+      "Marco"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la forma corretta? (variante 86)",
+    "options": [
+      "sono entrambe corrette",
+      "dipende dal contesto",
+      "pò",
+      "po'"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Davide ha comprato uno zaino a scuola.\n\nChi è il soggetto della frase?",
+    "options": [
+      "Luca",
+      "Elena",
+      "Davide",
+      "Marta"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la forma corretta? (variante 70)",
+    "options": [
+      "sono entrambe corrette",
+      "dipende dal contesto",
+      "pò",
+      "po'"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Simone ha scritto un libro a scuola.\n\nChi è il soggetto della frase?",
+    "options": [
+      "Luca",
+      "Simone",
+      "Anna",
+      "Marco"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Paolo ha perso uno zaino in classe.\n\nChi è il soggetto della frase?",
+    "options": [
+      "Luca",
+      "Sara",
+      "Marco",
+      "Paolo"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Davide ha prestato il quaderno a casa.\n\nChi è il soggetto della frase?",
+    "options": [
+      "Giulia",
+      "Sara",
+      "Marta",
+      "Davide"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la forma corretta? (variante 95)",
+    "options": [
+      "ne anche",
+      "sono entrambe corrette",
+      "dipende dal contesto",
+      "neanche"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Elena ha restituito una penna a scuola.\n\nChi è il soggetto della frase?",
+    "options": [
+      "Simone",
+      "Davide",
+      "Sara",
+      "Elena"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la forma corretta? (variante 105)",
+    "options": [
+      "apposto",
+      "dipende dal contesto",
+      "a posto",
+      "sono entrambe corrette"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Luca ha restituito un libro in classe.\n\nChi è il soggetto della frase?",
+    "options": [
+      "Luca",
+      "Davide",
+      "Marco",
+      "Elena"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Marco ha prestato uno zaino a casa.\n\nChi è il soggetto della frase?",
+    "options": [
+      "Marco",
+      "Luca",
+      "Elena",
+      "Sara"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la forma corretta? (variante 67)",
+    "options": [
+      "sono entrambe corrette",
+      "un pò",
+      "un po'",
+      "dipende dal contesto"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la forma corretta? (variante 64)",
+    "options": [
+      "apposto",
+      "a posto",
+      "sono entrambe corrette",
+      "dipende dal contesto"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Sara ha comprato il quaderno a scuola.\n\nChi è il soggetto della frase?",
+    "options": [
+      "Marta",
+      "Sara",
+      "Luca",
+      "Simone"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la forma corretta? (variante 10)",
+    "options": [
+      "a posto",
+      "sono entrambe corrette",
+      "dipende dal contesto",
+      "apposto"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la forma corretta? (variante 59)",
+    "options": [
+      "dipende dal contesto",
+      "sono entrambe corrette",
+      "ne anche",
+      "neanche"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Giulia ha trovato il quaderno in biblioteca.\n\nChi è il soggetto della frase?",
+    "options": [
+      "Luca",
+      "Simone",
+      "Paolo",
+      "Giulia"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la forma corretta? (variante 84)",
+    "options": [
+      "qual'è",
+      "dipende dal contesto",
+      "sono entrambe corrette",
+      "qual è"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la forma corretta? (variante 76)",
+    "options": [
+      "a posto",
+      "dipende dal contesto",
+      "apposto",
+      "sono entrambe corrette"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Davide ha dimenticato una gomma in classe.\n\nChi è il soggetto della frase?",
+    "options": [
+      "Anna",
+      "Davide",
+      "Marta",
+      "Sara"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la forma corretta? (variante 3)",
+    "options": [
+      "sono entrambe corrette",
+      "apposto",
+      "a posto",
+      "dipende dal contesto"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Simone ha restituito un diario in classe.\n\nChi è il soggetto della frase?",
+    "options": [
+      "Paolo",
+      "Davide",
+      "Sara",
+      "Simone"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Il termine “descrizione” significa…",
+    "options": [
+      "Testo che presenta caratteristiche di persone/luoghi/oggetti",
+      "Parte finale che chiude un discorso o un testo",
+      "Racconto di eventi reali o inventati",
+      "Personaggio principale di una storia"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Luca ha perso una mappa in classe.\n\nChi è il soggetto della frase?",
+    "options": [
+      "Paolo",
+      "Davide",
+      "Sara",
+      "Luca"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Marco ha letto un libro a casa.\n\nChi è il soggetto della frase?",
+    "options": [
+      "Sara",
+      "Marta",
+      "Simone",
+      "Marco"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la forma corretta? (variante 79)",
+    "options": [
+      "sono entrambe corrette",
+      "dipende dal contesto",
+      "a posto",
+      "apposto"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Sara ha dimenticato una mappa a scuola.\n\nChi è il soggetto della frase?",
+    "options": [
+      "Elena",
+      "Anna",
+      "Luca",
+      "Sara"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Giulia ha restituito una mappa a casa.\n\nChi è il soggetto della frase?",
+    "options": [
+      "Marta",
+      "Elena",
+      "Giulia",
+      "Davide"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Anna ha trovato un libro a casa.\n\nChi è il soggetto della frase?",
+    "options": [
+      "Marco",
+      "Paolo",
+      "Anna",
+      "Giulia"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Giulia ha scritto una gomma in classe.\n\nChi è il soggetto della frase?",
+    "options": [
+      "Giulia",
+      "Simone",
+      "Paolo",
+      "Elena"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la forma corretta? (variante 63)",
+    "options": [
+      "pò",
+      "sono entrambe corrette",
+      "po'",
+      "dipende dal contesto"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Marco ha letto le chiavi in classe.\n\nChi è il soggetto della frase?",
+    "options": [
+      "Anna",
+      "Elena",
+      "Marco",
+      "Sara"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Luca ha perso una penna in biblioteca.\n\nChi è il soggetto della frase?",
+    "options": [
+      "Marta",
+      "Anna",
+      "Luca",
+      "Sara"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "In italiano, cos'è una “allitterazione”?",
+    "options": [
+      "Confronto esplicito introdotto da 'come', 'simile a'",
+      "Attribuire caratteristiche umane a cose o animali",
+      "Ripetizione di suoni simili all'inizio di parole vicine",
+      "Figura retorica che sostituisce un termine con un altro per somiglianza"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Marta ha trovato uno zaino a scuola.\n\nChi è il soggetto della frase?",
+    "options": [
+      "Davide",
+      "Paolo",
+      "Sara",
+      "Marta"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la forma corretta? (variante 73)",
+    "options": [
+      "apposto",
+      "dipende dal contesto",
+      "sono entrambe corrette",
+      "a posto"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Sara ha scritto il quaderno in classe.\n\nChi è il soggetto della frase?",
+    "options": [
+      "Paolo",
+      "Giulia",
+      "Marta",
+      "Sara"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la forma corretta? (variante 38)",
+    "options": [
+      "sono entrambe corrette",
+      "qual'è",
+      "qual è",
+      "dipende dal contesto"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Paolo ha trovato una gomma a casa.\n\nChi è il soggetto della frase?",
+    "options": [
+      "Davide",
+      "Marta",
+      "Paolo",
+      "Elena"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Giulia ha letto il quaderno in classe.\n\nChi è il soggetto della frase?",
+    "options": [
+      "Anna",
+      "Paolo",
+      "Giulia",
+      "Luca"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Anna ha scritto una penna a casa.\n\nChi è il soggetto della frase?",
+    "options": [
+      "Anna",
+      "Sara",
+      "Paolo",
+      "Marco"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Marco ha scritto una mappa a casa.\n\nChi è il soggetto della frase?",
+    "options": [
+      "Luca",
+      "Marta",
+      "Marco",
+      "Elena"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Sara ha scritto una mappa in classe.\n\nChi è il soggetto della frase?",
+    "options": [
+      "Marco",
+      "Luca",
+      "Sara",
+      "Elena"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Simone ha comprato il quaderno al parco.\n\nChi è il soggetto della frase?",
+    "options": [
+      "Davide",
+      "Giulia",
+      "Simone",
+      "Paolo"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Simone ha prestato un libro a scuola.\n\nChi è il soggetto della frase?",
+    "options": [
+      "Simone",
+      "Anna",
+      "Giulia",
+      "Davide"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Sara ha restituito un libro in biblioteca.\n\nChi è il soggetto della frase?",
+    "options": [
+      "Luca",
+      "Elena",
+      "Sara",
+      "Marco"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Davide ha restituito un diario al parco.\n\nChi è il soggetto della frase?",
+    "options": [
+      "Marta",
+      "Giulia",
+      "Elena",
+      "Davide"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la forma corretta? (variante 39)",
+    "options": [
+      "po'",
+      "sono entrambe corrette",
+      "pò",
+      "dipende dal contesto"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Luca ha restituito uno zaino in classe.\n\nChi è il soggetto della frase?",
+    "options": [
+      "Anna",
+      "Marta",
+      "Sara",
+      "Luca"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Paolo ha letto le chiavi in biblioteca.\n\nChi è il soggetto della frase?",
+    "options": [
+      "Paolo",
+      "Sara",
+      "Anna",
+      "Giulia"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Simone ha prestato un diario in biblioteca.\n\nChi è il soggetto della frase?",
+    "options": [
+      "Giulia",
+      "Sara",
+      "Davide",
+      "Simone"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Simone ha letto un diario al parco.\n\nChi è il soggetto della frase?",
+    "options": [
+      "Giulia",
+      "Paolo",
+      "Simone",
+      "Sara"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la forma corretta? (variante 2)",
+    "options": [
+      "sono entrambe corrette",
+      "apposto",
+      "a posto",
+      "dipende dal contesto"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la forma corretta? (variante 88)",
+    "options": [
+      "pò",
+      "sono entrambe corrette",
+      "dipende dal contesto",
+      "po'"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Marco ha comprato una penna in biblioteca.\n\nChi è il soggetto della frase?",
+    "options": [
+      "Giulia",
+      "Luca",
+      "Marta",
+      "Marco"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la forma corretta? (variante 25)",
+    "options": [
+      "qual è",
+      "qual'è",
+      "sono entrambe corrette",
+      "dipende dal contesto"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la forma corretta? (variante 114)",
+    "options": [
+      "po'",
+      "pò",
+      "sono entrambe corrette",
+      "dipende dal contesto"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Marco ha perso una gomma in classe.\n\nChi è il soggetto della frase?",
+    "options": [
+      "Sara",
+      "Marco",
+      "Davide",
+      "Paolo"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Sara ha scritto il quaderno in biblioteca.\n\nChi è il soggetto della frase?",
+    "options": [
+      "Sara",
+      "Giulia",
+      "Marta",
+      "Luca"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la forma corretta? (variante 91)",
+    "options": [
+      "dipende dal contesto",
+      "pò",
+      "po'",
+      "sono entrambe corrette"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Sara ha prestato una mappa in classe.\n\nChi è il soggetto della frase?",
+    "options": [
+      "Davide",
+      "Paolo",
+      "Sara",
+      "Marta"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Simone ha dimenticato uno zaino in classe.\n\nChi è il soggetto della frase?",
+    "options": [
+      "Simone",
+      "Luca",
+      "Paolo",
+      "Giulia"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la forma corretta? (variante 45)",
+    "options": [
+      "qual'è",
+      "qual è",
+      "dipende dal contesto",
+      "sono entrambe corrette"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Simone ha comprato uno zaino a scuola.\n\nChi è il soggetto della frase?",
+    "options": [
+      "Davide",
+      "Simone",
+      "Giulia",
+      "Luca"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Anna ha prestato una gomma in classe.\n\nChi è il soggetto della frase?",
+    "options": [
+      "Anna",
+      "Giulia",
+      "Luca",
+      "Paolo"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Davide ha letto il quaderno a scuola.\n\nChi è il soggetto della frase?",
+    "options": [
+      "Sara",
+      "Davide",
+      "Anna",
+      "Elena"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "In italiano, cos'è una “ossimoro”?",
+    "options": [
+      "Confronto esplicito introdotto da 'come', 'simile a'",
+      "Figura retorica che sostituisce un termine con un altro per somiglianza",
+      "Accostamento di parole dal significato opposto",
+      "Ripetizione di una o più parole all'inizio di frasi/versi"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Qual è la forma corretta? (variante 61)",
+    "options": [
+      "neanche",
+      "sono entrambe corrette",
+      "dipende dal contesto",
+      "ne anche"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la forma corretta? (variante 93)",
+    "options": [
+      "un po'",
+      "sono entrambe corrette",
+      "un pò",
+      "dipende dal contesto"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Elena ha scritto un diario in biblioteca.\n\nChi è il soggetto della frase?",
+    "options": [
+      "Davide",
+      "Marta",
+      "Elena",
+      "Paolo"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la forma corretta? (variante 21)",
+    "options": [
+      "qual'è",
+      "sono entrambe corrette",
+      "dipende dal contesto",
+      "qual è"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Elena ha restituito uno zaino in classe.\n\nChi è il soggetto della frase?",
+    "options": [
+      "Elena",
+      "Marta",
+      "Luca",
+      "Paolo"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Davide ha prestato il quaderno in classe.\n\nChi è il soggetto della frase?",
+    "options": [
+      "Luca",
+      "Simone",
+      "Sara",
+      "Davide"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Marco ha letto una penna in classe.\n\nChi è il soggetto della frase?",
+    "options": [
+      "Marco",
+      "Davide",
+      "Elena",
+      "Simone"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la forma corretta? (variante 101)",
+    "options": [
+      "qual è",
+      "qual'è",
+      "dipende dal contesto",
+      "sono entrambe corrette"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Paolo ha perso un libro in biblioteca.\n\nChi è il soggetto della frase?",
+    "options": [
+      "Simone",
+      "Paolo",
+      "Marco",
+      "Anna"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la forma corretta? (variante 28)",
+    "options": [
+      "sono entrambe corrette",
+      "po'",
+      "pò",
+      "dipende dal contesto"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Sara ha dimenticato una penna a casa.\n\nChi è il soggetto della frase?",
+    "options": [
+      "Sara",
+      "Luca",
+      "Elena",
+      "Marta"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Marco ha prestato una gomma al parco.\n\nChi è il soggetto della frase?",
+    "options": [
+      "Marco",
+      "Simone",
+      "Sara",
+      "Luca"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Simone ha scritto un diario in classe.\n\nChi è il soggetto della frase?",
+    "options": [
+      "Anna",
+      "Paolo",
+      "Simone",
+      "Luca"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Anna ha prestato uno zaino in biblioteca.\n\nChi è il soggetto della frase?",
+    "options": [
+      "Elena",
+      "Paolo",
+      "Anna",
+      "Simone"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Paolo ha dimenticato una mappa in biblioteca.\n\nChi è il soggetto della frase?",
+    "options": [
+      "Anna",
+      "Marta",
+      "Paolo",
+      "Elena"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Simone ha scritto il quaderno in biblioteca.\n\nChi è il soggetto della frase?",
+    "options": [
+      "Luca",
+      "Elena",
+      "Simone",
+      "Davide"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Giulia ha letto il quaderno al parco.\n\nChi è il soggetto della frase?",
+    "options": [
+      "Marta",
+      "Davide",
+      "Sara",
+      "Giulia"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la forma corretta? (variante 115)",
+    "options": [
+      "sono entrambe corrette",
+      "apposto",
+      "dipende dal contesto",
+      "a posto"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Simone ha restituito un libro in biblioteca.\n\nChi è il soggetto della frase?",
+    "options": [
+      "Marco",
+      "Davide",
+      "Marta",
+      "Simone"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Luca ha trovato un diario a scuola.\n\nChi è il soggetto della frase?",
+    "options": [
+      "Paolo",
+      "Giulia",
+      "Davide",
+      "Luca"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la forma corretta? (variante 18)",
+    "options": [
+      "dipende dal contesto",
+      "a posto",
+      "apposto",
+      "sono entrambe corrette"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Elena ha scritto una gomma in classe.\n\nChi è il soggetto della frase?",
+    "options": [
+      "Luca",
+      "Elena",
+      "Simone",
+      "Sara"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la forma corretta? (variante 47)",
+    "options": [
+      "sono entrambe corrette",
+      "dipende dal contesto",
+      "a posto",
+      "apposto"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Giulia ha letto le chiavi in biblioteca.\n\nChi è il soggetto della frase?",
+    "options": [
+      "Simone",
+      "Giulia",
+      "Davide",
+      "Elena"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la forma corretta? (variante 100)",
+    "options": [
+      "sono entrambe corrette",
+      "neanche",
+      "ne anche",
+      "dipende dal contesto"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la forma corretta? (variante 106)",
+    "options": [
+      "po'",
+      "pò",
+      "sono entrambe corrette",
+      "dipende dal contesto"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Sara ha letto le chiavi in classe.\n\nChi è il soggetto della frase?",
+    "options": [
+      "Anna",
+      "Marco",
+      "Elena",
+      "Sara"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la forma corretta? (variante 13)",
+    "options": [
+      "un pò",
+      "sono entrambe corrette",
+      "dipende dal contesto",
+      "un po'"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la forma corretta? (variante 7)",
+    "options": [
+      "dipende dal contesto",
+      "apposto",
+      "a posto",
+      "sono entrambe corrette"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Giulia ha prestato una gomma a scuola.\n\nChi è il soggetto della frase?",
+    "options": [
+      "Giulia",
+      "Anna",
+      "Sara",
+      "Simone"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Anna ha restituito un libro a casa.\n\nChi è il soggetto della frase?",
+    "options": [
+      "Anna",
+      "Simone",
+      "Giulia",
+      "Paolo"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "In italiano, cos'è una “parafrasi”?",
+    "options": [
+      "Riscrittura spiegando con parole più semplici",
+      "Figura retorica che sostituisce un termine con un altro per somiglianza",
+      "Ripetizione di suoni simili all'inizio di parole vicine",
+      "Attribuire caratteristiche umane a cose o animali"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Giulia ha letto uno zaino al parco.\n\nChi è il soggetto della frase?",
+    "options": [
+      "Sara",
+      "Giulia",
+      "Paolo",
+      "Anna"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Anna ha prestato le chiavi a casa.\n\nChi è il soggetto della frase?",
+    "options": [
+      "Anna",
+      "Giulia",
+      "Davide",
+      "Elena"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la forma corretta? (variante 97)",
+    "options": [
+      "sono entrambe corrette",
+      "po'",
+      "pò",
+      "dipende dal contesto"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Simone ha prestato una mappa al parco.\n\nChi è il soggetto della frase?",
+    "options": [
+      "Simone",
+      "Giulia",
+      "Davide",
+      "Marta"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la forma corretta? (variante 30)",
+    "options": [
+      "apposto",
+      "sono entrambe corrette",
+      "dipende dal contesto",
+      "a posto"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la forma corretta? (variante 60)",
+    "options": [
+      "neanche",
+      "ne anche",
+      "sono entrambe corrette",
+      "dipende dal contesto"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Marco ha prestato un libro in classe.\n\nChi è il soggetto della frase?",
+    "options": [
+      "Anna",
+      "Elena",
+      "Marco",
+      "Paolo"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Giulia ha perso una gomma a scuola.\n\nChi è il soggetto della frase?",
+    "options": [
+      "Anna",
+      "Giulia",
+      "Sara",
+      "Simone"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Luca ha prestato una penna in biblioteca.\n\nChi è il soggetto della frase?",
+    "options": [
+      "Luca",
+      "Sara",
+      "Marta",
+      "Simone"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Giulia ha perso le chiavi a scuola.\n\nChi è il soggetto della frase?",
+    "options": [
+      "Giulia",
+      "Luca",
+      "Paolo",
+      "Marta"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Luca ha prestato il quaderno a casa.\n\nChi è il soggetto della frase?",
+    "options": [
+      "Elena",
+      "Anna",
+      "Luca",
+      "Giulia"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Davide ha prestato uno zaino in biblioteca.\n\nChi è il soggetto della frase?",
+    "options": [
+      "Sara",
+      "Luca",
+      "Elena",
+      "Davide"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la forma corretta? (variante 58)",
+    "options": [
+      "po'",
+      "sono entrambe corrette",
+      "dipende dal contesto",
+      "pò"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la forma corretta? (variante 8)",
+    "options": [
+      "apposto",
+      "dipende dal contesto",
+      "sono entrambe corrette",
+      "a posto"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Anna ha restituito una mappa in classe.\n\nChi è il soggetto della frase?",
+    "options": [
+      "Giulia",
+      "Anna",
+      "Paolo",
+      "Elena"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Luca ha comprato uno zaino in classe.\n\nChi è il soggetto della frase?",
+    "options": [
+      "Simone",
+      "Marco",
+      "Anna",
+      "Luca"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Paolo ha comprato le chiavi in classe.\n\nChi è il soggetto della frase?",
+    "options": [
+      "Marco",
+      "Paolo",
+      "Sara",
+      "Anna"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la forma corretta? (variante 1)",
+    "options": [
+      "sono entrambe corrette",
+      "pò",
+      "po'",
+      "dipende dal contesto"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Luca ha comprato uno zaino al parco.\n\nChi è il soggetto della frase?",
+    "options": [
+      "Giulia",
+      "Elena",
+      "Luca",
+      "Sara"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Sara ha letto una gomma in classe.\n\nChi è il soggetto della frase?",
+    "options": [
+      "Marta",
+      "Elena",
+      "Sara",
+      "Davide"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Luca ha scritto uno zaino in classe.\n\nChi è il soggetto della frase?",
+    "options": [
+      "Luca",
+      "Marco",
+      "Sara",
+      "Elena"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Paolo ha letto una mappa in biblioteca.\n\nChi è il soggetto della frase?",
+    "options": [
+      "Davide",
+      "Paolo",
+      "Elena",
+      "Marta"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la forma corretta? (variante 49)",
+    "options": [
+      "po'",
+      "pò",
+      "sono entrambe corrette",
+      "dipende dal contesto"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Sara ha prestato un diario in classe.\n\nChi è il soggetto della frase?",
+    "options": [
+      "Giulia",
+      "Simone",
+      "Sara",
+      "Marco"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Simone ha restituito una penna a casa.\n\nChi è il soggetto della frase?",
+    "options": [
+      "Marco",
+      "Marta",
+      "Paolo",
+      "Simone"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la forma corretta? (variante 75)",
+    "options": [
+      "dipende dal contesto",
+      "neanche",
+      "ne anche",
+      "sono entrambe corrette"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Luca ha dimenticato un diario a scuola.\n\nChi è il soggetto della frase?",
+    "options": [
+      "Davide",
+      "Luca",
+      "Paolo",
+      "Marta"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la forma corretta? (variante 50)",
+    "options": [
+      "ne anche",
+      "dipende dal contesto",
+      "sono entrambe corrette",
+      "neanche"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la forma corretta? (variante 40)",
+    "options": [
+      "un po'",
+      "sono entrambe corrette",
+      "dipende dal contesto",
+      "un pò"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la forma corretta? (variante 89)",
+    "options": [
+      "neanche",
+      "ne anche",
+      "sono entrambe corrette",
+      "dipende dal contesto"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Sara ha comprato una mappa al parco.\n\nChi è il soggetto della frase?",
+    "options": [
+      "Sara",
+      "Marta",
+      "Anna",
+      "Elena"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la forma corretta? (variante 87)",
+    "options": [
+      "pò",
+      "sono entrambe corrette",
+      "po'",
+      "dipende dal contesto"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la forma corretta? (variante 19)",
+    "options": [
+      "sono entrambe corrette",
+      "po'",
+      "dipende dal contesto",
+      "pò"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Simone ha prestato una penna al parco.\n\nChi è il soggetto della frase?",
+    "options": [
+      "Simone",
+      "Marta",
+      "Elena",
+      "Marco"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la forma corretta? (variante 104)",
+    "options": [
+      "un pò",
+      "un po'",
+      "sono entrambe corrette",
+      "dipende dal contesto"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Marco ha dimenticato il quaderno in biblioteca.\n\nChi è il soggetto della frase?",
+    "options": [
+      "Simone",
+      "Paolo",
+      "Marco",
+      "Marta"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Anna ha scritto un diario a casa.\n\nChi è il soggetto della frase?",
+    "options": [
+      "Anna",
+      "Simone",
+      "Davide",
+      "Giulia"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la forma corretta? (variante 103)",
+    "options": [
+      "ne anche",
+      "sono entrambe corrette",
+      "dipende dal contesto",
+      "neanche"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Sara ha scritto una gomma in biblioteca.\n\nChi è il soggetto della frase?",
+    "options": [
+      "Anna",
+      "Sara",
+      "Elena",
+      "Marta"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la forma corretta? (variante 31)",
+    "options": [
+      "un po'",
+      "un pò",
+      "dipende dal contesto",
+      "sono entrambe corrette"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Davide ha trovato una gomma a scuola.\n\nChi è il soggetto della frase?",
+    "options": [
+      "Marco",
+      "Paolo",
+      "Davide",
+      "Giulia"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Marco ha letto una mappa a casa.\n\nChi è il soggetto della frase?",
+    "options": [
+      "Marco",
+      "Elena",
+      "Sara",
+      "Davide"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Simone ha letto un diario a casa.\n\nChi è il soggetto della frase?",
+    "options": [
+      "Paolo",
+      "Davide",
+      "Elena",
+      "Simone"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Sara ha restituito uno zaino in classe.\n\nChi è il soggetto della frase?",
+    "options": [
+      "Simone",
+      "Elena",
+      "Davide",
+      "Sara"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Sara ha prestato una penna a casa.\n\nChi è il soggetto della frase?",
+    "options": [
+      "Luca",
+      "Marco",
+      "Sara",
+      "Anna"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Simone ha restituito un diario al parco.\n\nChi è il soggetto della frase?",
+    "options": [
+      "Davide",
+      "Simone",
+      "Elena",
+      "Anna"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Luca ha letto uno zaino a scuola.\n\nChi è il soggetto della frase?",
+    "options": [
+      "Anna",
+      "Giulia",
+      "Simone",
+      "Luca"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Anna ha trovato una mappa in biblioteca.\n\nChi è il soggetto della frase?",
+    "options": [
+      "Luca",
+      "Anna",
+      "Marco",
+      "Elena"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Marco ha restituito una gomma in classe.\n\nChi è il soggetto della frase?",
+    "options": [
+      "Marco",
+      "Anna",
+      "Elena",
+      "Marta"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Simone ha comprato una penna a casa.\n\nChi è il soggetto della frase?",
+    "options": [
+      "Simone",
+      "Anna",
+      "Marco",
+      "Paolo"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Marta ha prestato una gomma al parco.\n\nChi è il soggetto della frase?",
+    "options": [
+      "Marta",
+      "Giulia",
+      "Anna",
+      "Sara"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la forma corretta? (variante 116)",
+    "options": [
+      "un po'",
+      "un pò",
+      "sono entrambe corrette",
+      "dipende dal contesto"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Davide ha restituito una gomma in biblioteca.\n\nChi è il soggetto della frase?",
+    "options": [
+      "Simone",
+      "Marco",
+      "Davide",
+      "Elena"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Paolo ha comprato una mappa in biblioteca.\n\nChi è il soggetto della frase?",
+    "options": [
+      "Marco",
+      "Paolo",
+      "Elena",
+      "Anna"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Elena ha prestato le chiavi a scuola.\n\nChi è il soggetto della frase?",
+    "options": [
+      "Elena",
+      "Luca",
+      "Anna",
+      "Simone"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Marta ha perso un libro al parco.\n\nChi è il soggetto della frase?",
+    "options": [
+      "Anna",
+      "Paolo",
+      "Marta",
+      "Davide"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la forma corretta? (variante 24)",
+    "options": [
+      "po'",
+      "dipende dal contesto",
+      "pò",
+      "sono entrambe corrette"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la forma corretta? (variante 107)",
+    "options": [
+      "dipende dal contesto",
+      "apposto",
+      "sono entrambe corrette",
+      "a posto"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la forma corretta? (variante 119)",
+    "options": [
+      "un pò",
+      "sono entrambe corrette",
+      "un po'",
+      "dipende dal contesto"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la forma corretta? (variante 35)",
+    "options": [
+      "apposto",
+      "sono entrambe corrette",
+      "dipende dal contesto",
+      "a posto"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Il termine “argomentazione” significa…",
+    "options": [
+      "Personaggio che si oppone al protagonista",
+      "Testo che sostiene una tesi con ragioni",
+      "Parola con significato uguale o simile a un'altra",
+      "Personaggio principale di una storia"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la forma corretta? (variante 34)",
+    "options": [
+      "qual'è",
+      "dipende dal contesto",
+      "qual è",
+      "sono entrambe corrette"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Luca ha trovato uno zaino a casa.\n\nChi è il soggetto della frase?",
+    "options": [
+      "Anna",
+      "Davide",
+      "Luca",
+      "Paolo"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la forma corretta? (variante 111)",
+    "options": [
+      "un pò",
+      "sono entrambe corrette",
+      "dipende dal contesto",
+      "un po'"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la forma corretta? (variante 6)",
+    "options": [
+      "sono entrambe corrette",
+      "neanche",
+      "ne anche",
+      "dipende dal contesto"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Davide ha dimenticato le chiavi in classe.\n\nChi è il soggetto della frase?",
+    "options": [
+      "Sara",
+      "Marta",
+      "Davide",
+      "Anna"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la forma corretta? (variante 26)",
+    "options": [
+      "sono entrambe corrette",
+      "dipende dal contesto",
+      "neanche",
+      "ne anche"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Anna ha comprato un libro a scuola.\n\nChi è il soggetto della frase?",
+    "options": [
+      "Marco",
+      "Sara",
+      "Elena",
+      "Anna"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la forma corretta? (variante 12)",
+    "options": [
+      "sono entrambe corrette",
+      "neanche",
+      "ne anche",
+      "dipende dal contesto"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la forma corretta? (variante 120)",
+    "options": [
+      "qual è",
+      "qual'è",
+      "dipende dal contesto",
+      "sono entrambe corrette"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Giulia ha restituito uno zaino in biblioteca.\n\nChi è il soggetto della frase?",
+    "options": [
+      "Davide",
+      "Elena",
+      "Giulia",
+      "Simone"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la forma corretta? (variante 102)",
+    "options": [
+      "qual è",
+      "sono entrambe corrette",
+      "dipende dal contesto",
+      "qual'è"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Simone ha trovato uno zaino in biblioteca.\n\nChi è il soggetto della frase?",
+    "options": [
+      "Sara",
+      "Simone",
+      "Marco",
+      "Paolo"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Davide ha letto le chiavi in classe.\n\nChi è il soggetto della frase?",
+    "options": [
+      "Giulia",
+      "Luca",
+      "Davide",
+      "Anna"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la forma corretta? (variante 9)",
+    "options": [
+      "ne anche",
+      "neanche",
+      "dipende dal contesto",
+      "sono entrambe corrette"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la forma corretta? (variante 17)",
+    "options": [
+      "dipende dal contesto",
+      "qual è",
+      "sono entrambe corrette",
+      "qual'è"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Giulia ha comprato il quaderno al parco.\n\nChi è il soggetto della frase?",
+    "options": [
+      "Giulia",
+      "Simone",
+      "Sara",
+      "Anna"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Marco ha perso una penna a casa.\n\nChi è il soggetto della frase?",
+    "options": [
+      "Elena",
+      "Marco",
+      "Paolo",
+      "Luca"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "In italiano, cos'è una “iperbole”?",
+    "options": [
+      "Ripetizione di suoni simili all'inizio di parole vicine",
+      "Confronto esplicito introdotto da 'come', 'simile a'",
+      "Esagerazione intenzionale per rafforzare un concetto",
+      "Figura retorica che sostituisce un termine con un altro per somiglianza"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Marta ha restituito le chiavi in biblioteca.\n\nChi è il soggetto della frase?",
+    "options": [
+      "Elena",
+      "Luca",
+      "Marta",
+      "Davide"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Marta ha trovato le chiavi a casa.\n\nChi è il soggetto della frase?",
+    "options": [
+      "Davide",
+      "Marta",
+      "Luca",
+      "Paolo"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la forma corretta? (variante 33)",
+    "options": [
+      "sono entrambe corrette",
+      "qual'è",
+      "qual è",
+      "dipende dal contesto"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la forma corretta? (variante 5)",
+    "options": [
+      "dipende dal contesto",
+      "sono entrambe corrette",
+      "un po'",
+      "un pò"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la forma corretta? (variante 85)",
+    "options": [
+      "ne anche",
+      "sono entrambe corrette",
+      "dipende dal contesto",
+      "neanche"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Elena ha comprato il quaderno al parco.\n\nChi è il soggetto della frase?",
+    "options": [
+      "Simone",
+      "Elena",
+      "Luca",
+      "Paolo"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Il termine “narrazione” significa…",
+    "options": [
+      "Parte finale che chiude un discorso o un testo",
+      "Personaggio che si oppone al protagonista",
+      "Testo che presenta caratteristiche di persone/luoghi/oggetti",
+      "Racconto di eventi reali o inventati"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Luca ha scritto uno zaino a scuola.\n\nChi è il soggetto della frase?",
+    "options": [
+      "Paolo",
+      "Marta",
+      "Luca",
+      "Marco"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la forma corretta? (variante 66)",
+    "options": [
+      "dipende dal contesto",
+      "un po'",
+      "un pò",
+      "sono entrambe corrette"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Davide ha comprato uno zaino al parco.\n\nChi è il soggetto della frase?",
+    "options": [
+      "Elena",
+      "Sara",
+      "Luca",
+      "Davide"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Simone ha perso uno zaino a scuola.\n\nChi è il soggetto della frase?",
+    "options": [
+      "Anna",
+      "Simone",
+      "Davide",
+      "Marco"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Il termine “sinonimo” significa…",
+    "options": [
+      "Parte finale che chiude un discorso o un testo",
+      "Testo che presenta caratteristiche di persone/luoghi/oggetti",
+      "Parola con significato uguale o simile a un'altra",
+      "Sostituzione di un nome proprio con un appellativo o viceversa"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Simone ha dimenticato un libro al parco.\n\nChi è il soggetto della frase?",
+    "options": [
+      "Simone",
+      "Paolo",
+      "Elena",
+      "Marta"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Davide ha scritto uno zaino in classe.\n\nChi è il soggetto della frase?",
+    "options": [
+      "Giulia",
+      "Davide",
+      "Anna",
+      "Luca"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Davide ha restituito un diario in biblioteca.\n\nChi è il soggetto della frase?",
+    "options": [
+      "Simone",
+      "Sara",
+      "Paolo",
+      "Davide"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Paolo ha dimenticato una mappa al parco.\n\nChi è il soggetto della frase?",
+    "options": [
+      "Paolo",
+      "Sara",
+      "Marta",
+      "Davide"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Elena ha comprato uno zaino in biblioteca.\n\nChi è il soggetto della frase?",
+    "options": [
+      "Luca",
+      "Giulia",
+      "Elena",
+      "Simone"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la forma corretta? (variante 113)",
+    "options": [
+      "dipende dal contesto",
+      "sono entrambe corrette",
+      "qual è",
+      "qual'è"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Sara ha scritto un diario in biblioteca.\n\nChi è il soggetto della frase?",
+    "options": [
+      "Luca",
+      "Simone",
+      "Elena",
+      "Sara"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Anna ha scritto le chiavi in biblioteca.\n\nChi è il soggetto della frase?",
+    "options": [
+      "Elena",
+      "Paolo",
+      "Anna",
+      "Luca"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la forma corretta? (variante 15)",
+    "options": [
+      "dipende dal contesto",
+      "pò",
+      "sono entrambe corrette",
+      "po'"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la forma corretta? (variante 32)",
+    "options": [
+      "qual'è",
+      "dipende dal contesto",
+      "sono entrambe corrette",
+      "qual è"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Paolo ha perso un diario al parco.\n\nChi è il soggetto della frase?",
+    "options": [
+      "Paolo",
+      "Anna",
+      "Marta",
+      "Marco"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la forma corretta? (variante 56)",
+    "options": [
+      "dipende dal contesto",
+      "pò",
+      "po'",
+      "sono entrambe corrette"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Marco ha perso una mappa a casa.\n\nChi è il soggetto della frase?",
+    "options": [
+      "Marta",
+      "Anna",
+      "Sara",
+      "Marco"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Anna ha trovato le chiavi in biblioteca.\n\nChi è il soggetto della frase?",
+    "options": [
+      "Marco",
+      "Marta",
+      "Anna",
+      "Elena"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la forma corretta? (variante 53)",
+    "options": [
+      "qual'è",
+      "dipende dal contesto",
+      "sono entrambe corrette",
+      "qual è"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Luca ha scritto il quaderno a scuola.\n\nChi è il soggetto della frase?",
+    "options": [
+      "Davide",
+      "Sara",
+      "Marco",
+      "Luca"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Il termine “protagonista” significa…",
+    "options": [
+      "Racconto di eventi reali o inventati",
+      "Testo che sostiene una tesi con ragioni",
+      "Personaggio principale di una storia",
+      "Testo che presenta caratteristiche di persone/luoghi/oggetti"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Paolo ha prestato le chiavi al parco.\n\nChi è il soggetto della frase?",
+    "options": [
+      "Sara",
+      "Luca",
+      "Paolo",
+      "Anna"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Sara ha comprato una mappa in classe.\n\nChi è il soggetto della frase?",
+    "options": [
+      "Simone",
+      "Paolo",
+      "Luca",
+      "Sara"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "In italiano, cos'è una “personificazione”?",
+    "options": [
+      "Esagerazione intenzionale per rafforzare un concetto",
+      "Confronto esplicito introdotto da 'come', 'simile a'",
+      "Attribuire caratteristiche umane a cose o animali",
+      "Accostamento di parole dal significato opposto"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Qual è la forma corretta? (variante 68)",
+    "options": [
+      "sono entrambe corrette",
+      "un pò",
+      "un po'",
+      "dipende dal contesto"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la forma corretta? (variante 112)",
+    "options": [
+      "po'",
+      "dipende dal contesto",
+      "sono entrambe corrette",
+      "pò"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la forma corretta? (variante 62)",
+    "options": [
+      "a posto",
+      "sono entrambe corrette",
+      "apposto",
+      "dipende dal contesto"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la forma corretta? (variante 37)",
+    "options": [
+      "sono entrambe corrette",
+      "pò",
+      "dipende dal contesto",
+      "po'"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Marco ha trovato una gomma a casa.\n\nChi è il soggetto della frase?",
+    "options": [
+      "Marco",
+      "Marta",
+      "Giulia",
+      "Sara"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Sara ha dimenticato uno zaino in classe.\n\nChi è il soggetto della frase?",
+    "options": [
+      "Sara",
+      "Marco",
+      "Davide",
+      "Simone"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Simone ha dimenticato una gomma a casa.\n\nChi è il soggetto della frase?",
+    "options": [
+      "Marco",
+      "Sara",
+      "Simone",
+      "Marta"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Paolo ha perso una gomma in biblioteca.\n\nChi è il soggetto della frase?",
+    "options": [
+      "Paolo",
+      "Simone",
+      "Davide",
+      "Anna"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Marco ha trovato uno zaino a casa.\n\nChi è il soggetto della frase?",
+    "options": [
+      "Elena",
+      "Luca",
+      "Marco",
+      "Davide"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la forma corretta? (variante 16)",
+    "options": [
+      "dipende dal contesto",
+      "un pò",
+      "un po'",
+      "sono entrambe corrette"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "In italiano, cos'è una “similitudine”?",
+    "options": [
+      "Confronto esplicito introdotto da 'come', 'simile a'",
+      "Ripetizione di suoni simili all'inizio di parole vicine",
+      "Attribuire caratteristiche umane a cose o animali",
+      "Ripetizione di una o più parole all'inizio di frasi/versi"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Elena ha restituito un libro al parco.\n\nChi è il soggetto della frase?",
+    "options": [
+      "Giulia",
+      "Elena",
+      "Anna",
+      "Marco"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Davide ha scritto una penna a scuola.\n\nChi è il soggetto della frase?",
+    "options": [
+      "Simone",
+      "Giulia",
+      "Davide",
+      "Elena"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Paolo ha comprato uno zaino a casa.\n\nChi è il soggetto della frase?",
+    "options": [
+      "Luca",
+      "Simone",
+      "Paolo",
+      "Davide"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Il termine “antonomasia” significa…",
+    "options": [
+      "Testo che sostiene una tesi con ragioni",
+      "Sostituzione di un nome proprio con un appellativo o viceversa",
+      "Testo che presenta caratteristiche di persone/luoghi/oggetti",
+      "Parte finale che chiude un discorso o un testo"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Anna ha restituito una gomma in classe.\n\nChi è il soggetto della frase?",
+    "options": [
+      "Marco",
+      "Marta",
+      "Luca",
+      "Anna"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Il termine “antagonista” significa…",
+    "options": [
+      "Personaggio che si oppone al protagonista",
+      "Racconto di eventi reali o inventati",
+      "Testo che sostiene una tesi con ragioni",
+      "Parola con significato uguale o simile a un'altra"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Elena ha prestato il quaderno a scuola.\n\nChi è il soggetto della frase?",
+    "options": [
+      "Simone",
+      "Elena",
+      "Anna",
+      "Marta"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la forma corretta? (variante 99)",
+    "options": [
+      "sono entrambe corrette",
+      "dipende dal contesto",
+      "po'",
+      "pò"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Davide ha dimenticato uno zaino in biblioteca.\n\nChi è il soggetto della frase?",
+    "options": [
+      "Marco",
+      "Simone",
+      "Elena",
+      "Davide"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la forma corretta? (variante 94)",
+    "options": [
+      "sono entrambe corrette",
+      "dipende dal contesto",
+      "qual è",
+      "qual'è"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Anna ha restituito uno zaino a casa.\n\nChi è il soggetto della frase?",
+    "options": [
+      "Anna",
+      "Marco",
+      "Davide",
+      "Marta"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Paolo ha prestato un diario a casa.\n\nChi è il soggetto della frase?",
+    "options": [
+      "Elena",
+      "Paolo",
+      "Luca",
+      "Simone"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la forma corretta? (variante 54)",
+    "options": [
+      "apposto",
+      "sono entrambe corrette",
+      "dipende dal contesto",
+      "a posto"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la forma corretta? (variante 41)",
+    "options": [
+      "po'",
+      "pò",
+      "dipende dal contesto",
+      "sono entrambe corrette"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Giulia ha perso una penna a scuola.\n\nChi è il soggetto della frase?",
+    "options": [
+      "Davide",
+      "Anna",
+      "Simone",
+      "Giulia"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la forma corretta? (variante 57)",
+    "options": [
+      "a posto",
+      "apposto",
+      "sono entrambe corrette",
+      "dipende dal contesto"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Davide ha scritto una gomma al parco.\n\nChi è il soggetto della frase?",
+    "options": [
+      "Sara",
+      "Luca",
+      "Marco",
+      "Davide"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Luca ha letto una penna al parco.\n\nChi è il soggetto della frase?",
+    "options": [
+      "Davide",
+      "Marco",
+      "Sara",
+      "Luca"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "In italiano, cos'è una “anafora”?",
+    "options": [
+      "Ripetizione di una o più parole all'inizio di frasi/versi",
+      "Accostamento di parole dal significato opposto",
+      "Confronto esplicito introdotto da 'come', 'simile a'",
+      "Esagerazione intenzionale per rafforzare un concetto"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Marco ha perso uno zaino a casa.\n\nChi è il soggetto della frase?",
+    "options": [
+      "Giulia",
+      "Davide",
+      "Marco",
+      "Anna"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la forma corretta? (variante 71)",
+    "options": [
+      "dipende dal contesto",
+      "pò",
+      "po'",
+      "sono entrambe corrette"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Marco ha letto uno zaino a casa.\n\nChi è il soggetto della frase?",
+    "options": [
+      "Marco",
+      "Elena",
+      "Luca",
+      "Davide"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Sara ha letto un libro in classe.\n\nChi è il soggetto della frase?",
+    "options": [
+      "Davide",
+      "Paolo",
+      "Marco",
+      "Sara"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Giulia ha restituito una penna al parco.\n\nChi è il soggetto della frase?",
+    "options": [
+      "Paolo",
+      "Giulia",
+      "Luca",
+      "Sara"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la forma corretta? (variante 108)",
+    "options": [
+      "sono entrambe corrette",
+      "apposto",
+      "a posto",
+      "dipende dal contesto"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  }
+]

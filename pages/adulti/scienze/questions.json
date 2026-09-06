@@ -1,0 +1,3302 @@
+[
+  {
+    "q": "Biologia (variante 4): funzione dei globuli rossi?",
+    "options": [
+      "Trasportare ossigeno nel sangue",
+      "Formare ossa",
+      "Produrre anticorpi",
+      "Digerire zuccheri"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Fisica (variante 11): cosa misura un voltmetro?",
+    "options": [
+      "Resistenza",
+      "Corrente",
+      "Differenza di potenziale elettrico",
+      "Potenza"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Fisica (variante 2): cosa misura un voltmetro?",
+    "options": [
+      "Resistenza",
+      "Corrente",
+      "Potenza",
+      "Differenza di potenziale elettrico"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Biologia (variante 91): funzione dei globuli rossi?",
+    "options": [
+      "Produrre anticorpi",
+      "Trasportare ossigeno nel sangue",
+      "Formare ossa",
+      "Digerire zuccheri"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Fisica (variante 130): cosa misura un voltmetro?",
+    "options": [
+      "Resistenza",
+      "Potenza",
+      "Corrente",
+      "Differenza di potenziale elettrico"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Fisica (variante 82): cosa misura un voltmetro?",
+    "options": [
+      "Resistenza",
+      "Differenza di potenziale elettrico",
+      "Corrente",
+      "Potenza"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Biologia (variante 62): funzione dei globuli rossi?",
+    "options": [
+      "Trasportare ossigeno nel sangue",
+      "Formare ossa",
+      "Produrre anticorpi",
+      "Digerire zuccheri"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Chimica (variante 122): cos'è il pH?",
+    "options": [
+      "Temperatura di ebollizione",
+      "Massa atomica",
+      "Misura dell'acidità/basicità di una soluzione",
+      "Velocità della luce"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Fisica (variante 62): cosa misura un voltmetro?",
+    "options": [
+      "Potenza",
+      "Corrente",
+      "Resistenza",
+      "Differenza di potenziale elettrico"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Biologia (variante 14): funzione dei globuli rossi?",
+    "options": [
+      "Formare ossa",
+      "Produrre anticorpi",
+      "Digerire zuccheri",
+      "Trasportare ossigeno nel sangue"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Chimica (variante 14): cos'è il pH?",
+    "options": [
+      "Temperatura di ebollizione",
+      "Velocità della luce",
+      "Misura dell'acidità/basicità di una soluzione",
+      "Massa atomica"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Chimica (variante 184): cos'è il pH?",
+    "options": [
+      "Misura dell'acidità/basicità di una soluzione",
+      "Temperatura di ebollizione",
+      "Massa atomica",
+      "Velocità della luce"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Fisica (variante 1): cosa misura un voltmetro?",
+    "options": [
+      "Potenza",
+      "Corrente",
+      "Resistenza",
+      "Differenza di potenziale elettrico"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Fisica (variante 152): cosa misura un voltmetro?",
+    "options": [
+      "Potenza",
+      "Resistenza",
+      "Differenza di potenziale elettrico",
+      "Corrente"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Biologia (variante 7): funzione dei globuli rossi?",
+    "options": [
+      "Digerire zuccheri",
+      "Produrre anticorpi",
+      "Trasportare ossigeno nel sangue",
+      "Formare ossa"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Fisica (variante 32): cosa misura un voltmetro?",
+    "options": [
+      "Potenza",
+      "Differenza di potenziale elettrico",
+      "Corrente",
+      "Resistenza"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Biologia (variante 189): funzione dei globuli rossi?",
+    "options": [
+      "Produrre anticorpi",
+      "Digerire zuccheri",
+      "Trasportare ossigeno nel sangue",
+      "Formare ossa"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Biologia (variante 40): funzione dei globuli rossi?",
+    "options": [
+      "Digerire zuccheri",
+      "Formare ossa",
+      "Trasportare ossigeno nel sangue",
+      "Produrre anticorpi"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Biologia (variante 97): funzione dei globuli rossi?",
+    "options": [
+      "Produrre anticorpi",
+      "Formare ossa",
+      "Trasportare ossigeno nel sangue",
+      "Digerire zuccheri"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Chimica (variante 172): cos'è il pH?",
+    "options": [
+      "Temperatura di ebollizione",
+      "Misura dell'acidità/basicità di una soluzione",
+      "Massa atomica",
+      "Velocità della luce"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Fisica (variante 78): cosa misura un voltmetro?",
+    "options": [
+      "Corrente",
+      "Resistenza",
+      "Potenza",
+      "Differenza di potenziale elettrico"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Fisica (variante 189): cosa misura un voltmetro?",
+    "options": [
+      "Resistenza",
+      "Corrente",
+      "Potenza",
+      "Differenza di potenziale elettrico"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Biologia (variante 52): funzione dei globuli rossi?",
+    "options": [
+      "Trasportare ossigeno nel sangue",
+      "Produrre anticorpi",
+      "Formare ossa",
+      "Digerire zuccheri"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Biologia (variante 67): funzione dei globuli rossi?",
+    "options": [
+      "Formare ossa",
+      "Digerire zuccheri",
+      "Produrre anticorpi",
+      "Trasportare ossigeno nel sangue"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Biologia (variante 6): funzione dei globuli rossi?",
+    "options": [
+      "Formare ossa",
+      "Trasportare ossigeno nel sangue",
+      "Produrre anticorpi",
+      "Digerire zuccheri"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Fisica (variante 28): cosa misura un voltmetro?",
+    "options": [
+      "Differenza di potenziale elettrico",
+      "Corrente",
+      "Resistenza",
+      "Potenza"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Fisica (variante 39): cosa misura un voltmetro?",
+    "options": [
+      "Potenza",
+      "Corrente",
+      "Resistenza",
+      "Differenza di potenziale elettrico"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Chimica (variante 104): cos'è il pH?",
+    "options": [
+      "Velocità della luce",
+      "Temperatura di ebollizione",
+      "Massa atomica",
+      "Misura dell'acidità/basicità di una soluzione"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Chimica (variante 59): cos'è il pH?",
+    "options": [
+      "Velocità della luce",
+      "Misura dell'acidità/basicità di una soluzione",
+      "Temperatura di ebollizione",
+      "Massa atomica"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Chimica (variante 141): cos'è il pH?",
+    "options": [
+      "Velocità della luce",
+      "Massa atomica",
+      "Temperatura di ebollizione",
+      "Misura dell'acidità/basicità di una soluzione"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Biologia (variante 167): funzione dei globuli rossi?",
+    "options": [
+      "Produrre anticorpi",
+      "Digerire zuccheri",
+      "Trasportare ossigeno nel sangue",
+      "Formare ossa"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Fisica (variante 27): cosa misura un voltmetro?",
+    "options": [
+      "Resistenza",
+      "Potenza",
+      "Differenza di potenziale elettrico",
+      "Corrente"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Fisica (variante 87): cosa misura un voltmetro?",
+    "options": [
+      "Corrente",
+      "Potenza",
+      "Resistenza",
+      "Differenza di potenziale elettrico"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Chimica (variante 74): cos'è il pH?",
+    "options": [
+      "Temperatura di ebollizione",
+      "Massa atomica",
+      "Misura dell'acidità/basicità di una soluzione",
+      "Velocità della luce"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Chimica (variante 145): cos'è il pH?",
+    "options": [
+      "Temperatura di ebollizione",
+      "Velocità della luce",
+      "Massa atomica",
+      "Misura dell'acidità/basicità di una soluzione"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Biologia (variante 177): funzione dei globuli rossi?",
+    "options": [
+      "Formare ossa",
+      "Produrre anticorpi",
+      "Trasportare ossigeno nel sangue",
+      "Digerire zuccheri"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Fisica (variante 176): cosa misura un voltmetro?",
+    "options": [
+      "Differenza di potenziale elettrico",
+      "Resistenza",
+      "Corrente",
+      "Potenza"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Fisica (variante 24): cosa misura un voltmetro?",
+    "options": [
+      "Potenza",
+      "Differenza di potenziale elettrico",
+      "Corrente",
+      "Resistenza"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Biologia (variante 139): funzione dei globuli rossi?",
+    "options": [
+      "Trasportare ossigeno nel sangue",
+      "Formare ossa",
+      "Produrre anticorpi",
+      "Digerire zuccheri"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Chimica (variante 92): cos'è il pH?",
+    "options": [
+      "Velocità della luce",
+      "Temperatura di ebollizione",
+      "Massa atomica",
+      "Misura dell'acidità/basicità di una soluzione"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Chimica (variante 29): cos'è il pH?",
+    "options": [
+      "Misura dell'acidità/basicità di una soluzione",
+      "Velocità della luce",
+      "Temperatura di ebollizione",
+      "Massa atomica"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Fisica (variante 174): cosa misura un voltmetro?",
+    "options": [
+      "Differenza di potenziale elettrico",
+      "Potenza",
+      "Resistenza",
+      "Corrente"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Biologia (variante 191): funzione dei globuli rossi?",
+    "options": [
+      "Formare ossa",
+      "Digerire zuccheri",
+      "Trasportare ossigeno nel sangue",
+      "Produrre anticorpi"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Chimica (variante 25): cos'è il pH?",
+    "options": [
+      "Velocità della luce",
+      "Misura dell'acidità/basicità di una soluzione",
+      "Temperatura di ebollizione",
+      "Massa atomica"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Fisica (variante 194): cosa misura un voltmetro?",
+    "options": [
+      "Potenza",
+      "Differenza di potenziale elettrico",
+      "Resistenza",
+      "Corrente"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Biologia (variante 195): funzione dei globuli rossi?",
+    "options": [
+      "Digerire zuccheri",
+      "Trasportare ossigeno nel sangue",
+      "Formare ossa",
+      "Produrre anticorpi"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Biologia (variante 145): funzione dei globuli rossi?",
+    "options": [
+      "Digerire zuccheri",
+      "Formare ossa",
+      "Produrre anticorpi",
+      "Trasportare ossigeno nel sangue"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Fisica (variante 65): cosa misura un voltmetro?",
+    "options": [
+      "Potenza",
+      "Differenza di potenziale elettrico",
+      "Corrente",
+      "Resistenza"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Biologia (variante 181): funzione dei globuli rossi?",
+    "options": [
+      "Produrre anticorpi",
+      "Digerire zuccheri",
+      "Trasportare ossigeno nel sangue",
+      "Formare ossa"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Fisica (variante 91): cosa misura un voltmetro?",
+    "options": [
+      "Potenza",
+      "Differenza di potenziale elettrico",
+      "Corrente",
+      "Resistenza"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Biologia (variante 108): funzione dei globuli rossi?",
+    "options": [
+      "Trasportare ossigeno nel sangue",
+      "Produrre anticorpi",
+      "Digerire zuccheri",
+      "Formare ossa"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Chimica (variante 124): cos'è il pH?",
+    "options": [
+      "Misura dell'acidità/basicità di una soluzione",
+      "Velocità della luce",
+      "Massa atomica",
+      "Temperatura di ebollizione"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Chimica (variante 146): cos'è il pH?",
+    "options": [
+      "Misura dell'acidità/basicità di una soluzione",
+      "Velocità della luce",
+      "Massa atomica",
+      "Temperatura di ebollizione"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Fisica (variante 84): cosa misura un voltmetro?",
+    "options": [
+      "Potenza",
+      "Differenza di potenziale elettrico",
+      "Corrente",
+      "Resistenza"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Fisica (variante 109): cosa misura un voltmetro?",
+    "options": [
+      "Potenza",
+      "Corrente",
+      "Differenza di potenziale elettrico",
+      "Resistenza"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Biologia (variante 77): funzione dei globuli rossi?",
+    "options": [
+      "Digerire zuccheri",
+      "Produrre anticorpi",
+      "Trasportare ossigeno nel sangue",
+      "Formare ossa"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Biologia (variante 136): funzione dei globuli rossi?",
+    "options": [
+      "Produrre anticorpi",
+      "Digerire zuccheri",
+      "Formare ossa",
+      "Trasportare ossigeno nel sangue"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Chimica (variante 60): cos'è il pH?",
+    "options": [
+      "Velocità della luce",
+      "Temperatura di ebollizione",
+      "Misura dell'acidità/basicità di una soluzione",
+      "Massa atomica"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Fisica (variante 172): cosa misura un voltmetro?",
+    "options": [
+      "Differenza di potenziale elettrico",
+      "Potenza",
+      "Corrente",
+      "Resistenza"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Fisica (variante 35): cosa misura un voltmetro?",
+    "options": [
+      "Potenza",
+      "Corrente",
+      "Differenza di potenziale elettrico",
+      "Resistenza"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Chimica (variante 69): cos'è il pH?",
+    "options": [
+      "Misura dell'acidità/basicità di una soluzione",
+      "Velocità della luce",
+      "Massa atomica",
+      "Temperatura di ebollizione"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Chimica (variante 30): cos'è il pH?",
+    "options": [
+      "Temperatura di ebollizione",
+      "Velocità della luce",
+      "Massa atomica",
+      "Misura dell'acidità/basicità di una soluzione"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Fisica (variante 193): cosa misura un voltmetro?",
+    "options": [
+      "Corrente",
+      "Differenza di potenziale elettrico",
+      "Resistenza",
+      "Potenza"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Fisica (variante 187): cosa misura un voltmetro?",
+    "options": [
+      "Differenza di potenziale elettrico",
+      "Potenza",
+      "Corrente",
+      "Resistenza"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Fisica (variante 63): cosa misura un voltmetro?",
+    "options": [
+      "Corrente",
+      "Differenza di potenziale elettrico",
+      "Potenza",
+      "Resistenza"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Chimica (variante 193): cos'è il pH?",
+    "options": [
+      "Misura dell'acidità/basicità di una soluzione",
+      "Massa atomica",
+      "Temperatura di ebollizione",
+      "Velocità della luce"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Fisica (variante 73): cosa misura un voltmetro?",
+    "options": [
+      "Corrente",
+      "Resistenza",
+      "Potenza",
+      "Differenza di potenziale elettrico"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Chimica (variante 155): cos'è il pH?",
+    "options": [
+      "Misura dell'acidità/basicità di una soluzione",
+      "Temperatura di ebollizione",
+      "Massa atomica",
+      "Velocità della luce"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Chimica (variante 11): cos'è il pH?",
+    "options": [
+      "Massa atomica",
+      "Misura dell'acidità/basicità di una soluzione",
+      "Temperatura di ebollizione",
+      "Velocità della luce"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Chimica (variante 158): cos'è il pH?",
+    "options": [
+      "Massa atomica",
+      "Temperatura di ebollizione",
+      "Velocità della luce",
+      "Misura dell'acidità/basicità di una soluzione"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Chimica (variante 143): cos'è il pH?",
+    "options": [
+      "Massa atomica",
+      "Misura dell'acidità/basicità di una soluzione",
+      "Velocità della luce",
+      "Temperatura di ebollizione"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Fisica (variante 74): cosa misura un voltmetro?",
+    "options": [
+      "Differenza di potenziale elettrico",
+      "Resistenza",
+      "Corrente",
+      "Potenza"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Chimica (variante 167): cos'è il pH?",
+    "options": [
+      "Massa atomica",
+      "Temperatura di ebollizione",
+      "Velocità della luce",
+      "Misura dell'acidità/basicità di una soluzione"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Chimica (variante 31): cos'è il pH?",
+    "options": [
+      "Misura dell'acidità/basicità di una soluzione",
+      "Temperatura di ebollizione",
+      "Massa atomica",
+      "Velocità della luce"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Fisica (variante 59): cosa misura un voltmetro?",
+    "options": [
+      "Differenza di potenziale elettrico",
+      "Resistenza",
+      "Potenza",
+      "Corrente"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Fisica (variante 22): cosa misura un voltmetro?",
+    "options": [
+      "Differenza di potenziale elettrico",
+      "Potenza",
+      "Resistenza",
+      "Corrente"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Biologia (variante 13): funzione dei globuli rossi?",
+    "options": [
+      "Formare ossa",
+      "Produrre anticorpi",
+      "Trasportare ossigeno nel sangue",
+      "Digerire zuccheri"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Chimica (variante 47): cos'è il pH?",
+    "options": [
+      "Velocità della luce",
+      "Massa atomica",
+      "Temperatura di ebollizione",
+      "Misura dell'acidità/basicità di una soluzione"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Chimica (variante 90): cos'è il pH?",
+    "options": [
+      "Temperatura di ebollizione",
+      "Massa atomica",
+      "Misura dell'acidità/basicità di una soluzione",
+      "Velocità della luce"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Biologia (variante 119): funzione dei globuli rossi?",
+    "options": [
+      "Formare ossa",
+      "Digerire zuccheri",
+      "Trasportare ossigeno nel sangue",
+      "Produrre anticorpi"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Fisica (variante 106): cosa misura un voltmetro?",
+    "options": [
+      "Potenza",
+      "Corrente",
+      "Differenza di potenziale elettrico",
+      "Resistenza"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Fisica (variante 97): cosa misura un voltmetro?",
+    "options": [
+      "Differenza di potenziale elettrico",
+      "Corrente",
+      "Resistenza",
+      "Potenza"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Biologia (variante 188): funzione dei globuli rossi?",
+    "options": [
+      "Digerire zuccheri",
+      "Trasportare ossigeno nel sangue",
+      "Produrre anticorpi",
+      "Formare ossa"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Chimica (variante 136): cos'è il pH?",
+    "options": [
+      "Massa atomica",
+      "Misura dell'acidità/basicità di una soluzione",
+      "Temperatura di ebollizione",
+      "Velocità della luce"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Biologia (variante 74): funzione dei globuli rossi?",
+    "options": [
+      "Produrre anticorpi",
+      "Trasportare ossigeno nel sangue",
+      "Digerire zuccheri",
+      "Formare ossa"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Chimica (variante 138): cos'è il pH?",
+    "options": [
+      "Velocità della luce",
+      "Misura dell'acidità/basicità di una soluzione",
+      "Temperatura di ebollizione",
+      "Massa atomica"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Fisica (variante 96): cosa misura un voltmetro?",
+    "options": [
+      "Potenza",
+      "Resistenza",
+      "Corrente",
+      "Differenza di potenziale elettrico"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Fisica (variante 185): cosa misura un voltmetro?",
+    "options": [
+      "Resistenza",
+      "Differenza di potenziale elettrico",
+      "Potenza",
+      "Corrente"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Chimica (variante 32): cos'è il pH?",
+    "options": [
+      "Temperatura di ebollizione",
+      "Massa atomica",
+      "Velocità della luce",
+      "Misura dell'acidità/basicità di una soluzione"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Fisica (variante 46): cosa misura un voltmetro?",
+    "options": [
+      "Resistenza",
+      "Differenza di potenziale elettrico",
+      "Corrente",
+      "Potenza"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Biologia (variante 45): funzione dei globuli rossi?",
+    "options": [
+      "Digerire zuccheri",
+      "Produrre anticorpi",
+      "Formare ossa",
+      "Trasportare ossigeno nel sangue"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Biologia (variante 165): funzione dei globuli rossi?",
+    "options": [
+      "Formare ossa",
+      "Digerire zuccheri",
+      "Produrre anticorpi",
+      "Trasportare ossigeno nel sangue"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Biologia (variante 142): funzione dei globuli rossi?",
+    "options": [
+      "Formare ossa",
+      "Trasportare ossigeno nel sangue",
+      "Digerire zuccheri",
+      "Produrre anticorpi"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Biologia (variante 1): funzione dei globuli rossi?",
+    "options": [
+      "Trasportare ossigeno nel sangue",
+      "Produrre anticorpi",
+      "Formare ossa",
+      "Digerire zuccheri"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Biologia (variante 116): funzione dei globuli rossi?",
+    "options": [
+      "Produrre anticorpi",
+      "Trasportare ossigeno nel sangue",
+      "Digerire zuccheri",
+      "Formare ossa"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Chimica (variante 157): cos'è il pH?",
+    "options": [
+      "Velocità della luce",
+      "Misura dell'acidità/basicità di una soluzione",
+      "Temperatura di ebollizione",
+      "Massa atomica"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Biologia (variante 199): funzione dei globuli rossi?",
+    "options": [
+      "Formare ossa",
+      "Produrre anticorpi",
+      "Trasportare ossigeno nel sangue",
+      "Digerire zuccheri"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Fisica (variante 170): cosa misura un voltmetro?",
+    "options": [
+      "Resistenza",
+      "Differenza di potenziale elettrico",
+      "Corrente",
+      "Potenza"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Fisica (variante 197): cosa misura un voltmetro?",
+    "options": [
+      "Differenza di potenziale elettrico",
+      "Resistenza",
+      "Corrente",
+      "Potenza"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Chimica (variante 114): cos'è il pH?",
+    "options": [
+      "Temperatura di ebollizione",
+      "Misura dell'acidità/basicità di una soluzione",
+      "Velocità della luce",
+      "Massa atomica"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Chimica (variante 89): cos'è il pH?",
+    "options": [
+      "Misura dell'acidità/basicità di una soluzione",
+      "Temperatura di ebollizione",
+      "Massa atomica",
+      "Velocità della luce"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Biologia (variante 27): funzione dei globuli rossi?",
+    "options": [
+      "Formare ossa",
+      "Digerire zuccheri",
+      "Produrre anticorpi",
+      "Trasportare ossigeno nel sangue"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Fisica (variante 29): cosa misura un voltmetro?",
+    "options": [
+      "Corrente",
+      "Differenza di potenziale elettrico",
+      "Resistenza",
+      "Potenza"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Fisica (variante 75): cosa misura un voltmetro?",
+    "options": [
+      "Corrente",
+      "Resistenza",
+      "Differenza di potenziale elettrico",
+      "Potenza"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Chimica (variante 67): cos'è il pH?",
+    "options": [
+      "Temperatura di ebollizione",
+      "Misura dell'acidità/basicità di una soluzione",
+      "Massa atomica",
+      "Velocità della luce"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Chimica (variante 115): cos'è il pH?",
+    "options": [
+      "Velocità della luce",
+      "Temperatura di ebollizione",
+      "Misura dell'acidità/basicità di una soluzione",
+      "Massa atomica"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Chimica (variante 16): cos'è il pH?",
+    "options": [
+      "Massa atomica",
+      "Misura dell'acidità/basicità di una soluzione",
+      "Temperatura di ebollizione",
+      "Velocità della luce"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Chimica (variante 9): cos'è il pH?",
+    "options": [
+      "Temperatura di ebollizione",
+      "Velocità della luce",
+      "Massa atomica",
+      "Misura dell'acidità/basicità di una soluzione"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Fisica (variante 120): cosa misura un voltmetro?",
+    "options": [
+      "Corrente",
+      "Resistenza",
+      "Potenza",
+      "Differenza di potenziale elettrico"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Biologia (variante 127): funzione dei globuli rossi?",
+    "options": [
+      "Digerire zuccheri",
+      "Trasportare ossigeno nel sangue",
+      "Produrre anticorpi",
+      "Formare ossa"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Fisica (variante 80): cosa misura un voltmetro?",
+    "options": [
+      "Potenza",
+      "Corrente",
+      "Resistenza",
+      "Differenza di potenziale elettrico"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Chimica (variante 23): cos'è il pH?",
+    "options": [
+      "Velocità della luce",
+      "Temperatura di ebollizione",
+      "Misura dell'acidità/basicità di una soluzione",
+      "Massa atomica"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Biologia (variante 118): funzione dei globuli rossi?",
+    "options": [
+      "Digerire zuccheri",
+      "Produrre anticorpi",
+      "Formare ossa",
+      "Trasportare ossigeno nel sangue"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Biologia (variante 182): funzione dei globuli rossi?",
+    "options": [
+      "Trasportare ossigeno nel sangue",
+      "Produrre anticorpi",
+      "Formare ossa",
+      "Digerire zuccheri"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Chimica (variante 134): cos'è il pH?",
+    "options": [
+      "Velocità della luce",
+      "Misura dell'acidità/basicità di una soluzione",
+      "Temperatura di ebollizione",
+      "Massa atomica"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Biologia (variante 168): funzione dei globuli rossi?",
+    "options": [
+      "Formare ossa",
+      "Trasportare ossigeno nel sangue",
+      "Produrre anticorpi",
+      "Digerire zuccheri"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Biologia (variante 194): funzione dei globuli rossi?",
+    "options": [
+      "Trasportare ossigeno nel sangue",
+      "Digerire zuccheri",
+      "Produrre anticorpi",
+      "Formare ossa"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Biologia (variante 184): funzione dei globuli rossi?",
+    "options": [
+      "Formare ossa",
+      "Trasportare ossigeno nel sangue",
+      "Produrre anticorpi",
+      "Digerire zuccheri"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Biologia (variante 80): funzione dei globuli rossi?",
+    "options": [
+      "Produrre anticorpi",
+      "Trasportare ossigeno nel sangue",
+      "Digerire zuccheri",
+      "Formare ossa"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Biologia (variante 68): funzione dei globuli rossi?",
+    "options": [
+      "Digerire zuccheri",
+      "Produrre anticorpi",
+      "Trasportare ossigeno nel sangue",
+      "Formare ossa"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Chimica (variante 81): cos'è il pH?",
+    "options": [
+      "Velocità della luce",
+      "Massa atomica",
+      "Temperatura di ebollizione",
+      "Misura dell'acidità/basicità di una soluzione"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Biologia (variante 51): funzione dei globuli rossi?",
+    "options": [
+      "Formare ossa",
+      "Digerire zuccheri",
+      "Produrre anticorpi",
+      "Trasportare ossigeno nel sangue"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Biologia (variante 86): funzione dei globuli rossi?",
+    "options": [
+      "Trasportare ossigeno nel sangue",
+      "Digerire zuccheri",
+      "Formare ossa",
+      "Produrre anticorpi"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Biologia (variante 48): funzione dei globuli rossi?",
+    "options": [
+      "Trasportare ossigeno nel sangue",
+      "Digerire zuccheri",
+      "Produrre anticorpi",
+      "Formare ossa"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Biologia (variante 30): funzione dei globuli rossi?",
+    "options": [
+      "Produrre anticorpi",
+      "Formare ossa",
+      "Trasportare ossigeno nel sangue",
+      "Digerire zuccheri"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Fisica (variante 43): cosa misura un voltmetro?",
+    "options": [
+      "Corrente",
+      "Potenza",
+      "Resistenza",
+      "Differenza di potenziale elettrico"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Chimica (variante 106): cos'è il pH?",
+    "options": [
+      "Velocità della luce",
+      "Misura dell'acidità/basicità di una soluzione",
+      "Massa atomica",
+      "Temperatura di ebollizione"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Biologia (variante 109): funzione dei globuli rossi?",
+    "options": [
+      "Produrre anticorpi",
+      "Trasportare ossigeno nel sangue",
+      "Digerire zuccheri",
+      "Formare ossa"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Fisica (variante 113): cosa misura un voltmetro?",
+    "options": [
+      "Potenza",
+      "Resistenza",
+      "Corrente",
+      "Differenza di potenziale elettrico"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Chimica (variante 161): cos'è il pH?",
+    "options": [
+      "Temperatura di ebollizione",
+      "Misura dell'acidità/basicità di una soluzione",
+      "Velocità della luce",
+      "Massa atomica"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Biologia (variante 8): funzione dei globuli rossi?",
+    "options": [
+      "Formare ossa",
+      "Digerire zuccheri",
+      "Produrre anticorpi",
+      "Trasportare ossigeno nel sangue"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Chimica (variante 113): cos'è il pH?",
+    "options": [
+      "Velocità della luce",
+      "Massa atomica",
+      "Temperatura di ebollizione",
+      "Misura dell'acidità/basicità di una soluzione"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Chimica (variante 148): cos'è il pH?",
+    "options": [
+      "Massa atomica",
+      "Temperatura di ebollizione",
+      "Misura dell'acidità/basicità di una soluzione",
+      "Velocità della luce"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Biologia (variante 20): funzione dei globuli rossi?",
+    "options": [
+      "Produrre anticorpi",
+      "Formare ossa",
+      "Digerire zuccheri",
+      "Trasportare ossigeno nel sangue"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Chimica (variante 95): cos'è il pH?",
+    "options": [
+      "Velocità della luce",
+      "Misura dell'acidità/basicità di una soluzione",
+      "Temperatura di ebollizione",
+      "Massa atomica"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Fisica (variante 76): cosa misura un voltmetro?",
+    "options": [
+      "Corrente",
+      "Potenza",
+      "Differenza di potenziale elettrico",
+      "Resistenza"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Chimica (variante 68): cos'è il pH?",
+    "options": [
+      "Massa atomica",
+      "Misura dell'acidità/basicità di una soluzione",
+      "Temperatura di ebollizione",
+      "Velocità della luce"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Fisica (variante 123): cosa misura un voltmetro?",
+    "options": [
+      "Differenza di potenziale elettrico",
+      "Corrente",
+      "Resistenza",
+      "Potenza"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Chimica (variante 190): cos'è il pH?",
+    "options": [
+      "Temperatura di ebollizione",
+      "Misura dell'acidità/basicità di una soluzione",
+      "Velocità della luce",
+      "Massa atomica"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Biologia (variante 87): funzione dei globuli rossi?",
+    "options": [
+      "Formare ossa",
+      "Produrre anticorpi",
+      "Digerire zuccheri",
+      "Trasportare ossigeno nel sangue"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Fisica (variante 10): cosa misura un voltmetro?",
+    "options": [
+      "Potenza",
+      "Corrente",
+      "Resistenza",
+      "Differenza di potenziale elettrico"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Chimica (variante 3): cos'è il pH?",
+    "options": [
+      "Velocità della luce",
+      "Temperatura di ebollizione",
+      "Massa atomica",
+      "Misura dell'acidità/basicità di una soluzione"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Fisica (variante 37): cosa misura un voltmetro?",
+    "options": [
+      "Resistenza",
+      "Potenza",
+      "Corrente",
+      "Differenza di potenziale elettrico"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Fisica (variante 131): cosa misura un voltmetro?",
+    "options": [
+      "Resistenza",
+      "Corrente",
+      "Differenza di potenziale elettrico",
+      "Potenza"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Biologia (variante 22): funzione dei globuli rossi?",
+    "options": [
+      "Trasportare ossigeno nel sangue",
+      "Formare ossa",
+      "Produrre anticorpi",
+      "Digerire zuccheri"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Fisica (variante 26): cosa misura un voltmetro?",
+    "options": [
+      "Potenza",
+      "Resistenza",
+      "Differenza di potenziale elettrico",
+      "Corrente"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Chimica (variante 88): cos'è il pH?",
+    "options": [
+      "Temperatura di ebollizione",
+      "Velocità della luce",
+      "Misura dell'acidità/basicità di una soluzione",
+      "Massa atomica"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Chimica (variante 132): cos'è il pH?",
+    "options": [
+      "Massa atomica",
+      "Temperatura di ebollizione",
+      "Misura dell'acidità/basicità di una soluzione",
+      "Velocità della luce"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Biologia (variante 18): funzione dei globuli rossi?",
+    "options": [
+      "Trasportare ossigeno nel sangue",
+      "Digerire zuccheri",
+      "Produrre anticorpi",
+      "Formare ossa"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Fisica (variante 83): cosa misura un voltmetro?",
+    "options": [
+      "Corrente",
+      "Resistenza",
+      "Differenza di potenziale elettrico",
+      "Potenza"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Fisica (variante 179): cosa misura un voltmetro?",
+    "options": [
+      "Resistenza",
+      "Corrente",
+      "Differenza di potenziale elettrico",
+      "Potenza"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Fisica (variante 138): cosa misura un voltmetro?",
+    "options": [
+      "Differenza di potenziale elettrico",
+      "Corrente",
+      "Potenza",
+      "Resistenza"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Biologia (variante 141): funzione dei globuli rossi?",
+    "options": [
+      "Formare ossa",
+      "Trasportare ossigeno nel sangue",
+      "Produrre anticorpi",
+      "Digerire zuccheri"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Chimica (variante 187): cos'è il pH?",
+    "options": [
+      "Misura dell'acidità/basicità di una soluzione",
+      "Massa atomica",
+      "Velocità della luce",
+      "Temperatura di ebollizione"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Chimica (variante 73): cos'è il pH?",
+    "options": [
+      "Velocità della luce",
+      "Temperatura di ebollizione",
+      "Massa atomica",
+      "Misura dell'acidità/basicità di una soluzione"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Biologia (variante 192): funzione dei globuli rossi?",
+    "options": [
+      "Digerire zuccheri",
+      "Produrre anticorpi",
+      "Formare ossa",
+      "Trasportare ossigeno nel sangue"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Biologia (variante 159): funzione dei globuli rossi?",
+    "options": [
+      "Formare ossa",
+      "Produrre anticorpi",
+      "Trasportare ossigeno nel sangue",
+      "Digerire zuccheri"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Fisica (variante 100): cosa misura un voltmetro?",
+    "options": [
+      "Differenza di potenziale elettrico",
+      "Corrente",
+      "Potenza",
+      "Resistenza"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Chimica (variante 91): cos'è il pH?",
+    "options": [
+      "Velocità della luce",
+      "Misura dell'acidità/basicità di una soluzione",
+      "Temperatura di ebollizione",
+      "Massa atomica"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Biologia (variante 89): funzione dei globuli rossi?",
+    "options": [
+      "Formare ossa",
+      "Produrre anticorpi",
+      "Digerire zuccheri",
+      "Trasportare ossigeno nel sangue"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Biologia (variante 21): funzione dei globuli rossi?",
+    "options": [
+      "Formare ossa",
+      "Digerire zuccheri",
+      "Trasportare ossigeno nel sangue",
+      "Produrre anticorpi"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Fisica (variante 156): cosa misura un voltmetro?",
+    "options": [
+      "Potenza",
+      "Differenza di potenziale elettrico",
+      "Corrente",
+      "Resistenza"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Chimica (variante 133): cos'è il pH?",
+    "options": [
+      "Temperatura di ebollizione",
+      "Velocità della luce",
+      "Massa atomica",
+      "Misura dell'acidità/basicità di una soluzione"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Chimica (variante 196): cos'è il pH?",
+    "options": [
+      "Misura dell'acidità/basicità di una soluzione",
+      "Massa atomica",
+      "Temperatura di ebollizione",
+      "Velocità della luce"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Biologia (variante 56): funzione dei globuli rossi?",
+    "options": [
+      "Produrre anticorpi",
+      "Formare ossa",
+      "Digerire zuccheri",
+      "Trasportare ossigeno nel sangue"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Fisica (variante 159): cosa misura un voltmetro?",
+    "options": [
+      "Differenza di potenziale elettrico",
+      "Corrente",
+      "Resistenza",
+      "Potenza"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Biologia (variante 150): funzione dei globuli rossi?",
+    "options": [
+      "Produrre anticorpi",
+      "Trasportare ossigeno nel sangue",
+      "Formare ossa",
+      "Digerire zuccheri"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Fisica (variante 104): cosa misura un voltmetro?",
+    "options": [
+      "Differenza di potenziale elettrico",
+      "Potenza",
+      "Resistenza",
+      "Corrente"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Biologia (variante 93): funzione dei globuli rossi?",
+    "options": [
+      "Formare ossa",
+      "Produrre anticorpi",
+      "Digerire zuccheri",
+      "Trasportare ossigeno nel sangue"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Biologia (variante 47): funzione dei globuli rossi?",
+    "options": [
+      "Produrre anticorpi",
+      "Formare ossa",
+      "Digerire zuccheri",
+      "Trasportare ossigeno nel sangue"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Fisica (variante 168): cosa misura un voltmetro?",
+    "options": [
+      "Potenza",
+      "Resistenza",
+      "Differenza di potenziale elettrico",
+      "Corrente"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Chimica (variante 83): cos'è il pH?",
+    "options": [
+      "Velocità della luce",
+      "Massa atomica",
+      "Temperatura di ebollizione",
+      "Misura dell'acidità/basicità di una soluzione"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Fisica (variante 30): cosa misura un voltmetro?",
+    "options": [
+      "Resistenza",
+      "Differenza di potenziale elettrico",
+      "Corrente",
+      "Potenza"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Fisica (variante 69): cosa misura un voltmetro?",
+    "options": [
+      "Differenza di potenziale elettrico",
+      "Resistenza",
+      "Corrente",
+      "Potenza"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Biologia (variante 59): funzione dei globuli rossi?",
+    "options": [
+      "Trasportare ossigeno nel sangue",
+      "Formare ossa",
+      "Digerire zuccheri",
+      "Produrre anticorpi"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Chimica (variante 108): cos'è il pH?",
+    "options": [
+      "Temperatura di ebollizione",
+      "Misura dell'acidità/basicità di una soluzione",
+      "Velocità della luce",
+      "Massa atomica"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Biologia (variante 128): funzione dei globuli rossi?",
+    "options": [
+      "Trasportare ossigeno nel sangue",
+      "Digerire zuccheri",
+      "Produrre anticorpi",
+      "Formare ossa"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Chimica (variante 128): cos'è il pH?",
+    "options": [
+      "Velocità della luce",
+      "Misura dell'acidità/basicità di una soluzione",
+      "Massa atomica",
+      "Temperatura di ebollizione"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Biologia (variante 102): funzione dei globuli rossi?",
+    "options": [
+      "Produrre anticorpi",
+      "Trasportare ossigeno nel sangue",
+      "Digerire zuccheri",
+      "Formare ossa"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Fisica (variante 25): cosa misura un voltmetro?",
+    "options": [
+      "Resistenza",
+      "Differenza di potenziale elettrico",
+      "Corrente",
+      "Potenza"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Biologia (variante 33): funzione dei globuli rossi?",
+    "options": [
+      "Produrre anticorpi",
+      "Formare ossa",
+      "Digerire zuccheri",
+      "Trasportare ossigeno nel sangue"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Fisica (variante 111): cosa misura un voltmetro?",
+    "options": [
+      "Differenza di potenziale elettrico",
+      "Resistenza",
+      "Corrente",
+      "Potenza"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Chimica (variante 139): cos'è il pH?",
+    "options": [
+      "Velocità della luce",
+      "Temperatura di ebollizione",
+      "Misura dell'acidità/basicità di una soluzione",
+      "Massa atomica"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Chimica (variante 48): cos'è il pH?",
+    "options": [
+      "Velocità della luce",
+      "Misura dell'acidità/basicità di una soluzione",
+      "Massa atomica",
+      "Temperatura di ebollizione"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Chimica (variante 20): cos'è il pH?",
+    "options": [
+      "Temperatura di ebollizione",
+      "Misura dell'acidità/basicità di una soluzione",
+      "Velocità della luce",
+      "Massa atomica"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Biologia (variante 63): funzione dei globuli rossi?",
+    "options": [
+      "Digerire zuccheri",
+      "Produrre anticorpi",
+      "Formare ossa",
+      "Trasportare ossigeno nel sangue"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Chimica (variante 117): cos'è il pH?",
+    "options": [
+      "Temperatura di ebollizione",
+      "Misura dell'acidità/basicità di una soluzione",
+      "Massa atomica",
+      "Velocità della luce"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Fisica (variante 53): cosa misura un voltmetro?",
+    "options": [
+      "Corrente",
+      "Potenza",
+      "Resistenza",
+      "Differenza di potenziale elettrico"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Chimica (variante 51): cos'è il pH?",
+    "options": [
+      "Massa atomica",
+      "Temperatura di ebollizione",
+      "Velocità della luce",
+      "Misura dell'acidità/basicità di una soluzione"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Fisica (variante 71): cosa misura un voltmetro?",
+    "options": [
+      "Potenza",
+      "Resistenza",
+      "Corrente",
+      "Differenza di potenziale elettrico"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Biologia (variante 200): funzione dei globuli rossi?",
+    "options": [
+      "Formare ossa",
+      "Trasportare ossigeno nel sangue",
+      "Produrre anticorpi",
+      "Digerire zuccheri"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Fisica (variante 175): cosa misura un voltmetro?",
+    "options": [
+      "Corrente",
+      "Resistenza",
+      "Potenza",
+      "Differenza di potenziale elettrico"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Chimica (variante 199): cos'è il pH?",
+    "options": [
+      "Misura dell'acidità/basicità di una soluzione",
+      "Velocità della luce",
+      "Temperatura di ebollizione",
+      "Massa atomica"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Chimica (variante 183): cos'è il pH?",
+    "options": [
+      "Velocità della luce",
+      "Misura dell'acidità/basicità di una soluzione",
+      "Temperatura di ebollizione",
+      "Massa atomica"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Chimica (variante 50): cos'è il pH?",
+    "options": [
+      "Velocità della luce",
+      "Temperatura di ebollizione",
+      "Massa atomica",
+      "Misura dell'acidità/basicità di una soluzione"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Biologia (variante 5): funzione dei globuli rossi?",
+    "options": [
+      "Trasportare ossigeno nel sangue",
+      "Formare ossa",
+      "Digerire zuccheri",
+      "Produrre anticorpi"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Biologia (variante 55): funzione dei globuli rossi?",
+    "options": [
+      "Trasportare ossigeno nel sangue",
+      "Digerire zuccheri",
+      "Formare ossa",
+      "Produrre anticorpi"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Fisica (variante 108): cosa misura un voltmetro?",
+    "options": [
+      "Differenza di potenziale elettrico",
+      "Resistenza",
+      "Corrente",
+      "Potenza"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Fisica (variante 165): cosa misura un voltmetro?",
+    "options": [
+      "Corrente",
+      "Potenza",
+      "Resistenza",
+      "Differenza di potenziale elettrico"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Fisica (variante 51): cosa misura un voltmetro?",
+    "options": [
+      "Corrente",
+      "Resistenza",
+      "Potenza",
+      "Differenza di potenziale elettrico"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Fisica (variante 101): cosa misura un voltmetro?",
+    "options": [
+      "Potenza",
+      "Resistenza",
+      "Differenza di potenziale elettrico",
+      "Corrente"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Biologia (variante 84): funzione dei globuli rossi?",
+    "options": [
+      "Digerire zuccheri",
+      "Trasportare ossigeno nel sangue",
+      "Produrre anticorpi",
+      "Formare ossa"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Biologia (variante 179): funzione dei globuli rossi?",
+    "options": [
+      "Digerire zuccheri",
+      "Formare ossa",
+      "Trasportare ossigeno nel sangue",
+      "Produrre anticorpi"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Biologia (variante 110): funzione dei globuli rossi?",
+    "options": [
+      "Formare ossa",
+      "Trasportare ossigeno nel sangue",
+      "Digerire zuccheri",
+      "Produrre anticorpi"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Biologia (variante 88): funzione dei globuli rossi?",
+    "options": [
+      "Formare ossa",
+      "Trasportare ossigeno nel sangue",
+      "Produrre anticorpi",
+      "Digerire zuccheri"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Chimica (variante 170): cos'è il pH?",
+    "options": [
+      "Massa atomica",
+      "Velocità della luce",
+      "Misura dell'acidità/basicità di una soluzione",
+      "Temperatura di ebollizione"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Fisica (variante 79): cosa misura un voltmetro?",
+    "options": [
+      "Corrente",
+      "Differenza di potenziale elettrico",
+      "Potenza",
+      "Resistenza"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Fisica (variante 162): cosa misura un voltmetro?",
+    "options": [
+      "Resistenza",
+      "Corrente",
+      "Potenza",
+      "Differenza di potenziale elettrico"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Chimica (variante 46): cos'è il pH?",
+    "options": [
+      "Misura dell'acidità/basicità di una soluzione",
+      "Velocità della luce",
+      "Massa atomica",
+      "Temperatura di ebollizione"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Biologia (variante 130): funzione dei globuli rossi?",
+    "options": [
+      "Formare ossa",
+      "Produrre anticorpi",
+      "Digerire zuccheri",
+      "Trasportare ossigeno nel sangue"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Biologia (variante 19): funzione dei globuli rossi?",
+    "options": [
+      "Produrre anticorpi",
+      "Trasportare ossigeno nel sangue",
+      "Formare ossa",
+      "Digerire zuccheri"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Fisica (variante 17): cosa misura un voltmetro?",
+    "options": [
+      "Corrente",
+      "Potenza",
+      "Resistenza",
+      "Differenza di potenziale elettrico"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Chimica (variante 2): cos'è il pH?",
+    "options": [
+      "Misura dell'acidità/basicità di una soluzione",
+      "Temperatura di ebollizione",
+      "Velocità della luce",
+      "Massa atomica"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Chimica (variante 44): cos'è il pH?",
+    "options": [
+      "Temperatura di ebollizione",
+      "Velocità della luce",
+      "Massa atomica",
+      "Misura dell'acidità/basicità di una soluzione"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Biologia (variante 34): funzione dei globuli rossi?",
+    "options": [
+      "Trasportare ossigeno nel sangue",
+      "Produrre anticorpi",
+      "Formare ossa",
+      "Digerire zuccheri"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Chimica (variante 1): cos'è il pH?",
+    "options": [
+      "Misura dell'acidità/basicità di una soluzione",
+      "Temperatura di ebollizione",
+      "Velocità della luce",
+      "Massa atomica"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Chimica (variante 5): cos'è il pH?",
+    "options": [
+      "Velocità della luce",
+      "Temperatura di ebollizione",
+      "Misura dell'acidità/basicità di una soluzione",
+      "Massa atomica"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Chimica (variante 200): cos'è il pH?",
+    "options": [
+      "Velocità della luce",
+      "Temperatura di ebollizione",
+      "Misura dell'acidità/basicità di una soluzione",
+      "Massa atomica"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Chimica (variante 149): cos'è il pH?",
+    "options": [
+      "Massa atomica",
+      "Temperatura di ebollizione",
+      "Velocità della luce",
+      "Misura dell'acidità/basicità di una soluzione"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Chimica (variante 34): cos'è il pH?",
+    "options": [
+      "Misura dell'acidità/basicità di una soluzione",
+      "Velocità della luce",
+      "Temperatura di ebollizione",
+      "Massa atomica"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Biologia (variante 24): funzione dei globuli rossi?",
+    "options": [
+      "Formare ossa",
+      "Produrre anticorpi",
+      "Trasportare ossigeno nel sangue",
+      "Digerire zuccheri"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Chimica (variante 142): cos'è il pH?",
+    "options": [
+      "Temperatura di ebollizione",
+      "Velocità della luce",
+      "Misura dell'acidità/basicità di una soluzione",
+      "Massa atomica"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Fisica (variante 70): cosa misura un voltmetro?",
+    "options": [
+      "Resistenza",
+      "Corrente",
+      "Differenza di potenziale elettrico",
+      "Potenza"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Chimica (variante 178): cos'è il pH?",
+    "options": [
+      "Temperatura di ebollizione",
+      "Massa atomica",
+      "Misura dell'acidità/basicità di una soluzione",
+      "Velocità della luce"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Fisica (variante 105): cosa misura un voltmetro?",
+    "options": [
+      "Differenza di potenziale elettrico",
+      "Corrente",
+      "Resistenza",
+      "Potenza"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Fisica (variante 137): cosa misura un voltmetro?",
+    "options": [
+      "Corrente",
+      "Differenza di potenziale elettrico",
+      "Potenza",
+      "Resistenza"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Chimica (variante 109): cos'è il pH?",
+    "options": [
+      "Massa atomica",
+      "Misura dell'acidità/basicità di una soluzione",
+      "Temperatura di ebollizione",
+      "Velocità della luce"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Biologia (variante 104): funzione dei globuli rossi?",
+    "options": [
+      "Formare ossa",
+      "Produrre anticorpi",
+      "Digerire zuccheri",
+      "Trasportare ossigeno nel sangue"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Fisica (variante 38): cosa misura un voltmetro?",
+    "options": [
+      "Corrente",
+      "Resistenza",
+      "Differenza di potenziale elettrico",
+      "Potenza"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Chimica (variante 33): cos'è il pH?",
+    "options": [
+      "Temperatura di ebollizione",
+      "Velocità della luce",
+      "Misura dell'acidità/basicità di una soluzione",
+      "Massa atomica"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Biologia (variante 100): funzione dei globuli rossi?",
+    "options": [
+      "Digerire zuccheri",
+      "Formare ossa",
+      "Produrre anticorpi",
+      "Trasportare ossigeno nel sangue"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Chimica (variante 19): cos'è il pH?",
+    "options": [
+      "Temperatura di ebollizione",
+      "Massa atomica",
+      "Velocità della luce",
+      "Misura dell'acidità/basicità di una soluzione"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Biologia (variante 144): funzione dei globuli rossi?",
+    "options": [
+      "Produrre anticorpi",
+      "Digerire zuccheri",
+      "Trasportare ossigeno nel sangue",
+      "Formare ossa"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Biologia (variante 79): funzione dei globuli rossi?",
+    "options": [
+      "Produrre anticorpi",
+      "Trasportare ossigeno nel sangue",
+      "Digerire zuccheri",
+      "Formare ossa"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Fisica (variante 195): cosa misura un voltmetro?",
+    "options": [
+      "Differenza di potenziale elettrico",
+      "Resistenza",
+      "Potenza",
+      "Corrente"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Biologia (variante 44): funzione dei globuli rossi?",
+    "options": [
+      "Digerire zuccheri",
+      "Produrre anticorpi",
+      "Formare ossa",
+      "Trasportare ossigeno nel sangue"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Chimica (variante 94): cos'è il pH?",
+    "options": [
+      "Velocità della luce",
+      "Temperatura di ebollizione",
+      "Massa atomica",
+      "Misura dell'acidità/basicità di una soluzione"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Chimica (variante 10): cos'è il pH?",
+    "options": [
+      "Misura dell'acidità/basicità di una soluzione",
+      "Temperatura di ebollizione",
+      "Velocità della luce",
+      "Massa atomica"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Fisica (variante 144): cosa misura un voltmetro?",
+    "options": [
+      "Potenza",
+      "Differenza di potenziale elettrico",
+      "Resistenza",
+      "Corrente"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Chimica (variante 7): cos'è il pH?",
+    "options": [
+      "Misura dell'acidità/basicità di una soluzione",
+      "Massa atomica",
+      "Velocità della luce",
+      "Temperatura di ebollizione"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Chimica (variante 86): cos'è il pH?",
+    "options": [
+      "Velocità della luce",
+      "Temperatura di ebollizione",
+      "Massa atomica",
+      "Misura dell'acidità/basicità di una soluzione"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Chimica (variante 22): cos'è il pH?",
+    "options": [
+      "Misura dell'acidità/basicità di una soluzione",
+      "Temperatura di ebollizione",
+      "Velocità della luce",
+      "Massa atomica"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Chimica (variante 41): cos'è il pH?",
+    "options": [
+      "Misura dell'acidità/basicità di una soluzione",
+      "Massa atomica",
+      "Temperatura di ebollizione",
+      "Velocità della luce"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Fisica (variante 198): cosa misura un voltmetro?",
+    "options": [
+      "Differenza di potenziale elettrico",
+      "Resistenza",
+      "Potenza",
+      "Corrente"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Fisica (variante 149): cosa misura un voltmetro?",
+    "options": [
+      "Potenza",
+      "Resistenza",
+      "Differenza di potenziale elettrico",
+      "Corrente"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Biologia (variante 95): funzione dei globuli rossi?",
+    "options": [
+      "Produrre anticorpi",
+      "Trasportare ossigeno nel sangue",
+      "Digerire zuccheri",
+      "Formare ossa"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Biologia (variante 64): funzione dei globuli rossi?",
+    "options": [
+      "Produrre anticorpi",
+      "Trasportare ossigeno nel sangue",
+      "Formare ossa",
+      "Digerire zuccheri"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Fisica (variante 163): cosa misura un voltmetro?",
+    "options": [
+      "Differenza di potenziale elettrico",
+      "Potenza",
+      "Corrente",
+      "Resistenza"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Fisica (variante 133): cosa misura un voltmetro?",
+    "options": [
+      "Resistenza",
+      "Potenza",
+      "Differenza di potenziale elettrico",
+      "Corrente"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Biologia (variante 81): funzione dei globuli rossi?",
+    "options": [
+      "Digerire zuccheri",
+      "Produrre anticorpi",
+      "Formare ossa",
+      "Trasportare ossigeno nel sangue"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Chimica (variante 191): cos'è il pH?",
+    "options": [
+      "Temperatura di ebollizione",
+      "Misura dell'acidità/basicità di una soluzione",
+      "Velocità della luce",
+      "Massa atomica"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Biologia (variante 78): funzione dei globuli rossi?",
+    "options": [
+      "Trasportare ossigeno nel sangue",
+      "Digerire zuccheri",
+      "Produrre anticorpi",
+      "Formare ossa"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Fisica (variante 33): cosa misura un voltmetro?",
+    "options": [
+      "Potenza",
+      "Differenza di potenziale elettrico",
+      "Resistenza",
+      "Corrente"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Fisica (variante 48): cosa misura un voltmetro?",
+    "options": [
+      "Potenza",
+      "Corrente",
+      "Differenza di potenziale elettrico",
+      "Resistenza"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Chimica (variante 195): cos'è il pH?",
+    "options": [
+      "Massa atomica",
+      "Velocità della luce",
+      "Temperatura di ebollizione",
+      "Misura dell'acidità/basicità di una soluzione"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Chimica (variante 177): cos'è il pH?",
+    "options": [
+      "Misura dell'acidità/basicità di una soluzione",
+      "Velocità della luce",
+      "Massa atomica",
+      "Temperatura di ebollizione"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Biologia (variante 17): funzione dei globuli rossi?",
+    "options": [
+      "Digerire zuccheri",
+      "Formare ossa",
+      "Produrre anticorpi",
+      "Trasportare ossigeno nel sangue"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Fisica (variante 66): cosa misura un voltmetro?",
+    "options": [
+      "Resistenza",
+      "Differenza di potenziale elettrico",
+      "Corrente",
+      "Potenza"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Fisica (variante 114): cosa misura un voltmetro?",
+    "options": [
+      "Corrente",
+      "Potenza",
+      "Differenza di potenziale elettrico",
+      "Resistenza"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Biologia (variante 149): funzione dei globuli rossi?",
+    "options": [
+      "Produrre anticorpi",
+      "Trasportare ossigeno nel sangue",
+      "Formare ossa",
+      "Digerire zuccheri"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Fisica (variante 119): cosa misura un voltmetro?",
+    "options": [
+      "Resistenza",
+      "Potenza",
+      "Differenza di potenziale elettrico",
+      "Corrente"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Fisica (variante 154): cosa misura un voltmetro?",
+    "options": [
+      "Resistenza",
+      "Differenza di potenziale elettrico",
+      "Corrente",
+      "Potenza"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Fisica (variante 160): cosa misura un voltmetro?",
+    "options": [
+      "Potenza",
+      "Resistenza",
+      "Corrente",
+      "Differenza di potenziale elettrico"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Biologia (variante 169): funzione dei globuli rossi?",
+    "options": [
+      "Formare ossa",
+      "Produrre anticorpi",
+      "Digerire zuccheri",
+      "Trasportare ossigeno nel sangue"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Chimica (variante 58): cos'è il pH?",
+    "options": [
+      "Massa atomica",
+      "Velocità della luce",
+      "Temperatura di ebollizione",
+      "Misura dell'acidità/basicità di una soluzione"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Chimica (variante 111): cos'è il pH?",
+    "options": [
+      "Massa atomica",
+      "Misura dell'acidità/basicità di una soluzione",
+      "Velocità della luce",
+      "Temperatura di ebollizione"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Fisica (variante 110): cosa misura un voltmetro?",
+    "options": [
+      "Resistenza",
+      "Corrente",
+      "Potenza",
+      "Differenza di potenziale elettrico"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Biologia (variante 138): funzione dei globuli rossi?",
+    "options": [
+      "Trasportare ossigeno nel sangue",
+      "Formare ossa",
+      "Produrre anticorpi",
+      "Digerire zuccheri"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Fisica (variante 188): cosa misura un voltmetro?",
+    "options": [
+      "Potenza",
+      "Differenza di potenziale elettrico",
+      "Resistenza",
+      "Corrente"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Fisica (variante 4): cosa misura un voltmetro?",
+    "options": [
+      "Corrente",
+      "Resistenza",
+      "Potenza",
+      "Differenza di potenziale elettrico"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Chimica (variante 102): cos'è il pH?",
+    "options": [
+      "Temperatura di ebollizione",
+      "Massa atomica",
+      "Velocità della luce",
+      "Misura dell'acidità/basicità di una soluzione"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Fisica (variante 90): cosa misura un voltmetro?",
+    "options": [
+      "Resistenza",
+      "Corrente",
+      "Differenza di potenziale elettrico",
+      "Potenza"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Biologia (variante 16): funzione dei globuli rossi?",
+    "options": [
+      "Trasportare ossigeno nel sangue",
+      "Produrre anticorpi",
+      "Digerire zuccheri",
+      "Formare ossa"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Fisica (variante 148): cosa misura un voltmetro?",
+    "options": [
+      "Potenza",
+      "Corrente",
+      "Resistenza",
+      "Differenza di potenziale elettrico"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Fisica (variante 153): cosa misura un voltmetro?",
+    "options": [
+      "Resistenza",
+      "Differenza di potenziale elettrico",
+      "Potenza",
+      "Corrente"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Chimica (variante 76): cos'è il pH?",
+    "options": [
+      "Temperatura di ebollizione",
+      "Misura dell'acidità/basicità di una soluzione",
+      "Velocità della luce",
+      "Massa atomica"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Chimica (variante 45): cos'è il pH?",
+    "options": [
+      "Massa atomica",
+      "Temperatura di ebollizione",
+      "Misura dell'acidità/basicità di una soluzione",
+      "Velocità della luce"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Chimica (variante 166): cos'è il pH?",
+    "options": [
+      "Misura dell'acidità/basicità di una soluzione",
+      "Massa atomica",
+      "Velocità della luce",
+      "Temperatura di ebollizione"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Biologia (variante 158): funzione dei globuli rossi?",
+    "options": [
+      "Digerire zuccheri",
+      "Formare ossa",
+      "Trasportare ossigeno nel sangue",
+      "Produrre anticorpi"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Biologia (variante 107): funzione dei globuli rossi?",
+    "options": [
+      "Produrre anticorpi",
+      "Digerire zuccheri",
+      "Formare ossa",
+      "Trasportare ossigeno nel sangue"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Fisica (variante 124): cosa misura un voltmetro?",
+    "options": [
+      "Resistenza",
+      "Potenza",
+      "Differenza di potenziale elettrico",
+      "Corrente"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Biologia (variante 69): funzione dei globuli rossi?",
+    "options": [
+      "Formare ossa",
+      "Trasportare ossigeno nel sangue",
+      "Digerire zuccheri",
+      "Produrre anticorpi"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Chimica (variante 49): cos'è il pH?",
+    "options": [
+      "Massa atomica",
+      "Temperatura di ebollizione",
+      "Velocità della luce",
+      "Misura dell'acidità/basicità di una soluzione"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Chimica (variante 165): cos'è il pH?",
+    "options": [
+      "Temperatura di ebollizione",
+      "Velocità della luce",
+      "Massa atomica",
+      "Misura dell'acidità/basicità di una soluzione"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Fisica (variante 3): cosa misura un voltmetro?",
+    "options": [
+      "Potenza",
+      "Differenza di potenziale elettrico",
+      "Corrente",
+      "Resistenza"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Fisica (variante 145): cosa misura un voltmetro?",
+    "options": [
+      "Resistenza",
+      "Differenza di potenziale elettrico",
+      "Corrente",
+      "Potenza"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Biologia (variante 143): funzione dei globuli rossi?",
+    "options": [
+      "Trasportare ossigeno nel sangue",
+      "Digerire zuccheri",
+      "Formare ossa",
+      "Produrre anticorpi"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Biologia (variante 94): funzione dei globuli rossi?",
+    "options": [
+      "Digerire zuccheri",
+      "Produrre anticorpi",
+      "Trasportare ossigeno nel sangue",
+      "Formare ossa"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Fisica (variante 99): cosa misura un voltmetro?",
+    "options": [
+      "Resistenza",
+      "Corrente",
+      "Potenza",
+      "Differenza di potenziale elettrico"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Chimica (variante 168): cos'è il pH?",
+    "options": [
+      "Massa atomica",
+      "Temperatura di ebollizione",
+      "Velocità della luce",
+      "Misura dell'acidità/basicità di una soluzione"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Biologia (variante 115): funzione dei globuli rossi?",
+    "options": [
+      "Produrre anticorpi",
+      "Trasportare ossigeno nel sangue",
+      "Formare ossa",
+      "Digerire zuccheri"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Fisica (variante 157): cosa misura un voltmetro?",
+    "options": [
+      "Corrente",
+      "Potenza",
+      "Resistenza",
+      "Differenza di potenziale elettrico"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Biologia (variante 146): funzione dei globuli rossi?",
+    "options": [
+      "Produrre anticorpi",
+      "Formare ossa",
+      "Trasportare ossigeno nel sangue",
+      "Digerire zuccheri"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Chimica (variante 105): cos'è il pH?",
+    "options": [
+      "Misura dell'acidità/basicità di una soluzione",
+      "Massa atomica",
+      "Temperatura di ebollizione",
+      "Velocità della luce"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Fisica (variante 180): cosa misura un voltmetro?",
+    "options": [
+      "Potenza",
+      "Resistenza",
+      "Corrente",
+      "Differenza di potenziale elettrico"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Fisica (variante 118): cosa misura un voltmetro?",
+    "options": [
+      "Resistenza",
+      "Differenza di potenziale elettrico",
+      "Corrente",
+      "Potenza"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Biologia (variante 72): funzione dei globuli rossi?",
+    "options": [
+      "Produrre anticorpi",
+      "Formare ossa",
+      "Trasportare ossigeno nel sangue",
+      "Digerire zuccheri"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Fisica (variante 147): cosa misura un voltmetro?",
+    "options": [
+      "Corrente",
+      "Resistenza",
+      "Potenza",
+      "Differenza di potenziale elettrico"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Chimica (variante 127): cos'è il pH?",
+    "options": [
+      "Temperatura di ebollizione",
+      "Velocità della luce",
+      "Massa atomica",
+      "Misura dell'acidità/basicità di una soluzione"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Biologia (variante 113): funzione dei globuli rossi?",
+    "options": [
+      "Formare ossa",
+      "Digerire zuccheri",
+      "Produrre anticorpi",
+      "Trasportare ossigeno nel sangue"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "q": "Quale sport si gioca con una racchetta?",
+    "options": [
+      "Nuoto",
+      "Calcio",
+      "Ciclismo",
+      "Tennis"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  }
+]

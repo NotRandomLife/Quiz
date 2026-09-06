@@ -1,0 +1,3302 @@
+[
+  {
+    "q": "Finanza personale (variante 140): primo passo per gestire i soldi?",
+    "options": [
+      "Usare solo contanti",
+      "Spendere senza controllare",
+      "Tenere traccia entrate e spese",
+      "Evitare risparmio"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Investimenti (variante 190): cosa significa diversificare?",
+    "options": [
+      "Investire tutto in un titolo",
+      "Distribuire il rischio su più strumenti/settori",
+      "Vendere sempre in perdita",
+      "Comprare solo quando sale"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Finanza personale (variante 145): primo passo per gestire i soldi?",
+    "options": [
+      "Tenere traccia entrate e spese",
+      "Spendere senza controllare",
+      "Usare solo contanti",
+      "Evitare risparmio"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Finanza personale (variante 205): primo passo per gestire i soldi?",
+    "options": [
+      "Spendere senza controllare",
+      "Tenere traccia entrate e spese",
+      "Usare solo contanti",
+      "Evitare risparmio"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Finanza personale (variante 93): primo passo per gestire i soldi?",
+    "options": [
+      "Spendere senza controllare",
+      "Usare solo contanti",
+      "Evitare risparmio",
+      "Tenere traccia entrate e spese"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Investimenti (variante 133): cosa significa diversificare?",
+    "options": [
+      "Comprare solo quando sale",
+      "Distribuire il rischio su più strumenti/settori",
+      "Vendere sempre in perdita",
+      "Investire tutto in un titolo"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Finanza personale (variante 64): primo passo per gestire i soldi?",
+    "options": [
+      "Spendere senza controllare",
+      "Usare solo contanti",
+      "Evitare risparmio",
+      "Tenere traccia entrate e spese"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Finanza personale (variante 215): primo passo per gestire i soldi?",
+    "options": [
+      "Tenere traccia entrate e spese",
+      "Spendere senza controllare",
+      "Usare solo contanti",
+      "Evitare risparmio"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Investimenti (variante 66): cosa significa diversificare?",
+    "options": [
+      "Vendere sempre in perdita",
+      "Comprare solo quando sale",
+      "Investire tutto in un titolo",
+      "Distribuire il rischio su più strumenti/settori"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Finanza personale (variante 190): primo passo per gestire i soldi?",
+    "options": [
+      "Evitare risparmio",
+      "Spendere senza controllare",
+      "Usare solo contanti",
+      "Tenere traccia entrate e spese"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Investimenti (variante 184): cosa significa diversificare?",
+    "options": [
+      "Distribuire il rischio su più strumenti/settori",
+      "Vendere sempre in perdita",
+      "Investire tutto in un titolo",
+      "Comprare solo quando sale"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Debiti (variante 92): quale conviene estinguere prima?",
+    "options": [
+      "Quello più piccolo a caso",
+      "Nessuno",
+      "Quello senza interessi",
+      "Quello con tasso più alto"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Finanza personale (variante 72): primo passo per gestire i soldi?",
+    "options": [
+      "Evitare risparmio",
+      "Spendere senza controllare",
+      "Usare solo contanti",
+      "Tenere traccia entrate e spese"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Investimenti (variante 195): cosa significa diversificare?",
+    "options": [
+      "Investire tutto in un titolo",
+      "Comprare solo quando sale",
+      "Distribuire il rischio su più strumenti/settori",
+      "Vendere sempre in perdita"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Investimenti (variante 103): cosa significa diversificare?",
+    "options": [
+      "Distribuire il rischio su più strumenti/settori",
+      "Investire tutto in un titolo",
+      "Comprare solo quando sale",
+      "Vendere sempre in perdita"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Finanza personale (variante 17): primo passo per gestire i soldi?",
+    "options": [
+      "Spendere senza controllare",
+      "Usare solo contanti",
+      "Evitare risparmio",
+      "Tenere traccia entrate e spese"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Investimenti (variante 187): cosa significa diversificare?",
+    "options": [
+      "Distribuire il rischio su più strumenti/settori",
+      "Comprare solo quando sale",
+      "Investire tutto in un titolo",
+      "Vendere sempre in perdita"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Debiti (variante 194): quale conviene estinguere prima?",
+    "options": [
+      "Quello con tasso più alto",
+      "Nessuno",
+      "Quello più piccolo a caso",
+      "Quello senza interessi"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Finanza personale (variante 15): primo passo per gestire i soldi?",
+    "options": [
+      "Spendere senza controllare",
+      "Evitare risparmio",
+      "Tenere traccia entrate e spese",
+      "Usare solo contanti"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Investimenti (variante 175): cosa significa diversificare?",
+    "options": [
+      "Comprare solo quando sale",
+      "Investire tutto in un titolo",
+      "Distribuire il rischio su più strumenti/settori",
+      "Vendere sempre in perdita"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Finanza personale (variante 120): primo passo per gestire i soldi?",
+    "options": [
+      "Usare solo contanti",
+      "Tenere traccia entrate e spese",
+      "Evitare risparmio",
+      "Spendere senza controllare"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Debiti (variante 105): quale conviene estinguere prima?",
+    "options": [
+      "Quello senza interessi",
+      "Quello con tasso più alto",
+      "Nessuno",
+      "Quello più piccolo a caso"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Finanza personale (variante 183): primo passo per gestire i soldi?",
+    "options": [
+      "Usare solo contanti",
+      "Evitare risparmio",
+      "Spendere senza controllare",
+      "Tenere traccia entrate e spese"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Investimenti (variante 109): cosa significa diversificare?",
+    "options": [
+      "Comprare solo quando sale",
+      "Investire tutto in un titolo",
+      "Vendere sempre in perdita",
+      "Distribuire il rischio su più strumenti/settori"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Finanza personale (variante 166): primo passo per gestire i soldi?",
+    "options": [
+      "Spendere senza controllare",
+      "Evitare risparmio",
+      "Tenere traccia entrate e spese",
+      "Usare solo contanti"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Debiti (variante 97): quale conviene estinguere prima?",
+    "options": [
+      "Nessuno",
+      "Quello con tasso più alto",
+      "Quello più piccolo a caso",
+      "Quello senza interessi"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Finanza personale (variante 117): primo passo per gestire i soldi?",
+    "options": [
+      "Evitare risparmio",
+      "Spendere senza controllare",
+      "Usare solo contanti",
+      "Tenere traccia entrate e spese"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Investimenti (variante 201): cosa significa diversificare?",
+    "options": [
+      "Comprare solo quando sale",
+      "Distribuire il rischio su più strumenti/settori",
+      "Investire tutto in un titolo",
+      "Vendere sempre in perdita"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Finanza personale (variante 191): primo passo per gestire i soldi?",
+    "options": [
+      "Tenere traccia entrate e spese",
+      "Evitare risparmio",
+      "Spendere senza controllare",
+      "Usare solo contanti"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Debiti (variante 219): quale conviene estinguere prima?",
+    "options": [
+      "Quello senza interessi",
+      "Nessuno",
+      "Quello più piccolo a caso",
+      "Quello con tasso più alto"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Finanza personale (variante 171): primo passo per gestire i soldi?",
+    "options": [
+      "Usare solo contanti",
+      "Evitare risparmio",
+      "Spendere senza controllare",
+      "Tenere traccia entrate e spese"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Investimenti (variante 150): cosa significa diversificare?",
+    "options": [
+      "Comprare solo quando sale",
+      "Distribuire il rischio su più strumenti/settori",
+      "Vendere sempre in perdita",
+      "Investire tutto in un titolo"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Finanza personale (variante 46): primo passo per gestire i soldi?",
+    "options": [
+      "Evitare risparmio",
+      "Spendere senza controllare",
+      "Usare solo contanti",
+      "Tenere traccia entrate e spese"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Investimenti (variante 153): cosa significa diversificare?",
+    "options": [
+      "Investire tutto in un titolo",
+      "Distribuire il rischio su più strumenti/settori",
+      "Vendere sempre in perdita",
+      "Comprare solo quando sale"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Debiti (variante 216): quale conviene estinguere prima?",
+    "options": [
+      "Quello con tasso più alto",
+      "Quello più piccolo a caso",
+      "Nessuno",
+      "Quello senza interessi"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Investimenti (variante 17): cosa significa diversificare?",
+    "options": [
+      "Investire tutto in un titolo",
+      "Vendere sempre in perdita",
+      "Comprare solo quando sale",
+      "Distribuire il rischio su più strumenti/settori"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Debiti (variante 213): quale conviene estinguere prima?",
+    "options": [
+      "Quello con tasso più alto",
+      "Nessuno",
+      "Quello più piccolo a caso",
+      "Quello senza interessi"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Debiti (variante 218): quale conviene estinguere prima?",
+    "options": [
+      "Nessuno",
+      "Quello più piccolo a caso",
+      "Quello con tasso più alto",
+      "Quello senza interessi"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Investimenti (variante 90): cosa significa diversificare?",
+    "options": [
+      "Distribuire il rischio su più strumenti/settori",
+      "Investire tutto in un titolo",
+      "Vendere sempre in perdita",
+      "Comprare solo quando sale"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Finanza personale (variante 66): primo passo per gestire i soldi?",
+    "options": [
+      "Tenere traccia entrate e spese",
+      "Evitare risparmio",
+      "Usare solo contanti",
+      "Spendere senza controllare"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Finanza personale (variante 147): primo passo per gestire i soldi?",
+    "options": [
+      "Usare solo contanti",
+      "Spendere senza controllare",
+      "Tenere traccia entrate e spese",
+      "Evitare risparmio"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Finanza personale (variante 194): primo passo per gestire i soldi?",
+    "options": [
+      "Evitare risparmio",
+      "Spendere senza controllare",
+      "Usare solo contanti",
+      "Tenere traccia entrate e spese"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Finanza personale (variante 130): primo passo per gestire i soldi?",
+    "options": [
+      "Usare solo contanti",
+      "Tenere traccia entrate e spese",
+      "Evitare risparmio",
+      "Spendere senza controllare"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Finanza personale (variante 85): primo passo per gestire i soldi?",
+    "options": [
+      "Spendere senza controllare",
+      "Usare solo contanti",
+      "Evitare risparmio",
+      "Tenere traccia entrate e spese"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Finanza personale (variante 102): primo passo per gestire i soldi?",
+    "options": [
+      "Evitare risparmio",
+      "Usare solo contanti",
+      "Spendere senza controllare",
+      "Tenere traccia entrate e spese"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Finanza personale (variante 125): primo passo per gestire i soldi?",
+    "options": [
+      "Evitare risparmio",
+      "Tenere traccia entrate e spese",
+      "Usare solo contanti",
+      "Spendere senza controllare"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Investimenti (variante 51): cosa significa diversificare?",
+    "options": [
+      "Investire tutto in un titolo",
+      "Comprare solo quando sale",
+      "Vendere sempre in perdita",
+      "Distribuire il rischio su più strumenti/settori"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Debiti (variante 147): quale conviene estinguere prima?",
+    "options": [
+      "Nessuno",
+      "Quello più piccolo a caso",
+      "Quello con tasso più alto",
+      "Quello senza interessi"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Debiti (variante 8): quale conviene estinguere prima?",
+    "options": [
+      "Quello senza interessi",
+      "Quello con tasso più alto",
+      "Nessuno",
+      "Quello più piccolo a caso"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Investimenti (variante 31): cosa significa diversificare?",
+    "options": [
+      "Comprare solo quando sale",
+      "Vendere sempre in perdita",
+      "Investire tutto in un titolo",
+      "Distribuire il rischio su più strumenti/settori"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Debiti (variante 192): quale conviene estinguere prima?",
+    "options": [
+      "Quello senza interessi",
+      "Quello con tasso più alto",
+      "Quello più piccolo a caso",
+      "Nessuno"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Finanza personale (variante 214): primo passo per gestire i soldi?",
+    "options": [
+      "Evitare risparmio",
+      "Tenere traccia entrate e spese",
+      "Spendere senza controllare",
+      "Usare solo contanti"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Debiti (variante 93): quale conviene estinguere prima?",
+    "options": [
+      "Nessuno",
+      "Quello con tasso più alto",
+      "Quello senza interessi",
+      "Quello più piccolo a caso"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Debiti (variante 40): quale conviene estinguere prima?",
+    "options": [
+      "Quello con tasso più alto",
+      "Quello senza interessi",
+      "Nessuno",
+      "Quello più piccolo a caso"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Finanza personale (variante 73): primo passo per gestire i soldi?",
+    "options": [
+      "Evitare risparmio",
+      "Tenere traccia entrate e spese",
+      "Spendere senza controllare",
+      "Usare solo contanti"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Investimenti (variante 154): cosa significa diversificare?",
+    "options": [
+      "Vendere sempre in perdita",
+      "Investire tutto in un titolo",
+      "Comprare solo quando sale",
+      "Distribuire il rischio su più strumenti/settori"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Investimenti (variante 82): cosa significa diversificare?",
+    "options": [
+      "Vendere sempre in perdita",
+      "Distribuire il rischio su più strumenti/settori",
+      "Comprare solo quando sale",
+      "Investire tutto in un titolo"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Finanza personale (variante 23): primo passo per gestire i soldi?",
+    "options": [
+      "Spendere senza controllare",
+      "Tenere traccia entrate e spese",
+      "Usare solo contanti",
+      "Evitare risparmio"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Debiti (variante 90): quale conviene estinguere prima?",
+    "options": [
+      "Nessuno",
+      "Quello più piccolo a caso",
+      "Quello senza interessi",
+      "Quello con tasso più alto"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Investimenti (variante 189): cosa significa diversificare?",
+    "options": [
+      "Distribuire il rischio su più strumenti/settori",
+      "Vendere sempre in perdita",
+      "Comprare solo quando sale",
+      "Investire tutto in un titolo"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Finanza personale (variante 213): primo passo per gestire i soldi?",
+    "options": [
+      "Tenere traccia entrate e spese",
+      "Spendere senza controllare",
+      "Evitare risparmio",
+      "Usare solo contanti"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Investimenti (variante 136): cosa significa diversificare?",
+    "options": [
+      "Investire tutto in un titolo",
+      "Comprare solo quando sale",
+      "Distribuire il rischio su più strumenti/settori",
+      "Vendere sempre in perdita"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Finanza personale (variante 174): primo passo per gestire i soldi?",
+    "options": [
+      "Usare solo contanti",
+      "Tenere traccia entrate e spese",
+      "Spendere senza controllare",
+      "Evitare risparmio"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Finanza personale (variante 25): primo passo per gestire i soldi?",
+    "options": [
+      "Spendere senza controllare",
+      "Usare solo contanti",
+      "Tenere traccia entrate e spese",
+      "Evitare risparmio"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Debiti (variante 96): quale conviene estinguere prima?",
+    "options": [
+      "Quello senza interessi",
+      "Nessuno",
+      "Quello con tasso più alto",
+      "Quello più piccolo a caso"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Finanza personale (variante 192): primo passo per gestire i soldi?",
+    "options": [
+      "Spendere senza controllare",
+      "Tenere traccia entrate e spese",
+      "Usare solo contanti",
+      "Evitare risparmio"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Debiti (variante 125): quale conviene estinguere prima?",
+    "options": [
+      "Quello senza interessi",
+      "Quello più piccolo a caso",
+      "Nessuno",
+      "Quello con tasso più alto"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Debiti (variante 95): quale conviene estinguere prima?",
+    "options": [
+      "Quello senza interessi",
+      "Quello più piccolo a caso",
+      "Nessuno",
+      "Quello con tasso più alto"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Finanza personale (variante 62): primo passo per gestire i soldi?",
+    "options": [
+      "Evitare risparmio",
+      "Tenere traccia entrate e spese",
+      "Usare solo contanti",
+      "Spendere senza controllare"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Investimenti (variante 97): cosa significa diversificare?",
+    "options": [
+      "Vendere sempre in perdita",
+      "Comprare solo quando sale",
+      "Investire tutto in un titolo",
+      "Distribuire il rischio su più strumenti/settori"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Finanza personale (variante 59): primo passo per gestire i soldi?",
+    "options": [
+      "Spendere senza controllare",
+      "Usare solo contanti",
+      "Tenere traccia entrate e spese",
+      "Evitare risparmio"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Investimenti (variante 182): cosa significa diversificare?",
+    "options": [
+      "Distribuire il rischio su più strumenti/settori",
+      "Investire tutto in un titolo",
+      "Vendere sempre in perdita",
+      "Comprare solo quando sale"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Debiti (variante 7): quale conviene estinguere prima?",
+    "options": [
+      "Nessuno",
+      "Quello più piccolo a caso",
+      "Quello senza interessi",
+      "Quello con tasso più alto"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Debiti (variante 39): quale conviene estinguere prima?",
+    "options": [
+      "Quello con tasso più alto",
+      "Quello senza interessi",
+      "Quello più piccolo a caso",
+      "Nessuno"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Finanza personale (variante 6): primo passo per gestire i soldi?",
+    "options": [
+      "Tenere traccia entrate e spese",
+      "Spendere senza controllare",
+      "Usare solo contanti",
+      "Evitare risparmio"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Debiti (variante 133): quale conviene estinguere prima?",
+    "options": [
+      "Nessuno",
+      "Quello con tasso più alto",
+      "Quello senza interessi",
+      "Quello più piccolo a caso"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Investimenti (variante 6): cosa significa diversificare?",
+    "options": [
+      "Distribuire il rischio su più strumenti/settori",
+      "Investire tutto in un titolo",
+      "Vendere sempre in perdita",
+      "Comprare solo quando sale"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Investimenti (variante 132): cosa significa diversificare?",
+    "options": [
+      "Vendere sempre in perdita",
+      "Comprare solo quando sale",
+      "Investire tutto in un titolo",
+      "Distribuire il rischio su più strumenti/settori"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Investimenti (variante 181): cosa significa diversificare?",
+    "options": [
+      "Distribuire il rischio su più strumenti/settori",
+      "Investire tutto in un titolo",
+      "Comprare solo quando sale",
+      "Vendere sempre in perdita"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Investimenti (variante 198): cosa significa diversificare?",
+    "options": [
+      "Comprare solo quando sale",
+      "Vendere sempre in perdita",
+      "Distribuire il rischio su più strumenti/settori",
+      "Investire tutto in un titolo"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Finanza personale (variante 42): primo passo per gestire i soldi?",
+    "options": [
+      "Usare solo contanti",
+      "Tenere traccia entrate e spese",
+      "Spendere senza controllare",
+      "Evitare risparmio"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Investimenti (variante 19): cosa significa diversificare?",
+    "options": [
+      "Comprare solo quando sale",
+      "Investire tutto in un titolo",
+      "Vendere sempre in perdita",
+      "Distribuire il rischio su più strumenti/settori"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Investimenti (variante 141): cosa significa diversificare?",
+    "options": [
+      "Distribuire il rischio su più strumenti/settori",
+      "Investire tutto in un titolo",
+      "Vendere sempre in perdita",
+      "Comprare solo quando sale"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Investimenti (variante 53): cosa significa diversificare?",
+    "options": [
+      "Distribuire il rischio su più strumenti/settori",
+      "Investire tutto in un titolo",
+      "Vendere sempre in perdita",
+      "Comprare solo quando sale"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Debiti (variante 120): quale conviene estinguere prima?",
+    "options": [
+      "Quello più piccolo a caso",
+      "Quello senza interessi",
+      "Nessuno",
+      "Quello con tasso più alto"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Debiti (variante 144): quale conviene estinguere prima?",
+    "options": [
+      "Quello senza interessi",
+      "Quello con tasso più alto",
+      "Nessuno",
+      "Quello più piccolo a caso"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Debiti (variante 148): quale conviene estinguere prima?",
+    "options": [
+      "Quello più piccolo a caso",
+      "Quello con tasso più alto",
+      "Nessuno",
+      "Quello senza interessi"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Finanza personale (variante 34): primo passo per gestire i soldi?",
+    "options": [
+      "Spendere senza controllare",
+      "Usare solo contanti",
+      "Evitare risparmio",
+      "Tenere traccia entrate e spese"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Finanza personale (variante 203): primo passo per gestire i soldi?",
+    "options": [
+      "Spendere senza controllare",
+      "Tenere traccia entrate e spese",
+      "Evitare risparmio",
+      "Usare solo contanti"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Debiti (variante 146): quale conviene estinguere prima?",
+    "options": [
+      "Quello con tasso più alto",
+      "Nessuno",
+      "Quello più piccolo a caso",
+      "Quello senza interessi"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Finanza personale (variante 198): primo passo per gestire i soldi?",
+    "options": [
+      "Spendere senza controllare",
+      "Tenere traccia entrate e spese",
+      "Usare solo contanti",
+      "Evitare risparmio"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Finanza personale (variante 167): primo passo per gestire i soldi?",
+    "options": [
+      "Evitare risparmio",
+      "Spendere senza controllare",
+      "Usare solo contanti",
+      "Tenere traccia entrate e spese"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Finanza personale (variante 91): primo passo per gestire i soldi?",
+    "options": [
+      "Spendere senza controllare",
+      "Evitare risparmio",
+      "Usare solo contanti",
+      "Tenere traccia entrate e spese"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Investimenti (variante 202): cosa significa diversificare?",
+    "options": [
+      "Vendere sempre in perdita",
+      "Distribuire il rischio su più strumenti/settori",
+      "Comprare solo quando sale",
+      "Investire tutto in un titolo"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Investimenti (variante 219): cosa significa diversificare?",
+    "options": [
+      "Comprare solo quando sale",
+      "Vendere sempre in perdita",
+      "Distribuire il rischio su più strumenti/settori",
+      "Investire tutto in un titolo"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Finanza personale (variante 182): primo passo per gestire i soldi?",
+    "options": [
+      "Evitare risparmio",
+      "Spendere senza controllare",
+      "Tenere traccia entrate e spese",
+      "Usare solo contanti"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Debiti (variante 209): quale conviene estinguere prima?",
+    "options": [
+      "Quello con tasso più alto",
+      "Nessuno",
+      "Quello senza interessi",
+      "Quello più piccolo a caso"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Finanza personale (variante 184): primo passo per gestire i soldi?",
+    "options": [
+      "Tenere traccia entrate e spese",
+      "Evitare risparmio",
+      "Usare solo contanti",
+      "Spendere senza controllare"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Investimenti (variante 42): cosa significa diversificare?",
+    "options": [
+      "Distribuire il rischio su più strumenti/settori",
+      "Investire tutto in un titolo",
+      "Comprare solo quando sale",
+      "Vendere sempre in perdita"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Debiti (variante 217): quale conviene estinguere prima?",
+    "options": [
+      "Quello senza interessi",
+      "Quello con tasso più alto",
+      "Nessuno",
+      "Quello più piccolo a caso"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Finanza personale (variante 77): primo passo per gestire i soldi?",
+    "options": [
+      "Evitare risparmio",
+      "Tenere traccia entrate e spese",
+      "Usare solo contanti",
+      "Spendere senza controllare"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Investimenti (variante 25): cosa significa diversificare?",
+    "options": [
+      "Vendere sempre in perdita",
+      "Comprare solo quando sale",
+      "Distribuire il rischio su più strumenti/settori",
+      "Investire tutto in un titolo"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Finanza personale (variante 114): primo passo per gestire i soldi?",
+    "options": [
+      "Spendere senza controllare",
+      "Usare solo contanti",
+      "Tenere traccia entrate e spese",
+      "Evitare risparmio"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Finanza personale (variante 38): primo passo per gestire i soldi?",
+    "options": [
+      "Tenere traccia entrate e spese",
+      "Usare solo contanti",
+      "Spendere senza controllare",
+      "Evitare risparmio"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Finanza personale (variante 138): primo passo per gestire i soldi?",
+    "options": [
+      "Evitare risparmio",
+      "Spendere senza controllare",
+      "Tenere traccia entrate e spese",
+      "Usare solo contanti"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Debiti (variante 2): quale conviene estinguere prima?",
+    "options": [
+      "Quello più piccolo a caso",
+      "Nessuno",
+      "Quello con tasso più alto",
+      "Quello senza interessi"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Debiti (variante 156): quale conviene estinguere prima?",
+    "options": [
+      "Quello senza interessi",
+      "Quello più piccolo a caso",
+      "Quello con tasso più alto",
+      "Nessuno"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Finanza personale (variante 123): primo passo per gestire i soldi?",
+    "options": [
+      "Evitare risparmio",
+      "Usare solo contanti",
+      "Tenere traccia entrate e spese",
+      "Spendere senza controllare"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Debiti (variante 10): quale conviene estinguere prima?",
+    "options": [
+      "Quello con tasso più alto",
+      "Nessuno",
+      "Quello senza interessi",
+      "Quello più piccolo a caso"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Finanza personale (variante 150): primo passo per gestire i soldi?",
+    "options": [
+      "Tenere traccia entrate e spese",
+      "Spendere senza controllare",
+      "Evitare risparmio",
+      "Usare solo contanti"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Debiti (variante 30): quale conviene estinguere prima?",
+    "options": [
+      "Nessuno",
+      "Quello senza interessi",
+      "Quello con tasso più alto",
+      "Quello più piccolo a caso"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Investimenti (variante 21): cosa significa diversificare?",
+    "options": [
+      "Vendere sempre in perdita",
+      "Comprare solo quando sale",
+      "Distribuire il rischio su più strumenti/settori",
+      "Investire tutto in un titolo"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Finanza personale (variante 29): primo passo per gestire i soldi?",
+    "options": [
+      "Spendere senza controllare",
+      "Usare solo contanti",
+      "Tenere traccia entrate e spese",
+      "Evitare risparmio"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Investimenti (variante 88): cosa significa diversificare?",
+    "options": [
+      "Comprare solo quando sale",
+      "Distribuire il rischio su più strumenti/settori",
+      "Investire tutto in un titolo",
+      "Vendere sempre in perdita"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Finanza personale (variante 83): primo passo per gestire i soldi?",
+    "options": [
+      "Usare solo contanti",
+      "Spendere senza controllare",
+      "Evitare risparmio",
+      "Tenere traccia entrate e spese"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Investimenti (variante 48): cosa significa diversificare?",
+    "options": [
+      "Comprare solo quando sale",
+      "Investire tutto in un titolo",
+      "Vendere sempre in perdita",
+      "Distribuire il rischio su più strumenti/settori"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Debiti (variante 174): quale conviene estinguere prima?",
+    "options": [
+      "Quello con tasso più alto",
+      "Quello senza interessi",
+      "Nessuno",
+      "Quello più piccolo a caso"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Finanza personale (variante 188): primo passo per gestire i soldi?",
+    "options": [
+      "Spendere senza controllare",
+      "Tenere traccia entrate e spese",
+      "Evitare risparmio",
+      "Usare solo contanti"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Investimenti (variante 95): cosa significa diversificare?",
+    "options": [
+      "Distribuire il rischio su più strumenti/settori",
+      "Investire tutto in un titolo",
+      "Comprare solo quando sale",
+      "Vendere sempre in perdita"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Debiti (variante 141): quale conviene estinguere prima?",
+    "options": [
+      "Quello con tasso più alto",
+      "Nessuno",
+      "Quello senza interessi",
+      "Quello più piccolo a caso"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Debiti (variante 61): quale conviene estinguere prima?",
+    "options": [
+      "Quello con tasso più alto",
+      "Quello più piccolo a caso",
+      "Nessuno",
+      "Quello senza interessi"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Debiti (variante 35): quale conviene estinguere prima?",
+    "options": [
+      "Nessuno",
+      "Quello senza interessi",
+      "Quello con tasso più alto",
+      "Quello più piccolo a caso"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Debiti (variante 13): quale conviene estinguere prima?",
+    "options": [
+      "Nessuno",
+      "Quello più piccolo a caso",
+      "Quello senza interessi",
+      "Quello con tasso più alto"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Debiti (variante 157): quale conviene estinguere prima?",
+    "options": [
+      "Quello con tasso più alto",
+      "Quello più piccolo a caso",
+      "Nessuno",
+      "Quello senza interessi"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Investimenti (variante 113): cosa significa diversificare?",
+    "options": [
+      "Vendere sempre in perdita",
+      "Distribuire il rischio su più strumenti/settori",
+      "Comprare solo quando sale",
+      "Investire tutto in un titolo"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Finanza personale (variante 135): primo passo per gestire i soldi?",
+    "options": [
+      "Evitare risparmio",
+      "Tenere traccia entrate e spese",
+      "Spendere senza controllare",
+      "Usare solo contanti"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Finanza personale (variante 101): primo passo per gestire i soldi?",
+    "options": [
+      "Spendere senza controllare",
+      "Evitare risparmio",
+      "Tenere traccia entrate e spese",
+      "Usare solo contanti"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Investimenti (variante 155): cosa significa diversificare?",
+    "options": [
+      "Investire tutto in un titolo",
+      "Distribuire il rischio su più strumenti/settori",
+      "Vendere sempre in perdita",
+      "Comprare solo quando sale"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Investimenti (variante 127): cosa significa diversificare?",
+    "options": [
+      "Distribuire il rischio su più strumenti/settori",
+      "Investire tutto in un titolo",
+      "Vendere sempre in perdita",
+      "Comprare solo quando sale"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Investimenti (variante 77): cosa significa diversificare?",
+    "options": [
+      "Comprare solo quando sale",
+      "Investire tutto in un titolo",
+      "Distribuire il rischio su più strumenti/settori",
+      "Vendere sempre in perdita"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Finanza personale (variante 81): primo passo per gestire i soldi?",
+    "options": [
+      "Tenere traccia entrate e spese",
+      "Spendere senza controllare",
+      "Usare solo contanti",
+      "Evitare risparmio"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Debiti (variante 186): quale conviene estinguere prima?",
+    "options": [
+      "Quello senza interessi",
+      "Nessuno",
+      "Quello più piccolo a caso",
+      "Quello con tasso più alto"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Debiti (variante 179): quale conviene estinguere prima?",
+    "options": [
+      "Quello più piccolo a caso",
+      "Quello con tasso più alto",
+      "Quello senza interessi",
+      "Nessuno"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Debiti (variante 31): quale conviene estinguere prima?",
+    "options": [
+      "Quello senza interessi",
+      "Quello con tasso più alto",
+      "Nessuno",
+      "Quello più piccolo a caso"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Finanza personale (variante 141): primo passo per gestire i soldi?",
+    "options": [
+      "Tenere traccia entrate e spese",
+      "Evitare risparmio",
+      "Spendere senza controllare",
+      "Usare solo contanti"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Investimenti (variante 139): cosa significa diversificare?",
+    "options": [
+      "Vendere sempre in perdita",
+      "Distribuire il rischio su più strumenti/settori",
+      "Investire tutto in un titolo",
+      "Comprare solo quando sale"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Investimenti (variante 176): cosa significa diversificare?",
+    "options": [
+      "Vendere sempre in perdita",
+      "Comprare solo quando sale",
+      "Investire tutto in un titolo",
+      "Distribuire il rischio su più strumenti/settori"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Investimenti (variante 138): cosa significa diversificare?",
+    "options": [
+      "Distribuire il rischio su più strumenti/settori",
+      "Vendere sempre in perdita",
+      "Comprare solo quando sale",
+      "Investire tutto in un titolo"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Investimenti (variante 200): cosa significa diversificare?",
+    "options": [
+      "Investire tutto in un titolo",
+      "Vendere sempre in perdita",
+      "Comprare solo quando sale",
+      "Distribuire il rischio su più strumenti/settori"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Debiti (variante 215): quale conviene estinguere prima?",
+    "options": [
+      "Quello senza interessi",
+      "Nessuno",
+      "Quello più piccolo a caso",
+      "Quello con tasso più alto"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Debiti (variante 100): quale conviene estinguere prima?",
+    "options": [
+      "Quello più piccolo a caso",
+      "Quello con tasso più alto",
+      "Quello senza interessi",
+      "Nessuno"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Investimenti (variante 169): cosa significa diversificare?",
+    "options": [
+      "Investire tutto in un titolo",
+      "Vendere sempre in perdita",
+      "Distribuire il rischio su più strumenti/settori",
+      "Comprare solo quando sale"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Debiti (variante 203): quale conviene estinguere prima?",
+    "options": [
+      "Nessuno",
+      "Quello senza interessi",
+      "Quello con tasso più alto",
+      "Quello più piccolo a caso"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Debiti (variante 88): quale conviene estinguere prima?",
+    "options": [
+      "Quello senza interessi",
+      "Nessuno",
+      "Quello più piccolo a caso",
+      "Quello con tasso più alto"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Investimenti (variante 62): cosa significa diversificare?",
+    "options": [
+      "Distribuire il rischio su più strumenti/settori",
+      "Investire tutto in un titolo",
+      "Vendere sempre in perdita",
+      "Comprare solo quando sale"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Investimenti (variante 23): cosa significa diversificare?",
+    "options": [
+      "Vendere sempre in perdita",
+      "Investire tutto in un titolo",
+      "Distribuire il rischio su più strumenti/settori",
+      "Comprare solo quando sale"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Investimenti (variante 119): cosa significa diversificare?",
+    "options": [
+      "Comprare solo quando sale",
+      "Investire tutto in un titolo",
+      "Vendere sempre in perdita",
+      "Distribuire il rischio su più strumenti/settori"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Finanza personale (variante 88): primo passo per gestire i soldi?",
+    "options": [
+      "Evitare risparmio",
+      "Usare solo contanti",
+      "Spendere senza controllare",
+      "Tenere traccia entrate e spese"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Debiti (variante 176): quale conviene estinguere prima?",
+    "options": [
+      "Quello senza interessi",
+      "Quello più piccolo a caso",
+      "Nessuno",
+      "Quello con tasso più alto"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Investimenti (variante 10): cosa significa diversificare?",
+    "options": [
+      "Distribuire il rischio su più strumenti/settori",
+      "Vendere sempre in perdita",
+      "Comprare solo quando sale",
+      "Investire tutto in un titolo"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Debiti (variante 28): quale conviene estinguere prima?",
+    "options": [
+      "Quello più piccolo a caso",
+      "Nessuno",
+      "Quello con tasso più alto",
+      "Quello senza interessi"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Debiti (variante 78): quale conviene estinguere prima?",
+    "options": [
+      "Quello senza interessi",
+      "Nessuno",
+      "Quello con tasso più alto",
+      "Quello più piccolo a caso"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Debiti (variante 67): quale conviene estinguere prima?",
+    "options": [
+      "Quello più piccolo a caso",
+      "Nessuno",
+      "Quello senza interessi",
+      "Quello con tasso più alto"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Finanza personale (variante 181): primo passo per gestire i soldi?",
+    "options": [
+      "Usare solo contanti",
+      "Spendere senza controllare",
+      "Tenere traccia entrate e spese",
+      "Evitare risparmio"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Investimenti (variante 63): cosa significa diversificare?",
+    "options": [
+      "Investire tutto in un titolo",
+      "Vendere sempre in perdita",
+      "Distribuire il rischio su più strumenti/settori",
+      "Comprare solo quando sale"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Finanza personale (variante 156): primo passo per gestire i soldi?",
+    "options": [
+      "Usare solo contanti",
+      "Spendere senza controllare",
+      "Tenere traccia entrate e spese",
+      "Evitare risparmio"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Investimenti (variante 152): cosa significa diversificare?",
+    "options": [
+      "Investire tutto in un titolo",
+      "Vendere sempre in perdita",
+      "Comprare solo quando sale",
+      "Distribuire il rischio su più strumenti/settori"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Investimenti (variante 15): cosa significa diversificare?",
+    "options": [
+      "Investire tutto in un titolo",
+      "Vendere sempre in perdita",
+      "Comprare solo quando sale",
+      "Distribuire il rischio su più strumenti/settori"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Investimenti (variante 7): cosa significa diversificare?",
+    "options": [
+      "Distribuire il rischio su più strumenti/settori",
+      "Investire tutto in un titolo",
+      "Vendere sempre in perdita",
+      "Comprare solo quando sale"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Investimenti (variante 22): cosa significa diversificare?",
+    "options": [
+      "Comprare solo quando sale",
+      "Investire tutto in un titolo",
+      "Distribuire il rischio su più strumenti/settori",
+      "Vendere sempre in perdita"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Debiti (variante 130): quale conviene estinguere prima?",
+    "options": [
+      "Quello senza interessi",
+      "Nessuno",
+      "Quello con tasso più alto",
+      "Quello più piccolo a caso"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Debiti (variante 41): quale conviene estinguere prima?",
+    "options": [
+      "Quello senza interessi",
+      "Quello più piccolo a caso",
+      "Quello con tasso più alto",
+      "Nessuno"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Debiti (variante 112): quale conviene estinguere prima?",
+    "options": [
+      "Quello senza interessi",
+      "Quello più piccolo a caso",
+      "Nessuno",
+      "Quello con tasso più alto"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Finanza personale (variante 11): primo passo per gestire i soldi?",
+    "options": [
+      "Usare solo contanti",
+      "Tenere traccia entrate e spese",
+      "Spendere senza controllare",
+      "Evitare risparmio"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Debiti (variante 84): quale conviene estinguere prima?",
+    "options": [
+      "Quello più piccolo a caso",
+      "Quello con tasso più alto",
+      "Nessuno",
+      "Quello senza interessi"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Finanza personale (variante 170): primo passo per gestire i soldi?",
+    "options": [
+      "Tenere traccia entrate e spese",
+      "Spendere senza controllare",
+      "Evitare risparmio",
+      "Usare solo contanti"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Finanza personale (variante 56): primo passo per gestire i soldi?",
+    "options": [
+      "Evitare risparmio",
+      "Tenere traccia entrate e spese",
+      "Spendere senza controllare",
+      "Usare solo contanti"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Investimenti (variante 140): cosa significa diversificare?",
+    "options": [
+      "Comprare solo quando sale",
+      "Distribuire il rischio su più strumenti/settori",
+      "Vendere sempre in perdita",
+      "Investire tutto in un titolo"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Finanza personale (variante 40): primo passo per gestire i soldi?",
+    "options": [
+      "Tenere traccia entrate e spese",
+      "Usare solo contanti",
+      "Evitare risparmio",
+      "Spendere senza controllare"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Investimenti (variante 193): cosa significa diversificare?",
+    "options": [
+      "Investire tutto in un titolo",
+      "Distribuire il rischio su più strumenti/settori",
+      "Comprare solo quando sale",
+      "Vendere sempre in perdita"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Debiti (variante 25): quale conviene estinguere prima?",
+    "options": [
+      "Quello più piccolo a caso",
+      "Quello con tasso più alto",
+      "Nessuno",
+      "Quello senza interessi"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Finanza personale (variante 207): primo passo per gestire i soldi?",
+    "options": [
+      "Evitare risparmio",
+      "Spendere senza controllare",
+      "Usare solo contanti",
+      "Tenere traccia entrate e spese"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Investimenti (variante 30): cosa significa diversificare?",
+    "options": [
+      "Investire tutto in un titolo",
+      "Comprare solo quando sale",
+      "Vendere sempre in perdita",
+      "Distribuire il rischio su più strumenti/settori"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Investimenti (variante 118): cosa significa diversificare?",
+    "options": [
+      "Comprare solo quando sale",
+      "Investire tutto in un titolo",
+      "Vendere sempre in perdita",
+      "Distribuire il rischio su più strumenti/settori"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Debiti (variante 181): quale conviene estinguere prima?",
+    "options": [
+      "Quello con tasso più alto",
+      "Quello senza interessi",
+      "Nessuno",
+      "Quello più piccolo a caso"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Finanza personale (variante 159): primo passo per gestire i soldi?",
+    "options": [
+      "Spendere senza controllare",
+      "Tenere traccia entrate e spese",
+      "Evitare risparmio",
+      "Usare solo contanti"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Finanza personale (variante 187): primo passo per gestire i soldi?",
+    "options": [
+      "Tenere traccia entrate e spese",
+      "Usare solo contanti",
+      "Evitare risparmio",
+      "Spendere senza controllare"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Finanza personale (variante 80): primo passo per gestire i soldi?",
+    "options": [
+      "Spendere senza controllare",
+      "Evitare risparmio",
+      "Tenere traccia entrate e spese",
+      "Usare solo contanti"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Investimenti (variante 116): cosa significa diversificare?",
+    "options": [
+      "Distribuire il rischio su più strumenti/settori",
+      "Investire tutto in un titolo",
+      "Comprare solo quando sale",
+      "Vendere sempre in perdita"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Debiti (variante 104): quale conviene estinguere prima?",
+    "options": [
+      "Quello più piccolo a caso",
+      "Nessuno",
+      "Quello senza interessi",
+      "Quello con tasso più alto"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Debiti (variante 102): quale conviene estinguere prima?",
+    "options": [
+      "Quello più piccolo a caso",
+      "Quello senza interessi",
+      "Quello con tasso più alto",
+      "Nessuno"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Investimenti (variante 14): cosa significa diversificare?",
+    "options": [
+      "Comprare solo quando sale",
+      "Distribuire il rischio su più strumenti/settori",
+      "Vendere sempre in perdita",
+      "Investire tutto in un titolo"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Debiti (variante 6): quale conviene estinguere prima?",
+    "options": [
+      "Nessuno",
+      "Quello con tasso più alto",
+      "Quello senza interessi",
+      "Quello più piccolo a caso"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Investimenti (variante 183): cosa significa diversificare?",
+    "options": [
+      "Distribuire il rischio su più strumenti/settori",
+      "Comprare solo quando sale",
+      "Investire tutto in un titolo",
+      "Vendere sempre in perdita"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Finanza personale (variante 94): primo passo per gestire i soldi?",
+    "options": [
+      "Evitare risparmio",
+      "Usare solo contanti",
+      "Tenere traccia entrate e spese",
+      "Spendere senza controllare"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Investimenti (variante 36): cosa significa diversificare?",
+    "options": [
+      "Vendere sempre in perdita",
+      "Distribuire il rischio su più strumenti/settori",
+      "Comprare solo quando sale",
+      "Investire tutto in un titolo"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Investimenti (variante 26): cosa significa diversificare?",
+    "options": [
+      "Comprare solo quando sale",
+      "Vendere sempre in perdita",
+      "Investire tutto in un titolo",
+      "Distribuire il rischio su più strumenti/settori"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Investimenti (variante 120): cosa significa diversificare?",
+    "options": [
+      "Distribuire il rischio su più strumenti/settori",
+      "Investire tutto in un titolo",
+      "Vendere sempre in perdita",
+      "Comprare solo quando sale"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Debiti (variante 55): quale conviene estinguere prima?",
+    "options": [
+      "Nessuno",
+      "Quello più piccolo a caso",
+      "Quello senza interessi",
+      "Quello con tasso più alto"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Finanza personale (variante 220): primo passo per gestire i soldi?",
+    "options": [
+      "Spendere senza controllare",
+      "Usare solo contanti",
+      "Tenere traccia entrate e spese",
+      "Evitare risparmio"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Finanza personale (variante 157): primo passo per gestire i soldi?",
+    "options": [
+      "Usare solo contanti",
+      "Spendere senza controllare",
+      "Tenere traccia entrate e spese",
+      "Evitare risparmio"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Debiti (variante 214): quale conviene estinguere prima?",
+    "options": [
+      "Quello senza interessi",
+      "Quello più piccolo a caso",
+      "Nessuno",
+      "Quello con tasso più alto"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Debiti (variante 3): quale conviene estinguere prima?",
+    "options": [
+      "Nessuno",
+      "Quello più piccolo a caso",
+      "Quello senza interessi",
+      "Quello con tasso più alto"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Finanza personale (variante 136): primo passo per gestire i soldi?",
+    "options": [
+      "Evitare risparmio",
+      "Usare solo contanti",
+      "Spendere senza controllare",
+      "Tenere traccia entrate e spese"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Finanza personale (variante 124): primo passo per gestire i soldi?",
+    "options": [
+      "Evitare risparmio",
+      "Spendere senza controllare",
+      "Tenere traccia entrate e spese",
+      "Usare solo contanti"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Debiti (variante 201): quale conviene estinguere prima?",
+    "options": [
+      "Quello più piccolo a caso",
+      "Quello con tasso più alto",
+      "Nessuno",
+      "Quello senza interessi"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Investimenti (variante 9): cosa significa diversificare?",
+    "options": [
+      "Comprare solo quando sale",
+      "Distribuire il rischio su più strumenti/settori",
+      "Investire tutto in un titolo",
+      "Vendere sempre in perdita"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Finanza personale (variante 65): primo passo per gestire i soldi?",
+    "options": [
+      "Evitare risparmio",
+      "Tenere traccia entrate e spese",
+      "Usare solo contanti",
+      "Spendere senza controllare"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Investimenti (variante 18): cosa significa diversificare?",
+    "options": [
+      "Distribuire il rischio su più strumenti/settori",
+      "Comprare solo quando sale",
+      "Investire tutto in un titolo",
+      "Vendere sempre in perdita"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Investimenti (variante 212): cosa significa diversificare?",
+    "options": [
+      "Investire tutto in un titolo",
+      "Distribuire il rischio su più strumenti/settori",
+      "Comprare solo quando sale",
+      "Vendere sempre in perdita"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Debiti (variante 82): quale conviene estinguere prima?",
+    "options": [
+      "Nessuno",
+      "Quello senza interessi",
+      "Quello più piccolo a caso",
+      "Quello con tasso più alto"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Investimenti (variante 80): cosa significa diversificare?",
+    "options": [
+      "Distribuire il rischio su più strumenti/settori",
+      "Investire tutto in un titolo",
+      "Vendere sempre in perdita",
+      "Comprare solo quando sale"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Debiti (variante 18): quale conviene estinguere prima?",
+    "options": [
+      "Quello senza interessi",
+      "Nessuno",
+      "Quello con tasso più alto",
+      "Quello più piccolo a caso"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Finanza personale (variante 111): primo passo per gestire i soldi?",
+    "options": [
+      "Evitare risparmio",
+      "Tenere traccia entrate e spese",
+      "Spendere senza controllare",
+      "Usare solo contanti"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Investimenti (variante 12): cosa significa diversificare?",
+    "options": [
+      "Distribuire il rischio su più strumenti/settori",
+      "Investire tutto in un titolo",
+      "Comprare solo quando sale",
+      "Vendere sempre in perdita"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Investimenti (variante 96): cosa significa diversificare?",
+    "options": [
+      "Vendere sempre in perdita",
+      "Distribuire il rischio su più strumenti/settori",
+      "Investire tutto in un titolo",
+      "Comprare solo quando sale"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Finanza personale (variante 164): primo passo per gestire i soldi?",
+    "options": [
+      "Tenere traccia entrate e spese",
+      "Evitare risparmio",
+      "Spendere senza controllare",
+      "Usare solo contanti"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Finanza personale (variante 57): primo passo per gestire i soldi?",
+    "options": [
+      "Usare solo contanti",
+      "Tenere traccia entrate e spese",
+      "Evitare risparmio",
+      "Spendere senza controllare"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Debiti (variante 29): quale conviene estinguere prima?",
+    "options": [
+      "Quello con tasso più alto",
+      "Nessuno",
+      "Quello più piccolo a caso",
+      "Quello senza interessi"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Finanza personale (variante 202): primo passo per gestire i soldi?",
+    "options": [
+      "Usare solo contanti",
+      "Evitare risparmio",
+      "Tenere traccia entrate e spese",
+      "Spendere senza controllare"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Finanza personale (variante 152): primo passo per gestire i soldi?",
+    "options": [
+      "Usare solo contanti",
+      "Evitare risparmio",
+      "Spendere senza controllare",
+      "Tenere traccia entrate e spese"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Finanza personale (variante 89): primo passo per gestire i soldi?",
+    "options": [
+      "Evitare risparmio",
+      "Spendere senza controllare",
+      "Tenere traccia entrate e spese",
+      "Usare solo contanti"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Investimenti (variante 100): cosa significa diversificare?",
+    "options": [
+      "Distribuire il rischio su più strumenti/settori",
+      "Vendere sempre in perdita",
+      "Comprare solo quando sale",
+      "Investire tutto in un titolo"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Investimenti (variante 57): cosa significa diversificare?",
+    "options": [
+      "Distribuire il rischio su più strumenti/settori",
+      "Investire tutto in un titolo",
+      "Comprare solo quando sale",
+      "Vendere sempre in perdita"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Debiti (variante 58): quale conviene estinguere prima?",
+    "options": [
+      "Quello più piccolo a caso",
+      "Nessuno",
+      "Quello senza interessi",
+      "Quello con tasso più alto"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Investimenti (variante 205): cosa significa diversificare?",
+    "options": [
+      "Vendere sempre in perdita",
+      "Comprare solo quando sale",
+      "Distribuire il rischio su più strumenti/settori",
+      "Investire tutto in un titolo"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Investimenti (variante 204): cosa significa diversificare?",
+    "options": [
+      "Vendere sempre in perdita",
+      "Comprare solo quando sale",
+      "Investire tutto in un titolo",
+      "Distribuire il rischio su più strumenti/settori"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Debiti (variante 85): quale conviene estinguere prima?",
+    "options": [
+      "Nessuno",
+      "Quello più piccolo a caso",
+      "Quello con tasso più alto",
+      "Quello senza interessi"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Debiti (variante 126): quale conviene estinguere prima?",
+    "options": [
+      "Quello con tasso più alto",
+      "Quello più piccolo a caso",
+      "Quello senza interessi",
+      "Nessuno"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Debiti (variante 77): quale conviene estinguere prima?",
+    "options": [
+      "Quello più piccolo a caso",
+      "Quello con tasso più alto",
+      "Nessuno",
+      "Quello senza interessi"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Investimenti (variante 39): cosa significa diversificare?",
+    "options": [
+      "Distribuire il rischio su più strumenti/settori",
+      "Vendere sempre in perdita",
+      "Investire tutto in un titolo",
+      "Comprare solo quando sale"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Finanza personale (variante 90): primo passo per gestire i soldi?",
+    "options": [
+      "Usare solo contanti",
+      "Tenere traccia entrate e spese",
+      "Spendere senza controllare",
+      "Evitare risparmio"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Finanza personale (variante 108): primo passo per gestire i soldi?",
+    "options": [
+      "Usare solo contanti",
+      "Spendere senza controllare",
+      "Evitare risparmio",
+      "Tenere traccia entrate e spese"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Debiti (variante 140): quale conviene estinguere prima?",
+    "options": [
+      "Quello con tasso più alto",
+      "Nessuno",
+      "Quello più piccolo a caso",
+      "Quello senza interessi"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Investimenti (variante 134): cosa significa diversificare?",
+    "options": [
+      "Comprare solo quando sale",
+      "Vendere sempre in perdita",
+      "Distribuire il rischio su più strumenti/settori",
+      "Investire tutto in un titolo"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Investimenti (variante 117): cosa significa diversificare?",
+    "options": [
+      "Vendere sempre in perdita",
+      "Investire tutto in un titolo",
+      "Comprare solo quando sale",
+      "Distribuire il rischio su più strumenti/settori"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Debiti (variante 48): quale conviene estinguere prima?",
+    "options": [
+      "Quello più piccolo a caso",
+      "Quello senza interessi",
+      "Nessuno",
+      "Quello con tasso più alto"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Investimenti (variante 188): cosa significa diversificare?",
+    "options": [
+      "Distribuire il rischio su più strumenti/settori",
+      "Vendere sempre in perdita",
+      "Investire tutto in un titolo",
+      "Comprare solo quando sale"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Investimenti (variante 159): cosa significa diversificare?",
+    "options": [
+      "Distribuire il rischio su più strumenti/settori",
+      "Comprare solo quando sale",
+      "Vendere sempre in perdita",
+      "Investire tutto in un titolo"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Debiti (variante 50): quale conviene estinguere prima?",
+    "options": [
+      "Quello senza interessi",
+      "Quello con tasso più alto",
+      "Nessuno",
+      "Quello più piccolo a caso"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Debiti (variante 161): quale conviene estinguere prima?",
+    "options": [
+      "Quello senza interessi",
+      "Quello più piccolo a caso",
+      "Quello con tasso più alto",
+      "Nessuno"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Finanza personale (variante 186): primo passo per gestire i soldi?",
+    "options": [
+      "Spendere senza controllare",
+      "Usare solo contanti",
+      "Tenere traccia entrate e spese",
+      "Evitare risparmio"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Finanza personale (variante 172): primo passo per gestire i soldi?",
+    "options": [
+      "Spendere senza controllare",
+      "Usare solo contanti",
+      "Tenere traccia entrate e spese",
+      "Evitare risparmio"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Finanza personale (variante 105): primo passo per gestire i soldi?",
+    "options": [
+      "Spendere senza controllare",
+      "Usare solo contanti",
+      "Evitare risparmio",
+      "Tenere traccia entrate e spese"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Investimenti (variante 128): cosa significa diversificare?",
+    "options": [
+      "Investire tutto in un titolo",
+      "Distribuire il rischio su più strumenti/settori",
+      "Vendere sempre in perdita",
+      "Comprare solo quando sale"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Investimenti (variante 161): cosa significa diversificare?",
+    "options": [
+      "Investire tutto in un titolo",
+      "Distribuire il rischio su più strumenti/settori",
+      "Vendere sempre in perdita",
+      "Comprare solo quando sale"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Debiti (variante 154): quale conviene estinguere prima?",
+    "options": [
+      "Quello senza interessi",
+      "Quello con tasso più alto",
+      "Nessuno",
+      "Quello più piccolo a caso"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Investimenti (variante 86): cosa significa diversificare?",
+    "options": [
+      "Investire tutto in un titolo",
+      "Comprare solo quando sale",
+      "Vendere sempre in perdita",
+      "Distribuire il rischio su più strumenti/settori"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Investimenti (variante 149): cosa significa diversificare?",
+    "options": [
+      "Investire tutto in un titolo",
+      "Vendere sempre in perdita",
+      "Distribuire il rischio su più strumenti/settori",
+      "Comprare solo quando sale"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Investimenti (variante 125): cosa significa diversificare?",
+    "options": [
+      "Comprare solo quando sale",
+      "Investire tutto in un titolo",
+      "Vendere sempre in perdita",
+      "Distribuire il rischio su più strumenti/settori"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Finanza personale (variante 200): primo passo per gestire i soldi?",
+    "options": [
+      "Tenere traccia entrate e spese",
+      "Spendere senza controllare",
+      "Evitare risparmio",
+      "Usare solo contanti"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Debiti (variante 204): quale conviene estinguere prima?",
+    "options": [
+      "Quello senza interessi",
+      "Quello più piccolo a caso",
+      "Nessuno",
+      "Quello con tasso più alto"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Finanza personale (variante 30): primo passo per gestire i soldi?",
+    "options": [
+      "Usare solo contanti",
+      "Evitare risparmio",
+      "Spendere senza controllare",
+      "Tenere traccia entrate e spese"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Finanza personale (variante 158): primo passo per gestire i soldi?",
+    "options": [
+      "Usare solo contanti",
+      "Spendere senza controllare",
+      "Evitare risparmio",
+      "Tenere traccia entrate e spese"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Debiti (variante 132): quale conviene estinguere prima?",
+    "options": [
+      "Quello più piccolo a caso",
+      "Quello con tasso più alto",
+      "Nessuno",
+      "Quello senza interessi"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Investimenti (variante 108): cosa significa diversificare?",
+    "options": [
+      "Comprare solo quando sale",
+      "Distribuire il rischio su più strumenti/settori",
+      "Vendere sempre in perdita",
+      "Investire tutto in un titolo"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Debiti (variante 200): quale conviene estinguere prima?",
+    "options": [
+      "Quello con tasso più alto",
+      "Quello più piccolo a caso",
+      "Nessuno",
+      "Quello senza interessi"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Debiti (variante 183): quale conviene estinguere prima?",
+    "options": [
+      "Quello senza interessi",
+      "Quello più piccolo a caso",
+      "Nessuno",
+      "Quello con tasso più alto"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Debiti (variante 145): quale conviene estinguere prima?",
+    "options": [
+      "Quello con tasso più alto",
+      "Quello più piccolo a caso",
+      "Quello senza interessi",
+      "Nessuno"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Finanza personale (variante 18): primo passo per gestire i soldi?",
+    "options": [
+      "Usare solo contanti",
+      "Spendere senza controllare",
+      "Tenere traccia entrate e spese",
+      "Evitare risparmio"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Debiti (variante 178): quale conviene estinguere prima?",
+    "options": [
+      "Quello più piccolo a caso",
+      "Nessuno",
+      "Quello senza interessi",
+      "Quello con tasso più alto"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Debiti (variante 65): quale conviene estinguere prima?",
+    "options": [
+      "Quello con tasso più alto",
+      "Nessuno",
+      "Quello senza interessi",
+      "Quello più piccolo a caso"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Debiti (variante 43): quale conviene estinguere prima?",
+    "options": [
+      "Quello più piccolo a caso",
+      "Nessuno",
+      "Quello senza interessi",
+      "Quello con tasso più alto"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Debiti (variante 63): quale conviene estinguere prima?",
+    "options": [
+      "Nessuno",
+      "Quello senza interessi",
+      "Quello più piccolo a caso",
+      "Quello con tasso più alto"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Investimenti (variante 124): cosa significa diversificare?",
+    "options": [
+      "Vendere sempre in perdita",
+      "Comprare solo quando sale",
+      "Distribuire il rischio su più strumenti/settori",
+      "Investire tutto in un titolo"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Finanza personale (variante 33): primo passo per gestire i soldi?",
+    "options": [
+      "Spendere senza controllare",
+      "Usare solo contanti",
+      "Evitare risparmio",
+      "Tenere traccia entrate e spese"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Finanza personale (variante 146): primo passo per gestire i soldi?",
+    "options": [
+      "Tenere traccia entrate e spese",
+      "Usare solo contanti",
+      "Spendere senza controllare",
+      "Evitare risparmio"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Investimenti (variante 38): cosa significa diversificare?",
+    "options": [
+      "Vendere sempre in perdita",
+      "Distribuire il rischio su più strumenti/settori",
+      "Investire tutto in un titolo",
+      "Comprare solo quando sale"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Debiti (variante 158): quale conviene estinguere prima?",
+    "options": [
+      "Quello più piccolo a caso",
+      "Nessuno",
+      "Quello senza interessi",
+      "Quello con tasso più alto"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Finanza personale (variante 127): primo passo per gestire i soldi?",
+    "options": [
+      "Spendere senza controllare",
+      "Evitare risparmio",
+      "Usare solo contanti",
+      "Tenere traccia entrate e spese"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Investimenti (variante 50): cosa significa diversificare?",
+    "options": [
+      "Investire tutto in un titolo",
+      "Comprare solo quando sale",
+      "Vendere sempre in perdita",
+      "Distribuire il rischio su più strumenti/settori"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Finanza personale (variante 193): primo passo per gestire i soldi?",
+    "options": [
+      "Usare solo contanti",
+      "Evitare risparmio",
+      "Tenere traccia entrate e spese",
+      "Spendere senza controllare"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Finanza personale (variante 82): primo passo per gestire i soldi?",
+    "options": [
+      "Tenere traccia entrate e spese",
+      "Spendere senza controllare",
+      "Evitare risparmio",
+      "Usare solo contanti"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Finanza personale (variante 199): primo passo per gestire i soldi?",
+    "options": [
+      "Usare solo contanti",
+      "Tenere traccia entrate e spese",
+      "Spendere senza controllare",
+      "Evitare risparmio"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Investimenti (variante 93): cosa significa diversificare?",
+    "options": [
+      "Comprare solo quando sale",
+      "Vendere sempre in perdita",
+      "Distribuire il rischio su più strumenti/settori",
+      "Investire tutto in un titolo"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Investimenti (variante 16): cosa significa diversificare?",
+    "options": [
+      "Distribuire il rischio su più strumenti/settori",
+      "Investire tutto in un titolo",
+      "Vendere sempre in perdita",
+      "Comprare solo quando sale"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Debiti (variante 20): quale conviene estinguere prima?",
+    "options": [
+      "Quello senza interessi",
+      "Nessuno",
+      "Quello con tasso più alto",
+      "Quello più piccolo a caso"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Investimenti (variante 106): cosa significa diversificare?",
+    "options": [
+      "Vendere sempre in perdita",
+      "Comprare solo quando sale",
+      "Investire tutto in un titolo",
+      "Distribuire il rischio su più strumenti/settori"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Finanza personale (variante 112): primo passo per gestire i soldi?",
+    "options": [
+      "Tenere traccia entrate e spese",
+      "Spendere senza controllare",
+      "Evitare risparmio",
+      "Usare solo contanti"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Finanza personale (variante 132): primo passo per gestire i soldi?",
+    "options": [
+      "Tenere traccia entrate e spese",
+      "Spendere senza controllare",
+      "Usare solo contanti",
+      "Evitare risparmio"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Investimenti (variante 67): cosa significa diversificare?",
+    "options": [
+      "Comprare solo quando sale",
+      "Investire tutto in un titolo",
+      "Distribuire il rischio su più strumenti/settori",
+      "Vendere sempre in perdita"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Investimenti (variante 157): cosa significa diversificare?",
+    "options": [
+      "Comprare solo quando sale",
+      "Distribuire il rischio su più strumenti/settori",
+      "Investire tutto in un titolo",
+      "Vendere sempre in perdita"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Finanza personale (variante 201): primo passo per gestire i soldi?",
+    "options": [
+      "Evitare risparmio",
+      "Usare solo contanti",
+      "Spendere senza controllare",
+      "Tenere traccia entrate e spese"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Finanza personale (variante 70): primo passo per gestire i soldi?",
+    "options": [
+      "Tenere traccia entrate e spese",
+      "Evitare risparmio",
+      "Usare solo contanti",
+      "Spendere senza controllare"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Finanza personale (variante 197): primo passo per gestire i soldi?",
+    "options": [
+      "Tenere traccia entrate e spese",
+      "Evitare risparmio",
+      "Usare solo contanti",
+      "Spendere senza controllare"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Investimenti (variante 44): cosa significa diversificare?",
+    "options": [
+      "Investire tutto in un titolo",
+      "Vendere sempre in perdita",
+      "Comprare solo quando sale",
+      "Distribuire il rischio su più strumenti/settori"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Investimenti (variante 61): cosa significa diversificare?",
+    "options": [
+      "Distribuire il rischio su più strumenti/settori",
+      "Investire tutto in un titolo",
+      "Vendere sempre in perdita",
+      "Comprare solo quando sale"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Investimenti (variante 29): cosa significa diversificare?",
+    "options": [
+      "Investire tutto in un titolo",
+      "Comprare solo quando sale",
+      "Distribuire il rischio su più strumenti/settori",
+      "Vendere sempre in perdita"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Finanza personale (variante 106): primo passo per gestire i soldi?",
+    "options": [
+      "Usare solo contanti",
+      "Tenere traccia entrate e spese",
+      "Spendere senza controllare",
+      "Evitare risparmio"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Debiti (variante 1): quale conviene estinguere prima?",
+    "options": [
+      "Quello senza interessi",
+      "Nessuno",
+      "Quello più piccolo a caso",
+      "Quello con tasso più alto"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Finanza personale (variante 116): primo passo per gestire i soldi?",
+    "options": [
+      "Usare solo contanti",
+      "Spendere senza controllare",
+      "Evitare risparmio",
+      "Tenere traccia entrate e spese"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Debiti (variante 169): quale conviene estinguere prima?",
+    "options": [
+      "Quello senza interessi",
+      "Nessuno",
+      "Quello più piccolo a caso",
+      "Quello con tasso più alto"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Finanza personale (variante 12): primo passo per gestire i soldi?",
+    "options": [
+      "Usare solo contanti",
+      "Tenere traccia entrate e spese",
+      "Spendere senza controllare",
+      "Evitare risparmio"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Investimenti (variante 107): cosa significa diversificare?",
+    "options": [
+      "Comprare solo quando sale",
+      "Distribuire il rischio su più strumenti/settori",
+      "Vendere sempre in perdita",
+      "Investire tutto in un titolo"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Finanza personale (variante 50): primo passo per gestire i soldi?",
+    "options": [
+      "Spendere senza controllare",
+      "Usare solo contanti",
+      "Evitare risparmio",
+      "Tenere traccia entrate e spese"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Debiti (variante 188): quale conviene estinguere prima?",
+    "options": [
+      "Quello più piccolo a caso",
+      "Nessuno",
+      "Quello senza interessi",
+      "Quello con tasso più alto"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Debiti (variante 71): quale conviene estinguere prima?",
+    "options": [
+      "Nessuno",
+      "Quello senza interessi",
+      "Quello più piccolo a caso",
+      "Quello con tasso più alto"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Debiti (variante 150): quale conviene estinguere prima?",
+    "options": [
+      "Nessuno",
+      "Quello con tasso più alto",
+      "Quello senza interessi",
+      "Quello più piccolo a caso"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Debiti (variante 44): quale conviene estinguere prima?",
+    "options": [
+      "Quello senza interessi",
+      "Nessuno",
+      "Quello più piccolo a caso",
+      "Quello con tasso più alto"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Investimenti (variante 56): cosa significa diversificare?",
+    "options": [
+      "Investire tutto in un titolo",
+      "Distribuire il rischio su più strumenti/settori",
+      "Comprare solo quando sale",
+      "Vendere sempre in perdita"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Debiti (variante 60): quale conviene estinguere prima?",
+    "options": [
+      "Quello più piccolo a caso",
+      "Nessuno",
+      "Quello senza interessi",
+      "Quello con tasso più alto"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Debiti (variante 193): quale conviene estinguere prima?",
+    "options": [
+      "Quello senza interessi",
+      "Quello con tasso più alto",
+      "Quello più piccolo a caso",
+      "Nessuno"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Finanza personale (variante 218): primo passo per gestire i soldi?",
+    "options": [
+      "Usare solo contanti",
+      "Spendere senza controllare",
+      "Tenere traccia entrate e spese",
+      "Evitare risparmio"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Finanza personale (variante 161): primo passo per gestire i soldi?",
+    "options": [
+      "Evitare risparmio",
+      "Usare solo contanti",
+      "Spendere senza controllare",
+      "Tenere traccia entrate e spese"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Debiti (variante 206): quale conviene estinguere prima?",
+    "options": [
+      "Quello più piccolo a caso",
+      "Quello senza interessi",
+      "Quello con tasso più alto",
+      "Nessuno"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Debiti (variante 122): quale conviene estinguere prima?",
+    "options": [
+      "Nessuno",
+      "Quello con tasso più alto",
+      "Quello senza interessi",
+      "Quello più piccolo a caso"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Investimenti (variante 54): cosa significa diversificare?",
+    "options": [
+      "Distribuire il rischio su più strumenti/settori",
+      "Vendere sempre in perdita",
+      "Comprare solo quando sale",
+      "Investire tutto in un titolo"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Investimenti (variante 158): cosa significa diversificare?",
+    "options": [
+      "Comprare solo quando sale",
+      "Investire tutto in un titolo",
+      "Distribuire il rischio su più strumenti/settori",
+      "Vendere sempre in perdita"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Finanza personale (variante 118): primo passo per gestire i soldi?",
+    "options": [
+      "Spendere senza controllare",
+      "Usare solo contanti",
+      "Tenere traccia entrate e spese",
+      "Evitare risparmio"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Debiti (variante 86): quale conviene estinguere prima?",
+    "options": [
+      "Quello con tasso più alto",
+      "Nessuno",
+      "Quello più piccolo a caso",
+      "Quello senza interessi"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  }
+]

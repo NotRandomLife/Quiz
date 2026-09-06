@@ -1,0 +1,361 @@
+[
+  {
+    "group": "scuola",
+    "title": "Matematica",
+    "desc": "Problemi, frazioni, numeri, logica e calcolo: dalla primaria alle medie.",
+    "emoji": "🧮",
+    "level": "Scuola",
+    "href": "/pages/scuola/matematica/index.html"
+  },
+  {
+    "group": "scuola",
+    "title": "Operazioni Veloci",
+    "desc": "Allenamento dinamico su + − × ÷ con difficoltà crescente.",
+    "emoji": "⚡",
+    "level": "Scuola",
+    "href": "/pages/scuola/operazioni/index.html"
+  },
+  {
+    "group": "scuola",
+    "title": "Tabelline",
+    "desc": "Moltiplicazioni in stile “sfida”: perfetto per imparare divertendosi.",
+    "emoji": "✖️",
+    "level": "Scuola",
+    "href": "/pages/scuola/tabelline/index.html"
+  },
+  {
+    "group": "scuola",
+    "title": "Italiano",
+    "desc": "Ortografia, comprensione, sinonimi e uso corretto delle parole.",
+    "emoji": "📘",
+    "level": "Scuola",
+    "href": "/pages/scuola/italiano/index.html"
+  },
+  {
+    "group": "scuola",
+    "title": "Grammatica",
+    "desc": "Articoli, verbi, aggettivi, pronomi e analisi logica (easy → hard).",
+    "emoji": "📝",
+    "level": "Scuola",
+    "href": "/pages/scuola/grammatica/index.html"
+  },
+  {
+    "group": "scuola",
+    "title": "Inglese",
+    "desc": "Vocabolario e frasi base: perfetto per primaria e medie.",
+    "emoji": "🇬🇧",
+    "level": "Scuola",
+    "href": "/pages/scuola/inglese/index.html"
+  },
+  {
+    "group": "scuola",
+    "title": "Scienze",
+    "desc": "Corpo umano, animali, piante, materia ed energia.",
+    "emoji": "🔬",
+    "level": "Scuola",
+    "href": "/pages/scuola/scienze/index.html"
+  },
+  {
+    "group": "scuola",
+    "title": "Storia",
+    "desc": "Linea del tempo, civiltà e grandi eventi spiegati in modo chiaro.",
+    "emoji": "🏺",
+    "level": "Scuola",
+    "href": "/pages/scuola/storia/index.html"
+  },
+  {
+    "group": "scuola",
+    "title": "Geografia",
+    "desc": "Capitali, continenti, regioni e cartografia: quiz super utili.",
+    "emoji": "🌍",
+    "level": "Scuola",
+    "href": "/pages/scuola/geografia/index.html"
+  },
+  {
+    "group": "scuola",
+    "title": "Geometria",
+    "desc": "Figure, angoli, perimetro e area con domande mirate.",
+    "emoji": "📐",
+    "level": "Scuola",
+    "href": "/pages/scuola/geometria/index.html"
+  },
+  {
+    "group": "scuola",
+    "title": "Logica",
+    "desc": "Sequenze, ragionamento e problem solving per allenare la mente.",
+    "emoji": "🧠",
+    "level": "Scuola",
+    "href": "/pages/scuola/logica/index.html"
+  },
+  {
+    "group": "scuola",
+    "title": "Informatica",
+    "desc": "Computer, Internet, sicurezza digitale e basi di coding.",
+    "emoji": "💻",
+    "level": "Scuola",
+    "href": "/pages/scuola/informatica/index.html"
+  },
+  {
+    "group": "scuola",
+    "title": "Arte",
+    "desc": "Artisti, opere e movimenti: dalla preistoria al contemporaneo.",
+    "emoji": "🎨",
+    "level": "Scuola",
+    "href": "/pages/scuola/arte/index.html"
+  },
+  {
+    "group": "scuola",
+    "title": "Cultura",
+    "desc": "Curiosità e cultura generale adatta a scuola e famiglia.",
+    "emoji": "📚",
+    "level": "Scuola",
+    "href": "/pages/scuola/cultura/index.html"
+  },
+  {
+    "group": "scuola",
+    "title": "Quiz Bambini 6–12",
+    "desc": "Domande super semplici e colorate: perfette per iniziare.",
+    "emoji": "🧸",
+    "level": "Kids",
+    "href": "/pages/scuola/bambini/index.html"
+  },
+  {
+    "group": "fasce_eta",
+    "title": "3–5 anni",
+    "desc": "Colori, forme, animali, numeri: tutto super facile.",
+    "emoji": "🌈",
+    "level": "Kids",
+    "ageTag": "3-5",
+    "ageMin": 3,
+    "ageMax": 5,
+    "href": "/pages/fasce_eta/eta_3_5/index.html"
+  },
+  {
+    "group": "fasce_eta",
+    "title": "6–8 anni",
+    "desc": "Quiz misti (italiano + matematica + scienze) con domande nuove.",
+    "emoji": "📗",
+    "level": "Kids",
+    "ageTag": "6-8",
+    "ageMin": 6,
+    "ageMax": 8,
+    "href": "/pages/fasce_eta/eta_6_8/index.html"
+  },
+  {
+    "group": "fasce_eta",
+    "title": "9–11 anni",
+    "desc": "Allenamento completo: scuola primaria avanzata.",
+    "emoji": "🚀",
+    "level": "Kids",
+    "ageTag": "9-11",
+    "ageMin": 9,
+    "ageMax": 11,
+    "href": "/pages/fasce_eta/eta_9_11/index.html"
+  },
+  {
+    "group": "fasce_eta",
+    "title": "12–14 anni",
+    "desc": "Medie: grammatica, storia, geografia, scienze e logica.",
+    "emoji": "🎯",
+    "level": "Teens",
+    "ageTag": "12-14",
+    "ageMin": 12,
+    "ageMax": 14,
+    "href": "/pages/fasce_eta/eta_12_14/index.html"
+  },
+  {
+    "group": "fasce_eta",
+    "title": "15–18 anni",
+    "desc": "SuperiorI: cultura generale, scienze, storia e ragionamento.",
+    "emoji": "🏆",
+    "level": "Teens",
+    "ageTag": "15-18",
+    "ageMin": 15,
+    "ageMax": 18,
+    "href": "/pages/fasce_eta/eta_15_18/index.html"
+  },
+  {
+    "group": "adulti",
+    "title": "Cultura generale",
+    "desc": "Domande solide e non banali: perfette per allenare la memoria.",
+    "emoji": "📚",
+    "level": "Adulti",
+    "href": "/pages/adulti/cultura/index.html"
+  },
+  {
+    "group": "adulti",
+    "title": "Storia & Civiltà",
+    "desc": "Dall’antichità al Novecento, con focus anche sull’Italia.",
+    "emoji": "🏛️",
+    "level": "Adulti",
+    "href": "/pages/adulti/storia/index.html"
+  },
+  {
+    "group": "adulti",
+    "title": "Geografia del mondo",
+    "desc": "Capitali, bandiere, continenti e curiosità geografiche.",
+    "emoji": "🌍",
+    "level": "Adulti",
+    "href": "/pages/adulti/geografia/index.html"
+  },
+  {
+    "group": "adulti",
+    "title": "Scienze & Natura",
+    "desc": "Biologia, fisica e chimica in formato quiz.",
+    "emoji": "🧪",
+    "level": "Adulti",
+    "href": "/pages/adulti/scienze/index.html"
+  },
+  {
+    "group": "adulti",
+    "title": "Attualità & Curiosità",
+    "desc": "Eventi e curiosità (selezione evergreen, senza scadenza).",
+    "emoji": "📰",
+    "level": "Adulti",
+    "href": "/pages/adulti/attualita/index.html"
+  },
+  {
+    "group": "adulti",
+    "title": "Cinema & Musica",
+    "desc": "Oscars, hit, artisti e cultura pop.",
+    "emoji": "🎬",
+    "level": "Adulti",
+    "href": "/pages/adulti/cinema_musica/index.html"
+  },
+  {
+    "group": "adulti",
+    "title": "Logica & Ragionamento",
+    "desc": "Sfide di logica per menti allenate.",
+    "emoji": "🧩",
+    "level": "Adulti",
+    "href": "/pages/adulti/logica/index.html"
+  },
+  {
+    "group": "adulti",
+    "title": "Sport",
+    "desc": "Regole, campioni e curiosità sportive.",
+    "emoji": "🏟️",
+    "level": "Adulti",
+    "href": "/pages/adulti/sport/index.html"
+  },
+  {
+    "group": "adulti",
+    "title": "Tecnologia & Innovazione",
+    "desc": "Internet, cybersecurity, AI e grandi invenzioni.",
+    "emoji": "🤖",
+    "level": "Adulti",
+    "href": "/pages/adulti/tecnologia/index.html"
+  },
+  {
+    "group": "adulti",
+    "title": "Medicina & Salute",
+    "desc": "Anatomia e scienza medica (solo cultura generale).",
+    "emoji": "🩺",
+    "level": "Adulti",
+    "href": "/pages/adulti/medicina/index.html"
+  },
+  {
+    "group": "adulti",
+    "title": "Economia & Finanza",
+    "desc": "Concetti base e avanzati: dal PIL all’inflazione.",
+    "emoji": "💶",
+    "level": "Adulti",
+    "href": "/pages/adulti/economia/index.html"
+  },
+  {
+    "group": "adulti",
+    "title": "Arte & Storia dell’Arte",
+    "desc": "Capolavori, movimenti e autori: quiz per veri appassionati.",
+    "emoji": "🖼️",
+    "level": "Adulti",
+    "href": "/pages/adulti/arte_adulti/index.html"
+  },
+  {
+    "group": "patenti",
+    "title": "Patenti",
+    "desc": "Quiz ufficiali: Patente B e NCC (domande già presenti).",
+    "emoji": "🚗",
+    "level": "Patenti",
+    "href": "/pages/patenti/index.html"
+  },
+  {
+    "group": "scuola",
+    "title": "Astronomia",
+    "desc": "Quiz di astronomia per primaria e medie: pianeti, stelle, spazio e Sistema Solare.",
+    "emoji": "🪐",
+    "level": "Scuola",
+    "href": "/pages/scuola/astronomia/index.html"
+  },
+  {
+    "group": "scuola",
+    "title": "Educazione civica",
+    "desc": "Quiz di educazione civica per primaria e medie: cittadinanza, regole, diritti e doveri.",
+    "emoji": "🏛️",
+    "level": "Scuola",
+    "href": "/pages/scuola/educazione_civica/index.html"
+  },
+  {
+    "group": "scuola",
+    "title": "Geografia d'Italia",
+    "desc": "Quiz di geografia d'Italia: regioni, capoluoghi e concetti base.",
+    "emoji": "🗺️",
+    "level": "Scuola",
+    "href": "/pages/scuola/geografia_italia/index.html"
+  },
+  {
+    "group": "scuola",
+    "title": "Corpo umano",
+    "desc": "Quiz sul corpo umano per primaria e medie: anatomia e salute di base.",
+    "emoji": "🫀",
+    "level": "Scuola",
+    "href": "/pages/scuola/corpo_umano/index.html"
+  },
+  {
+    "group": "scuola",
+    "title": "Coding base",
+    "desc": "Quiz di coding base: logica, algoritmi e concetti fondamentali di informatica.",
+    "emoji": "💻",
+    "level": "Scuola",
+    "href": "/pages/scuola/coding/index.html"
+  },
+  {
+    "group": "scuola",
+    "title": "Musica",
+    "desc": "Quiz di musica per primaria e medie: teoria base, ritmo e strumenti.",
+    "emoji": "🎵",
+    "level": "Scuola",
+    "href": "/pages/scuola/musica/index.html"
+  },
+  {
+    "group": "adulti",
+    "title": "Finanza personale",
+    "desc": "Quiz di finanza personale: budget, risparmio, interessi, rischio e investimenti.",
+    "emoji": "💶",
+    "level": "Adulti",
+    "href": "/pages/adulti/finanza_personale/index.html"
+  },
+  {
+    "group": "adulti",
+    "title": "Psicologia",
+    "desc": "Quiz di psicologia: bias cognitivi, emozioni, abitudini e concetti base.",
+    "emoji": "🧠",
+    "level": "Adulti",
+    "href": "/pages/adulti/psicologia/index.html"
+  },
+  {
+    "group": "adulti",
+    "title": "Ambiente",
+    "desc": "Quiz su ambiente e sostenibilità: energia, riciclo, impatto e concetti chiave.",
+    "emoji": "🌱",
+    "level": "Adulti",
+    "href": "/pages/adulti/ambiente/index.html"
+  },
+  {
+    "group": "adulti",
+    "title": "Filosofia",
+    "desc": "Quiz di filosofia: concetti chiave e nozioni di storia del pensiero.",
+    "emoji": "🧭",
+    "level": "Adulti",
+    "href": "/pages/adulti/filosofia/index.html"
+  }
+]

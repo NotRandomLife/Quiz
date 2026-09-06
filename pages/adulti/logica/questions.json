@@ -1,0 +1,3302 @@
+[
+  {
+    "q": "Analogia (variante 112): Mano sta a guanto come Piede sta a…",
+    "options": [
+      "cintura",
+      "scarpa",
+      "manica",
+      "cappello"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Analogia (variante 198): Mano sta a guanto come Piede sta a…",
+    "options": [
+      "manica",
+      "cintura",
+      "cappello",
+      "scarpa"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Analogia (variante 8): Mano sta a guanto come Piede sta a…",
+    "options": [
+      "cintura",
+      "scarpa",
+      "manica",
+      "cappello"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Analogia (variante 217): Mano sta a guanto come Piede sta a…",
+    "options": [
+      "manica",
+      "cintura",
+      "cappello",
+      "scarpa"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Logica (variante 200): Tutti i gatti sono animali. Tutti gli animali respirano. Allora…",
+    "options": [
+      "Solo alcuni gatti respirano",
+      "Tutti i gatti respirano",
+      "I gatti non sono animali",
+      "Nessun gatto respira"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Completa la sequenza: 21, 35, 49, 63, __ (variante 172)",
+    "options": [
+      "77",
+      "63",
+      "77 (4)",
+      "91"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Completa la sequenza: 38, 57, 76, 95, __ (variante 40)",
+    "options": [
+      "114 (4)",
+      "133",
+      "95",
+      "114"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Analogia (variante 215): Mano sta a guanto come Piede sta a…",
+    "options": [
+      "scarpa",
+      "cappello",
+      "cintura",
+      "manica"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Completa la sequenza: 26, 29, 32, 35, __ (variante 234)",
+    "options": [
+      "38",
+      "35",
+      "38 (4)",
+      "41"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Analogia (variante 200): Mano sta a guanto come Piede sta a…",
+    "options": [
+      "cappello",
+      "manica",
+      "scarpa",
+      "cintura"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Completa la sequenza: 27, 43, 59, 75, __ (variante 106)",
+    "options": [
+      "107",
+      "91 (4)",
+      "75",
+      "91"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Logica (variante 152): Tutti i gatti sono animali. Tutti gli animali respirano. Allora…",
+    "options": [
+      "Tutti i gatti respirano",
+      "Solo alcuni gatti respirano",
+      "Nessun gatto respira",
+      "I gatti non sono animali"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Completa la sequenza: 39, 51, 63, 75, __ (variante 99)",
+    "options": [
+      "87 (4)",
+      "87",
+      "75",
+      "99"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Logica (variante 168): Tutti i gatti sono animali. Tutti gli animali respirano. Allora…",
+    "options": [
+      "Tutti i gatti respirano",
+      "Solo alcuni gatti respirano",
+      "Nessun gatto respira",
+      "I gatti non sono animali"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Analogia (variante 7): Mano sta a guanto come Piede sta a…",
+    "options": [
+      "cintura",
+      "cappello",
+      "manica",
+      "scarpa"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Completa la sequenza: 42, 60, 78, 96, __ (variante 219)",
+    "options": [
+      "114 (4)",
+      "96",
+      "132",
+      "114"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Analogia (variante 190): Mano sta a guanto come Piede sta a…",
+    "options": [
+      "scarpa",
+      "cintura",
+      "manica",
+      "cappello"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Logica (variante 182): Tutti i gatti sono animali. Tutti gli animali respirano. Allora…",
+    "options": [
+      "I gatti non sono animali",
+      "Tutti i gatti respirano",
+      "Nessun gatto respira",
+      "Solo alcuni gatti respirano"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Analogia (variante 199): Mano sta a guanto come Piede sta a…",
+    "options": [
+      "manica",
+      "cappello",
+      "cintura",
+      "scarpa"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Analogia (variante 70): Mano sta a guanto come Piede sta a…",
+    "options": [
+      "cappello",
+      "scarpa",
+      "cintura",
+      "manica"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Completa la sequenza: 29, 31, 33, 35, __ (variante 185)",
+    "options": [
+      "37",
+      "37 (4)",
+      "35",
+      "39"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Analogia (variante 202): Mano sta a guanto come Piede sta a…",
+    "options": [
+      "cappello",
+      "cintura",
+      "scarpa",
+      "manica"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Logica (variante 71): Tutti i gatti sono animali. Tutti gli animali respirano. Allora…",
+    "options": [
+      "I gatti non sono animali",
+      "Tutti i gatti respirano",
+      "Nessun gatto respira",
+      "Solo alcuni gatti respirano"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Completa la sequenza: 35, 39, 43, 47, __ (variante 165)",
+    "options": [
+      "55",
+      "51",
+      "51 (4)",
+      "47"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Analogia (variante 18): Mano sta a guanto come Piede sta a…",
+    "options": [
+      "cappello",
+      "manica",
+      "scarpa",
+      "cintura"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Logica (variante 63): Tutti i gatti sono animali. Tutti gli animali respirano. Allora…",
+    "options": [
+      "Tutti i gatti respirano",
+      "Nessun gatto respira",
+      "I gatti non sono animali",
+      "Solo alcuni gatti respirano"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Completa la sequenza: 13, 23, 33, 43, __ (variante 142)",
+    "options": [
+      "53 (4)",
+      "63",
+      "53",
+      "43"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Analogia (variante 177): Mano sta a guanto come Piede sta a…",
+    "options": [
+      "cappello",
+      "cintura",
+      "scarpa",
+      "manica"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Analogia (variante 81): Mano sta a guanto come Piede sta a…",
+    "options": [
+      "cappello",
+      "cintura",
+      "scarpa",
+      "manica"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Completa la sequenza: 45, 48, 51, 54, __ (variante 252)",
+    "options": [
+      "57",
+      "60",
+      "54",
+      "57 (4)"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Completa la sequenza: 23, 42, 61, 80, __ (variante 102)",
+    "options": [
+      "99",
+      "118",
+      "80",
+      "99 (4)"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Completa la sequenza: 26, 33, 40, 47, __ (variante 166)",
+    "options": [
+      "54",
+      "54 (4)",
+      "47",
+      "61"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Completa la sequenza: 13, 33, 53, 73, __ (variante 44)",
+    "options": [
+      "73",
+      "113",
+      "93 (4)",
+      "93"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Analogia (variante 16): Mano sta a guanto come Piede sta a…",
+    "options": [
+      "scarpa",
+      "manica",
+      "cintura",
+      "cappello"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Logica (variante 35): Tutti i gatti sono animali. Tutti gli animali respirano. Allora…",
+    "options": [
+      "I gatti non sono animali",
+      "Nessun gatto respira",
+      "Tutti i gatti respirano",
+      "Solo alcuni gatti respirano"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Analogia (variante 133): Mano sta a guanto come Piede sta a…",
+    "options": [
+      "manica",
+      "cappello",
+      "scarpa",
+      "cintura"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Logica (variante 125): Tutti i gatti sono animali. Tutti gli animali respirano. Allora…",
+    "options": [
+      "Solo alcuni gatti respirano",
+      "Tutti i gatti respirano",
+      "I gatti non sono animali",
+      "Nessun gatto respira"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Logica (variante 99): Tutti i gatti sono animali. Tutti gli animali respirano. Allora…",
+    "options": [
+      "Tutti i gatti respirano",
+      "I gatti non sono animali",
+      "Nessun gatto respira",
+      "Solo alcuni gatti respirano"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Completa la sequenza: 35, 38, 41, 44, __ (variante 150)",
+    "options": [
+      "50",
+      "47",
+      "47 (4)",
+      "44"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Logica (variante 166): Tutti i gatti sono animali. Tutti gli animali respirano. Allora…",
+    "options": [
+      "I gatti non sono animali",
+      "Solo alcuni gatti respirano",
+      "Tutti i gatti respirano",
+      "Nessun gatto respira"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Analogia (variante 19): Mano sta a guanto come Piede sta a…",
+    "options": [
+      "cappello",
+      "manica",
+      "scarpa",
+      "cintura"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Analogia (variante 94): Mano sta a guanto come Piede sta a…",
+    "options": [
+      "manica",
+      "cappello",
+      "scarpa",
+      "cintura"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Logica (variante 154): Tutti i gatti sono animali. Tutti gli animali respirano. Allora…",
+    "options": [
+      "Nessun gatto respira",
+      "I gatti non sono animali",
+      "Tutti i gatti respirano",
+      "Solo alcuni gatti respirano"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Logica (variante 7): Tutti i gatti sono animali. Tutti gli animali respirano. Allora…",
+    "options": [
+      "I gatti non sono animali",
+      "Tutti i gatti respirano",
+      "Solo alcuni gatti respirano",
+      "Nessun gatto respira"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Analogia (variante 158): Mano sta a guanto come Piede sta a…",
+    "options": [
+      "cappello",
+      "manica",
+      "scarpa",
+      "cintura"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Completa la sequenza: 9, 14, 19, 24, __ (variante 220)",
+    "options": [
+      "29",
+      "34",
+      "29 (4)",
+      "24"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Completa la sequenza: 12, 14, 16, 18, __ (variante 23)",
+    "options": [
+      "22",
+      "20 (4)",
+      "18",
+      "20"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Logica (variante 210): Tutti i gatti sono animali. Tutti gli animali respirano. Allora…",
+    "options": [
+      "Tutti i gatti respirano",
+      "Nessun gatto respira",
+      "Solo alcuni gatti respirano",
+      "I gatti non sono animali"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Completa la sequenza: 25, 44, 63, 82, __ (variante 137)",
+    "options": [
+      "120",
+      "101 (4)",
+      "101",
+      "82"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Logica (variante 81): Tutti i gatti sono animali. Tutti gli animali respirano. Allora…",
+    "options": [
+      "Tutti i gatti respirano",
+      "Nessun gatto respira",
+      "I gatti non sono animali",
+      "Solo alcuni gatti respirano"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Analogia (variante 149): Mano sta a guanto come Piede sta a…",
+    "options": [
+      "cintura",
+      "manica",
+      "cappello",
+      "scarpa"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Logica (variante 101): Tutti i gatti sono animali. Tutti gli animali respirano. Allora…",
+    "options": [
+      "Nessun gatto respira",
+      "Solo alcuni gatti respirano",
+      "Tutti i gatti respirano",
+      "I gatti non sono animali"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Logica (variante 180): Tutti i gatti sono animali. Tutti gli animali respirano. Allora…",
+    "options": [
+      "Solo alcuni gatti respirano",
+      "Nessun gatto respira",
+      "I gatti non sono animali",
+      "Tutti i gatti respirano"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Analogia (variante 56): Mano sta a guanto come Piede sta a…",
+    "options": [
+      "cintura",
+      "scarpa",
+      "manica",
+      "cappello"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Completa la sequenza: 10, 29, 48, 67, __ (variante 243)",
+    "options": [
+      "86",
+      "67",
+      "86 (4)",
+      "105"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Completa la sequenza: 14, 32, 50, 68, __ (variante 76)",
+    "options": [
+      "104",
+      "86 (4)",
+      "86",
+      "68"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Completa la sequenza: 16, 30, 44, 58, __ (variante 46)",
+    "options": [
+      "86",
+      "72 (4)",
+      "58",
+      "72"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Completa la sequenza: 36, 50, 64, 78, __ (variante 53)",
+    "options": [
+      "78",
+      "92",
+      "92 (4)",
+      "106"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Logica (variante 65): Tutti i gatti sono animali. Tutti gli animali respirano. Allora…",
+    "options": [
+      "Tutti i gatti respirano",
+      "Solo alcuni gatti respirano",
+      "Nessun gatto respira",
+      "I gatti non sono animali"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Logica (variante 47): Tutti i gatti sono animali. Tutti gli animali respirano. Allora…",
+    "options": [
+      "I gatti non sono animali",
+      "Nessun gatto respira",
+      "Solo alcuni gatti respirano",
+      "Tutti i gatti respirano"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Logica (variante 41): Tutti i gatti sono animali. Tutti gli animali respirano. Allora…",
+    "options": [
+      "Nessun gatto respira",
+      "Tutti i gatti respirano",
+      "I gatti non sono animali",
+      "Solo alcuni gatti respirano"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Analogia (variante 9): Mano sta a guanto come Piede sta a…",
+    "options": [
+      "cintura",
+      "scarpa",
+      "cappello",
+      "manica"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Completa la sequenza: 18, 25, 32, 39, __ (variante 127)",
+    "options": [
+      "53",
+      "46 (4)",
+      "39",
+      "46"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Logica (variante 18): Tutti i gatti sono animali. Tutti gli animali respirano. Allora…",
+    "options": [
+      "Nessun gatto respira",
+      "Tutti i gatti respirano",
+      "Solo alcuni gatti respirano",
+      "I gatti non sono animali"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Completa la sequenza: 37, 44, 51, 58, __ (variante 231)",
+    "options": [
+      "65",
+      "72",
+      "65 (4)",
+      "58"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Completa la sequenza: 32, 40, 48, 56, __ (variante 5)",
+    "options": [
+      "56",
+      "64 (4)",
+      "64",
+      "72"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Logica (variante 129): Tutti i gatti sono animali. Tutti gli animali respirano. Allora…",
+    "options": [
+      "I gatti non sono animali",
+      "Nessun gatto respira",
+      "Solo alcuni gatti respirano",
+      "Tutti i gatti respirano"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Analogia (variante 156): Mano sta a guanto come Piede sta a…",
+    "options": [
+      "cappello",
+      "cintura",
+      "scarpa",
+      "manica"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Logica (variante 136): Tutti i gatti sono animali. Tutti gli animali respirano. Allora…",
+    "options": [
+      "Solo alcuni gatti respirano",
+      "Tutti i gatti respirano",
+      "I gatti non sono animali",
+      "Nessun gatto respira"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Logica (variante 75): Tutti i gatti sono animali. Tutti gli animali respirano. Allora…",
+    "options": [
+      "Solo alcuni gatti respirano",
+      "Nessun gatto respira",
+      "Tutti i gatti respirano",
+      "I gatti non sono animali"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Completa la sequenza: 29, 33, 37, 41, __ (variante 18)",
+    "options": [
+      "45",
+      "49",
+      "41",
+      "45 (4)"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Completa la sequenza: 25, 29, 33, 37, __ (variante 232)",
+    "options": [
+      "37",
+      "45",
+      "41",
+      "41 (4)"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Completa la sequenza: 48, 58, 68, 78, __ (variante 110)",
+    "options": [
+      "98",
+      "88",
+      "88 (4)",
+      "78"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Logica (variante 94): Tutti i gatti sono animali. Tutti gli animali respirano. Allora…",
+    "options": [
+      "Tutti i gatti respirano",
+      "I gatti non sono animali",
+      "Nessun gatto respira",
+      "Solo alcuni gatti respirano"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Analogia (variante 77): Mano sta a guanto come Piede sta a…",
+    "options": [
+      "manica",
+      "scarpa",
+      "cappello",
+      "cintura"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Analogia (variante 99): Mano sta a guanto come Piede sta a…",
+    "options": [
+      "manica",
+      "cintura",
+      "scarpa",
+      "cappello"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Analogia (variante 62): Mano sta a guanto come Piede sta a…",
+    "options": [
+      "manica",
+      "cappello",
+      "scarpa",
+      "cintura"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Completa la sequenza: 46, 52, 58, 64, __ (variante 37)",
+    "options": [
+      "70",
+      "70 (4)",
+      "76",
+      "64"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Completa la sequenza: 4, 6, 8, 10, __ (variante 255)",
+    "options": [
+      "12",
+      "10",
+      "12 (4)",
+      "14"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Completa la sequenza: 43, 53, 63, 73, __ (variante 134)",
+    "options": [
+      "73",
+      "83 (4)",
+      "93",
+      "83"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Completa la sequenza: 44, 53, 62, 71, __ (variante 19)",
+    "options": [
+      "71",
+      "80 (4)",
+      "80",
+      "89"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Analogia (variante 220): Mano sta a guanto come Piede sta a…",
+    "options": [
+      "cappello",
+      "cintura",
+      "manica",
+      "scarpa"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Completa la sequenza: 3, 13, 23, 33, __ (variante 49)",
+    "options": [
+      "43",
+      "43 (4)",
+      "53",
+      "33"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Logica (variante 204): Tutti i gatti sono animali. Tutti gli animali respirano. Allora…",
+    "options": [
+      "Nessun gatto respira",
+      "Solo alcuni gatti respirano",
+      "Tutti i gatti respirano",
+      "I gatti non sono animali"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Analogia (variante 64): Mano sta a guanto come Piede sta a…",
+    "options": [
+      "manica",
+      "cintura",
+      "scarpa",
+      "cappello"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Completa la sequenza: 16, 20, 24, 28, __ (variante 47)",
+    "options": [
+      "32 (4)",
+      "32",
+      "28",
+      "36"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Logica (variante 87): Tutti i gatti sono animali. Tutti gli animali respirano. Allora…",
+    "options": [
+      "Solo alcuni gatti respirano",
+      "I gatti non sono animali",
+      "Tutti i gatti respirano",
+      "Nessun gatto respira"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Analogia (variante 63): Mano sta a guanto come Piede sta a…",
+    "options": [
+      "cappello",
+      "scarpa",
+      "manica",
+      "cintura"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Analogia (variante 129): Mano sta a guanto come Piede sta a…",
+    "options": [
+      "manica",
+      "cintura",
+      "cappello",
+      "scarpa"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Completa la sequenza: 1, 6, 11, 16, __ (variante 230)",
+    "options": [
+      "26",
+      "16",
+      "21",
+      "21 (4)"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Logica (variante 56): Tutti i gatti sono animali. Tutti gli animali respirano. Allora…",
+    "options": [
+      "Solo alcuni gatti respirano",
+      "I gatti non sono animali",
+      "Tutti i gatti respirano",
+      "Nessun gatto respira"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Analogia (variante 125): Mano sta a guanto come Piede sta a…",
+    "options": [
+      "scarpa",
+      "manica",
+      "cintura",
+      "cappello"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Completa la sequenza: 30, 48, 66, 84, __ (variante 98)",
+    "options": [
+      "102 (4)",
+      "84",
+      "102",
+      "120"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Analogia (variante 209): Mano sta a guanto come Piede sta a…",
+    "options": [
+      "scarpa",
+      "manica",
+      "cintura",
+      "cappello"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Logica (variante 133): Tutti i gatti sono animali. Tutti gli animali respirano. Allora…",
+    "options": [
+      "Solo alcuni gatti respirano",
+      "Tutti i gatti respirano",
+      "I gatti non sono animali",
+      "Nessun gatto respira"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Analogia (variante 95): Mano sta a guanto come Piede sta a…",
+    "options": [
+      "scarpa",
+      "manica",
+      "cintura",
+      "cappello"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Analogia (variante 116): Mano sta a guanto come Piede sta a…",
+    "options": [
+      "manica",
+      "cappello",
+      "cintura",
+      "scarpa"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Logica (variante 164): Tutti i gatti sono animali. Tutti gli animali respirano. Allora…",
+    "options": [
+      "Solo alcuni gatti respirano",
+      "Tutti i gatti respirano",
+      "I gatti non sono animali",
+      "Nessun gatto respira"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Completa la sequenza: 28, 47, 66, 85, __ (variante 52)",
+    "options": [
+      "85",
+      "104",
+      "104 (4)",
+      "123"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Completa la sequenza: 30, 41, 52, 63, __ (variante 202)",
+    "options": [
+      "74",
+      "63",
+      "85",
+      "74 (4)"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Analogia (variante 166): Mano sta a guanto come Piede sta a…",
+    "options": [
+      "manica",
+      "cappello",
+      "scarpa",
+      "cintura"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Analogia (variante 142): Mano sta a guanto come Piede sta a…",
+    "options": [
+      "cappello",
+      "manica",
+      "scarpa",
+      "cintura"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Logica (variante 89): Tutti i gatti sono animali. Tutti gli animali respirano. Allora…",
+    "options": [
+      "I gatti non sono animali",
+      "Solo alcuni gatti respirano",
+      "Nessun gatto respira",
+      "Tutti i gatti respirano"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Completa la sequenza: 14, 17, 20, 23, __ (variante 259)",
+    "options": [
+      "26 (4)",
+      "23",
+      "26",
+      "29"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Analogia (variante 206): Mano sta a guanto come Piede sta a…",
+    "options": [
+      "cappello",
+      "scarpa",
+      "manica",
+      "cintura"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Analogia (variante 148): Mano sta a guanto come Piede sta a…",
+    "options": [
+      "scarpa",
+      "cappello",
+      "manica",
+      "cintura"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Completa la sequenza: 8, 12, 16, 20, __ (variante 254)",
+    "options": [
+      "28",
+      "20",
+      "24 (4)",
+      "24"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Logica (variante 131): Tutti i gatti sono animali. Tutti gli animali respirano. Allora…",
+    "options": [
+      "Nessun gatto respira",
+      "I gatti non sono animali",
+      "Solo alcuni gatti respirano",
+      "Tutti i gatti respirano"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Logica (variante 190): Tutti i gatti sono animali. Tutti gli animali respirano. Allora…",
+    "options": [
+      "Nessun gatto respira",
+      "Tutti i gatti respirano",
+      "Solo alcuni gatti respirano",
+      "I gatti non sono animali"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Logica (variante 80): Tutti i gatti sono animali. Tutti gli animali respirano. Allora…",
+    "options": [
+      "Solo alcuni gatti respirano",
+      "I gatti non sono animali",
+      "Nessun gatto respira",
+      "Tutti i gatti respirano"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Analogia (variante 80): Mano sta a guanto come Piede sta a…",
+    "options": [
+      "manica",
+      "cappello",
+      "cintura",
+      "scarpa"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Logica (variante 149): Tutti i gatti sono animali. Tutti gli animali respirano. Allora…",
+    "options": [
+      "Nessun gatto respira",
+      "I gatti non sono animali",
+      "Tutti i gatti respirano",
+      "Solo alcuni gatti respirano"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Completa la sequenza: 26, 42, 58, 74, __ (variante 59)",
+    "options": [
+      "90 (4)",
+      "74",
+      "90",
+      "106"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Analogia (variante 109): Mano sta a guanto come Piede sta a…",
+    "options": [
+      "cintura",
+      "scarpa",
+      "cappello",
+      "manica"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Completa la sequenza: 39, 49, 59, 69, __ (variante 196)",
+    "options": [
+      "69",
+      "79 (4)",
+      "89",
+      "79"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Logica (variante 177): Tutti i gatti sono animali. Tutti gli animali respirano. Allora…",
+    "options": [
+      "Solo alcuni gatti respirano",
+      "Nessun gatto respira",
+      "Tutti i gatti respirano",
+      "I gatti non sono animali"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Analogia (variante 85): Mano sta a guanto come Piede sta a…",
+    "options": [
+      "manica",
+      "cappello",
+      "cintura",
+      "scarpa"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Completa la sequenza: 45, 49, 53, 57, __ (variante 30)",
+    "options": [
+      "61",
+      "57",
+      "65",
+      "61 (4)"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Analogia (variante 123): Mano sta a guanto come Piede sta a…",
+    "options": [
+      "cintura",
+      "manica",
+      "scarpa",
+      "cappello"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Logica (variante 23): Tutti i gatti sono animali. Tutti gli animali respirano. Allora…",
+    "options": [
+      "I gatti non sono animali",
+      "Solo alcuni gatti respirano",
+      "Tutti i gatti respirano",
+      "Nessun gatto respira"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Analogia (variante 170): Mano sta a guanto come Piede sta a…",
+    "options": [
+      "cintura",
+      "manica",
+      "cappello",
+      "scarpa"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Logica (variante 86): Tutti i gatti sono animali. Tutti gli animali respirano. Allora…",
+    "options": [
+      "Solo alcuni gatti respirano",
+      "Nessun gatto respira",
+      "Tutti i gatti respirano",
+      "I gatti non sono animali"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Analogia (variante 53): Mano sta a guanto come Piede sta a…",
+    "options": [
+      "scarpa",
+      "manica",
+      "cintura",
+      "cappello"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Completa la sequenza: 14, 34, 54, 74, __ (variante 80)",
+    "options": [
+      "74",
+      "94",
+      "94 (4)",
+      "114"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Analogia (variante 1): Mano sta a guanto come Piede sta a…",
+    "options": [
+      "cintura",
+      "cappello",
+      "manica",
+      "scarpa"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Completa la sequenza: 43, 53, 63, 73, __ (variante 169)",
+    "options": [
+      "93",
+      "83 (4)",
+      "83",
+      "73"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Logica (variante 130): Tutti i gatti sono animali. Tutti gli animali respirano. Allora…",
+    "options": [
+      "I gatti non sono animali",
+      "Tutti i gatti respirano",
+      "Nessun gatto respira",
+      "Solo alcuni gatti respirano"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Analogia (variante 175): Mano sta a guanto come Piede sta a…",
+    "options": [
+      "cappello",
+      "cintura",
+      "scarpa",
+      "manica"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Analogia (variante 150): Mano sta a guanto come Piede sta a…",
+    "options": [
+      "scarpa",
+      "manica",
+      "cintura",
+      "cappello"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Completa la sequenza: 17, 31, 45, 59, __ (variante 151)",
+    "options": [
+      "73",
+      "73 (4)",
+      "59",
+      "87"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Logica (variante 30): Tutti i gatti sono animali. Tutti gli animali respirano. Allora…",
+    "options": [
+      "I gatti non sono animali",
+      "Nessun gatto respira",
+      "Tutti i gatti respirano",
+      "Solo alcuni gatti respirano"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Completa la sequenza: 18, 33, 48, 63, __ (variante 50)",
+    "options": [
+      "78 (4)",
+      "63",
+      "78",
+      "93"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Analogia (variante 55): Mano sta a guanto come Piede sta a…",
+    "options": [
+      "cintura",
+      "scarpa",
+      "cappello",
+      "manica"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Logica (variante 192): Tutti i gatti sono animali. Tutti gli animali respirano. Allora…",
+    "options": [
+      "I gatti non sono animali",
+      "Tutti i gatti respirano",
+      "Solo alcuni gatti respirano",
+      "Nessun gatto respira"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Analogia (variante 105): Mano sta a guanto come Piede sta a…",
+    "options": [
+      "cintura",
+      "scarpa",
+      "cappello",
+      "manica"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Completa la sequenza: 31, 43, 55, 67, __ (variante 133)",
+    "options": [
+      "79 (4)",
+      "91",
+      "79",
+      "67"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Completa la sequenza: 1, 3, 5, 7, __ (variante 36)",
+    "options": [
+      "11",
+      "9",
+      "7",
+      "9 (4)"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Logica (variante 139): Tutti i gatti sono animali. Tutti gli animali respirano. Allora…",
+    "options": [
+      "I gatti non sono animali",
+      "Nessun gatto respira",
+      "Solo alcuni gatti respirano",
+      "Tutti i gatti respirano"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Logica (variante 46): Tutti i gatti sono animali. Tutti gli animali respirano. Allora…",
+    "options": [
+      "Solo alcuni gatti respirano",
+      "I gatti non sono animali",
+      "Tutti i gatti respirano",
+      "Nessun gatto respira"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Completa la sequenza: 2, 21, 40, 59, __ (variante 39)",
+    "options": [
+      "59",
+      "97",
+      "78 (4)",
+      "78"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Completa la sequenza: 44, 47, 50, 53, __ (variante 58)",
+    "options": [
+      "56 (4)",
+      "59",
+      "56",
+      "53"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Logica (variante 38): Tutti i gatti sono animali. Tutti gli animali respirano. Allora…",
+    "options": [
+      "Tutti i gatti respirano",
+      "Solo alcuni gatti respirano",
+      "Nessun gatto respira",
+      "I gatti non sono animali"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Logica (variante 160): Tutti i gatti sono animali. Tutti gli animali respirano. Allora…",
+    "options": [
+      "Solo alcuni gatti respirano",
+      "Tutti i gatti respirano",
+      "Nessun gatto respira",
+      "I gatti non sono animali"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Logica (variante 215): Tutti i gatti sono animali. Tutti gli animali respirano. Allora…",
+    "options": [
+      "Tutti i gatti respirano",
+      "Solo alcuni gatti respirano",
+      "Nessun gatto respira",
+      "I gatti non sono animali"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Analogia (variante 96): Mano sta a guanto come Piede sta a…",
+    "options": [
+      "cappello",
+      "manica",
+      "scarpa",
+      "cintura"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Analogia (variante 168): Mano sta a guanto come Piede sta a…",
+    "options": [
+      "cappello",
+      "cintura",
+      "scarpa",
+      "manica"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Completa la sequenza: 16, 26, 36, 46, __ (variante 206)",
+    "options": [
+      "56 (4)",
+      "66",
+      "56",
+      "46"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Completa la sequenza: 6, 24, 42, 60, __ (variante 125)",
+    "options": [
+      "60",
+      "78 (4)",
+      "78",
+      "96"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Completa la sequenza: 4, 22, 40, 58, __ (variante 4)",
+    "options": [
+      "76 (4)",
+      "76",
+      "58",
+      "94"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Analogia (variante 174): Mano sta a guanto come Piede sta a…",
+    "options": [
+      "manica",
+      "scarpa",
+      "cappello",
+      "cintura"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Completa la sequenza: 24, 42, 60, 78, __ (variante 239)",
+    "options": [
+      "114",
+      "78",
+      "96",
+      "96 (4)"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Logica (variante 178): Tutti i gatti sono animali. Tutti gli animali respirano. Allora…",
+    "options": [
+      "I gatti non sono animali",
+      "Nessun gatto respira",
+      "Solo alcuni gatti respirano",
+      "Tutti i gatti respirano"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Logica (variante 34): Tutti i gatti sono animali. Tutti gli animali respirano. Allora…",
+    "options": [
+      "Tutti i gatti respirano",
+      "I gatti non sono animali",
+      "Solo alcuni gatti respirano",
+      "Nessun gatto respira"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Completa la sequenza: 5, 17, 29, 41, __ (variante 141)",
+    "options": [
+      "53 (4)",
+      "65",
+      "41",
+      "53"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Analogia (variante 184): Mano sta a guanto come Piede sta a…",
+    "options": [
+      "manica",
+      "scarpa",
+      "cappello",
+      "cintura"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Analogia (variante 27): Mano sta a guanto come Piede sta a…",
+    "options": [
+      "scarpa",
+      "manica",
+      "cintura",
+      "cappello"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Completa la sequenza: 24, 37, 50, 63, __ (variante 192)",
+    "options": [
+      "76 (4)",
+      "76",
+      "89",
+      "63"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Logica (variante 141): Tutti i gatti sono animali. Tutti gli animali respirano. Allora…",
+    "options": [
+      "Tutti i gatti respirano",
+      "I gatti non sono animali",
+      "Solo alcuni gatti respirano",
+      "Nessun gatto respira"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Logica (variante 195): Tutti i gatti sono animali. Tutti gli animali respirano. Allora…",
+    "options": [
+      "Solo alcuni gatti respirano",
+      "I gatti non sono animali",
+      "Nessun gatto respira",
+      "Tutti i gatti respirano"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Analogia (variante 78): Mano sta a guanto come Piede sta a…",
+    "options": [
+      "cappello",
+      "manica",
+      "scarpa",
+      "cintura"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Completa la sequenza: 44, 50, 56, 62, __ (variante 9)",
+    "options": [
+      "74",
+      "62",
+      "68 (4)",
+      "68"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Analogia (variante 169): Mano sta a guanto come Piede sta a…",
+    "options": [
+      "cintura",
+      "cappello",
+      "scarpa",
+      "manica"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Completa la sequenza: 10, 30, 50, 70, __ (variante 130)",
+    "options": [
+      "70",
+      "90 (4)",
+      "110",
+      "90"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Completa la sequenza: 6, 14, 22, 30, __ (variante 3)",
+    "options": [
+      "46",
+      "30",
+      "38 (4)",
+      "38"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Analogia (variante 23): Mano sta a guanto come Piede sta a…",
+    "options": [
+      "scarpa",
+      "manica",
+      "cintura",
+      "cappello"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Analogia (variante 147): Mano sta a guanto come Piede sta a…",
+    "options": [
+      "cappello",
+      "manica",
+      "cintura",
+      "scarpa"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Analogia (variante 207): Mano sta a guanto come Piede sta a…",
+    "options": [
+      "cintura",
+      "manica",
+      "scarpa",
+      "cappello"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Completa la sequenza: 18, 31, 44, 57, __ (variante 171)",
+    "options": [
+      "70 (4)",
+      "70",
+      "83",
+      "57"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Logica (variante 183): Tutti i gatti sono animali. Tutti gli animali respirano. Allora…",
+    "options": [
+      "Tutti i gatti respirano",
+      "I gatti non sono animali",
+      "Nessun gatto respira",
+      "Solo alcuni gatti respirano"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Logica (variante 187): Tutti i gatti sono animali. Tutti gli animali respirano. Allora…",
+    "options": [
+      "Nessun gatto respira",
+      "I gatti non sono animali",
+      "Tutti i gatti respirano",
+      "Solo alcuni gatti respirano"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Completa la sequenza: 40, 54, 68, 82, __ (variante 72)",
+    "options": [
+      "110",
+      "96 (4)",
+      "96",
+      "82"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Analogia (variante 132): Mano sta a guanto come Piede sta a…",
+    "options": [
+      "scarpa",
+      "manica",
+      "cintura",
+      "cappello"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Completa la sequenza: 3, 15, 27, 39, __ (variante 217)",
+    "options": [
+      "51",
+      "39",
+      "63",
+      "51 (4)"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Completa la sequenza: 41, 60, 79, 98, __ (variante 213)",
+    "options": [
+      "117",
+      "98",
+      "136",
+      "117 (4)"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Analogia (variante 139): Mano sta a guanto come Piede sta a…",
+    "options": [
+      "manica",
+      "cintura",
+      "scarpa",
+      "cappello"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Analogia (variante 153): Mano sta a guanto come Piede sta a…",
+    "options": [
+      "cappello",
+      "cintura",
+      "scarpa",
+      "manica"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Completa la sequenza: 11, 23, 35, 47, __ (variante 67)",
+    "options": [
+      "59 (4)",
+      "59",
+      "71",
+      "47"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Completa la sequenza: 15, 34, 53, 72, __ (variante 181)",
+    "options": [
+      "110",
+      "91",
+      "72",
+      "91 (4)"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Analogia (variante 135): Mano sta a guanto come Piede sta a…",
+    "options": [
+      "scarpa",
+      "cintura",
+      "manica",
+      "cappello"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Analogia (variante 36): Mano sta a guanto come Piede sta a…",
+    "options": [
+      "cintura",
+      "manica",
+      "scarpa",
+      "cappello"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Logica (variante 140): Tutti i gatti sono animali. Tutti gli animali respirano. Allora…",
+    "options": [
+      "Nessun gatto respira",
+      "I gatti non sono animali",
+      "Solo alcuni gatti respirano",
+      "Tutti i gatti respirano"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Analogia (variante 39): Mano sta a guanto come Piede sta a…",
+    "options": [
+      "manica",
+      "scarpa",
+      "cintura",
+      "cappello"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Logica (variante 185): Tutti i gatti sono animali. Tutti gli animali respirano. Allora…",
+    "options": [
+      "Solo alcuni gatti respirano",
+      "Tutti i gatti respirano",
+      "Nessun gatto respira",
+      "I gatti non sono animali"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Completa la sequenza: 33, 36, 39, 42, __ (variante 176)",
+    "options": [
+      "45 (4)",
+      "48",
+      "45",
+      "42"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Analogia (variante 100): Mano sta a guanto come Piede sta a…",
+    "options": [
+      "scarpa",
+      "cintura",
+      "manica",
+      "cappello"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Analogia (variante 58): Mano sta a guanto come Piede sta a…",
+    "options": [
+      "manica",
+      "cintura",
+      "scarpa",
+      "cappello"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Logica (variante 134): Tutti i gatti sono animali. Tutti gli animali respirano. Allora…",
+    "options": [
+      "Tutti i gatti respirano",
+      "Solo alcuni gatti respirano",
+      "Nessun gatto respira",
+      "I gatti non sono animali"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Analogia (variante 90): Mano sta a guanto come Piede sta a…",
+    "options": [
+      "scarpa",
+      "cintura",
+      "manica",
+      "cappello"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Logica (variante 67): Tutti i gatti sono animali. Tutti gli animali respirano. Allora…",
+    "options": [
+      "I gatti non sono animali",
+      "Solo alcuni gatti respirano",
+      "Tutti i gatti respirano",
+      "Nessun gatto respira"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Logica (variante 22): Tutti i gatti sono animali. Tutti gli animali respirano. Allora…",
+    "options": [
+      "Tutti i gatti respirano",
+      "Solo alcuni gatti respirano",
+      "Nessun gatto respira",
+      "I gatti non sono animali"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Logica (variante 61): Tutti i gatti sono animali. Tutti gli animali respirano. Allora…",
+    "options": [
+      "Tutti i gatti respirano",
+      "Solo alcuni gatti respirano",
+      "Nessun gatto respira",
+      "I gatti non sono animali"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Completa la sequenza: 44, 57, 70, 83, __ (variante 216)",
+    "options": [
+      "96 (4)",
+      "83",
+      "109",
+      "96"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Analogia (variante 205): Mano sta a guanto come Piede sta a…",
+    "options": [
+      "scarpa",
+      "cappello",
+      "cintura",
+      "manica"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Completa la sequenza: 15, 35, 55, 75, __ (variante 22)",
+    "options": [
+      "95 (4)",
+      "95",
+      "75",
+      "115"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Logica (variante 175): Tutti i gatti sono animali. Tutti gli animali respirano. Allora…",
+    "options": [
+      "Solo alcuni gatti respirano",
+      "I gatti non sono animali",
+      "Tutti i gatti respirano",
+      "Nessun gatto respira"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Logica (variante 55): Tutti i gatti sono animali. Tutti gli animali respirano. Allora…",
+    "options": [
+      "Tutti i gatti respirano",
+      "Solo alcuni gatti respirano",
+      "Nessun gatto respira",
+      "I gatti non sono animali"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Logica (variante 9): Tutti i gatti sono animali. Tutti gli animali respirano. Allora…",
+    "options": [
+      "Tutti i gatti respirano",
+      "I gatti non sono animali",
+      "Nessun gatto respira",
+      "Solo alcuni gatti respirano"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Analogia (variante 91): Mano sta a guanto come Piede sta a…",
+    "options": [
+      "cappello",
+      "cintura",
+      "scarpa",
+      "manica"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Logica (variante 124): Tutti i gatti sono animali. Tutti gli animali respirano. Allora…",
+    "options": [
+      "I gatti non sono animali",
+      "Nessun gatto respira",
+      "Tutti i gatti respirano",
+      "Solo alcuni gatti respirano"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Analogia (variante 155): Mano sta a guanto come Piede sta a…",
+    "options": [
+      "manica",
+      "cintura",
+      "scarpa",
+      "cappello"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Analogia (variante 110): Mano sta a guanto come Piede sta a…",
+    "options": [
+      "cintura",
+      "scarpa",
+      "manica",
+      "cappello"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Analogia (variante 214): Mano sta a guanto come Piede sta a…",
+    "options": [
+      "cappello",
+      "scarpa",
+      "manica",
+      "cintura"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Analogia (variante 191): Mano sta a guanto come Piede sta a…",
+    "options": [
+      "cappello",
+      "scarpa",
+      "cintura",
+      "manica"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Analogia (variante 145): Mano sta a guanto come Piede sta a…",
+    "options": [
+      "cappello",
+      "cintura",
+      "scarpa",
+      "manica"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Logica (variante 92): Tutti i gatti sono animali. Tutti gli animali respirano. Allora…",
+    "options": [
+      "Nessun gatto respira",
+      "I gatti non sono animali",
+      "Solo alcuni gatti respirano",
+      "Tutti i gatti respirano"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Completa la sequenza: 14, 32, 50, 68, __ (variante 73)",
+    "options": [
+      "86",
+      "68",
+      "86 (4)",
+      "104"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Completa la sequenza: 40, 58, 76, 94, __ (variante 54)",
+    "options": [
+      "112 (4)",
+      "94",
+      "112",
+      "130"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Analogia (variante 107): Mano sta a guanto come Piede sta a…",
+    "options": [
+      "scarpa",
+      "cintura",
+      "manica",
+      "cappello"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Completa la sequenza: 18, 36, 54, 72, __ (variante 224)",
+    "options": [
+      "72",
+      "90 (4)",
+      "90",
+      "108"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Logica (variante 115): Tutti i gatti sono animali. Tutti gli animali respirano. Allora…",
+    "options": [
+      "I gatti non sono animali",
+      "Solo alcuni gatti respirano",
+      "Nessun gatto respira",
+      "Tutti i gatti respirano"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Completa la sequenza: 14, 21, 28, 35, __ (variante 167)",
+    "options": [
+      "49",
+      "42",
+      "35",
+      "42 (4)"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Analogia (variante 172): Mano sta a guanto come Piede sta a…",
+    "options": [
+      "cintura",
+      "manica",
+      "scarpa",
+      "cappello"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Completa la sequenza: 7, 12, 17, 22, __ (variante 123)",
+    "options": [
+      "22",
+      "27 (4)",
+      "32",
+      "27"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Logica (variante 211): Tutti i gatti sono animali. Tutti gli animali respirano. Allora…",
+    "options": [
+      "Solo alcuni gatti respirano",
+      "Nessun gatto respira",
+      "I gatti non sono animali",
+      "Tutti i gatti respirano"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Analogia (variante 45): Mano sta a guanto come Piede sta a…",
+    "options": [
+      "cintura",
+      "manica",
+      "cappello",
+      "scarpa"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Analogia (variante 117): Mano sta a guanto come Piede sta a…",
+    "options": [
+      "manica",
+      "scarpa",
+      "cappello",
+      "cintura"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Completa la sequenza: 36, 53, 70, 87, __ (variante 29)",
+    "options": [
+      "104",
+      "121",
+      "104 (4)",
+      "87"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Completa la sequenza: 38, 52, 66, 80, __ (variante 97)",
+    "options": [
+      "108",
+      "94",
+      "94 (4)",
+      "80"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Logica (variante 17): Tutti i gatti sono animali. Tutti gli animali respirano. Allora…",
+    "options": [
+      "Nessun gatto respira",
+      "Solo alcuni gatti respirano",
+      "Tutti i gatti respirano",
+      "I gatti non sono animali"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Analogia (variante 15): Mano sta a guanto come Piede sta a…",
+    "options": [
+      "cappello",
+      "manica",
+      "cintura",
+      "scarpa"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Completa la sequenza: 24, 31, 38, 45, __ (variante 175)",
+    "options": [
+      "52",
+      "45",
+      "59",
+      "52 (4)"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Analogia (variante 88): Mano sta a guanto come Piede sta a…",
+    "options": [
+      "cappello",
+      "manica",
+      "cintura",
+      "scarpa"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Completa la sequenza: 6, 13, 20, 27, __ (variante 16)",
+    "options": [
+      "34",
+      "41",
+      "34 (4)",
+      "27"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Logica (variante 12): Tutti i gatti sono animali. Tutti gli animali respirano. Allora…",
+    "options": [
+      "Tutti i gatti respirano",
+      "Solo alcuni gatti respirano",
+      "Nessun gatto respira",
+      "I gatti non sono animali"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Completa la sequenza: 20, 27, 34, 41, __ (variante 81)",
+    "options": [
+      "48",
+      "48 (4)",
+      "41",
+      "55"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Completa la sequenza: 10, 17, 24, 31, __ (variante 27)",
+    "options": [
+      "45",
+      "38 (4)",
+      "38",
+      "31"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Analogia (variante 67): Mano sta a guanto come Piede sta a…",
+    "options": [
+      "cintura",
+      "scarpa",
+      "cappello",
+      "manica"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Logica (variante 26): Tutti i gatti sono animali. Tutti gli animali respirano. Allora…",
+    "options": [
+      "Tutti i gatti respirano",
+      "I gatti non sono animali",
+      "Nessun gatto respira",
+      "Solo alcuni gatti respirano"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Completa la sequenza: 42, 54, 66, 78, __ (variante 249)",
+    "options": [
+      "90 (4)",
+      "90",
+      "78",
+      "102"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Completa la sequenza: 9, 16, 23, 30, __ (variante 107)",
+    "options": [
+      "44",
+      "37 (4)",
+      "30",
+      "37"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Analogia (variante 61): Mano sta a guanto come Piede sta a…",
+    "options": [
+      "scarpa",
+      "cintura",
+      "cappello",
+      "manica"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Analogia (variante 171): Mano sta a guanto come Piede sta a…",
+    "options": [
+      "manica",
+      "cappello",
+      "scarpa",
+      "cintura"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Completa la sequenza: 25, 29, 33, 37, __ (variante 100)",
+    "options": [
+      "41 (4)",
+      "41",
+      "37",
+      "45"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Logica (variante 128): Tutti i gatti sono animali. Tutti gli animali respirano. Allora…",
+    "options": [
+      "Solo alcuni gatti respirano",
+      "Nessun gatto respira",
+      "Tutti i gatti respirano",
+      "I gatti non sono animali"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Analogia (variante 192): Mano sta a guanto come Piede sta a…",
+    "options": [
+      "cintura",
+      "cappello",
+      "scarpa",
+      "manica"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Completa la sequenza: 26, 31, 36, 41, __ (variante 157)",
+    "options": [
+      "51",
+      "46",
+      "46 (4)",
+      "41"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Analogia (variante 65): Mano sta a guanto come Piede sta a…",
+    "options": [
+      "cintura",
+      "manica",
+      "scarpa",
+      "cappello"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Analogia (variante 17): Mano sta a guanto come Piede sta a…",
+    "options": [
+      "cintura",
+      "manica",
+      "scarpa",
+      "cappello"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Completa la sequenza: 13, 20, 27, 34, __ (variante 113)",
+    "options": [
+      "48",
+      "34",
+      "41 (4)",
+      "41"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Completa la sequenza: 36, 52, 68, 84, __ (variante 61)",
+    "options": [
+      "100",
+      "116",
+      "84",
+      "100 (4)"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Logica (variante 172): Tutti i gatti sono animali. Tutti gli animali respirano. Allora…",
+    "options": [
+      "Tutti i gatti respirano",
+      "Solo alcuni gatti respirano",
+      "I gatti non sono animali",
+      "Nessun gatto respira"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Completa la sequenza: 19, 37, 55, 73, __ (variante 168)",
+    "options": [
+      "91",
+      "109",
+      "73",
+      "91 (4)"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Logica (variante 100): Tutti i gatti sono animali. Tutti gli animali respirano. Allora…",
+    "options": [
+      "Nessun gatto respira",
+      "I gatti non sono animali",
+      "Tutti i gatti respirano",
+      "Solo alcuni gatti respirano"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Completa la sequenza: 28, 43, 58, 73, __ (variante 184)",
+    "options": [
+      "73",
+      "88",
+      "88 (4)",
+      "103"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Completa la sequenza: 16, 22, 28, 34, __ (variante 233)",
+    "options": [
+      "34",
+      "40 (4)",
+      "40",
+      "46"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Analogia (variante 208): Mano sta a guanto come Piede sta a…",
+    "options": [
+      "cintura",
+      "scarpa",
+      "cappello",
+      "manica"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Logica (variante 93): Tutti i gatti sono animali. Tutti gli animali respirano. Allora…",
+    "options": [
+      "Nessun gatto respira",
+      "Solo alcuni gatti respirano",
+      "I gatti non sono animali",
+      "Tutti i gatti respirano"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Analogia (variante 138): Mano sta a guanto come Piede sta a…",
+    "options": [
+      "cappello",
+      "cintura",
+      "scarpa",
+      "manica"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Logica (variante 196): Tutti i gatti sono animali. Tutti gli animali respirano. Allora…",
+    "options": [
+      "Tutti i gatti respirano",
+      "Nessun gatto respira",
+      "I gatti non sono animali",
+      "Solo alcuni gatti respirano"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Logica (variante 171): Tutti i gatti sono animali. Tutti gli animali respirano. Allora…",
+    "options": [
+      "Solo alcuni gatti respirano",
+      "I gatti non sono animali",
+      "Nessun gatto respira",
+      "Tutti i gatti respirano"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Logica (variante 37): Tutti i gatti sono animali. Tutti gli animali respirano. Allora…",
+    "options": [
+      "Solo alcuni gatti respirano",
+      "I gatti non sono animali",
+      "Nessun gatto respira",
+      "Tutti i gatti respirano"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Logica (variante 113): Tutti i gatti sono animali. Tutti gli animali respirano. Allora…",
+    "options": [
+      "Tutti i gatti respirano",
+      "Solo alcuni gatti respirano",
+      "I gatti non sono animali",
+      "Nessun gatto respira"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Analogia (variante 11): Mano sta a guanto come Piede sta a…",
+    "options": [
+      "manica",
+      "cintura",
+      "scarpa",
+      "cappello"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Analogia (variante 43): Mano sta a guanto come Piede sta a…",
+    "options": [
+      "manica",
+      "cintura",
+      "scarpa",
+      "cappello"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Analogia (variante 86): Mano sta a guanto come Piede sta a…",
+    "options": [
+      "scarpa",
+      "manica",
+      "cintura",
+      "cappello"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Analogia (variante 187): Mano sta a guanto come Piede sta a…",
+    "options": [
+      "scarpa",
+      "cappello",
+      "manica",
+      "cintura"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Logica (variante 174): Tutti i gatti sono animali. Tutti gli animali respirano. Allora…",
+    "options": [
+      "I gatti non sono animali",
+      "Nessun gatto respira",
+      "Tutti i gatti respirano",
+      "Solo alcuni gatti respirano"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Analogia (variante 188): Mano sta a guanto come Piede sta a…",
+    "options": [
+      "cintura",
+      "scarpa",
+      "manica",
+      "cappello"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Completa la sequenza: 40, 49, 58, 67, __ (variante 109)",
+    "options": [
+      "76 (4)",
+      "76",
+      "85",
+      "67"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Completa la sequenza: 17, 26, 35, 44, __ (variante 1)",
+    "options": [
+      "53 (4)",
+      "62",
+      "44",
+      "53"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Analogia (variante 146): Mano sta a guanto come Piede sta a…",
+    "options": [
+      "cintura",
+      "manica",
+      "cappello",
+      "scarpa"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Analogia (variante 66): Mano sta a guanto come Piede sta a…",
+    "options": [
+      "cappello",
+      "scarpa",
+      "cintura",
+      "manica"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Logica (variante 57): Tutti i gatti sono animali. Tutti gli animali respirano. Allora…",
+    "options": [
+      "I gatti non sono animali",
+      "Nessun gatto respira",
+      "Tutti i gatti respirano",
+      "Solo alcuni gatti respirano"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Analogia (variante 28): Mano sta a guanto come Piede sta a…",
+    "options": [
+      "cappello",
+      "scarpa",
+      "cintura",
+      "manica"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Analogia (variante 162): Mano sta a guanto come Piede sta a…",
+    "options": [
+      "cappello",
+      "scarpa",
+      "cintura",
+      "manica"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Completa la sequenza: 31, 44, 57, 70, __ (variante 240)",
+    "options": [
+      "83",
+      "83 (4)",
+      "70",
+      "96"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Logica (variante 217): Tutti i gatti sono animali. Tutti gli animali respirano. Allora…",
+    "options": [
+      "Nessun gatto respira",
+      "Tutti i gatti respirano",
+      "I gatti non sono animali",
+      "Solo alcuni gatti respirano"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Logica (variante 123): Tutti i gatti sono animali. Tutti gli animali respirano. Allora…",
+    "options": [
+      "Nessun gatto respira",
+      "Tutti i gatti respirano",
+      "I gatti non sono animali",
+      "Solo alcuni gatti respirano"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Logica (variante 118): Tutti i gatti sono animali. Tutti gli animali respirano. Allora…",
+    "options": [
+      "Solo alcuni gatti respirano",
+      "Tutti i gatti respirano",
+      "Nessun gatto respira",
+      "I gatti non sono animali"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Logica (variante 116): Tutti i gatti sono animali. Tutti gli animali respirano. Allora…",
+    "options": [
+      "I gatti non sono animali",
+      "Solo alcuni gatti respirano",
+      "Nessun gatto respira",
+      "Tutti i gatti respirano"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Completa la sequenza: 16, 22, 28, 34, __ (variante 163)",
+    "options": [
+      "40 (4)",
+      "46",
+      "40",
+      "34"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Analogia (variante 159): Mano sta a guanto come Piede sta a…",
+    "options": [
+      "manica",
+      "cappello",
+      "scarpa",
+      "cintura"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Analogia (variante 50): Mano sta a guanto come Piede sta a…",
+    "options": [
+      "cappello",
+      "scarpa",
+      "cintura",
+      "manica"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Completa la sequenza: 14, 30, 46, 62, __ (variante 14)",
+    "options": [
+      "62",
+      "78 (4)",
+      "94",
+      "78"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Analogia (variante 113): Mano sta a guanto come Piede sta a…",
+    "options": [
+      "cintura",
+      "manica",
+      "scarpa",
+      "cappello"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Completa la sequenza: 20, 39, 58, 77, __ (variante 70)",
+    "options": [
+      "77",
+      "96 (4)",
+      "115",
+      "96"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Logica (variante 104): Tutti i gatti sono animali. Tutti gli animali respirano. Allora…",
+    "options": [
+      "Tutti i gatti respirano",
+      "Nessun gatto respira",
+      "I gatti non sono animali",
+      "Solo alcuni gatti respirano"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Analogia (variante 83): Mano sta a guanto come Piede sta a…",
+    "options": [
+      "manica",
+      "cappello",
+      "scarpa",
+      "cintura"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Logica (variante 13): Tutti i gatti sono animali. Tutti gli animali respirano. Allora…",
+    "options": [
+      "Tutti i gatti respirano",
+      "Solo alcuni gatti respirano",
+      "Nessun gatto respira",
+      "I gatti non sono animali"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Analogia (variante 37): Mano sta a guanto come Piede sta a…",
+    "options": [
+      "cappello",
+      "manica",
+      "cintura",
+      "scarpa"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Completa la sequenza: 38, 42, 46, 50, __ (variante 10)",
+    "options": [
+      "50",
+      "58",
+      "54",
+      "54 (4)"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Logica (variante 112): Tutti i gatti sono animali. Tutti gli animali respirano. Allora…",
+    "options": [
+      "Solo alcuni gatti respirano",
+      "Tutti i gatti respirano",
+      "Nessun gatto respira",
+      "I gatti non sono animali"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Completa la sequenza: 29, 34, 39, 44, __ (variante 11)",
+    "options": [
+      "49 (4)",
+      "49",
+      "54",
+      "44"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Logica (variante 91): Tutti i gatti sono animali. Tutti gli animali respirano. Allora…",
+    "options": [
+      "Tutti i gatti respirano",
+      "Solo alcuni gatti respirano",
+      "Nessun gatto respira",
+      "I gatti non sono animali"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Completa la sequenza: 33, 41, 49, 57, __ (variante 63)",
+    "options": [
+      "65 (4)",
+      "73",
+      "57",
+      "65"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Completa la sequenza: 50, 59, 68, 77, __ (variante 162)",
+    "options": [
+      "95",
+      "77",
+      "86",
+      "86 (4)"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Logica (variante 68): Tutti i gatti sono animali. Tutti gli animali respirano. Allora…",
+    "options": [
+      "Tutti i gatti respirano",
+      "Nessun gatto respira",
+      "Solo alcuni gatti respirano",
+      "I gatti non sono animali"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Logica (variante 74): Tutti i gatti sono animali. Tutti gli animali respirano. Allora…",
+    "options": [
+      "Solo alcuni gatti respirano",
+      "Tutti i gatti respirano",
+      "Nessun gatto respira",
+      "I gatti non sono animali"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Analogia (variante 108): Mano sta a guanto come Piede sta a…",
+    "options": [
+      "cintura",
+      "cappello",
+      "scarpa",
+      "manica"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Analogia (variante 137): Mano sta a guanto come Piede sta a…",
+    "options": [
+      "scarpa",
+      "manica",
+      "cintura",
+      "cappello"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Analogia (variante 10): Mano sta a guanto come Piede sta a…",
+    "options": [
+      "scarpa",
+      "cappello",
+      "cintura",
+      "manica"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Logica (variante 96): Tutti i gatti sono animali. Tutti gli animali respirano. Allora…",
+    "options": [
+      "Nessun gatto respira",
+      "Tutti i gatti respirano",
+      "I gatti non sono animali",
+      "Solo alcuni gatti respirano"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Completa la sequenza: 48, 62, 76, 90, __ (variante 257)",
+    "options": [
+      "104",
+      "90",
+      "118",
+      "104 (4)"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Completa la sequenza: 35, 39, 43, 47, __ (variante 160)",
+    "options": [
+      "55",
+      "51",
+      "51 (4)",
+      "47"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Logica (variante 199): Tutti i gatti sono animali. Tutti gli animali respirano. Allora…",
+    "options": [
+      "I gatti non sono animali",
+      "Tutti i gatti respirano",
+      "Nessun gatto respira",
+      "Solo alcuni gatti respirano"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "q": "Analogia (variante 218): Mano sta a guanto come Piede sta a…",
+    "options": [
+      "cappello",
+      "cintura",
+      "scarpa",
+      "manica"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Analogia (variante 189): Mano sta a guanto come Piede sta a…",
+    "options": [
+      "scarpa",
+      "cappello",
+      "manica",
+      "cintura"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Completa la sequenza: 32, 35, 38, 41, __ (variante 210)",
+    "options": [
+      "47",
+      "41",
+      "44 (4)",
+      "44"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Analogia (variante 4): Mano sta a guanto come Piede sta a…",
+    "options": [
+      "cappello",
+      "scarpa",
+      "manica",
+      "cintura"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Analogia (variante 30): Mano sta a guanto come Piede sta a…",
+    "options": [
+      "scarpa",
+      "manica",
+      "cintura",
+      "cappello"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  }
+]

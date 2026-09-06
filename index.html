@@ -1,0 +1,86 @@
+<!doctype html>
+<html lang="it">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>QuizMania.it — Il sito di quiz più divertente d'Italia</title>
+  <meta name="description" content="QuizMania.it: quiz per bambini, scuola, fasce d'età e adulti. Grafica moderna, domande dinamiche, risultati e streak." />
+  <meta name="theme-color" content="#020617" />
+
+  <meta property="og:title" content="QuizMania.it" />
+  <meta property="og:description" content="Quiz per ogni età: tanti per bambini e scuola, fino a quiz più complessi." />
+  <meta property="og:type" content="website" />
+
+  <link rel="icon" href="/assets/favicon.ico" />
+  <link rel="stylesheet" href="/assets/css/quizmania.css" />
+  <script defer src="/assets/js/quizmania.js"></script>
+  <script defer src="/assets/js/catalog.js"></script>
+</head>
+<body>
+
+  <header class="qm-topbar">
+    <div class="qm-topbar-inner">
+      <a class="qm-brand" href="/">
+        <span class="qm-logo" aria-hidden="true"></span>
+        <span>
+          <span class="qm-brand-name">QuizMania.it</span><br />
+          <span class="qm-brand-sub">Quiz per tutte le età • scuola • adulti</span>
+        </span>
+      </a>
+      <span class="qm-spacer"></span>
+      <button class="qm-iconbtn" type="button" data-action="open-settings" aria-label="Impostazioni">⚙️</button>
+    </div>
+  </header>
+
+  <div class="qm-shell">
+    <section class="qm-hero">
+      <div class="qm-hero-inner">
+        <div>
+          <h1 class="qm-h1">Il quiz perfetto per bambini, scuola e adulti.</h1>
+          <p class="qm-lead">Allenati ogni giorno con domande nuove e dinamiche: matematica, italiano, scienze, storia, geografia, logica… fino a quiz avanzati per adulti. Salva i progressi e fai salire la streak 🔥</p>
+
+          <div class="qm-pillrow">
+            <a class='qm-pill' href='/pages/scuola/scuola'>🏫 Scuola</a>
+            <a class='qm-pill' href='/pages/fasce_eta/'>🧒 Fasce d'età</a>
+            <a class='qm-pill' href='/pages/adulti/'>🧑‍🎓 Adulti</a>
+            <a class='qm-pill' href='/pages/patenti/'>🚗 Patenti</a>
+            <a class='qm-pill' href='/pages/contatti/'>💬 Richiedi un quiz</a>
+          </div>
+        </div>
+
+        <div>
+          <div class="qm-search" style="margin-bottom:10px;">
+            <span aria-hidden="true">🔎</span>
+            <input data-qm-search type="text" placeholder="Cerca un quiz (es. tabelline, geografia, cinema…)" autocomplete="off" />
+            <button class="qm-btn" type="button" onclick="document.querySelector('[data-qm-search]').focus()">Cerca</button>
+          </div>
+
+          <div style="display:flex;gap:10px;flex-wrap:wrap;">
+            <a class='qm-btn' href='/pages/scuola/operazioni/'>⚡ Sfida veloce</a>
+            <a class='qm-btn secondary' href='/pages/scuola/tabelline/'>✖️ Tabelline</a>
+          </div>
+
+          <div style="margin-top:12px;">
+            <div class="qm-chip">Streak attuale: <span data-qm-streak>0</span> 🔥</div>
+            <div class="qm-chip" style="margin-left:8px;">Domande per quiz: <span data-qm-quizlen-val>10</span></div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="qm-section">
+      <div class="qm-section-title">
+        <h2>Quiz consigliati</h2>
+        <div class="qm-small">Cerca o scorri: il catalogo si aggiorna in tempo reale</div>
+      </div>
+      <div class="qm-grid" data-qm-catalog data-filter="all"></div>
+    </section>
+
+    <footer class="qm-footer">
+      <div>© QuizMania.it • Versione NO ADS • Gioca, impara, ripeti.</div>
+      <div style="margin-top:12px;"><a href="/pages/contatti/">Contatti · Proponi un nuovo quiz</a></div>
+    </footer>
+  </div>
+
+</body>
+</html>

@@ -1,0 +1,6002 @@
+[
+  {
+    "q": "Quanto fa 275 − 20?",
+    "options": [
+      "255",
+      "235",
+      "255 (4)",
+      "257"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explain": "275−20=255."
+  },
+  {
+    "q": "Quanto fa 231 − 168?",
+    "options": [
+      "63 (4)",
+      "63",
+      "68",
+      "65"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "231−168=63."
+  },
+  {
+    "q": "Semplifica la frazione 105/245.",
+    "options": [
+      "3/8",
+      "3/7",
+      "105/245",
+      "4/7"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "Dividi numeratore e denominatore per il MCD."
+  },
+  {
+    "q": "Quanto fa 562 + 899?",
+    "options": [
+      "1456",
+      "1451",
+      "1461",
+      "1481"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "562+899=1461."
+  },
+  {
+    "q": "Quanto fa 306 ÷ 18?",
+    "options": [
+      "16",
+      "19",
+      "17",
+      "12"
+    ],
+    "correct": 2,
+    "difficulty": "medium",
+    "explain": "306÷18=17."
+  },
+  {
+    "q": "Risolvi: 20x + 20 = 1480. Quanto vale x?",
+    "options": [
+      "73",
+      "71",
+      "75",
+      "85"
+    ],
+    "correct": 0,
+    "difficulty": "hard",
+    "explain": "Isola x e dividi per a."
+  },
+  {
+    "q": "Quanto fa 752 + 771?",
+    "options": [
+      "1543",
+      "1503",
+      "1523 (4)",
+      "1523"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "752+771=1523."
+  },
+  {
+    "q": "Semplifica la frazione 567/459.",
+    "options": [
+      "22/17",
+      "21/18",
+      "567/459",
+      "21/17"
+    ],
+    "correct": 3,
+    "difficulty": "medium",
+    "explain": "Dividi numeratore e denominatore per il MCD."
+  },
+  {
+    "q": "Qual è il 50% di 600?",
+    "options": [
+      "300",
+      "250",
+      "350",
+      "290"
+    ],
+    "correct": 0,
+    "difficulty": "medium",
+    "explain": "600×50/100=300."
+  },
+  {
+    "q": "Quanto fa 552 ÷ 23?",
+    "options": [
+      "19",
+      "29",
+      "23",
+      "24"
+    ],
+    "correct": 3,
+    "difficulty": "medium",
+    "explain": "552÷23=24."
+  },
+  {
+    "q": "Quanto fa 835 + 582?",
+    "options": [
+      "1422",
+      "1417",
+      "1437",
+      "1427"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "835+582=1417."
+  },
+  {
+    "q": "Interesse semplice: su 150€ al 8% per 2 anni, quanto interesse maturi?",
+    "options": [
+      "34€",
+      "29€",
+      "24€",
+      "74€"
+    ],
+    "correct": 2,
+    "difficulty": "medium",
+    "explain": "Interesse semplice: C×r×t."
+  },
+  {
+    "q": "Quanto fa 5 × 33?",
+    "options": [
+      "215",
+      "165",
+      "175",
+      "145"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "5×33=165."
+  },
+  {
+    "q": "Semplifica la frazione 520/560.",
+    "options": [
+      "13/14",
+      "14/14",
+      "520/560",
+      "13/15"
+    ],
+    "correct": 0,
+    "difficulty": "medium",
+    "explain": "Dividi numeratore e denominatore per il MCD."
+  },
+  {
+    "q": "Quanto fa 8 × 10?",
+    "options": [
+      "80 (4)",
+      "30",
+      "70",
+      "80"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "8×10=80."
+  },
+  {
+    "q": "Quanto fa 197 + 482?",
+    "options": [
+      "669",
+      "689",
+      "684",
+      "679"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "197+482=679."
+  },
+  {
+    "q": "Qual è il 75% di 200?",
+    "options": [
+      "155",
+      "170",
+      "140",
+      "150"
+    ],
+    "correct": 3,
+    "difficulty": "medium",
+    "explain": "200×75/100=150."
+  },
+  {
+    "q": "Risolvi: 18x − 1 = 1079. Quanto vale x?",
+    "options": [
+      "60",
+      "67",
+      "62",
+      "53"
+    ],
+    "correct": 0,
+    "difficulty": "hard",
+    "explain": "Isola x e dividi per a."
+  },
+  {
+    "q": "Risolvi: 21x + 4 = 67. Quanto vale x?",
+    "options": [
+      "3",
+      "1",
+      "3 (3)",
+      "3 (4)"
+    ],
+    "correct": 0,
+    "difficulty": "hard",
+    "explain": "Isola x e dividi per a."
+  },
+  {
+    "q": "Semplifica la frazione 14/140.",
+    "options": [
+      "2/10",
+      "14/140",
+      "1/10",
+      "1/11"
+    ],
+    "correct": 2,
+    "difficulty": "medium",
+    "explain": "Dividi numeratore e denominatore per il MCD."
+  },
+  {
+    "q": "Risolvi: 11x + 6 = 688. Quanto vale x?",
+    "options": [
+      "74",
+      "50",
+      "62",
+      "64"
+    ],
+    "correct": 2,
+    "difficulty": "hard",
+    "explain": "Isola x e dividi per a."
+  },
+  {
+    "q": "Quanto fa 480 ÷ 12?",
+    "options": [
+      "41",
+      "40 (4)",
+      "40",
+      "45"
+    ],
+    "correct": 2,
+    "difficulty": "medium",
+    "explain": "480÷12=40."
+  },
+  {
+    "q": "Completa la sequenza: 182, 190, 198, 206, __",
+    "options": [
+      "214",
+      "222",
+      "206",
+      "214 (4)"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Qual è il 50% di 60?",
+    "options": [
+      "40",
+      "20",
+      "80",
+      "30"
+    ],
+    "correct": 3,
+    "difficulty": "medium",
+    "explain": "60×50/100=30."
+  },
+  {
+    "q": "Semplifica la frazione 118/82.",
+    "options": [
+      "59/41",
+      "59/42",
+      "60/41",
+      "118/82"
+    ],
+    "correct": 0,
+    "difficulty": "medium",
+    "explain": "Dividi numeratore e denominatore per il MCD."
+  },
+  {
+    "q": "Completa la sequenza: 197, 214, 231, 248, __",
+    "options": [
+      "265 (4)",
+      "265",
+      "248",
+      "282"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Qual è il 12% di 300?",
+    "options": [
+      "36 (4)",
+      "36",
+      "31",
+      "41"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "300×12/100=36."
+  },
+  {
+    "q": "Semplifica la frazione 54/130.",
+    "options": [
+      "54/130",
+      "28/65",
+      "27/65",
+      "27/66"
+    ],
+    "correct": 2,
+    "difficulty": "medium",
+    "explain": "Dividi numeratore e denominatore per il MCD."
+  },
+  {
+    "q": "Qual è il 60% di 60?",
+    "options": [
+      "36 (4)",
+      "41",
+      "36",
+      "31"
+    ],
+    "correct": 2,
+    "difficulty": "medium",
+    "explain": "60×60/100=36."
+  },
+  {
+    "q": "Quanto fa 217 + 744?",
+    "options": [
+      "981",
+      "971",
+      "961",
+      "941"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "217+744=961."
+  },
+  {
+    "q": "Qual è il 60% di 200?",
+    "options": [
+      "120 (4)",
+      "100",
+      "120",
+      "110"
+    ],
+    "correct": 2,
+    "difficulty": "medium",
+    "explain": "200×60/100=120."
+  },
+  {
+    "q": "Qual è il 60% di 800?",
+    "options": [
+      "480",
+      "460",
+      "485",
+      "430"
+    ],
+    "correct": 0,
+    "difficulty": "medium",
+    "explain": "800×60/100=480."
+  },
+  {
+    "q": "Semplifica la frazione 128/56.",
+    "options": [
+      "128/56",
+      "17/7",
+      "16/7",
+      "16/8"
+    ],
+    "correct": 2,
+    "difficulty": "medium",
+    "explain": "Dividi numeratore e denominatore per il MCD."
+  },
+  {
+    "q": "Qual è il 20% di 25?",
+    "options": [
+      "5 (4)",
+      "25",
+      "5",
+      "55"
+    ],
+    "correct": 2,
+    "difficulty": "medium",
+    "explain": "25×20/100=5."
+  },
+  {
+    "q": "Quanto fa 990 ÷ 30?",
+    "options": [
+      "31",
+      "36",
+      "30",
+      "33"
+    ],
+    "correct": 3,
+    "difficulty": "medium",
+    "explain": "990÷30=33."
+  },
+  {
+    "q": "Quanto fa 4 × 9?",
+    "options": [
+      "36",
+      "31",
+      "26",
+      "41"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explain": "4×9=36."
+  },
+  {
+    "q": "Qual è il 5% di 300?",
+    "options": [
+      "35",
+      "15",
+      "25",
+      "0"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "300×5/100=15."
+  },
+  {
+    "q": "Quanto fa 316 − 277?",
+    "options": [
+      "44",
+      "39",
+      "19",
+      "49"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "316−277=39."
+  },
+  {
+    "q": "Quanto fa 575 ÷ 23?",
+    "options": [
+      "30",
+      "25",
+      "20",
+      "23"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "575÷23=25."
+  },
+  {
+    "q": "Quanto fa 17 × 47?",
+    "options": [
+      "799 (4)",
+      "849",
+      "819",
+      "799"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "17×47=799."
+  },
+  {
+    "q": "Quanto fa 37 × 31?",
+    "options": [
+      "1142",
+      "1157",
+      "1147",
+      "1097"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "37×31=1147."
+  },
+  {
+    "q": "Qual è il 20% di 600?",
+    "options": [
+      "120 (4)",
+      "120",
+      "110",
+      "170"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "600×20/100=120."
+  },
+  {
+    "q": "Qual è il 12% di 600?",
+    "options": [
+      "77",
+      "72",
+      "52",
+      "72 (4)"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "600×12/100=72."
+  },
+  {
+    "q": "Quanto fa 812 + 406?",
+    "options": [
+      "1208",
+      "1218",
+      "1216",
+      "1228"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "812+406=1218."
+  },
+  {
+    "q": "Quanto fa 46 × 40?",
+    "options": [
+      "1830",
+      "1840 (4)",
+      "1840",
+      "1820"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "46×40=1840."
+  },
+  {
+    "q": "Risolvi: 2x + 18 = 94. Quanto vale x?",
+    "options": [
+      "38 (4)",
+      "38",
+      "31",
+      "50"
+    ],
+    "correct": 1,
+    "difficulty": "hard",
+    "explain": "Isola x e dividi per a."
+  },
+  {
+    "q": "Quanto fa 509 − 262?",
+    "options": [
+      "252",
+      "247 (4)",
+      "247",
+      "237"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "509−262=247."
+  },
+  {
+    "q": "Semplifica la frazione 156/232.",
+    "options": [
+      "39/58",
+      "156/232",
+      "39/59",
+      "40/58"
+    ],
+    "correct": 0,
+    "difficulty": "medium",
+    "explain": "Dividi numeratore e denominatore per il MCD."
+  },
+  {
+    "q": "Semplifica la frazione 186/30.",
+    "options": [
+      "31/6",
+      "186/30",
+      "31/5",
+      "32/5"
+    ],
+    "correct": 2,
+    "difficulty": "medium",
+    "explain": "Dividi numeratore e denominatore per il MCD."
+  },
+  {
+    "q": "Quanto fa 280 ÷ 7?",
+    "options": [
+      "41",
+      "40 (4)",
+      "40 (3)",
+      "40"
+    ],
+    "correct": 3,
+    "difficulty": "medium",
+    "explain": "280÷7=40."
+  },
+  {
+    "q": "Interesse semplice: su 400€ al 10% per 2 anni, quanto interesse maturi?",
+    "options": [
+      "80€",
+      "100€",
+      "30€",
+      "130€"
+    ],
+    "correct": 0,
+    "difficulty": "medium",
+    "explain": "Interesse semplice: C×r×t."
+  },
+  {
+    "q": "Completa la sequenza: 23, 49, 75, 101, __",
+    "options": [
+      "153",
+      "127",
+      "101",
+      "127 (4)"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Qual è il 30% di 60?",
+    "options": [
+      "23",
+      "18",
+      "0",
+      "18 (4)"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "60×30/100=18."
+  },
+  {
+    "q": "Quanto fa 30 + 873?",
+    "options": [
+      "883",
+      "923",
+      "903",
+      "901"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "30+873=903."
+  },
+  {
+    "q": "Quanto fa 301 − 14?",
+    "options": [
+      "287",
+      "307",
+      "292",
+      "282"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explain": "301−14=287."
+  },
+  {
+    "q": "Quanto fa 375 − 356?",
+    "options": [
+      "14",
+      "19",
+      "19 (4)",
+      "17"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "375−356=19."
+  },
+  {
+    "q": "Interesse semplice: su 1000€ al 6% per 4 anni, quanto interesse maturi?",
+    "options": [
+      "250€",
+      "240€",
+      "230€",
+      "260€"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "Interesse semplice: C×r×t."
+  },
+  {
+    "q": "Risolvi: 14x + 20 = 650. Quanto vale x?",
+    "options": [
+      "48",
+      "45",
+      "42",
+      "38"
+    ],
+    "correct": 1,
+    "difficulty": "hard",
+    "explain": "Isola x e dividi per a."
+  },
+  {
+    "q": "Interesse semplice: su 2000€ al 10% per 2 anni, quanto interesse maturi?",
+    "options": [
+      "410€",
+      "450€",
+      "420€",
+      "400€"
+    ],
+    "correct": 3,
+    "difficulty": "medium",
+    "explain": "Interesse semplice: C×r×t."
+  },
+  {
+    "q": "Semplifica la frazione 99/84.",
+    "options": [
+      "33/29",
+      "34/28",
+      "33/28",
+      "99/84"
+    ],
+    "correct": 2,
+    "difficulty": "medium",
+    "explain": "Dividi numeratore e denominatore per il MCD."
+  },
+  {
+    "q": "Semplifica la frazione 876/804.",
+    "options": [
+      "74/67",
+      "73/67",
+      "73/68",
+      "876/804"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "Dividi numeratore e denominatore per il MCD."
+  },
+  {
+    "q": "Semplifica la frazione 510/70.",
+    "options": [
+      "52/7",
+      "51/8",
+      "51/7",
+      "510/70"
+    ],
+    "correct": 2,
+    "difficulty": "medium",
+    "explain": "Dividi numeratore e denominatore per il MCD."
+  },
+  {
+    "q": "Risolvi: 18x + 12 = 1326. Quanto vale x?",
+    "options": [
+      "68",
+      "61",
+      "71",
+      "73"
+    ],
+    "correct": 3,
+    "difficulty": "hard",
+    "explain": "Isola x e dividi per a."
+  },
+  {
+    "q": "Quanto fa 612 ÷ 18?",
+    "options": [
+      "32",
+      "39",
+      "34",
+      "37"
+    ],
+    "correct": 2,
+    "difficulty": "medium",
+    "explain": "612÷18=34."
+  },
+  {
+    "q": "Quanto fa 129 + 838?",
+    "options": [
+      "965",
+      "967",
+      "987",
+      "962"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "129+838=967."
+  },
+  {
+    "q": "Quanto fa 32 − 14?",
+    "options": [
+      "18 (4)",
+      "18",
+      "8",
+      "28"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "32−14=18."
+  },
+  {
+    "q": "Quanto fa 2 × 32?",
+    "options": [
+      "114",
+      "14",
+      "64",
+      "74"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "2×32=64."
+  },
+  {
+    "q": "Qual è il 50% di 150?",
+    "options": [
+      "25",
+      "65",
+      "75",
+      "95"
+    ],
+    "correct": 2,
+    "difficulty": "medium",
+    "explain": "150×50/100=75."
+  },
+  {
+    "q": "Quanto fa 725 ÷ 29?",
+    "options": [
+      "25",
+      "27",
+      "25 (4)",
+      "30"
+    ],
+    "correct": 0,
+    "difficulty": "medium",
+    "explain": "725÷29=25."
+  },
+  {
+    "q": "Quanto fa 885 + 819?",
+    "options": [
+      "1684",
+      "1704",
+      "1694",
+      "1714"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "885+819=1704."
+  },
+  {
+    "q": "Quanto fa 253 ÷ 23?",
+    "options": [
+      "10",
+      "8",
+      "11",
+      "11 (4)"
+    ],
+    "correct": 2,
+    "difficulty": "medium",
+    "explain": "253÷23=11."
+  },
+  {
+    "q": "Quanto fa 144 − 127?",
+    "options": [
+      "0",
+      "17",
+      "37",
+      "27"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "144−127=17."
+  },
+  {
+    "q": "Quanto fa 14 × 33?",
+    "options": [
+      "457",
+      "462",
+      "472",
+      "512"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "14×33=462."
+  },
+  {
+    "q": "Semplifica la frazione 366/198.",
+    "options": [
+      "61/33",
+      "366/198",
+      "62/33",
+      "61/34"
+    ],
+    "correct": 0,
+    "difficulty": "medium",
+    "explain": "Dividi numeratore e denominatore per il MCD."
+  },
+  {
+    "q": "Qual è il 75% di 80?",
+    "options": [
+      "40",
+      "70",
+      "80",
+      "60"
+    ],
+    "correct": 3,
+    "difficulty": "medium",
+    "explain": "80×75/100=60."
+  },
+  {
+    "q": "Quanto fa 781 − 659?",
+    "options": [
+      "120",
+      "122",
+      "132",
+      "102"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "781−659=122."
+  },
+  {
+    "q": "Interesse semplice: su 200€ al 10% per 4 anni, quanto interesse maturi?",
+    "options": [
+      "70€",
+      "80€",
+      "60€",
+      "85€"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "Interesse semplice: C×r×t."
+  },
+  {
+    "q": "Quanto fa 154 ÷ 7?",
+    "options": [
+      "19",
+      "23",
+      "21",
+      "22"
+    ],
+    "correct": 3,
+    "difficulty": "medium",
+    "explain": "154÷7=22."
+  },
+  {
+    "q": "Risolvi: 23x + 26 = 1176. Quanto vale x?",
+    "options": [
+      "38",
+      "47",
+      "43",
+      "50"
+    ],
+    "correct": 3,
+    "difficulty": "hard",
+    "explain": "Isola x e dividi per a."
+  },
+  {
+    "q": "Semplifica la frazione 28/252.",
+    "options": [
+      "2/9",
+      "1/9",
+      "28/252",
+      "1/10"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "Dividi numeratore e denominatore per il MCD."
+  },
+  {
+    "q": "Qual è il 75% di 400?",
+    "options": [
+      "310",
+      "320",
+      "300",
+      "280"
+    ],
+    "correct": 2,
+    "difficulty": "medium",
+    "explain": "400×75/100=300."
+  },
+  {
+    "q": "Completa la sequenza: 148, 154, 160, 166, __",
+    "options": [
+      "172 (4)",
+      "166",
+      "172",
+      "178"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Risolvi: 25x + 29 = 1529. Quanto vale x?",
+    "options": [
+      "55",
+      "60 (4)",
+      "60",
+      "67"
+    ],
+    "correct": 2,
+    "difficulty": "hard",
+    "explain": "Isola x e dividi per a."
+  },
+  {
+    "q": "Interesse semplice: su 200€ al 12% per 5 anni, quanto interesse maturi?",
+    "options": [
+      "125€",
+      "100€",
+      "70€",
+      "120€"
+    ],
+    "correct": 3,
+    "difficulty": "medium",
+    "explain": "Interesse semplice: C×r×t."
+  },
+  {
+    "q": "Semplifica la frazione 136/360.",
+    "options": [
+      "17/46",
+      "18/45",
+      "17/45",
+      "136/360"
+    ],
+    "correct": 2,
+    "difficulty": "medium",
+    "explain": "Dividi numeratore e denominatore per il MCD."
+  },
+  {
+    "q": "Interesse semplice: su 150€ al 6% per 1 anni, quanto interesse maturi?",
+    "options": [
+      "9€",
+      "29€",
+      "0€",
+      "59€"
+    ],
+    "correct": 0,
+    "difficulty": "medium",
+    "explain": "Interesse semplice: C×r×t."
+  },
+  {
+    "q": "Risolvi: 23x − 7 = 1488. Quanto vale x?",
+    "options": [
+      "63",
+      "65",
+      "53",
+      "77"
+    ],
+    "correct": 1,
+    "difficulty": "hard",
+    "explain": "Isola x e dividi per a."
+  },
+  {
+    "q": "Interesse semplice: su 2000€ al 5% per 5 anni, quanto interesse maturi?",
+    "options": [
+      "500€",
+      "495€",
+      "480€",
+      "490€"
+    ],
+    "correct": 0,
+    "difficulty": "medium",
+    "explain": "Interesse semplice: C×r×t."
+  },
+  {
+    "q": "Quanto fa 656 + 688?",
+    "options": [
+      "1334",
+      "1344",
+      "1339",
+      "1324"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "656+688=1344."
+  },
+  {
+    "q": "Interesse semplice: su 300€ al 3% per 1 anni, quanto interesse maturi?",
+    "options": [
+      "0€",
+      "9€ (4)",
+      "9€",
+      "29€"
+    ],
+    "correct": 2,
+    "difficulty": "medium",
+    "explain": "Interesse semplice: C×r×t."
+  },
+  {
+    "q": "Interesse semplice: su 150€ al 3% per 3 anni, quanto interesse maturi?",
+    "options": [
+      "19€",
+      "14€",
+      "24€",
+      "9€"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "Interesse semplice: C×r×t."
+  },
+  {
+    "q": "Completa la sequenza: 161, 190, 219, 248, __",
+    "options": [
+      "277 (4)",
+      "306",
+      "248",
+      "277"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Quanto fa 527 − 111?",
+    "options": [
+      "396",
+      "436",
+      "416",
+      "421"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "527−111=416."
+  },
+  {
+    "q": "Quanto fa 247 + 239?",
+    "options": [
+      "488",
+      "476",
+      "486 (4)",
+      "486"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "247+239=486."
+  },
+  {
+    "q": "Risolvi: 22x + 42 = 1406. Quanto vale x?",
+    "options": [
+      "62 (4)",
+      "69",
+      "64",
+      "62"
+    ],
+    "correct": 3,
+    "difficulty": "hard",
+    "explain": "Isola x e dividi per a."
+  },
+  {
+    "q": "Quanto fa 952 + 472?",
+    "options": [
+      "1434",
+      "1424 (4)",
+      "1424",
+      "1419"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "952+472=1424."
+  },
+  {
+    "q": "Quanto fa 934 − 202?",
+    "options": [
+      "732",
+      "737",
+      "722",
+      "732 (4)"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explain": "934−202=732."
+  },
+  {
+    "q": "Quanto fa 111 − 95?",
+    "options": [
+      "6",
+      "16",
+      "18",
+      "26"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "111−95=16."
+  },
+  {
+    "q": "Quanto fa 280 ÷ 8?",
+    "options": [
+      "32",
+      "40",
+      "35",
+      "37"
+    ],
+    "correct": 2,
+    "difficulty": "medium",
+    "explain": "280÷8=35."
+  },
+  {
+    "q": "Quanto fa 378 ÷ 27?",
+    "options": [
+      "12",
+      "9",
+      "16",
+      "14"
+    ],
+    "correct": 3,
+    "difficulty": "medium",
+    "explain": "378÷27=14."
+  },
+  {
+    "q": "Quanto fa 953 + 901?",
+    "options": [
+      "1844",
+      "1854",
+      "1864",
+      "1856"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "953+901=1854."
+  },
+  {
+    "q": "Interesse semplice: su 1500€ al 8% per 3 anni, quanto interesse maturi?",
+    "options": [
+      "355€",
+      "360€",
+      "380€",
+      "310€"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "Interesse semplice: C×r×t."
+  },
+  {
+    "q": "Quanto fa 40 + 917?",
+    "options": [
+      "977",
+      "952",
+      "957 (4)",
+      "957"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "40+917=957."
+  },
+  {
+    "q": "Semplifica la frazione 612/612.",
+    "options": [
+      "1/1",
+      "2/1",
+      "1/2",
+      "612/612"
+    ],
+    "correct": 0,
+    "difficulty": "medium",
+    "explain": "Dividi numeratore e denominatore per il MCD."
+  },
+  {
+    "q": "Quanto fa 3 × 18?",
+    "options": [
+      "34",
+      "54",
+      "74",
+      "54 (4)"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "3×18=54."
+  },
+  {
+    "q": "Quanto fa 9 × 8?",
+    "options": [
+      "22",
+      "52",
+      "77",
+      "72"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "9×8=72."
+  },
+  {
+    "q": "Quanto fa 36 × 49?",
+    "options": [
+      "1764",
+      "1774",
+      "1784",
+      "1714"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explain": "36×49=1764."
+  },
+  {
+    "q": "Interesse semplice: su 200€ al 4% per 5 anni, quanto interesse maturi?",
+    "options": [
+      "45€",
+      "40€",
+      "35€",
+      "50€"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "Interesse semplice: C×r×t."
+  },
+  {
+    "q": "Quanto fa 707 − 504?",
+    "options": [
+      "203",
+      "208",
+      "193",
+      "203 (4)"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explain": "707−504=203."
+  },
+  {
+    "q": "Quanto fa 43 × 11?",
+    "options": [
+      "473",
+      "453",
+      "483",
+      "463"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explain": "43×11=473."
+  },
+  {
+    "q": "Quanto fa 823 − 535?",
+    "options": [
+      "288",
+      "290",
+      "293",
+      "298"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explain": "823−535=288."
+  },
+  {
+    "q": "Semplifica la frazione 96/304.",
+    "options": [
+      "6/20",
+      "6/19",
+      "96/304",
+      "7/19"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "Dividi numeratore e denominatore per il MCD."
+  },
+  {
+    "q": "Quanto fa 80 ÷ 10?",
+    "options": [
+      "10",
+      "8",
+      "7",
+      "3"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "80÷10=8."
+  },
+  {
+    "q": "Interesse semplice: su 100€ al 6% per 1 anni, quanto interesse maturi?",
+    "options": [
+      "6€ (4)",
+      "16€",
+      "6€",
+      "0€"
+    ],
+    "correct": 2,
+    "difficulty": "medium",
+    "explain": "Interesse semplice: C×r×t."
+  },
+  {
+    "q": "Completa la sequenza: 134, 161, 188, 215, __",
+    "options": [
+      "215",
+      "242",
+      "269",
+      "242 (4)"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Semplifica la frazione 159/219.",
+    "options": [
+      "53/74",
+      "159/219",
+      "53/73",
+      "54/73"
+    ],
+    "correct": 2,
+    "difficulty": "medium",
+    "explain": "Dividi numeratore e denominatore per il MCD."
+  },
+  {
+    "q": "Semplifica la frazione 50/355.",
+    "options": [
+      "50/355",
+      "10/72",
+      "10/71",
+      "11/71"
+    ],
+    "correct": 2,
+    "difficulty": "medium",
+    "explain": "Dividi numeratore e denominatore per il MCD."
+  },
+  {
+    "q": "Quanto fa 23 × 38?",
+    "options": [
+      "894",
+      "869",
+      "924",
+      "874"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "23×38=874."
+  },
+  {
+    "q": "Qual è il 25% di 800?",
+    "options": [
+      "220",
+      "200",
+      "195",
+      "180"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "800×25/100=200."
+  },
+  {
+    "q": "Qual è il 60% di 500?",
+    "options": [
+      "300",
+      "305",
+      "280",
+      "350"
+    ],
+    "correct": 0,
+    "difficulty": "medium",
+    "explain": "500×60/100=300."
+  },
+  {
+    "q": "Completa la sequenza: 97, 110, 123, 136, __",
+    "options": [
+      "162",
+      "149 (4)",
+      "149",
+      "136"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Quanto fa 34 × 7?",
+    "options": [
+      "188",
+      "238",
+      "258",
+      "243"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "34×7=238."
+  },
+  {
+    "q": "Semplifica la frazione 95/170.",
+    "options": [
+      "20/34",
+      "19/35",
+      "19/34",
+      "95/170"
+    ],
+    "correct": 2,
+    "difficulty": "medium",
+    "explain": "Dividi numeratore e denominatore per il MCD."
+  },
+  {
+    "q": "Quanto fa 169 + 65?",
+    "options": [
+      "234",
+      "234 (3)",
+      "239",
+      "234 (4)"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explain": "169+65=234."
+  },
+  {
+    "q": "Risolvi: 8x + 35 = 347. Quanto vale x?",
+    "options": [
+      "51",
+      "41",
+      "39",
+      "27"
+    ],
+    "correct": 2,
+    "difficulty": "hard",
+    "explain": "Isola x e dividi per a."
+  },
+  {
+    "q": "Quanto fa 479 + 137?",
+    "options": [
+      "616",
+      "606",
+      "596",
+      "636"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explain": "479+137=616."
+  },
+  {
+    "q": "Quanto fa 340 − 254?",
+    "options": [
+      "86",
+      "88",
+      "81",
+      "91"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explain": "340−254=86."
+  },
+  {
+    "q": "Interesse semplice: su 1500€ al 5% per 3 anni, quanto interesse maturi?",
+    "options": [
+      "245€",
+      "230€",
+      "205€",
+      "225€"
+    ],
+    "correct": 3,
+    "difficulty": "medium",
+    "explain": "Interesse semplice: C×r×t."
+  },
+  {
+    "q": "Quanto fa 321 − 166?",
+    "options": [
+      "160",
+      "135",
+      "155",
+      "145"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "321−166=155."
+  },
+  {
+    "q": "Quanto fa 47 × 35?",
+    "options": [
+      "1695",
+      "1635",
+      "1645",
+      "1595"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "47×35=1645."
+  },
+  {
+    "q": "Qual è il 40% di 200?",
+    "options": [
+      "85",
+      "80 (4)",
+      "80",
+      "75"
+    ],
+    "correct": 2,
+    "difficulty": "medium",
+    "explain": "200×40/100=80."
+  },
+  {
+    "q": "Risolvi: 7x + 29 = 365. Quanto vale x?",
+    "options": [
+      "43",
+      "48",
+      "45",
+      "51"
+    ],
+    "correct": 1,
+    "difficulty": "hard",
+    "explain": "Isola x e dividi per a."
+  },
+  {
+    "q": "Interesse semplice: su 800€ al 10% per 3 anni, quanto interesse maturi?",
+    "options": [
+      "245€",
+      "220€",
+      "290€",
+      "240€"
+    ],
+    "correct": 3,
+    "difficulty": "medium",
+    "explain": "Interesse semplice: C×r×t."
+  },
+  {
+    "q": "Risolvi: 9x + 12 = 255. Quanto vale x?",
+    "options": [
+      "30",
+      "39",
+      "25",
+      "27"
+    ],
+    "correct": 3,
+    "difficulty": "hard",
+    "explain": "Isola x e dividi per a."
+  },
+  {
+    "q": "Quanto fa 2 × 44?",
+    "options": [
+      "88",
+      "138",
+      "108",
+      "78"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explain": "2×44=88."
+  },
+  {
+    "q": "Risolvi: 19x − 11 = 1433. Quanto vale x?",
+    "options": [
+      "76",
+      "74",
+      "78",
+      "69"
+    ],
+    "correct": 0,
+    "difficulty": "hard",
+    "explain": "Isola x e dividi per a."
+  },
+  {
+    "q": "Quanto fa 18 × 32?",
+    "options": [
+      "586",
+      "626",
+      "576",
+      "566"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "18×32=576."
+  },
+  {
+    "q": "Qual è il 20% di 60?",
+    "options": [
+      "2",
+      "12 (4)",
+      "12",
+      "62"
+    ],
+    "correct": 2,
+    "difficulty": "medium",
+    "explain": "60×20/100=12."
+  },
+  {
+    "q": "Quanto fa 544 ÷ 17?",
+    "options": [
+      "35",
+      "29",
+      "32",
+      "33"
+    ],
+    "correct": 2,
+    "difficulty": "medium",
+    "explain": "544÷17=32."
+  },
+  {
+    "q": "Completa la sequenza: 196, 218, 240, 262, __",
+    "options": [
+      "284 (4)",
+      "306",
+      "284",
+      "262"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Quanto fa 875 + 728?",
+    "options": [
+      "1583",
+      "1613",
+      "1603",
+      "1623"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "875+728=1603."
+  },
+  {
+    "q": "Risolvi: 23x − 53 = 1603. Quanto vale x?",
+    "options": [
+      "72",
+      "60",
+      "74",
+      "67"
+    ],
+    "correct": 0,
+    "difficulty": "hard",
+    "explain": "Isola x e dividi per a."
+  },
+  {
+    "q": "Semplifica la frazione 240/420.",
+    "options": [
+      "4/7",
+      "5/7",
+      "4/8",
+      "240/420"
+    ],
+    "correct": 0,
+    "difficulty": "medium",
+    "explain": "Dividi numeratore e denominatore per il MCD."
+  },
+  {
+    "q": "Quanto fa 59 + 406?",
+    "options": [
+      "465",
+      "475",
+      "470",
+      "445"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explain": "59+406=465."
+  },
+  {
+    "q": "Qual è il 30% di 200?",
+    "options": [
+      "80",
+      "40",
+      "60",
+      "50"
+    ],
+    "correct": 2,
+    "difficulty": "medium",
+    "explain": "200×30/100=60."
+  },
+  {
+    "q": "Quanto fa 143 ÷ 13?",
+    "options": [
+      "11",
+      "10",
+      "6",
+      "9"
+    ],
+    "correct": 0,
+    "difficulty": "medium",
+    "explain": "143÷13=11."
+  },
+  {
+    "q": "Quanto fa 12 × 26?",
+    "options": [
+      "362",
+      "312",
+      "262",
+      "302"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "12×26=312."
+  },
+  {
+    "q": "Interesse semplice: su 300€ al 10% per 3 anni, quanto interesse maturi?",
+    "options": [
+      "70€",
+      "85€",
+      "110€",
+      "90€"
+    ],
+    "correct": 3,
+    "difficulty": "medium",
+    "explain": "Interesse semplice: C×r×t."
+  },
+  {
+    "q": "Quanto fa 376 − 74?",
+    "options": [
+      "302",
+      "307",
+      "304",
+      "297"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explain": "376−74=302."
+  },
+  {
+    "q": "Risolvi: 6x + 18 = 468. Quanto vale x?",
+    "options": [
+      "73",
+      "87",
+      "75 (4)",
+      "75"
+    ],
+    "correct": 3,
+    "difficulty": "hard",
+    "explain": "Isola x e dividi per a."
+  },
+  {
+    "q": "Quanto fa 380 ÷ 20?",
+    "options": [
+      "19",
+      "14",
+      "21",
+      "24"
+    ],
+    "correct": 0,
+    "difficulty": "medium",
+    "explain": "380÷20=19."
+  },
+  {
+    "q": "Completa la sequenza: 139, 168, 197, 226, __",
+    "options": [
+      "255",
+      "226",
+      "284",
+      "255 (4)"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Semplifica la frazione 42/372.",
+    "options": [
+      "7/62",
+      "42/372",
+      "7/63",
+      "8/62"
+    ],
+    "correct": 0,
+    "difficulty": "medium",
+    "explain": "Dividi numeratore e denominatore per il MCD."
+  },
+  {
+    "q": "Quanto fa 859 + 745?",
+    "options": [
+      "1599",
+      "1604",
+      "1624",
+      "1602"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "859+745=1604."
+  },
+  {
+    "q": "Risolvi: 6x + 3 = 57. Quanto vale x?",
+    "options": [
+      "9 (4)",
+      "1",
+      "9",
+      "16"
+    ],
+    "correct": 2,
+    "difficulty": "hard",
+    "explain": "Isola x e dividi per a."
+  },
+  {
+    "q": "Quanto fa 275 ÷ 11?",
+    "options": [
+      "22",
+      "23",
+      "24",
+      "25"
+    ],
+    "correct": 3,
+    "difficulty": "medium",
+    "explain": "275÷11=25."
+  },
+  {
+    "q": "Interesse semplice: su 1000€ al 3% per 2 anni, quanto interesse maturi?",
+    "options": [
+      "70€",
+      "80€",
+      "55€",
+      "60€"
+    ],
+    "correct": 3,
+    "difficulty": "medium",
+    "explain": "Interesse semplice: C×r×t."
+  },
+  {
+    "q": "Semplifica la frazione 24/18.",
+    "options": [
+      "4/4",
+      "24/18",
+      "5/3",
+      "4/3"
+    ],
+    "correct": 3,
+    "difficulty": "medium",
+    "explain": "Dividi numeratore e denominatore per il MCD."
+  },
+  {
+    "q": "Risolvi: 14x − 2 = 950. Quanto vale x?",
+    "options": [
+      "73",
+      "68",
+      "71",
+      "75"
+    ],
+    "correct": 1,
+    "difficulty": "hard",
+    "explain": "Isola x e dividi per a."
+  },
+  {
+    "q": "Qual è il 12% di 25?",
+    "options": [
+      "3",
+      "23",
+      "13",
+      "0"
+    ],
+    "correct": 0,
+    "difficulty": "medium",
+    "explain": "25×12/100=3."
+  },
+  {
+    "q": "Quanto fa 144 ÷ 9?",
+    "options": [
+      "18",
+      "16 (3)",
+      "16",
+      "16 (4)"
+    ],
+    "correct": 2,
+    "difficulty": "medium",
+    "explain": "144÷9=16."
+  },
+  {
+    "q": "Quanto fa 501 − 261?",
+    "options": [
+      "240",
+      "238",
+      "242",
+      "240 (4)"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explain": "501−261=240."
+  },
+  {
+    "q": "Quanto fa 950 + 864?",
+    "options": [
+      "1804",
+      "1814",
+      "1834",
+      "1812"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "950+864=1814."
+  },
+  {
+    "q": "Quanto fa 8 × 23?",
+    "options": [
+      "179",
+      "184 (4)",
+      "184",
+      "194"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "8×23=184."
+  },
+  {
+    "q": "Qual è il 40% di 250?",
+    "options": [
+      "50",
+      "95",
+      "100",
+      "90"
+    ],
+    "correct": 2,
+    "difficulty": "medium",
+    "explain": "250×40/100=100."
+  },
+  {
+    "q": "Qual è il 10% di 40?",
+    "options": [
+      "24",
+      "14",
+      "4",
+      "0"
+    ],
+    "correct": 2,
+    "difficulty": "medium",
+    "explain": "40×10/100=4."
+  },
+  {
+    "q": "Quanto fa 17 − 14?",
+    "options": [
+      "3",
+      "23",
+      "8",
+      "3 (4)"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explain": "17−14=3."
+  },
+  {
+    "q": "Quanto fa 270 ÷ 18?",
+    "options": [
+      "17",
+      "16",
+      "10",
+      "15"
+    ],
+    "correct": 3,
+    "difficulty": "medium",
+    "explain": "270÷18=15."
+  },
+  {
+    "q": "Quanto fa 29 × 48?",
+    "options": [
+      "1397",
+      "1392",
+      "1342",
+      "1392 (4)"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "29×48=1392."
+  },
+  {
+    "q": "Quanto fa 11 + 235?",
+    "options": [
+      "226",
+      "246 (4)",
+      "244",
+      "246"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "11+235=246."
+  },
+  {
+    "q": "Semplifica la frazione 21/66.",
+    "options": [
+      "21/66",
+      "7/23",
+      "7/22",
+      "8/22"
+    ],
+    "correct": 2,
+    "difficulty": "medium",
+    "explain": "Dividi numeratore e denominatore per il MCD."
+  },
+  {
+    "q": "Qual è il 10% di 600?",
+    "options": [
+      "110",
+      "60",
+      "55",
+      "10"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "600×10/100=60."
+  },
+  {
+    "q": "Completa la sequenza: 137, 158, 179, 200, __",
+    "options": [
+      "221 (4)",
+      "221",
+      "242",
+      "200"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Quanto fa 921 + 554?",
+    "options": [
+      "1455",
+      "1470",
+      "1477",
+      "1475"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "921+554=1475."
+  },
+  {
+    "q": "Quanto fa 76 ÷ 2?",
+    "options": [
+      "37",
+      "41",
+      "35",
+      "38"
+    ],
+    "correct": 3,
+    "difficulty": "medium",
+    "explain": "76÷2=38."
+  },
+  {
+    "q": "Quanto fa 160 ÷ 10?",
+    "options": [
+      "17",
+      "16 (4)",
+      "16",
+      "14"
+    ],
+    "correct": 2,
+    "difficulty": "medium",
+    "explain": "160÷10=16."
+  },
+  {
+    "q": "Semplifica la frazione 682/495.",
+    "options": [
+      "62/46",
+      "63/45",
+      "682/495",
+      "62/45"
+    ],
+    "correct": 3,
+    "difficulty": "medium",
+    "explain": "Dividi numeratore e denominatore per il MCD."
+  },
+  {
+    "q": "Quanto fa 29 × 37?",
+    "options": [
+      "1083",
+      "1068",
+      "1073 (4)",
+      "1073"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "29×37=1073."
+  },
+  {
+    "q": "Risolvi: 12x − 60 = 336. Quanto vale x?",
+    "options": [
+      "28",
+      "33",
+      "45",
+      "38"
+    ],
+    "correct": 1,
+    "difficulty": "hard",
+    "explain": "Isola x e dividi per a."
+  },
+  {
+    "q": "Risolvi: 17x − 20 = 371. Quanto vale x?",
+    "options": [
+      "23",
+      "18",
+      "28",
+      "11"
+    ],
+    "correct": 0,
+    "difficulty": "hard",
+    "explain": "Isola x e dividi per a."
+  },
+  {
+    "q": "Qual è il 60% di 20?",
+    "options": [
+      "0",
+      "12 (4)",
+      "12",
+      "62"
+    ],
+    "correct": 2,
+    "difficulty": "medium",
+    "explain": "20×60/100=12."
+  },
+  {
+    "q": "Interesse semplice: su 100€ al 1% per 2 anni, quanto interesse maturi?",
+    "options": [
+      "52€",
+      "12€",
+      "0€",
+      "2€"
+    ],
+    "correct": 3,
+    "difficulty": "medium",
+    "explain": "Interesse semplice: C×r×t."
+  },
+  {
+    "q": "Quanto fa 727 − 671?",
+    "options": [
+      "56",
+      "36",
+      "58",
+      "46"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explain": "727−671=56."
+  },
+  {
+    "q": "Interesse semplice: su 800€ al 8% per 4 anni, quanto interesse maturi?",
+    "options": [
+      "206€",
+      "266€",
+      "261€",
+      "256€"
+    ],
+    "correct": 3,
+    "difficulty": "medium",
+    "explain": "Interesse semplice: C×r×t."
+  },
+  {
+    "q": "Quanto fa 806 − 475?",
+    "options": [
+      "331",
+      "329",
+      "333",
+      "326"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explain": "806−475=331."
+  },
+  {
+    "q": "Quanto fa 35 + 935?",
+    "options": [
+      "972",
+      "970 (4)",
+      "970 (3)",
+      "970"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "35+935=970."
+  },
+  {
+    "q": "Quanto fa 949 + 169?",
+    "options": [
+      "1116",
+      "1128",
+      "1138",
+      "1118"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "949+169=1118."
+  },
+  {
+    "q": "Interesse semplice: su 120€ al 8% per 5 anni, quanto interesse maturi?",
+    "options": [
+      "58€",
+      "48€",
+      "68€",
+      "0€"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "Interesse semplice: C×r×t."
+  },
+  {
+    "q": "Quanto fa 342 ÷ 9?",
+    "options": [
+      "43",
+      "38",
+      "35",
+      "39"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "342÷9=38."
+  },
+  {
+    "q": "Qual è il 40% di 40?",
+    "options": [
+      "16 (4)",
+      "16",
+      "11",
+      "26"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "40×40/100=16."
+  },
+  {
+    "q": "Semplifica la frazione 12/24.",
+    "options": [
+      "12/24",
+      "1/2",
+      "1/3",
+      "2/2"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "Dividi numeratore e denominatore per il MCD."
+  },
+  {
+    "q": "Completa la sequenza: 173, 184, 195, 206, __",
+    "options": [
+      "206",
+      "217 (4)",
+      "228",
+      "217"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Quanto fa 156 ÷ 26?",
+    "options": [
+      "6 (4)",
+      "3",
+      "6",
+      "1"
+    ],
+    "correct": 2,
+    "difficulty": "medium",
+    "explain": "156÷26=6."
+  },
+  {
+    "q": "Quanto fa 45 × 19?",
+    "options": [
+      "855",
+      "905",
+      "845",
+      "855 (4)"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explain": "45×19=855."
+  },
+  {
+    "q": "Risolvi: 23x + 10 = 1137. Quanto vale x?",
+    "options": [
+      "44",
+      "61",
+      "49",
+      "51"
+    ],
+    "correct": 2,
+    "difficulty": "hard",
+    "explain": "Isola x e dividi per a."
+  },
+  {
+    "q": "Quanto fa 376 + 778?",
+    "options": [
+      "1159",
+      "1164",
+      "1144",
+      "1154"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "376+778=1154."
+  },
+  {
+    "q": "Risolvi: 18x − 49 = 1067. Quanto vale x?",
+    "options": [
+      "62",
+      "64",
+      "74",
+      "62 (4)"
+    ],
+    "correct": 0,
+    "difficulty": "hard",
+    "explain": "Isola x e dividi per a."
+  },
+  {
+    "q": "Qual è il 10% di 400?",
+    "options": [
+      "20",
+      "40",
+      "60",
+      "50"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "400×10/100=40."
+  },
+  {
+    "q": "Quanto fa 89 − 45?",
+    "options": [
+      "44",
+      "54",
+      "39",
+      "44 (4)"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explain": "89−45=44."
+  },
+  {
+    "q": "Risolvi: 19x + 58 = 286. Quanto vale x?",
+    "options": [
+      "9",
+      "1",
+      "7",
+      "12"
+    ],
+    "correct": 3,
+    "difficulty": "hard",
+    "explain": "Isola x e dividi per a."
+  },
+  {
+    "q": "Quanto fa 435 + 860?",
+    "options": [
+      "1293",
+      "1295",
+      "1290",
+      "1297"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "435+860=1295."
+  },
+  {
+    "q": "Qual è il 5% di 500?",
+    "options": [
+      "35",
+      "15",
+      "25",
+      "20"
+    ],
+    "correct": 2,
+    "difficulty": "medium",
+    "explain": "500×5/100=25."
+  },
+  {
+    "q": "Quanto fa 950 − 238?",
+    "options": [
+      "712",
+      "710",
+      "707",
+      "692"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explain": "950−238=712."
+  },
+  {
+    "q": "Quanto fa 983 − 917?",
+    "options": [
+      "61",
+      "66 (4)",
+      "76",
+      "66"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "983−917=66."
+  },
+  {
+    "q": "Risolvi: 5x − 44 = 236. Quanto vale x?",
+    "options": [
+      "56",
+      "49",
+      "53",
+      "51"
+    ],
+    "correct": 0,
+    "difficulty": "hard",
+    "explain": "Isola x e dividi per a."
+  },
+  {
+    "q": "Quanto fa 429 + 796?",
+    "options": [
+      "1235",
+      "1215",
+      "1220",
+      "1225"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "429+796=1225."
+  },
+  {
+    "q": "Quanto fa 171 ÷ 19?",
+    "options": [
+      "11",
+      "9",
+      "6",
+      "14"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "171÷19=9."
+  },
+  {
+    "q": "Risolvi: 15x + 38 = 188. Quanto vale x?",
+    "options": [
+      "8",
+      "17",
+      "10 (4)",
+      "10"
+    ],
+    "correct": 3,
+    "difficulty": "hard",
+    "explain": "Isola x e dividi per a."
+  },
+  {
+    "q": "Qual è il 20% di 250?",
+    "options": [
+      "50",
+      "50 (4)",
+      "45",
+      "100"
+    ],
+    "correct": 0,
+    "difficulty": "medium",
+    "explain": "250×20/100=50."
+  },
+  {
+    "q": "Qual è il 40% di 150?",
+    "options": [
+      "60 (4)",
+      "55",
+      "50",
+      "60"
+    ],
+    "correct": 3,
+    "difficulty": "medium",
+    "explain": "150×40/100=60."
+  },
+  {
+    "q": "Qual è il 60% di 400?",
+    "options": [
+      "240 (4)",
+      "260",
+      "240",
+      "235"
+    ],
+    "correct": 2,
+    "difficulty": "medium",
+    "explain": "400×60/100=240."
+  },
+  {
+    "q": "Quanto fa 396 ÷ 12?",
+    "options": [
+      "38",
+      "33",
+      "30",
+      "28"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "396÷12=33."
+  },
+  {
+    "q": "Quanto fa 18 × 33?",
+    "options": [
+      "644",
+      "589",
+      "574",
+      "594"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "18×33=594."
+  },
+  {
+    "q": "Qual è il 20% di 80?",
+    "options": [
+      "66",
+      "16",
+      "0",
+      "21"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "80×20/100=16."
+  },
+  {
+    "q": "Quanto fa 358 + 798?",
+    "options": [
+      "1158",
+      "1156",
+      "1176",
+      "1161"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "358+798=1156."
+  },
+  {
+    "q": "Qual è il 60% di 40?",
+    "options": [
+      "24 (4)",
+      "4",
+      "24",
+      "74"
+    ],
+    "correct": 2,
+    "difficulty": "medium",
+    "explain": "40×60/100=24."
+  },
+  {
+    "q": "Quanto fa 519 − 165?",
+    "options": [
+      "354 (4)",
+      "344",
+      "364",
+      "354"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "519−165=354."
+  },
+  {
+    "q": "Semplifica la frazione 900/876.",
+    "options": [
+      "75/74",
+      "76/73",
+      "75/73",
+      "900/876"
+    ],
+    "correct": 2,
+    "difficulty": "medium",
+    "explain": "Dividi numeratore e denominatore per il MCD."
+  },
+  {
+    "q": "Quanto fa 635 − 54?",
+    "options": [
+      "561",
+      "581",
+      "571",
+      "583"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "635−54=581."
+  },
+  {
+    "q": "Semplifica la frazione 432/144.",
+    "options": [
+      "3/2",
+      "3/1",
+      "4/1",
+      "432/144"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "Dividi numeratore e denominatore per il MCD."
+  },
+  {
+    "q": "Quanto fa 511 + 332?",
+    "options": [
+      "843 (4)",
+      "845",
+      "843",
+      "863"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "511+332=843."
+  },
+  {
+    "q": "Quanto fa 20 × 30?",
+    "options": [
+      "620",
+      "550",
+      "600",
+      "650"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "20×30=600."
+  },
+  {
+    "q": "Interesse semplice: su 400€ al 2% per 5 anni, quanto interesse maturi?",
+    "options": [
+      "60€",
+      "40€",
+      "35€",
+      "20€"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "Interesse semplice: C×r×t."
+  },
+  {
+    "q": "Qual è il 40% di 1000?",
+    "options": [
+      "395",
+      "400",
+      "410",
+      "400 (4)"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "1000×40/100=400."
+  },
+  {
+    "q": "Quanto fa 83 + 733?",
+    "options": [
+      "821",
+      "816",
+      "818",
+      "826"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "83+733=816."
+  },
+  {
+    "q": "Quanto fa 158 − 75?",
+    "options": [
+      "83",
+      "88",
+      "78",
+      "85"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explain": "158−75=83."
+  },
+  {
+    "q": "Quanto fa 155 − 15?",
+    "options": [
+      "120",
+      "140",
+      "140 (4)",
+      "160"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "155−15=140."
+  },
+  {
+    "q": "Interesse semplice: su 50€ al 1% per 2 anni, quanto interesse maturi?",
+    "options": [
+      "0€",
+      "1€",
+      "1€ (4)",
+      "6€"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "Interesse semplice: C×r×t."
+  },
+  {
+    "q": "Quanto fa 23 × 26?",
+    "options": [
+      "608",
+      "588",
+      "598",
+      "578"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "23×26=598."
+  },
+  {
+    "q": "Qual è il 50% di 100?",
+    "options": [
+      "50 (4)",
+      "100",
+      "30",
+      "50"
+    ],
+    "correct": 3,
+    "difficulty": "medium",
+    "explain": "100×50/100=50."
+  },
+  {
+    "q": "Semplifica la frazione 396/858.",
+    "options": [
+      "6/13",
+      "7/13",
+      "6/14",
+      "396/858"
+    ],
+    "correct": 0,
+    "difficulty": "medium",
+    "explain": "Dividi numeratore e denominatore per il MCD."
+  },
+  {
+    "q": "Risolvi: 21x − 2 = 1069. Quanto vale x?",
+    "options": [
+      "51 (4)",
+      "51",
+      "58",
+      "54"
+    ],
+    "correct": 1,
+    "difficulty": "hard",
+    "explain": "Isola x e dividi per a."
+  },
+  {
+    "q": "Quanto fa 894 + 404?",
+    "options": [
+      "1300",
+      "1296",
+      "1298",
+      "1318"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "894+404=1298."
+  },
+  {
+    "q": "Quanto fa 32 × 6?",
+    "options": [
+      "142",
+      "187",
+      "192",
+      "242"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "32×6=192."
+  },
+  {
+    "q": "Quanto fa 874 − 458?",
+    "options": [
+      "406",
+      "418",
+      "416",
+      "421"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "874−458=416."
+  },
+  {
+    "q": "Semplifica la frazione 14/84.",
+    "options": [
+      "1/7",
+      "2/6",
+      "14/84",
+      "1/6"
+    ],
+    "correct": 3,
+    "difficulty": "medium",
+    "explain": "Dividi numeratore e denominatore per il MCD."
+  },
+  {
+    "q": "Quanto fa 17 × 33?",
+    "options": [
+      "556",
+      "561",
+      "541",
+      "566"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "17×33=561."
+  },
+  {
+    "q": "Qual è il 30% di 150?",
+    "options": [
+      "65",
+      "95",
+      "35",
+      "45"
+    ],
+    "correct": 3,
+    "difficulty": "medium",
+    "explain": "150×30/100=45."
+  },
+  {
+    "q": "Semplifica la frazione 360/18.",
+    "options": [
+      "20/2",
+      "20/1",
+      "360/18",
+      "21/1"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "Dividi numeratore e denominatore per il MCD."
+  },
+  {
+    "q": "Quanto fa 30 × 49?",
+    "options": [
+      "1470",
+      "1450",
+      "1520",
+      "1475"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explain": "30×49=1470."
+  },
+  {
+    "q": "Quanto fa 13 × 36?",
+    "options": [
+      "468",
+      "458",
+      "468 (4)",
+      "418"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explain": "13×36=468."
+  },
+  {
+    "q": "Quanto fa 47 − 4?",
+    "options": [
+      "33",
+      "43 (4)",
+      "45",
+      "43"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "47−4=43."
+  },
+  {
+    "q": "Semplifica la frazione 104/472.",
+    "options": [
+      "14/59",
+      "104/472",
+      "13/60",
+      "13/59"
+    ],
+    "correct": 3,
+    "difficulty": "medium",
+    "explain": "Dividi numeratore e denominatore per il MCD."
+  },
+  {
+    "q": "Interesse semplice: su 2000€ al 3% per 5 anni, quanto interesse maturi?",
+    "options": [
+      "250€",
+      "320€",
+      "300€",
+      "300€ (4)"
+    ],
+    "correct": 2,
+    "difficulty": "medium",
+    "explain": "Interesse semplice: C×r×t."
+  },
+  {
+    "q": "Risolvi: 17x + 32 = 1171. Quanto vale x?",
+    "options": [
+      "67",
+      "70",
+      "67 (4)",
+      "69"
+    ],
+    "correct": 0,
+    "difficulty": "hard",
+    "explain": "Isola x e dividi per a."
+  },
+  {
+    "q": "Quanto fa 46 × 19?",
+    "options": [
+      "874",
+      "824",
+      "869",
+      "874 (4)"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explain": "46×19=874."
+  },
+  {
+    "q": "Completa la sequenza: 116, 131, 146, 161, __",
+    "options": [
+      "191",
+      "176 (4)",
+      "161",
+      "176"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Qual è il 12% di 50?",
+    "options": [
+      "6",
+      "0",
+      "11",
+      "56"
+    ],
+    "correct": 0,
+    "difficulty": "medium",
+    "explain": "50×12/100=6."
+  },
+  {
+    "q": "Completa la sequenza: 183, 186, 189, 192, __",
+    "options": [
+      "192",
+      "195",
+      "195 (4)",
+      "198"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Semplifica la frazione 231/112.",
+    "options": [
+      "34/16",
+      "33/17",
+      "33/16",
+      "231/112"
+    ],
+    "correct": 2,
+    "difficulty": "medium",
+    "explain": "Dividi numeratore e denominatore per il MCD."
+  },
+  {
+    "q": "Interesse semplice: su 2000€ al 4% per 5 anni, quanto interesse maturi?",
+    "options": [
+      "450€",
+      "400€ (4)",
+      "350€",
+      "400€"
+    ],
+    "correct": 3,
+    "difficulty": "medium",
+    "explain": "Interesse semplice: C×r×t."
+  },
+  {
+    "q": "Quanto fa 654 − 500?",
+    "options": [
+      "154",
+      "144",
+      "156",
+      "159"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explain": "654−500=154."
+  },
+  {
+    "q": "Quanto fa 754 ÷ 26?",
+    "options": [
+      "24",
+      "29",
+      "27",
+      "28"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "754÷26=29."
+  },
+  {
+    "q": "Quanto fa 264 ÷ 8?",
+    "options": [
+      "35",
+      "38",
+      "28",
+      "33"
+    ],
+    "correct": 3,
+    "difficulty": "medium",
+    "explain": "264÷8=33."
+  },
+  {
+    "q": "Interesse semplice: su 250€ al 8% per 4 anni, quanto interesse maturi?",
+    "options": [
+      "90€",
+      "85€",
+      "80€",
+      "60€"
+    ],
+    "correct": 2,
+    "difficulty": "medium",
+    "explain": "Interesse semplice: C×r×t."
+  },
+  {
+    "q": "Quanto fa 43 + 18?",
+    "options": [
+      "61",
+      "63",
+      "51",
+      "56"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explain": "43+18=61."
+  },
+  {
+    "q": "Risolvi: 10x − 21 = 739. Quanto vale x?",
+    "options": [
+      "64",
+      "83",
+      "71",
+      "76"
+    ],
+    "correct": 3,
+    "difficulty": "hard",
+    "explain": "Isola x e dividi per a."
+  },
+  {
+    "q": "Completa la sequenza: 123, 153, 183, 213, __",
+    "options": [
+      "243 (4)",
+      "243",
+      "273",
+      "213"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Risolvi: 9x + 37 = 487. Quanto vale x?",
+    "options": [
+      "50",
+      "43",
+      "55",
+      "48"
+    ],
+    "correct": 0,
+    "difficulty": "hard",
+    "explain": "Isola x e dividi per a."
+  },
+  {
+    "q": "Quanto fa 663 ÷ 17?",
+    "options": [
+      "37",
+      "39",
+      "34",
+      "42"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "663÷17=39."
+  },
+  {
+    "q": "Quanto fa 186 + 45?",
+    "options": [
+      "231",
+      "211",
+      "229",
+      "233"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explain": "186+45=231."
+  },
+  {
+    "q": "Quanto fa 286 + 383?",
+    "options": [
+      "667",
+      "689",
+      "649",
+      "669"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "286+383=669."
+  },
+  {
+    "q": "Risolvi: 16x − 60 = 180. Quanto vale x?",
+    "options": [
+      "15",
+      "10",
+      "15 (4)",
+      "22"
+    ],
+    "correct": 0,
+    "difficulty": "hard",
+    "explain": "Isola x e dividi per a."
+  },
+  {
+    "q": "Completa la sequenza: 62, 79, 96, 113, __",
+    "options": [
+      "130 (4)",
+      "113",
+      "130",
+      "147"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Quanto fa 763 − 458?",
+    "options": [
+      "325",
+      "315",
+      "307",
+      "305"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "763−458=305."
+  },
+  {
+    "q": "Quanto fa 463 + 879?",
+    "options": [
+      "1340",
+      "1342",
+      "1342 (4)",
+      "1344"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "463+879=1342."
+  },
+  {
+    "q": "Qual è il 5% di 400?",
+    "options": [
+      "0",
+      "20",
+      "25",
+      "30"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "400×5/100=20."
+  },
+  {
+    "q": "Risolvi: 9x + 43 = 484. Quanto vale x?",
+    "options": [
+      "49",
+      "61",
+      "56",
+      "42"
+    ],
+    "correct": 0,
+    "difficulty": "hard",
+    "explain": "Isola x e dividi per a."
+  },
+  {
+    "q": "Risolvi: 14x − 30 = 320. Quanto vale x?",
+    "options": [
+      "27",
+      "20",
+      "28",
+      "25"
+    ],
+    "correct": 3,
+    "difficulty": "hard",
+    "explain": "Isola x e dividi per a."
+  },
+  {
+    "q": "Quanto fa 771 − 593?",
+    "options": [
+      "178",
+      "173",
+      "168",
+      "188"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explain": "771−593=178."
+  },
+  {
+    "q": "Quanto fa 856 + 961?",
+    "options": [
+      "1807",
+      "1827",
+      "1817",
+      "1815"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "856+961=1817."
+  },
+  {
+    "q": "Interesse semplice: su 400€ al 3% per 4 anni, quanto interesse maturi?",
+    "options": [
+      "58€",
+      "38€",
+      "48€",
+      "68€"
+    ],
+    "correct": 2,
+    "difficulty": "medium",
+    "explain": "Interesse semplice: C×r×t."
+  },
+  {
+    "q": "Semplifica la frazione 55/154.",
+    "options": [
+      "55/154",
+      "6/14",
+      "5/15",
+      "5/14"
+    ],
+    "correct": 3,
+    "difficulty": "medium",
+    "explain": "Dividi numeratore e denominatore per il MCD."
+  },
+  {
+    "q": "Completa la sequenza: 61, 66, 71, 76, __",
+    "options": [
+      "81 (4)",
+      "76",
+      "81",
+      "86"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Completa la sequenza: 89, 97, 105, 113, __",
+    "options": [
+      "129",
+      "121",
+      "113",
+      "121 (4)"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Interesse semplice: su 1500€ al 4% per 4 anni, quanto interesse maturi?",
+    "options": [
+      "290€",
+      "240€ (4)",
+      "230€",
+      "240€"
+    ],
+    "correct": 3,
+    "difficulty": "medium",
+    "explain": "Interesse semplice: C×r×t."
+  },
+  {
+    "q": "Semplifica la frazione 438/30.",
+    "options": [
+      "73/5",
+      "74/5",
+      "73/6",
+      "438/30"
+    ],
+    "correct": 0,
+    "difficulty": "medium",
+    "explain": "Dividi numeratore e denominatore per il MCD."
+  },
+  {
+    "q": "Qual è il 75% di 120?",
+    "options": [
+      "90 (4)",
+      "90",
+      "140",
+      "85"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "120×75/100=90."
+  },
+  {
+    "q": "Qual è il 50% di 200?",
+    "options": [
+      "120",
+      "50",
+      "100 (4)",
+      "100"
+    ],
+    "correct": 3,
+    "difficulty": "medium",
+    "explain": "200×50/100=100."
+  },
+  {
+    "q": "Risolvi: 15x + 17 = 1202. Quanto vale x?",
+    "options": [
+      "79",
+      "82",
+      "91",
+      "74"
+    ],
+    "correct": 0,
+    "difficulty": "hard",
+    "explain": "Isola x e dividi per a."
+  },
+  {
+    "q": "Quanto fa 42 × 7?",
+    "options": [
+      "304",
+      "294",
+      "294 (4)",
+      "284"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "42×7=294."
+  },
+  {
+    "q": "Quanto fa 466 − 442?",
+    "options": [
+      "34",
+      "29",
+      "14",
+      "24"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "466−442=24."
+  },
+  {
+    "q": "Qual è il 40% di 300?",
+    "options": [
+      "125",
+      "110",
+      "70",
+      "120"
+    ],
+    "correct": 3,
+    "difficulty": "medium",
+    "explain": "300×40/100=120."
+  },
+  {
+    "q": "Semplifica la frazione 275/660.",
+    "options": [
+      "275/660",
+      "6/12",
+      "5/13",
+      "5/12"
+    ],
+    "correct": 3,
+    "difficulty": "medium",
+    "explain": "Dividi numeratore e denominatore per il MCD."
+  },
+  {
+    "q": "Quanto fa 24 × 17?",
+    "options": [
+      "403",
+      "388",
+      "408",
+      "408 (4)"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "24×17=408."
+  },
+  {
+    "q": "Completa la sequenza: 71, 83, 95, 107, __",
+    "options": [
+      "131",
+      "119 (4)",
+      "119",
+      "107"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Risolvi: 12x + 4 = 244. Quanto vale x?",
+    "options": [
+      "27",
+      "20",
+      "18",
+      "13"
+    ],
+    "correct": 1,
+    "difficulty": "hard",
+    "explain": "Isola x e dividi per a."
+  },
+  {
+    "q": "Qual è il 75% di 300?",
+    "options": [
+      "225",
+      "215",
+      "205",
+      "175"
+    ],
+    "correct": 0,
+    "difficulty": "medium",
+    "explain": "300×75/100=225."
+  },
+  {
+    "q": "Qual è il 10% di 80?",
+    "options": [
+      "3",
+      "18",
+      "8",
+      "58"
+    ],
+    "correct": 2,
+    "difficulty": "medium",
+    "explain": "80×10/100=8."
+  },
+  {
+    "q": "Quanto fa 209 ÷ 19?",
+    "options": [
+      "10",
+      "11",
+      "14",
+      "8"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "209÷19=11."
+  },
+  {
+    "q": "Quanto fa 17 × 34?",
+    "options": [
+      "573",
+      "578 (4)",
+      "558",
+      "578"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "17×34=578."
+  },
+  {
+    "q": "Qual è il 75% di 1000?",
+    "options": [
+      "740",
+      "800",
+      "700",
+      "750"
+    ],
+    "correct": 3,
+    "difficulty": "medium",
+    "explain": "1000×75/100=750."
+  },
+  {
+    "q": "Risolvi: 3x − 56 = 136. Quanto vale x?",
+    "options": [
+      "57",
+      "64",
+      "61",
+      "59"
+    ],
+    "correct": 1,
+    "difficulty": "hard",
+    "explain": "Isola x e dividi per a."
+  },
+  {
+    "q": "Quanto fa 6 × 45?",
+    "options": [
+      "270 (4)",
+      "270",
+      "250",
+      "265"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "6×45=270."
+  },
+  {
+    "q": "Qual è il 15% di 300?",
+    "options": [
+      "45",
+      "55",
+      "65",
+      "25"
+    ],
+    "correct": 0,
+    "difficulty": "medium",
+    "explain": "300×15/100=45."
+  },
+  {
+    "q": "Risolvi: 18x + 55 = 1477. Quanto vale x?",
+    "options": [
+      "79 (4)",
+      "79",
+      "82",
+      "74"
+    ],
+    "correct": 1,
+    "difficulty": "hard",
+    "explain": "Isola x e dividi per a."
+  },
+  {
+    "q": "Semplifica la frazione 12/21.",
+    "options": [
+      "12/21",
+      "4/7",
+      "4/8",
+      "5/7"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "Dividi numeratore e denominatore per il MCD."
+  },
+  {
+    "q": "Quanto fa 22 × 48?",
+    "options": [
+      "1006",
+      "1046",
+      "1056 (4)",
+      "1056"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "22×48=1056."
+  },
+  {
+    "q": "Qual è il 30% di 500?",
+    "options": [
+      "100",
+      "150",
+      "200",
+      "160"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "500×30/100=150."
+  },
+  {
+    "q": "Quanto fa 105 − 22?",
+    "options": [
+      "83 (4)",
+      "78",
+      "73",
+      "83"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "105−22=83."
+  },
+  {
+    "q": "Semplifica la frazione 441/279.",
+    "options": [
+      "49/31",
+      "50/31",
+      "49/32",
+      "441/279"
+    ],
+    "correct": 0,
+    "difficulty": "medium",
+    "explain": "Dividi numeratore e denominatore per il MCD."
+  },
+  {
+    "q": "Quanto fa 148 − 12?",
+    "options": [
+      "146",
+      "138",
+      "116",
+      "136"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "148−12=136."
+  },
+  {
+    "q": "Quanto fa 396 ÷ 18?",
+    "options": [
+      "19",
+      "23",
+      "22",
+      "24"
+    ],
+    "correct": 2,
+    "difficulty": "medium",
+    "explain": "396÷18=22."
+  },
+  {
+    "q": "Quanto fa 483 ÷ 21?",
+    "options": [
+      "28",
+      "20",
+      "23",
+      "25"
+    ],
+    "correct": 2,
+    "difficulty": "medium",
+    "explain": "483÷21=23."
+  },
+  {
+    "q": "Qual è il 25% di 40?",
+    "options": [
+      "10",
+      "0",
+      "10 (4)",
+      "20"
+    ],
+    "correct": 0,
+    "difficulty": "medium",
+    "explain": "40×25/100=10."
+  },
+  {
+    "q": "Semplifica la frazione 702/36.",
+    "options": [
+      "702/36",
+      "39/2",
+      "40/2",
+      "39/3"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "Dividi numeratore e denominatore per il MCD."
+  },
+  {
+    "q": "Quanto fa 12 × 25?",
+    "options": [
+      "295",
+      "305",
+      "290",
+      "300"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "12×25=300."
+  },
+  {
+    "q": "Interesse semplice: su 400€ al 2% per 4 anni, quanto interesse maturi?",
+    "options": [
+      "32€ (4)",
+      "52€",
+      "32€",
+      "27€"
+    ],
+    "correct": 2,
+    "difficulty": "medium",
+    "explain": "Interesse semplice: C×r×t."
+  },
+  {
+    "q": "Risolvi: 21x + 3 = 948. Quanto vale x?",
+    "options": [
+      "45",
+      "47",
+      "45 (4)",
+      "52"
+    ],
+    "correct": 0,
+    "difficulty": "hard",
+    "explain": "Isola x e dividi per a."
+  },
+  {
+    "q": "Interesse semplice: su 120€ al 12% per 1 anni, quanto interesse maturi?",
+    "options": [
+      "19€",
+      "14€",
+      "0€",
+      "4€"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "Interesse semplice: C×r×t."
+  },
+  {
+    "q": "Completa la sequenza: 23, 38, 53, 68, __",
+    "options": [
+      "98",
+      "83",
+      "68",
+      "83 (4)"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Quanto fa 907 + 341?",
+    "options": [
+      "1268",
+      "1228",
+      "1250",
+      "1248"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "907+341=1248."
+  },
+  {
+    "q": "Risolvi: 25x − 33 = 1392. Quanto vale x?",
+    "options": [
+      "54",
+      "60",
+      "57",
+      "59"
+    ],
+    "correct": 2,
+    "difficulty": "hard",
+    "explain": "Isola x e dividi per a."
+  },
+  {
+    "q": "Qual è il 75% di 60?",
+    "options": [
+      "45 (4)",
+      "45",
+      "95",
+      "0"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "60×75/100=45."
+  },
+  {
+    "q": "Quanto fa 256 ÷ 8?",
+    "options": [
+      "32",
+      "30",
+      "27",
+      "29"
+    ],
+    "correct": 0,
+    "difficulty": "medium",
+    "explain": "256÷8=32."
+  },
+  {
+    "q": "Semplifica la frazione 54/54.",
+    "options": [
+      "2/1",
+      "1/1",
+      "54/54",
+      "1/2"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "Dividi numeratore e denominatore per il MCD."
+  },
+  {
+    "q": "Semplifica la frazione 196/350.",
+    "options": [
+      "196/350",
+      "15/25",
+      "14/26",
+      "14/25"
+    ],
+    "correct": 3,
+    "difficulty": "medium",
+    "explain": "Dividi numeratore e denominatore per il MCD."
+  },
+  {
+    "q": "Risolvi: 15x − 4 = 656. Quanto vale x?",
+    "options": [
+      "51",
+      "42",
+      "46",
+      "44"
+    ],
+    "correct": 3,
+    "difficulty": "hard",
+    "explain": "Isola x e dividi per a."
+  },
+  {
+    "q": "Quanto fa 761 − 66?",
+    "options": [
+      "705",
+      "697",
+      "695",
+      "693"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "761−66=695."
+  },
+  {
+    "q": "Interesse semplice: su 120€ al 4% per 3 anni, quanto interesse maturi?",
+    "options": [
+      "19€",
+      "14€",
+      "24€",
+      "64€"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "Interesse semplice: C×r×t."
+  },
+  {
+    "q": "Quanto fa 41 × 29?",
+    "options": [
+      "1184",
+      "1209",
+      "1189",
+      "1169"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "41×29=1189."
+  },
+  {
+    "q": "Quanto fa 650 + 645?",
+    "options": [
+      "1275",
+      "1295",
+      "1293",
+      "1285"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "650+645=1295."
+  },
+  {
+    "q": "Quanto fa 865 − 722?",
+    "options": [
+      "163",
+      "138",
+      "143",
+      "145"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "865−722=143."
+  },
+  {
+    "q": "Semplifica la frazione 165/111.",
+    "options": [
+      "165/111",
+      "55/38",
+      "56/37",
+      "55/37"
+    ],
+    "correct": 3,
+    "difficulty": "medium",
+    "explain": "Dividi numeratore e denominatore per il MCD."
+  },
+  {
+    "q": "Quanto fa 705 − 60?",
+    "options": [
+      "647",
+      "665",
+      "645",
+      "650"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "705−60=645."
+  },
+  {
+    "q": "Qual è il 30% di 100?",
+    "options": [
+      "50",
+      "30",
+      "10",
+      "20"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "100×30/100=30."
+  },
+  {
+    "q": "Quanto fa 22 × 39?",
+    "options": [
+      "858 (4)",
+      "838",
+      "858",
+      "863"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "22×39=858."
+  },
+  {
+    "q": "Qual è il 75% di 500?",
+    "options": [
+      "370",
+      "375",
+      "395",
+      "385"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "500×75/100=375."
+  },
+  {
+    "q": "Risolvi: 19x + 46 = 464. Quanto vale x?",
+    "options": [
+      "19",
+      "22 (4)",
+      "22",
+      "29"
+    ],
+    "correct": 2,
+    "difficulty": "hard",
+    "explain": "Isola x e dividi per a."
+  },
+  {
+    "q": "Quanto fa 976 − 554?",
+    "options": [
+      "422",
+      "402",
+      "442",
+      "412"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explain": "976−554=422."
+  },
+  {
+    "q": "Risolvi: 14x − 54 = 142. Quanto vale x?",
+    "options": [
+      "14",
+      "17",
+      "26",
+      "16"
+    ],
+    "correct": 0,
+    "difficulty": "hard",
+    "explain": "Isola x e dividi per a."
+  },
+  {
+    "q": "Quanto fa 46 × 17?",
+    "options": [
+      "782",
+      "732",
+      "762",
+      "777"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explain": "46×17=782."
+  },
+  {
+    "q": "Semplifica la frazione 238/210.",
+    "options": [
+      "238/210",
+      "17/16",
+      "17/15",
+      "18/15"
+    ],
+    "correct": 2,
+    "difficulty": "medium",
+    "explain": "Dividi numeratore e denominatore per il MCD."
+  },
+  {
+    "q": "Risolvi: 5x + 3 = 108. Quanto vale x?",
+    "options": [
+      "28",
+      "14",
+      "16",
+      "21"
+    ],
+    "correct": 3,
+    "difficulty": "hard",
+    "explain": "Isola x e dividi per a."
+  },
+  {
+    "q": "Semplifica la frazione 600/792.",
+    "options": [
+      "600/792",
+      "25/33",
+      "25/34",
+      "26/33"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "Dividi numeratore e denominatore per il MCD."
+  },
+  {
+    "q": "Quanto fa 3 × 40?",
+    "options": [
+      "140",
+      "120 (4)",
+      "100",
+      "120"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "3×40=120."
+  },
+  {
+    "q": "Quanto fa 41 × 38?",
+    "options": [
+      "1563",
+      "1558",
+      "1558 (4)",
+      "1568"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "41×38=1558."
+  },
+  {
+    "q": "Semplifica la frazione 24/48.",
+    "options": [
+      "1/3",
+      "2/2",
+      "24/48",
+      "1/2"
+    ],
+    "correct": 3,
+    "difficulty": "medium",
+    "explain": "Dividi numeratore e denominatore per il MCD."
+  },
+  {
+    "q": "Semplifica la frazione 370/50.",
+    "options": [
+      "37/5",
+      "370/50",
+      "37/6",
+      "38/5"
+    ],
+    "correct": 0,
+    "difficulty": "medium",
+    "explain": "Dividi numeratore e denominatore per il MCD."
+  },
+  {
+    "q": "Qual è il 30% di 600?",
+    "options": [
+      "180",
+      "170",
+      "200",
+      "160"
+    ],
+    "correct": 0,
+    "difficulty": "medium",
+    "explain": "600×30/100=180."
+  },
+  {
+    "q": "Qual è il 30% di 80?",
+    "options": [
+      "74",
+      "19",
+      "34",
+      "24"
+    ],
+    "correct": 3,
+    "difficulty": "medium",
+    "explain": "80×30/100=24."
+  },
+  {
+    "q": "Semplifica la frazione 308/216.",
+    "options": [
+      "77/55",
+      "308/216",
+      "77/54",
+      "78/54"
+    ],
+    "correct": 2,
+    "difficulty": "medium",
+    "explain": "Dividi numeratore e denominatore per il MCD."
+  },
+  {
+    "q": "Quanto fa 21 × 39?",
+    "options": [
+      "869",
+      "799",
+      "819",
+      "819 (4)"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "21×39=819."
+  },
+  {
+    "q": "Quanto fa 297 ÷ 27?",
+    "options": [
+      "10",
+      "8",
+      "11",
+      "13"
+    ],
+    "correct": 2,
+    "difficulty": "medium",
+    "explain": "297÷27=11."
+  },
+  {
+    "q": "Qual è il 15% di 500?",
+    "options": [
+      "75",
+      "55",
+      "65",
+      "70"
+    ],
+    "correct": 0,
+    "difficulty": "medium",
+    "explain": "500×15/100=75."
+  },
+  {
+    "q": "Qual è il 40% di 800?",
+    "options": [
+      "320 (4)",
+      "320",
+      "315",
+      "270"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "800×40/100=320."
+  },
+  {
+    "q": "Semplifica la frazione 92/146.",
+    "options": [
+      "46/73",
+      "47/73",
+      "92/146",
+      "46/74"
+    ],
+    "correct": 0,
+    "difficulty": "medium",
+    "explain": "Dividi numeratore e denominatore per il MCD."
+  },
+  {
+    "q": "Quanto fa 462 − 101?",
+    "options": [
+      "341",
+      "361",
+      "371",
+      "381"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "462−101=361."
+  },
+  {
+    "q": "Quanto fa 261 + 661?",
+    "options": [
+      "932",
+      "902",
+      "922",
+      "920"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "261+661=922."
+  },
+  {
+    "q": "Quanto fa 39 × 11?",
+    "options": [
+      "424",
+      "439",
+      "429",
+      "449"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "39×11=429."
+  },
+  {
+    "q": "Quanto fa 973 − 13?",
+    "options": [
+      "960",
+      "950",
+      "965",
+      "962"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explain": "973−13=960."
+  },
+  {
+    "q": "Risolvi: 5x + 41 = 346. Quanto vale x?",
+    "options": [
+      "61",
+      "59",
+      "64",
+      "61 (4)"
+    ],
+    "correct": 0,
+    "difficulty": "hard",
+    "explain": "Isola x e dividi per a."
+  },
+  {
+    "q": "Qual è il 5% di 1000?",
+    "options": [
+      "50",
+      "60",
+      "0",
+      "70"
+    ],
+    "correct": 0,
+    "difficulty": "medium",
+    "explain": "1000×5/100=50."
+  },
+  {
+    "q": "Interesse semplice: su 150€ al 5% per 4 anni, quanto interesse maturi?",
+    "options": [
+      "25€",
+      "30€ (4)",
+      "30€",
+      "50€"
+    ],
+    "correct": 2,
+    "difficulty": "medium",
+    "explain": "Interesse semplice: C×r×t."
+  },
+  {
+    "q": "Quanto fa 116 ÷ 29?",
+    "options": [
+      "6",
+      "4",
+      "1",
+      "3"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "116÷29=4."
+  },
+  {
+    "q": "Qual è il 12% di 1000?",
+    "options": [
+      "70",
+      "120 (4)",
+      "130",
+      "120"
+    ],
+    "correct": 3,
+    "difficulty": "medium",
+    "explain": "1000×12/100=120."
+  },
+  {
+    "q": "Quanto fa 15 × 3?",
+    "options": [
+      "45",
+      "50",
+      "95",
+      "40"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explain": "15×3=45."
+  },
+  {
+    "q": "Quanto fa 160 ÷ 16?",
+    "options": [
+      "10",
+      "5",
+      "9",
+      "13"
+    ],
+    "correct": 0,
+    "difficulty": "medium",
+    "explain": "160÷16=10."
+  },
+  {
+    "q": "Risolvi: 23x + 29 = 328. Quanto vale x?",
+    "options": [
+      "25",
+      "10",
+      "13",
+      "20"
+    ],
+    "correct": 2,
+    "difficulty": "hard",
+    "explain": "Isola x e dividi per a."
+  },
+  {
+    "q": "Semplifica la frazione 369/387.",
+    "options": [
+      "42/43",
+      "41/43",
+      "369/387",
+      "41/44"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "Dividi numeratore e denominatore per il MCD."
+  },
+  {
+    "q": "Quanto fa 41 × 22?",
+    "options": [
+      "907",
+      "892",
+      "952",
+      "902"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "41×22=902."
+  },
+  {
+    "q": "Interesse semplice: su 1500€ al 3% per 3 anni, quanto interesse maturi?",
+    "options": [
+      "155€",
+      "115€",
+      "135€",
+      "130€"
+    ],
+    "correct": 2,
+    "difficulty": "medium",
+    "explain": "Interesse semplice: C×r×t."
+  },
+  {
+    "q": "Quanto fa 12 × 45?",
+    "options": [
+      "590",
+      "560",
+      "540",
+      "545"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "12×45=540."
+  },
+  {
+    "q": "Quanto fa 576 ÷ 16?",
+    "options": [
+      "36",
+      "36 (4)",
+      "35",
+      "38"
+    ],
+    "correct": 0,
+    "difficulty": "medium",
+    "explain": "576÷16=36."
+  },
+  {
+    "q": "Qual è il 20% di 400?",
+    "options": [
+      "70",
+      "100",
+      "130",
+      "80"
+    ],
+    "correct": 3,
+    "difficulty": "medium",
+    "explain": "400×20/100=80."
+  },
+  {
+    "q": "Quanto fa 6 × 4?",
+    "options": [
+      "24",
+      "4",
+      "34",
+      "14"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explain": "6×4=24."
+  },
+  {
+    "q": "Semplifica la frazione 85/20.",
+    "options": [
+      "85/20",
+      "17/5",
+      "18/4",
+      "17/4"
+    ],
+    "correct": 3,
+    "difficulty": "medium",
+    "explain": "Dividi numeratore e denominatore per il MCD."
+  },
+  {
+    "q": "Quanto fa 593 − 25?",
+    "options": [
+      "570",
+      "558",
+      "548",
+      "568"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "593−25=568."
+  },
+  {
+    "q": "Qual è il 20% di 120?",
+    "options": [
+      "29",
+      "24",
+      "0",
+      "4"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "120×20/100=24."
+  },
+  {
+    "q": "Completa la sequenza: 12, 37, 62, 87, __",
+    "options": [
+      "87",
+      "137",
+      "112",
+      "112 (4)"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Risolvi: 24x + 59 = 443. Quanto vale x?",
+    "options": [
+      "11",
+      "23",
+      "16",
+      "9"
+    ],
+    "correct": 2,
+    "difficulty": "hard",
+    "explain": "Isola x e dividi per a."
+  },
+  {
+    "q": "Quanto fa 897 − 274?",
+    "options": [
+      "623",
+      "643",
+      "613",
+      "623 (4)"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explain": "897−274=623."
+  },
+  {
+    "q": "Semplifica la frazione 360/333.",
+    "options": [
+      "40/38",
+      "360/333",
+      "41/37",
+      "40/37"
+    ],
+    "correct": 3,
+    "difficulty": "medium",
+    "explain": "Dividi numeratore e denominatore per il MCD."
+  },
+  {
+    "q": "Quanto fa 199 − 142?",
+    "options": [
+      "55",
+      "57",
+      "77",
+      "52"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "199−142=57."
+  },
+  {
+    "q": "Semplifica la frazione 600/804.",
+    "options": [
+      "51/67",
+      "50/68",
+      "600/804",
+      "50/67"
+    ],
+    "correct": 3,
+    "difficulty": "medium",
+    "explain": "Dividi numeratore e denominatore per il MCD."
+  },
+  {
+    "q": "Semplifica la frazione 528/456.",
+    "options": [
+      "22/19",
+      "22/20",
+      "528/456",
+      "23/19"
+    ],
+    "correct": 0,
+    "difficulty": "medium",
+    "explain": "Dividi numeratore e denominatore per il MCD."
+  },
+  {
+    "q": "Risolvi: 15x + 10 = 595. Quanto vale x?",
+    "options": [
+      "36",
+      "32",
+      "51",
+      "39"
+    ],
+    "correct": 3,
+    "difficulty": "hard",
+    "explain": "Isola x e dividi per a."
+  },
+  {
+    "q": "Quanto fa 475 ÷ 25?",
+    "options": [
+      "21",
+      "20",
+      "19",
+      "14"
+    ],
+    "correct": 2,
+    "difficulty": "medium",
+    "explain": "475÷25=19."
+  },
+  {
+    "q": "Quanto fa 169 + 355?",
+    "options": [
+      "504",
+      "524",
+      "514",
+      "522"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "169+355=524."
+  },
+  {
+    "q": "Interesse semplice: su 150€ al 8% per 3 anni, quanto interesse maturi?",
+    "options": [
+      "26€",
+      "41€",
+      "36€ (4)",
+      "36€"
+    ],
+    "correct": 3,
+    "difficulty": "medium",
+    "explain": "Interesse semplice: C×r×t."
+  },
+  {
+    "q": "Qual è il 20% di 1000?",
+    "options": [
+      "200",
+      "210",
+      "180",
+      "205"
+    ],
+    "correct": 0,
+    "difficulty": "medium",
+    "explain": "1000×20/100=200."
+  },
+  {
+    "q": "Semplifica la frazione 39/186.",
+    "options": [
+      "13/62",
+      "39/186",
+      "14/62",
+      "13/63"
+    ],
+    "correct": 0,
+    "difficulty": "medium",
+    "explain": "Dividi numeratore e denominatore per il MCD."
+  },
+  {
+    "q": "Completa la sequenza: 19, 24, 29, 34, __",
+    "options": [
+      "34",
+      "44",
+      "39 (4)",
+      "39"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Interesse semplice: su 250€ al 8% per 5 anni, quanto interesse maturi?",
+    "options": [
+      "90€",
+      "100€",
+      "95€",
+      "110€"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "Interesse semplice: C×r×t."
+  },
+  {
+    "q": "Quanto fa 955 − 859?",
+    "options": [
+      "86",
+      "96",
+      "96 (4)",
+      "94"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "955−859=96."
+  },
+  {
+    "q": "Risolvi: 25x + 0 = 1075. Quanto vale x?",
+    "options": [
+      "43",
+      "36",
+      "48",
+      "45"
+    ],
+    "correct": 0,
+    "difficulty": "hard",
+    "explain": "Isola x e dividi per a."
+  },
+  {
+    "q": "Quanto fa 342 − 245?",
+    "options": [
+      "102",
+      "97",
+      "97 (4)",
+      "107"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "342−245=97."
+  },
+  {
+    "q": "Quanto fa 120 ÷ 30?",
+    "options": [
+      "4 (4)",
+      "7",
+      "4",
+      "1"
+    ],
+    "correct": 2,
+    "difficulty": "medium",
+    "explain": "120÷30=4."
+  },
+  {
+    "q": "Quanto fa 908 + 501?",
+    "options": [
+      "1409 (4)",
+      "1419",
+      "1409",
+      "1429"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "908+501=1409."
+  },
+  {
+    "q": "Qual è il 15% di 1000?",
+    "options": [
+      "130",
+      "100",
+      "140",
+      "150"
+    ],
+    "correct": 3,
+    "difficulty": "medium",
+    "explain": "1000×15/100=150."
+  },
+  {
+    "q": "Quanto fa 17 × 42?",
+    "options": [
+      "734",
+      "714",
+      "764",
+      "709"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "17×42=714."
+  },
+  {
+    "q": "Qual è il 50% di 120?",
+    "options": [
+      "60",
+      "60 (4)",
+      "110",
+      "50"
+    ],
+    "correct": 0,
+    "difficulty": "medium",
+    "explain": "120×50/100=60."
+  },
+  {
+    "q": "Quanto fa 170 + 61?",
+    "options": [
+      "236",
+      "231",
+      "231 (4)",
+      "221"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "170+61=231."
+  },
+  {
+    "q": "Quanto fa 538 + 829?",
+    "options": [
+      "1377",
+      "1367 (4)",
+      "1367",
+      "1365"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "538+829=1367."
+  },
+  {
+    "q": "Qual è il 10% di 500?",
+    "options": [
+      "50",
+      "100",
+      "55",
+      "45"
+    ],
+    "correct": 0,
+    "difficulty": "medium",
+    "explain": "500×10/100=50."
+  },
+  {
+    "q": "Quanto fa 561 ÷ 17?",
+    "options": [
+      "32",
+      "33",
+      "28",
+      "30"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "561÷17=33."
+  },
+  {
+    "q": "Completa la sequenza: 149, 156, 163, 170, __",
+    "options": [
+      "177 (4)",
+      "170",
+      "177",
+      "184"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Quanto fa 72 ÷ 24?",
+    "options": [
+      "1",
+      "6",
+      "3",
+      "3 (4)"
+    ],
+    "correct": 2,
+    "difficulty": "medium",
+    "explain": "72÷24=3."
+  },
+  {
+    "q": "Quanto fa 27 × 33?",
+    "options": [
+      "896",
+      "891",
+      "891 (4)",
+      "871"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "27×33=891."
+  },
+  {
+    "q": "Quanto fa 22 × 9?",
+    "options": [
+      "198 (4)",
+      "218",
+      "198",
+      "178"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "22×9=198."
+  },
+  {
+    "q": "Semplifica la frazione 814/814.",
+    "options": [
+      "814/814",
+      "1/1",
+      "1/2",
+      "2/1"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "Dividi numeratore e denominatore per il MCD."
+  },
+  {
+    "q": "Semplifica la frazione 150/189.",
+    "options": [
+      "150/189",
+      "50/64",
+      "50/63",
+      "51/63"
+    ],
+    "correct": 2,
+    "difficulty": "medium",
+    "explain": "Dividi numeratore e denominatore per il MCD."
+  },
+  {
+    "q": "Risolvi: 6x − 23 = 43. Quanto vale x?",
+    "options": [
+      "6",
+      "4",
+      "9",
+      "11"
+    ],
+    "correct": 3,
+    "difficulty": "hard",
+    "explain": "Isola x e dividi per a."
+  },
+  {
+    "q": "Qual è il 10% di 250?",
+    "options": [
+      "25",
+      "35",
+      "75",
+      "45"
+    ],
+    "correct": 0,
+    "difficulty": "medium",
+    "explain": "250×10/100=25."
+  },
+  {
+    "q": "Semplifica la frazione 105/84.",
+    "options": [
+      "105/84",
+      "5/5",
+      "5/4",
+      "6/4"
+    ],
+    "correct": 2,
+    "difficulty": "medium",
+    "explain": "Dividi numeratore e denominatore per il MCD."
+  },
+  {
+    "q": "Qual è il 25% di 300?",
+    "options": [
+      "70",
+      "75",
+      "55",
+      "80"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "300×25/100=75."
+  },
+  {
+    "q": "Completa la sequenza: 49, 58, 67, 76, __",
+    "options": [
+      "85",
+      "94",
+      "85 (4)",
+      "76"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Quanto fa 37 × 17?",
+    "options": [
+      "649",
+      "629",
+      "619",
+      "679"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "37×17=629."
+  },
+  {
+    "q": "Qual è il 60% di 150?",
+    "options": [
+      "95",
+      "90",
+      "110",
+      "80"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "150×60/100=90."
+  },
+  {
+    "q": "Completa la sequenza: 78, 88, 98, 108, __",
+    "options": [
+      "128",
+      "118",
+      "118 (4)",
+      "108"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Semplifica la frazione 18/27.",
+    "options": [
+      "3/3",
+      "2/3",
+      "18/27",
+      "2/4"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "Dividi numeratore e denominatore per il MCD."
+  },
+  {
+    "q": "Risolvi: 2x − 51 = 61. Quanto vale x?",
+    "options": [
+      "63",
+      "53",
+      "54",
+      "56"
+    ],
+    "correct": 3,
+    "difficulty": "hard",
+    "explain": "Isola x e dividi per a."
+  },
+  {
+    "q": "Quanto fa 50 × 43?",
+    "options": [
+      "2150",
+      "2170",
+      "2160",
+      "2200"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explain": "50×43=2150."
+  },
+  {
+    "q": "Semplifica la frazione 492/360.",
+    "options": [
+      "42/30",
+      "41/30",
+      "41/31",
+      "492/360"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "Dividi numeratore e denominatore per il MCD."
+  },
+  {
+    "q": "Quanto fa 558 ÷ 18?",
+    "options": [
+      "28",
+      "31",
+      "34",
+      "30"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "558÷18=31."
+  },
+  {
+    "q": "Semplifica la frazione 350/640.",
+    "options": [
+      "35/64",
+      "350/640",
+      "36/64",
+      "35/65"
+    ],
+    "correct": 0,
+    "difficulty": "medium",
+    "explain": "Dividi numeratore e denominatore per il MCD."
+  },
+  {
+    "q": "Quanto fa 19 + 254?",
+    "options": [
+      "273",
+      "275",
+      "263",
+      "253"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explain": "19+254=273."
+  },
+  {
+    "q": "Risolvi: 10x + 47 = 107. Quanto vale x?",
+    "options": [
+      "6 (4)",
+      "8",
+      "6",
+      "13"
+    ],
+    "correct": 2,
+    "difficulty": "hard",
+    "explain": "Isola x e dividi per a."
+  },
+  {
+    "q": "Quanto fa 128 − 98?",
+    "options": [
+      "32",
+      "20",
+      "35",
+      "30"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "128−98=30."
+  },
+  {
+    "q": "Interesse semplice: su 80€ al 10% per 1 anni, quanto interesse maturi?",
+    "options": [
+      "8€",
+      "58€",
+      "0€",
+      "8€ (4)"
+    ],
+    "correct": 0,
+    "difficulty": "medium",
+    "explain": "Interesse semplice: C×r×t."
+  },
+  {
+    "q": "Risolvi: 11x + 40 = 579. Quanto vale x?",
+    "options": [
+      "49",
+      "51",
+      "47",
+      "44"
+    ],
+    "correct": 0,
+    "difficulty": "hard",
+    "explain": "Isola x e dividi per a."
+  },
+  {
+    "q": "Quanto fa 414 ÷ 18?",
+    "options": [
+      "25",
+      "23",
+      "21",
+      "26"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "414÷18=23."
+  },
+  {
+    "q": "Completa la sequenza: 195, 211, 227, 243, __",
+    "options": [
+      "275",
+      "259 (4)",
+      "243",
+      "259"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Quanto fa 39 × 34?",
+    "options": [
+      "1306",
+      "1321",
+      "1331",
+      "1326"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "39×34=1326."
+  },
+  {
+    "q": "Quanto fa 45 × 43?",
+    "options": [
+      "1885",
+      "1935",
+      "1985",
+      "1940"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "45×43=1935."
+  },
+  {
+    "q": "Quanto fa 31 × 44?",
+    "options": [
+      "1414",
+      "1359",
+      "1364",
+      "1314"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "31×44=1364."
+  },
+  {
+    "q": "Quanto fa 908 + 225?",
+    "options": [
+      "1143",
+      "1131",
+      "1133",
+      "1123"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "908+225=1133."
+  },
+  {
+    "q": "Quanto fa 9 × 9?",
+    "options": [
+      "76",
+      "71",
+      "81",
+      "61"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "9×9=81."
+  },
+  {
+    "q": "Semplifica la frazione 216/300.",
+    "options": [
+      "18/25",
+      "19/25",
+      "18/26",
+      "216/300"
+    ],
+    "correct": 0,
+    "difficulty": "medium",
+    "explain": "Dividi numeratore e denominatore per il MCD."
+  },
+  {
+    "q": "Risolvi: 3x + 41 = 182. Quanto vale x?",
+    "options": [
+      "52",
+      "49",
+      "47",
+      "42"
+    ],
+    "correct": 2,
+    "difficulty": "hard",
+    "explain": "Isola x e dividi per a."
+  },
+  {
+    "q": "Completa la sequenza: 62, 67, 72, 77, __",
+    "options": [
+      "82",
+      "87",
+      "82 (4)",
+      "77"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Quanto fa 32 ÷ 16?",
+    "options": [
+      "1",
+      "5",
+      "2",
+      "7"
+    ],
+    "correct": 2,
+    "difficulty": "medium",
+    "explain": "32÷16=2."
+  },
+  {
+    "q": "Quanto fa 818 + 83?",
+    "options": [
+      "901",
+      "881",
+      "899",
+      "891"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explain": "818+83=901."
+  },
+  {
+    "q": "Interesse semplice: su 1500€ al 2% per 4 anni, quanto interesse maturi?",
+    "options": [
+      "70€",
+      "120€",
+      "115€",
+      "170€"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "Interesse semplice: C×r×t."
+  },
+  {
+    "q": "Semplifica la frazione 96/312.",
+    "options": [
+      "4/14",
+      "96/312",
+      "4/13",
+      "5/13"
+    ],
+    "correct": 2,
+    "difficulty": "medium",
+    "explain": "Dividi numeratore e denominatore per il MCD."
+  },
+  {
+    "q": "Qual è il 15% di 20?",
+    "options": [
+      "23",
+      "53",
+      "0",
+      "3"
+    ],
+    "correct": 3,
+    "difficulty": "medium",
+    "explain": "20×15/100=3."
+  },
+  {
+    "q": "Semplifica la frazione 154/35.",
+    "options": [
+      "154/35",
+      "22/6",
+      "23/5",
+      "22/5"
+    ],
+    "correct": 3,
+    "difficulty": "medium",
+    "explain": "Dividi numeratore e denominatore per il MCD."
+  },
+  {
+    "q": "Quanto fa 676 + 110?",
+    "options": [
+      "796",
+      "786",
+      "781",
+      "791"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "676+110=786."
+  },
+  {
+    "q": "Semplifica la frazione 264/516.",
+    "options": [
+      "264/516",
+      "22/43",
+      "23/43",
+      "22/44"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "Dividi numeratore e denominatore per il MCD."
+  },
+  {
+    "q": "Quanto fa 66 ÷ 3?",
+    "options": [
+      "23",
+      "21",
+      "19",
+      "22"
+    ],
+    "correct": 3,
+    "difficulty": "medium",
+    "explain": "66÷3=22."
+  },
+  {
+    "q": "Quanto fa 118 + 678?",
+    "options": [
+      "806",
+      "794",
+      "796",
+      "798"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "118+678=796."
+  },
+  {
+    "q": "Quanto fa 255 ÷ 17?",
+    "options": [
+      "15",
+      "20",
+      "12",
+      "14"
+    ],
+    "correct": 0,
+    "difficulty": "medium",
+    "explain": "255÷17=15."
+  },
+  {
+    "q": "Quanto fa 5 × 48?",
+    "options": [
+      "240 (4)",
+      "230",
+      "240",
+      "235"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "5×48=240."
+  },
+  {
+    "q": "Interesse semplice: su 80€ al 10% per 5 anni, quanto interesse maturi?",
+    "options": [
+      "40€ (4)",
+      "40€",
+      "30€",
+      "20€"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "Interesse semplice: C×r×t."
+  },
+  {
+    "q": "Risolvi: 10x + 49 = 429. Quanto vale x?",
+    "options": [
+      "38 (4)",
+      "33",
+      "38",
+      "50"
+    ],
+    "correct": 2,
+    "difficulty": "hard",
+    "explain": "Isola x e dividi per a."
+  },
+  {
+    "q": "Quanto fa 324 ÷ 27?",
+    "options": [
+      "13",
+      "12",
+      "10",
+      "17"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "324÷27=12."
+  },
+  {
+    "q": "Risolvi: 5x + 57 = 367. Quanto vale x?",
+    "options": [
+      "64",
+      "62",
+      "62 (4)",
+      "67"
+    ],
+    "correct": 1,
+    "difficulty": "hard",
+    "explain": "Isola x e dividi per a."
+  },
+  {
+    "q": "Quanto fa 231 − 7?",
+    "options": [
+      "224",
+      "234",
+      "214",
+      "229"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explain": "231−7=224."
+  },
+  {
+    "q": "Semplifica la frazione 315/70.",
+    "options": [
+      "315/70",
+      "9/2",
+      "9/3",
+      "10/2"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "Dividi numeratore e denominatore per il MCD."
+  },
+  {
+    "q": "Interesse semplice: su 80€ al 6% per 1 anni, quanto interesse maturi?",
+    "options": [
+      "5€ (4)",
+      "5€",
+      "0€",
+      "55€"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "Interesse semplice: C×r×t."
+  },
+  {
+    "q": "Quanto fa 12 × 42?",
+    "options": [
+      "504",
+      "454",
+      "484",
+      "504 (4)"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explain": "12×42=504."
+  },
+  {
+    "q": "Quanto fa 70 ÷ 7?",
+    "options": [
+      "8",
+      "13",
+      "10",
+      "15"
+    ],
+    "correct": 2,
+    "difficulty": "medium",
+    "explain": "70÷7=10."
+  },
+  {
+    "q": "Interesse semplice: su 50€ al 4% per 3 anni, quanto interesse maturi?",
+    "options": [
+      "1€",
+      "56€",
+      "6€",
+      "11€"
+    ],
+    "correct": 2,
+    "difficulty": "medium",
+    "explain": "Interesse semplice: C×r×t."
+  },
+  {
+    "q": "Quanto fa 57 ÷ 19?",
+    "options": [
+      "4",
+      "8",
+      "1",
+      "3"
+    ],
+    "correct": 3,
+    "difficulty": "medium",
+    "explain": "57÷19=3."
+  },
+  {
+    "q": "Quanto fa 285 ÷ 19?",
+    "options": [
+      "15",
+      "15 (4)",
+      "14",
+      "12"
+    ],
+    "correct": 0,
+    "difficulty": "medium",
+    "explain": "285÷19=15."
+  },
+  {
+    "q": "Quanto fa 10 × 19?",
+    "options": [
+      "210",
+      "190",
+      "170",
+      "195"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "10×19=190."
+  },
+  {
+    "q": "Quanto fa 189 ÷ 27?",
+    "options": [
+      "9",
+      "7",
+      "2",
+      "4"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "189÷27=7."
+  },
+  {
+    "q": "Interesse semplice: su 300€ al 3% per 2 anni, quanto interesse maturi?",
+    "options": [
+      "28€",
+      "18€ (4)",
+      "0€",
+      "18€"
+    ],
+    "correct": 3,
+    "difficulty": "medium",
+    "explain": "Interesse semplice: C×r×t."
+  },
+  {
+    "q": "Completa la sequenza: 37, 57, 77, 97, __",
+    "options": [
+      "137",
+      "117 (4)",
+      "97",
+      "117"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Quanto fa 241 − 149?",
+    "options": [
+      "112",
+      "97",
+      "87",
+      "92"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "241−149=92."
+  },
+  {
+    "q": "Qual è il 50% di 400?",
+    "options": [
+      "200",
+      "180",
+      "200 (4)",
+      "220"
+    ],
+    "correct": 0,
+    "difficulty": "medium",
+    "explain": "400×50/100=200."
+  },
+  {
+    "q": "Interesse semplice: su 500€ al 6% per 5 anni, quanto interesse maturi?",
+    "options": [
+      "150€",
+      "200€",
+      "160€",
+      "130€"
+    ],
+    "correct": 0,
+    "difficulty": "medium",
+    "explain": "Interesse semplice: C×r×t."
+  },
+  {
+    "q": "Semplifica la frazione 319/330.",
+    "options": [
+      "29/30",
+      "30/30",
+      "29/31",
+      "319/330"
+    ],
+    "correct": 0,
+    "difficulty": "medium",
+    "explain": "Dividi numeratore e denominatore per il MCD."
+  },
+  {
+    "q": "Risolvi: 11x − 34 = 769. Quanto vale x?",
+    "options": [
+      "80",
+      "73 (4)",
+      "73",
+      "68"
+    ],
+    "correct": 2,
+    "difficulty": "hard",
+    "explain": "Isola x e dividi per a."
+  },
+  {
+    "q": "Semplifica la frazione 40/40.",
+    "options": [
+      "40/40",
+      "1/2",
+      "2/1",
+      "1/1"
+    ],
+    "correct": 3,
+    "difficulty": "medium",
+    "explain": "Dividi numeratore e denominatore per il MCD."
+  },
+  {
+    "q": "Quanto fa 248 + 880?",
+    "options": [
+      "1118",
+      "1126",
+      "1128",
+      "1148"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "248+880=1128."
+  },
+  {
+    "q": "Completa la sequenza: 142, 150, 158, 166, __",
+    "options": [
+      "174",
+      "174 (4)",
+      "166",
+      "182"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Semplifica la frazione 250/100.",
+    "options": [
+      "5/3",
+      "250/100",
+      "6/2",
+      "5/2"
+    ],
+    "correct": 3,
+    "difficulty": "medium",
+    "explain": "Dividi numeratore e denominatore per il MCD."
+  },
+  {
+    "q": "Semplifica la frazione 225/675.",
+    "options": [
+      "2/3",
+      "225/675",
+      "1/4",
+      "1/3"
+    ],
+    "correct": 3,
+    "difficulty": "medium",
+    "explain": "Dividi numeratore e denominatore per il MCD."
+  },
+  {
+    "q": "Interesse semplice: su 500€ al 5% per 5 anni, quanto interesse maturi?",
+    "options": [
+      "135€",
+      "125€",
+      "120€",
+      "75€"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "Interesse semplice: C×r×t."
+  },
+  {
+    "q": "Quanto fa 45 × 16?",
+    "options": [
+      "715",
+      "700",
+      "770",
+      "720"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "45×16=720."
+  },
+  {
+    "q": "Risolvi: 10x + 59 = 509. Quanto vale x?",
+    "options": [
+      "45 (4)",
+      "47",
+      "52",
+      "45"
+    ],
+    "correct": 3,
+    "difficulty": "hard",
+    "explain": "Isola x e dividi per a."
+  },
+  {
+    "q": "Qual è il 60% di 100?",
+    "options": [
+      "60 (4)",
+      "110",
+      "55",
+      "60"
+    ],
+    "correct": 3,
+    "difficulty": "medium",
+    "explain": "100×60/100=60."
+  },
+  {
+    "q": "Risolvi: 4x − 24 = 260. Quanto vale x?",
+    "options": [
+      "76",
+      "83",
+      "59",
+      "71"
+    ],
+    "correct": 3,
+    "difficulty": "hard",
+    "explain": "Isola x e dividi per a."
+  },
+  {
+    "q": "Completa la sequenza: 47, 54, 61, 68, __",
+    "options": [
+      "82",
+      "75 (4)",
+      "68",
+      "75"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Qual è il 60% di 600?",
+    "options": [
+      "350",
+      "355",
+      "380",
+      "360"
+    ],
+    "correct": 3,
+    "difficulty": "medium",
+    "explain": "600×60/100=360."
+  },
+  {
+    "q": "Quanto fa 837 + 801?",
+    "options": [
+      "1648",
+      "1638",
+      "1636",
+      "1633"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "837+801=1638."
+  },
+  {
+    "q": "Quanto fa 878 + 655?",
+    "options": [
+      "1523",
+      "1543",
+      "1533",
+      "1528"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "878+655=1533."
+  },
+  {
+    "q": "Quanto fa 50 × 36?",
+    "options": [
+      "1805",
+      "1790",
+      "1800",
+      "1780"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "50×36=1800."
+  },
+  {
+    "q": "Qual è il 30% di 120?",
+    "options": [
+      "36 (4)",
+      "26",
+      "46",
+      "36"
+    ],
+    "correct": 3,
+    "difficulty": "medium",
+    "explain": "120×30/100=36."
+  },
+  {
+    "q": "Quanto fa 385 − 199?",
+    "options": [
+      "186",
+      "176",
+      "196",
+      "181"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explain": "385−199=186."
+  },
+  {
+    "q": "Interesse semplice: su 120€ al 12% per 4 anni, quanto interesse maturi?",
+    "options": [
+      "38€",
+      "78€",
+      "68€",
+      "58€"
+    ],
+    "correct": 3,
+    "difficulty": "medium",
+    "explain": "Interesse semplice: C×r×t."
+  },
+  {
+    "q": "Qual è il 5% di 40?",
+    "options": [
+      "2 (4)",
+      "0",
+      "2",
+      "22"
+    ],
+    "correct": 2,
+    "difficulty": "medium",
+    "explain": "40×5/100=2."
+  },
+  {
+    "q": "Interesse semplice: su 100€ al 5% per 2 anni, quanto interesse maturi?",
+    "options": [
+      "15€",
+      "0€",
+      "10€ (4)",
+      "10€"
+    ],
+    "correct": 3,
+    "difficulty": "medium",
+    "explain": "Interesse semplice: C×r×t."
+  },
+  {
+    "q": "Interesse semplice: su 250€ al 4% per 2 anni, quanto interesse maturi?",
+    "options": [
+      "15€",
+      "20€",
+      "0€",
+      "40€"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "Interesse semplice: C×r×t."
+  },
+  {
+    "q": "Completa la sequenza: 173, 193, 213, 233, __",
+    "options": [
+      "233",
+      "253 (4)",
+      "273",
+      "253"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Quanto fa 721 + 390?",
+    "options": [
+      "1111 (4)",
+      "1111",
+      "1109",
+      "1101"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "721+390=1111."
+  },
+  {
+    "q": "Interesse semplice: su 80€ al 8% per 4 anni, quanto interesse maturi?",
+    "options": [
+      "26€",
+      "26€ (4)",
+      "0€",
+      "46€"
+    ],
+    "correct": 0,
+    "difficulty": "medium",
+    "explain": "Interesse semplice: C×r×t."
+  },
+  {
+    "q": "Quanto fa 224 + 75?",
+    "options": [
+      "301",
+      "309",
+      "299",
+      "294"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "224+75=299."
+  },
+  {
+    "q": "Semplifica la frazione 228/92.",
+    "options": [
+      "228/92",
+      "57/24",
+      "57/23",
+      "58/23"
+    ],
+    "correct": 2,
+    "difficulty": "medium",
+    "explain": "Dividi numeratore e denominatore per il MCD."
+  },
+  {
+    "q": "Risolvi: 13x − 13 = 377. Quanto vale x?",
+    "options": [
+      "30",
+      "30 (4)",
+      "18",
+      "35"
+    ],
+    "correct": 0,
+    "difficulty": "hard",
+    "explain": "Isola x e dividi per a."
+  },
+  {
+    "q": "Semplifica la frazione 28/84.",
+    "options": [
+      "2/3",
+      "28/84",
+      "1/4",
+      "1/3"
+    ],
+    "correct": 3,
+    "difficulty": "medium",
+    "explain": "Dividi numeratore e denominatore per il MCD."
+  },
+  {
+    "q": "Semplifica la frazione 550/198.",
+    "options": [
+      "550/198",
+      "25/9",
+      "26/9",
+      "25/10"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "Dividi numeratore e denominatore per il MCD."
+  },
+  {
+    "q": "Qual è il 5% di 60?",
+    "options": [
+      "3",
+      "0",
+      "3 (4)",
+      "23"
+    ],
+    "correct": 0,
+    "difficulty": "medium",
+    "explain": "60×5/100=3."
+  },
+  {
+    "q": "Quanto fa 4 + 856?",
+    "options": [
+      "860 (4)",
+      "855",
+      "860",
+      "850"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "4+856=860."
+  },
+  {
+    "q": "Quanto fa 22 × 29?",
+    "options": [
+      "638 (4)",
+      "688",
+      "638",
+      "648"
+    ],
+    "correct": 2,
+    "difficulty": "easy",
+    "explain": "22×29=638."
+  },
+  {
+    "q": "Semplifica la frazione 320/300.",
+    "options": [
+      "320/300",
+      "17/15",
+      "16/16",
+      "16/15"
+    ],
+    "correct": 3,
+    "difficulty": "medium",
+    "explain": "Dividi numeratore e denominatore per il MCD."
+  },
+  {
+    "q": "Semplifica la frazione 76/164.",
+    "options": [
+      "20/41",
+      "19/41",
+      "76/164",
+      "19/42"
+    ],
+    "correct": 1,
+    "difficulty": "medium",
+    "explain": "Dividi numeratore e denominatore per il MCD."
+  },
+  {
+    "q": "Completa la sequenza: 180, 199, 218, 237, __",
+    "options": [
+      "237",
+      "256 (4)",
+      "275",
+      "256"
+    ],
+    "correct": 3,
+    "difficulty": "easy",
+    "explain": "Progressione aritmetica."
+  },
+  {
+    "q": "Quanto fa 50 × 38?",
+    "options": [
+      "1950",
+      "1900",
+      "1920",
+      "1890"
+    ],
+    "correct": 1,
+    "difficulty": "easy",
+    "explain": "50×38=1900."
+  }
+]

@@ -1,0 +1,3302 @@
+[
+  {
+    "q": "Qual è la capitale di Grecia? (variante 134)",
+    "options": [
+      "Atene",
+      "Nairobi",
+      "Varsavia",
+      "Accra"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la capitale di Spagna? (variante 42)",
+    "options": [
+      "Madrid",
+      "Buenos Aires",
+      "Londra",
+      "Parigi"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Di quale Paese Roma è la capitale? (variante 27)",
+    "options": [
+      "Argentina",
+      "Svezia",
+      "Italia",
+      "Marocco"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è il capoluogo della regione Puglia? (variante 56)",
+    "options": [
+      "Cagliari",
+      "Bari",
+      "Venezia",
+      "Milano"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Di quale Paese Rabat è la capitale? (variante 74)",
+    "options": [
+      "Paesi Bassi",
+      "Nigeria",
+      "Danimarca",
+      "Marocco"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la capitale di Danimarca? (variante 77)",
+    "options": [
+      "Dublino",
+      "Pechino",
+      "Copenaghen",
+      "Berna"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è il capoluogo della regione Veneto? (variante 83)",
+    "options": [
+      "Firenze",
+      "Bari",
+      "Venezia",
+      "Roma"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è il capoluogo della regione Umbria? (variante 97)",
+    "options": [
+      "Roma",
+      "Napoli",
+      "Catanzaro",
+      "Perugia"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la capitale di Argentina? (variante 133)",
+    "options": [
+      "Varsavia",
+      "Roma",
+      "Buenos Aires",
+      "Madrid"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la capitale di Italia? (variante 39)",
+    "options": [
+      "Londra",
+      "Dublino",
+      "Roma",
+      "Pechino"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è il capoluogo della regione Puglia? (variante 108)",
+    "options": [
+      "Napoli",
+      "Bari",
+      "Milano",
+      "Catanzaro"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la capitale di USA? (variante 37)",
+    "options": [
+      "Rabat",
+      "Canberra",
+      "Washington, D.C.",
+      "Roma"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la capitale di Svizzera? (variante 82)",
+    "options": [
+      "Berna",
+      "Il Cairo",
+      "Canberra",
+      "Berlino"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Di quale Paese Nairobi è la capitale? (variante 118)",
+    "options": [
+      "Spagna",
+      "Canada",
+      "Egitto",
+      "Kenya"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la capitale di Cina? (variante 20)",
+    "options": [
+      "Accra",
+      "Parigi",
+      "Roma",
+      "Pechino"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la capitale di Spagna? (variante 169)",
+    "options": [
+      "Madrid",
+      "Londra",
+      "Rabat",
+      "Tokyo"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è il capoluogo della regione Sicilia? (variante 90)",
+    "options": [
+      "Genova",
+      "Milano",
+      "Venezia",
+      "Palermo"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è il capoluogo della regione Lombardia? (variante 66)",
+    "options": [
+      "Bari",
+      "Firenze",
+      "Ancona",
+      "Milano"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la capitale di Brasile? (variante 168)",
+    "options": [
+      "Brasilia",
+      "Nairobi",
+      "Washington, D.C.",
+      "Atene"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è il capoluogo della regione Lazio? (variante 55)",
+    "options": [
+      "Bari",
+      "Genova",
+      "Bologna",
+      "Roma"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Di quale Paese Rabat è la capitale? (variante 88)",
+    "options": [
+      "Australia",
+      "Argentina",
+      "Nuova Zelanda",
+      "Marocco"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la capitale di Marocco? (variante 58)",
+    "options": [
+      "Abuja",
+      "Stoccolma",
+      "Rabat",
+      "Copenaghen"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è il capoluogo della regione Abruzzo? (variante 46)",
+    "options": [
+      "Torino",
+      "L'Aquila",
+      "Bari",
+      "Perugia"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la capitale di Marocco? (variante 108)",
+    "options": [
+      "Varsavia",
+      "Città del Messico",
+      "Rabat",
+      "Lisbona"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è il capoluogo della regione Veneto? (variante 81)",
+    "options": [
+      "Napoli",
+      "Bologna",
+      "Genova",
+      "Venezia"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la capitale di Grecia? (variante 48)",
+    "options": [
+      "Varsavia",
+      "Nuova Delhi",
+      "Atene",
+      "Accra"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la capitale di Cina? (variante 116)",
+    "options": [
+      "Vienna",
+      "Pechino",
+      "Amsterdam",
+      "Stoccolma"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la capitale di Portogallo? (variante 2)",
+    "options": [
+      "Nairobi",
+      "Lisbona",
+      "Pechino",
+      "Roma"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Di quale Paese Dublino è la capitale? (variante 31)",
+    "options": [
+      "Svezia",
+      "Irlanda",
+      "USA",
+      "Ghana"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è il capoluogo della regione Lombardia? (variante 9)",
+    "options": [
+      "Ancona",
+      "L'Aquila",
+      "Cagliari",
+      "Milano"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Di quale Paese Londra è la capitale? (variante 16)",
+    "options": [
+      "Cina",
+      "Nigeria",
+      "Ghana",
+      "Regno Unito"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la capitale di Svezia? (variante 166)",
+    "options": [
+      "Amsterdam",
+      "Vienna",
+      "Stoccolma",
+      "Brasilia"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Di quale Paese Amsterdam è la capitale? (variante 1)",
+    "options": [
+      "Spagna",
+      "Paesi Bassi",
+      "Nigeria",
+      "Grecia"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Di quale Paese Tokyo è la capitale? (variante 26)",
+    "options": [
+      "Ghana",
+      "Giappone",
+      "Nigeria",
+      "Francia"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Di quale Paese Amsterdam è la capitale? (variante 115)",
+    "options": [
+      "Paesi Bassi",
+      "Portogallo",
+      "Italia",
+      "Irlanda"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è il capoluogo della regione Lombardia? (variante 69)",
+    "options": [
+      "Genova",
+      "Napoli",
+      "Bari",
+      "Milano"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Di quale Paese Parigi è la capitale? (variante 102)",
+    "options": [
+      "USA",
+      "Marocco",
+      "Australia",
+      "Francia"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la capitale di Polonia? (variante 41)",
+    "options": [
+      "Londra",
+      "Oslo",
+      "Brasilia",
+      "Varsavia"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Di quale Paese Amsterdam è la capitale? (variante 81)",
+    "options": [
+      "Regno Unito",
+      "Spagna",
+      "Grecia",
+      "Paesi Bassi"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la capitale di India? (variante 14)",
+    "options": [
+      "Pechino",
+      "Brasilia",
+      "Nuova Delhi",
+      "Washington, D.C."
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la capitale di Nuova Zelanda? (variante 148)",
+    "options": [
+      "Berlino",
+      "Madrid",
+      "Stoccolma",
+      "Wellington"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la capitale di Svizzera? (variante 13)",
+    "options": [
+      "Berna",
+      "Nuova Delhi",
+      "Abuja",
+      "Washington, D.C."
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la capitale di Canada? (variante 8)",
+    "options": [
+      "Ottawa",
+      "Pechino",
+      "Wellington",
+      "Stoccolma"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è il capoluogo della regione Sicilia? (variante 60)",
+    "options": [
+      "Palermo",
+      "Genova",
+      "Cagliari",
+      "Roma"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è il capoluogo della regione Marche? (variante 112)",
+    "options": [
+      "Catanzaro",
+      "Venezia",
+      "Ancona",
+      "Napoli"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la capitale di Nuova Zelanda? (variante 159)",
+    "options": [
+      "Nairobi",
+      "Madrid",
+      "Berna",
+      "Wellington"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è il capoluogo della regione Toscana? (variante 101)",
+    "options": [
+      "Ancona",
+      "Palermo",
+      "Venezia",
+      "Firenze"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è il capoluogo della regione Veneto? (variante 118)",
+    "options": [
+      "Catanzaro",
+      "Bologna",
+      "Cagliari",
+      "Venezia"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la capitale di Ghana? (variante 131)",
+    "options": [
+      "Accra",
+      "Londra",
+      "Nuova Delhi",
+      "Berlino"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la capitale di Francia? (variante 179)",
+    "options": [
+      "Parigi",
+      "Madrid",
+      "Nuova Delhi",
+      "Il Cairo"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Di quale Paese Città del Messico è la capitale? (variante 76)",
+    "options": [
+      "Portogallo",
+      "Messico",
+      "Germania",
+      "Irlanda"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la capitale di Irlanda? (variante 22)",
+    "options": [
+      "Dublino",
+      "Washington, D.C.",
+      "Amsterdam",
+      "Ottawa"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la capitale di Francia? (variante 69)",
+    "options": [
+      "Madrid",
+      "Abuja",
+      "Parigi",
+      "Wellington"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la capitale di Nuova Zelanda? (variante 144)",
+    "options": [
+      "Parigi",
+      "Wellington",
+      "Washington, D.C.",
+      "Oslo"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Di quale Paese Dublino è la capitale? (variante 82)",
+    "options": [
+      "USA",
+      "Polonia",
+      "Brasile",
+      "Irlanda"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la capitale di Portogallo? (variante 94)",
+    "options": [
+      "Vienna",
+      "Wellington",
+      "Abuja",
+      "Lisbona"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è il capoluogo della regione Abruzzo? (variante 34)",
+    "options": [
+      "Catanzaro",
+      "Torino",
+      "Genova",
+      "L'Aquila"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Di quale Paese Buenos Aires è la capitale? (variante 57)",
+    "options": [
+      "Argentina",
+      "Svizzera",
+      "USA",
+      "Cina"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la capitale di Italia? (variante 66)",
+    "options": [
+      "Brasilia",
+      "Roma",
+      "Canberra",
+      "Madrid"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è il capoluogo della regione Emilia-Romagna? (variante 117)",
+    "options": [
+      "Milano",
+      "Torino",
+      "Bologna",
+      "Palermo"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la capitale di Egitto? (variante 155)",
+    "options": [
+      "Rabat",
+      "Oslo",
+      "Abuja",
+      "Il Cairo"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è il capoluogo della regione Umbria? (variante 84)",
+    "options": [
+      "Venezia",
+      "L'Aquila",
+      "Perugia",
+      "Ancona"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la capitale di Cina? (variante 125)",
+    "options": [
+      "Ottawa",
+      "Amsterdam",
+      "Pechino",
+      "Lisbona"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è il capoluogo della regione Emilia-Romagna? (variante 87)",
+    "options": [
+      "Catanzaro",
+      "Bologna",
+      "Roma",
+      "Genova"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la capitale di Ghana? (variante 135)",
+    "options": [
+      "Roma",
+      "Accra",
+      "Amsterdam",
+      "Il Cairo"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Di quale Paese Nairobi è la capitale? (variante 24)",
+    "options": [
+      "Egitto",
+      "Italia",
+      "Svezia",
+      "Kenya"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è il capoluogo della regione Marche? (variante 89)",
+    "options": [
+      "Venezia",
+      "Napoli",
+      "Bari",
+      "Ancona"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Di quale Paese Rabat è la capitale? (variante 19)",
+    "options": [
+      "Francia",
+      "Egitto",
+      "Canada",
+      "Marocco"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la capitale di Irlanda? (variante 54)",
+    "options": [
+      "Vienna",
+      "Dublino",
+      "Roma",
+      "Amsterdam"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la capitale di Grecia? (variante 163)",
+    "options": [
+      "Atene",
+      "Madrid",
+      "Lisbona",
+      "Roma"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Di quale Paese Amsterdam è la capitale? (variante 64)",
+    "options": [
+      "Paesi Bassi",
+      "Brasile",
+      "Ghana",
+      "Cina"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Di quale Paese Washington, D.C. è la capitale? (variante 68)",
+    "options": [
+      "Argentina",
+      "USA",
+      "Svizzera",
+      "Grecia"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è il capoluogo della regione Umbria? (variante 105)",
+    "options": [
+      "Firenze",
+      "Bari",
+      "Perugia",
+      "Torino"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è il capoluogo della regione Lazio? (variante 104)",
+    "options": [
+      "Perugia",
+      "Bari",
+      "Roma",
+      "Firenze"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la capitale di India? (variante 24)",
+    "options": [
+      "Amsterdam",
+      "Nuova Delhi",
+      "Ottawa",
+      "Atene"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la capitale di USA? (variante 160)",
+    "options": [
+      "Washington, D.C.",
+      "Nairobi",
+      "Rabat",
+      "Il Cairo"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Di quale Paese Tokyo è la capitale? (variante 73)",
+    "options": [
+      "Norvegia",
+      "Germania",
+      "Giappone",
+      "Irlanda"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la capitale di Australia? (variante 132)",
+    "options": [
+      "Ottawa",
+      "Tokyo",
+      "Canberra",
+      "Londra"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la capitale di Kenya? (variante 150)",
+    "options": [
+      "Nairobi",
+      "Rabat",
+      "Amsterdam",
+      "Il Cairo"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la capitale di Nuova Zelanda? (variante 30)",
+    "options": [
+      "Vienna",
+      "Wellington",
+      "Copenaghen",
+      "Washington, D.C."
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è il capoluogo della regione Liguria? (variante 57)",
+    "options": [
+      "Genova",
+      "Venezia",
+      "Palermo",
+      "Roma"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è il capoluogo della regione Liguria? (variante 92)",
+    "options": [
+      "Catanzaro",
+      "Genova",
+      "Perugia",
+      "Firenze"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è il capoluogo della regione Calabria? (variante 115)",
+    "options": [
+      "Catanzaro",
+      "Ancona",
+      "L'Aquila",
+      "Palermo"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la capitale di USA? (variante 126)",
+    "options": [
+      "Washington, D.C.",
+      "Vienna",
+      "Pechino",
+      "Amsterdam"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Di quale Paese Lisbona è la capitale? (variante 13)",
+    "options": [
+      "Marocco",
+      "Francia",
+      "Portogallo",
+      "Austria"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Di quale Paese Berlino è la capitale? (variante 33)",
+    "options": [
+      "Germania",
+      "Portogallo",
+      "Svezia",
+      "Irlanda"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la capitale di Polonia? (variante 178)",
+    "options": [
+      "Canberra",
+      "Nuova Delhi",
+      "Varsavia",
+      "Washington, D.C."
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la capitale di Francia? (variante 76)",
+    "options": [
+      "Parigi",
+      "Buenos Aires",
+      "Lisbona",
+      "Wellington"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è il capoluogo della regione Lazio? (variante 94)",
+    "options": [
+      "L'Aquila",
+      "Roma",
+      "Palermo",
+      "Genova"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è il capoluogo della regione Abruzzo? (variante 18)",
+    "options": [
+      "Roma",
+      "L'Aquila",
+      "Bari",
+      "Firenze"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Di quale Paese Brasilia è la capitale? (variante 18)",
+    "options": [
+      "Portogallo",
+      "Austria",
+      "Italia",
+      "Brasile"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è il capoluogo della regione Toscana? (variante 86)",
+    "options": [
+      "Ancona",
+      "Cagliari",
+      "Firenze",
+      "L'Aquila"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è il capoluogo della regione Emilia-Romagna? (variante 58)",
+    "options": [
+      "Palermo",
+      "Catanzaro",
+      "Bologna",
+      "Ancona"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Di quale Paese Wellington è la capitale? (variante 2)",
+    "options": [
+      "Nuova Zelanda",
+      "Egitto",
+      "Regno Unito",
+      "Ghana"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è il capoluogo della regione Puglia? (variante 54)",
+    "options": [
+      "Napoli",
+      "Bari",
+      "L'Aquila",
+      "Milano"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è il capoluogo della regione Piemonte? (variante 62)",
+    "options": [
+      "Bari",
+      "Torino",
+      "Perugia",
+      "Venezia"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Di quale Paese Parigi è la capitale? (variante 44)",
+    "options": [
+      "Marocco",
+      "Francia",
+      "Argentina",
+      "Egitto"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Di quale Paese Copenaghen è la capitale? (variante 78)",
+    "options": [
+      "Grecia",
+      "Spagna",
+      "Danimarca",
+      "Regno Unito"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è il capoluogo della regione Veneto? (variante 2)",
+    "options": [
+      "Genova",
+      "Venezia",
+      "Palermo",
+      "Perugia"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Di quale Paese Rabat è la capitale? (variante 58)",
+    "options": [
+      "Portogallo",
+      "Spagna",
+      "Marocco",
+      "Nigeria"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la capitale di Ghana? (variante 64)",
+    "options": [
+      "Accra",
+      "Madrid",
+      "Canberra",
+      "Roma"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la capitale di Nuova Zelanda? (variante 171)",
+    "options": [
+      "Oslo",
+      "Abuja",
+      "Atene",
+      "Wellington"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è il capoluogo della regione Lombardia? (variante 59)",
+    "options": [
+      "Cagliari",
+      "Roma",
+      "Milano",
+      "Torino"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la capitale di Kenya? (variante 29)",
+    "options": [
+      "Il Cairo",
+      "Nairobi",
+      "Londra",
+      "Wellington"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è il capoluogo della regione Sardegna? (variante 7)",
+    "options": [
+      "Bologna",
+      "Ancona",
+      "Cagliari",
+      "Genova"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Dove si trova il deserto del Sahara?",
+    "options": [
+      "In Asia",
+      "In Africa",
+      "In Europa",
+      "In America"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la capitale di Kenya? (variante 176)",
+    "options": [
+      "Canberra",
+      "Nairobi",
+      "Londra",
+      "Amsterdam"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è il capoluogo della regione Calabria? (variante 47)",
+    "options": [
+      "Firenze",
+      "Napoli",
+      "Catanzaro",
+      "Perugia"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Di quale Paese Lisbona è la capitale? (variante 91)",
+    "options": [
+      "USA",
+      "Portogallo",
+      "Canada",
+      "Kenya"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è il capoluogo della regione Lombardia? (variante 16)",
+    "options": [
+      "Milano",
+      "Napoli",
+      "L'Aquila",
+      "Cagliari"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è il capoluogo della regione Lazio? (variante 13)",
+    "options": [
+      "Roma",
+      "Ancona",
+      "Genova",
+      "Torino"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Di quale Paese Dublino è la capitale? (variante 71)",
+    "options": [
+      "Norvegia",
+      "Danimarca",
+      "Argentina",
+      "Irlanda"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la capitale di Paesi Bassi? (variante 5)",
+    "options": [
+      "Amsterdam",
+      "Copenaghen",
+      "Oslo",
+      "Città del Messico"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la capitale di Svizzera? (variante 120)",
+    "options": [
+      "Stoccolma",
+      "Pechino",
+      "Berna",
+      "Berlino"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la capitale di Norvegia? (variante 141)",
+    "options": [
+      "Stoccolma",
+      "Oslo",
+      "Berlino",
+      "Berna"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la capitale di Portogallo? (variante 60)",
+    "options": [
+      "Ottawa",
+      "Stoccolma",
+      "Madrid",
+      "Lisbona"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è il capoluogo della regione Lombardia? (variante 61)",
+    "options": [
+      "Milano",
+      "Bari",
+      "Palermo",
+      "Catanzaro"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Di quale Paese Madrid è la capitale? (variante 12)",
+    "options": [
+      "Danimarca",
+      "Spagna",
+      "Marocco",
+      "Canada"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è il capoluogo della regione Piemonte? (variante 20)",
+    "options": [
+      "Torino",
+      "Palermo",
+      "Bari",
+      "Catanzaro"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Di quale Paese Atene è la capitale? (variante 50)",
+    "options": [
+      "Grecia",
+      "Danimarca",
+      "India",
+      "Irlanda"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è il capoluogo della regione Sicilia? (variante 99)",
+    "options": [
+      "Ancona",
+      "Bologna",
+      "Palermo",
+      "Cagliari"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Di quale Paese Oslo è la capitale? (variante 86)",
+    "options": [
+      "Norvegia",
+      "Messico",
+      "Paesi Bassi",
+      "Italia"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la capitale di Polonia? (variante 7)",
+    "options": [
+      "Varsavia",
+      "Nairobi",
+      "Atene",
+      "Oslo"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la capitale di Portogallo? (variante 46)",
+    "options": [
+      "Buenos Aires",
+      "Copenaghen",
+      "Washington, D.C.",
+      "Lisbona"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la capitale di USA? (variante 56)",
+    "options": [
+      "Dublino",
+      "Madrid",
+      "Abuja",
+      "Washington, D.C."
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la capitale di Brasile? (variante 174)",
+    "options": [
+      "Tokyo",
+      "Atene",
+      "Il Cairo",
+      "Brasilia"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Di quale Paese Wellington è la capitale? (variante 4)",
+    "options": [
+      "Nuova Zelanda",
+      "Germania",
+      "Australia",
+      "Grecia"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la capitale di Cina? (variante 34)",
+    "options": [
+      "Nairobi",
+      "Parigi",
+      "Pechino",
+      "Canberra"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è il capoluogo della regione Campania? (variante 35)",
+    "options": [
+      "Napoli",
+      "Genova",
+      "Roma",
+      "Bologna"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la capitale di Giappone? (variante 57)",
+    "options": [
+      "Berna",
+      "Rabat",
+      "Tokyo",
+      "Copenaghen"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Di quale Paese Dublino è la capitale? (variante 92)",
+    "options": [
+      "Svezia",
+      "Ghana",
+      "Irlanda",
+      "Spagna"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è il capoluogo della regione Veneto? (variante 95)",
+    "options": [
+      "Venezia",
+      "Bologna",
+      "Napoli",
+      "L'Aquila"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Di quale Paese Copenaghen è la capitale? (variante 87)",
+    "options": [
+      "Marocco",
+      "Danimarca",
+      "Paesi Bassi",
+      "Brasile"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Di quale Paese Accra è la capitale? (variante 8)",
+    "options": [
+      "Giappone",
+      "Spagna",
+      "India",
+      "Ghana"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la capitale di Ghana? (variante 153)",
+    "options": [
+      "Varsavia",
+      "Dublino",
+      "Vienna",
+      "Accra"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è il capoluogo della regione Toscana? (variante 19)",
+    "options": [
+      "Firenze",
+      "Venezia",
+      "Catanzaro",
+      "Ancona"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la capitale di Paesi Bassi? (variante 40)",
+    "options": [
+      "Il Cairo",
+      "Canberra",
+      "Rabat",
+      "Amsterdam"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Di quale Paese Oslo è la capitale? (variante 49)",
+    "options": [
+      "Nuova Zelanda",
+      "Australia",
+      "Spagna",
+      "Norvegia"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Di quale Paese Buenos Aires è la capitale? (variante 43)",
+    "options": [
+      "Grecia",
+      "Svizzera",
+      "Nigeria",
+      "Argentina"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la capitale di Australia? (variante 113)",
+    "options": [
+      "Varsavia",
+      "Abuja",
+      "Canberra",
+      "Atene"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la capitale di Polonia? (variante 121)",
+    "options": [
+      "Tokyo",
+      "Accra",
+      "Varsavia",
+      "Canberra"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Di quale Paese Città del Messico è la capitale? (variante 99)",
+    "options": [
+      "India",
+      "Nuova Zelanda",
+      "Francia",
+      "Messico"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la capitale di Regno Unito? (variante 15)",
+    "options": [
+      "Londra",
+      "Abuja",
+      "Amsterdam",
+      "Nairobi"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Di quale Paese Varsavia è la capitale? (variante 9)",
+    "options": [
+      "Francia",
+      "Polonia",
+      "Danimarca",
+      "Nigeria"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Di quale Paese Tokyo è la capitale? (variante 5)",
+    "options": [
+      "Svezia",
+      "Giappone",
+      "Italia",
+      "Norvegia"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Di quale Paese Rabat è la capitale? (variante 67)",
+    "options": [
+      "Giappone",
+      "Canada",
+      "Svezia",
+      "Marocco"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è il capoluogo della regione Campania? (variante 116)",
+    "options": [
+      "Napoli",
+      "Bari",
+      "Bologna",
+      "Venezia"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la capitale di Norvegia? (variante 100)",
+    "options": [
+      "Pechino",
+      "Oslo",
+      "Lisbona",
+      "Berlino"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è il capoluogo della regione Sardegna? (variante 45)",
+    "options": [
+      "Bari",
+      "Ancona",
+      "Perugia",
+      "Cagliari"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la capitale di Danimarca? (variante 70)",
+    "options": [
+      "Londra",
+      "Copenaghen",
+      "Accra",
+      "Varsavia"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la capitale di Danimarca? (variante 156)",
+    "options": [
+      "Il Cairo",
+      "Madrid",
+      "Amsterdam",
+      "Copenaghen"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Di quale Paese Lisbona è la capitale? (variante 22)",
+    "options": [
+      "Danimarca",
+      "Italia",
+      "Portogallo",
+      "Ghana"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la capitale di Italia? (variante 93)",
+    "options": [
+      "Canberra",
+      "Roma",
+      "Città del Messico",
+      "Nuova Delhi"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la capitale di Nuova Zelanda? (variante 149)",
+    "options": [
+      "Wellington",
+      "Rabat",
+      "Buenos Aires",
+      "Copenaghen"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è il capoluogo della regione Emilia-Romagna? (variante 24)",
+    "options": [
+      "Firenze",
+      "Roma",
+      "Bologna",
+      "Palermo"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la capitale di Italia? (variante 167)",
+    "options": [
+      "Nairobi",
+      "Stoccolma",
+      "Ottawa",
+      "Roma"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è il capoluogo della regione Abruzzo? (variante 48)",
+    "options": [
+      "Venezia",
+      "Bari",
+      "L'Aquila",
+      "Perugia"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la capitale di India? (variante 38)",
+    "options": [
+      "Canberra",
+      "Berna",
+      "Città del Messico",
+      "Nuova Delhi"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è il capoluogo della regione Sardegna? (variante 111)",
+    "options": [
+      "Roma",
+      "Venezia",
+      "Firenze",
+      "Cagliari"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Di quale Paese Varsavia è la capitale? (variante 15)",
+    "options": [
+      "Brasile",
+      "Norvegia",
+      "Polonia",
+      "Nigeria"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è il capoluogo della regione Campania? (variante 52)",
+    "options": [
+      "Napoli",
+      "Cagliari",
+      "Palermo",
+      "Ancona"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Di quale Paese Oslo è la capitale? (variante 72)",
+    "options": [
+      "Norvegia",
+      "Brasile",
+      "Svezia",
+      "Irlanda"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la capitale di Nigeria? (variante 151)",
+    "options": [
+      "Il Cairo",
+      "Abuja",
+      "Berlino",
+      "Roma"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la capitale di Irlanda? (variante 109)",
+    "options": [
+      "Berlino",
+      "Buenos Aires",
+      "Stoccolma",
+      "Dublino"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la capitale di Marocco? (variante 107)",
+    "options": [
+      "Oslo",
+      "Il Cairo",
+      "Rabat",
+      "Berna"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la capitale di Nigeria? (variante 1)",
+    "options": [
+      "Rabat",
+      "Città del Messico",
+      "Abuja",
+      "Il Cairo"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Di quale Paese Abuja è la capitale? (variante 53)",
+    "options": [
+      "Egitto",
+      "Regno Unito",
+      "USA",
+      "Nigeria"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Di quale Paese Berlino è la capitale? (variante 3)",
+    "options": [
+      "Brasile",
+      "Francia",
+      "Giappone",
+      "Germania"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la capitale di Marocco? (variante 25)",
+    "options": [
+      "Wellington",
+      "Roma",
+      "Parigi",
+      "Rabat"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la capitale di Australia? (variante 165)",
+    "options": [
+      "Pechino",
+      "Varsavia",
+      "Città del Messico",
+      "Canberra"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Di quale Paese Dublino è la capitale? (variante 59)",
+    "options": [
+      "Austria",
+      "Irlanda",
+      "Argentina",
+      "Italia"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Di quale Paese Ottawa è la capitale? (variante 119)",
+    "options": [
+      "Austria",
+      "Irlanda",
+      "Canada",
+      "Nuova Zelanda"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la capitale di Nuova Zelanda? (variante 19)",
+    "options": [
+      "Londra",
+      "Wellington",
+      "Buenos Aires",
+      "Rabat"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Di quale Paese Berna è la capitale? (variante 36)",
+    "options": [
+      "Germania",
+      "Brasile",
+      "Norvegia",
+      "Svizzera"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la capitale di Nigeria? (variante 44)",
+    "options": [
+      "Madrid",
+      "Abuja",
+      "Atene",
+      "Parigi"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la capitale di Cina? (variante 52)",
+    "options": [
+      "Berna",
+      "Pechino",
+      "Madrid",
+      "Stoccolma"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è il capoluogo della regione Abruzzo? (variante 29)",
+    "options": [
+      "Cagliari",
+      "Napoli",
+      "L'Aquila",
+      "Firenze"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Quanti continenti ci sono (convenzione scolastica comune)?",
+    "options": [
+      "6",
+      "7",
+      "8",
+      "5"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la capitale di Italia? (variante 122)",
+    "options": [
+      "Berna",
+      "Roma",
+      "Pechino",
+      "Nuova Delhi"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la capitale di Ghana? (variante 112)",
+    "options": [
+      "Amsterdam",
+      "Città del Messico",
+      "Madrid",
+      "Accra"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Di quale Paese Varsavia è la capitale? (variante 17)",
+    "options": [
+      "Austria",
+      "Paesi Bassi",
+      "India",
+      "Polonia"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è il capoluogo della regione Emilia-Romagna? (variante 110)",
+    "options": [
+      "Bologna",
+      "Roma",
+      "Milano",
+      "Cagliari"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la capitale di Giappone? (variante 55)",
+    "options": [
+      "Città del Messico",
+      "Berna",
+      "Tokyo",
+      "Vienna"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Di quale Paese Madrid è la capitale? (variante 6)",
+    "options": [
+      "Irlanda",
+      "Francia",
+      "Nuova Zelanda",
+      "Spagna"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la capitale di Grecia? (variante 63)",
+    "options": [
+      "Atene",
+      "Tokyo",
+      "Roma",
+      "Ottawa"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è il capoluogo della regione Puglia? (variante 76)",
+    "options": [
+      "Bari",
+      "Catanzaro",
+      "Napoli",
+      "Palermo"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Di quale Paese Nairobi è la capitale? (variante 37)",
+    "options": [
+      "Regno Unito",
+      "Spagna",
+      "Kenya",
+      "Nigeria"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è il capoluogo della regione Emilia-Romagna? (variante 36)",
+    "options": [
+      "Torino",
+      "Cagliari",
+      "Perugia",
+      "Bologna"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la capitale di Danimarca? (variante 65)",
+    "options": [
+      "Vienna",
+      "Brasilia",
+      "Abuja",
+      "Copenaghen"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Di quale Paese Wellington è la capitale? (variante 117)",
+    "options": [
+      "Nuova Zelanda",
+      "Svezia",
+      "Germania",
+      "Polonia"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la capitale di Egitto? (variante 152)",
+    "options": [
+      "Il Cairo",
+      "Buenos Aires",
+      "Parigi",
+      "Accra"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la capitale di Australia? (variante 157)",
+    "options": [
+      "Washington, D.C.",
+      "Brasilia",
+      "Wellington",
+      "Canberra"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la capitale di Messico? (variante 98)",
+    "options": [
+      "Canberra",
+      "Città del Messico",
+      "Wellington",
+      "Parigi"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la capitale di Spagna? (variante 124)",
+    "options": [
+      "Madrid",
+      "Vienna",
+      "Stoccolma",
+      "Tokyo"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Di quale Paese Rabat è la capitale? (variante 96)",
+    "options": [
+      "Marocco",
+      "Svizzera",
+      "Portogallo",
+      "Australia"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la capitale di Polonia? (variante 91)",
+    "options": [
+      "Brasilia",
+      "Pechino",
+      "Tokyo",
+      "Varsavia"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è il capoluogo della regione Lombardia? (variante 85)",
+    "options": [
+      "Palermo",
+      "Perugia",
+      "Milano",
+      "Roma"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la capitale di USA? (variante 26)",
+    "options": [
+      "Washington, D.C.",
+      "Rabat",
+      "Atene",
+      "Amsterdam"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è il capoluogo della regione Lazio? (variante 32)",
+    "options": [
+      "Palermo",
+      "Cagliari",
+      "Roma",
+      "Catanzaro"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Di quale Paese Washington, D.C. è la capitale? (variante 42)",
+    "options": [
+      "Regno Unito",
+      "USA",
+      "Giappone",
+      "Grecia"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Di quale Paese Accra è la capitale? (variante 25)",
+    "options": [
+      "Spagna",
+      "Ghana",
+      "Svizzera",
+      "Australia"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Di quale Paese Rabat è la capitale? (variante 56)",
+    "options": [
+      "Nigeria",
+      "Marocco",
+      "Svezia",
+      "Nuova Zelanda"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la capitale di Nuova Zelanda? (variante 10)",
+    "options": [
+      "Pechino",
+      "Wellington",
+      "Ottawa",
+      "Londra"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Di quale Paese Dublino è la capitale? (variante 69)",
+    "options": [
+      "Irlanda",
+      "Cina",
+      "Svezia",
+      "India"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Di quale Paese Varsavia è la capitale? (variante 21)",
+    "options": [
+      "India",
+      "USA",
+      "Spagna",
+      "Polonia"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la capitale di Portogallo? (variante 85)",
+    "options": [
+      "Il Cairo",
+      "Lisbona",
+      "Buenos Aires",
+      "Rabat"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la capitale di Nuova Zelanda? (variante 102)",
+    "options": [
+      "Il Cairo",
+      "Wellington",
+      "Abuja",
+      "Copenaghen"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Di quale Paese Buenos Aires è la capitale? (variante 100)",
+    "options": [
+      "Canada",
+      "Argentina",
+      "Messico",
+      "Kenya"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la capitale di Italia? (variante 59)",
+    "options": [
+      "Lisbona",
+      "Roma",
+      "Londra",
+      "Madrid"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Di quale Paese Accra è la capitale? (variante 62)",
+    "options": [
+      "USA",
+      "Nuova Zelanda",
+      "Ghana",
+      "Austria"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è il fiume più lungo d'Italia?",
+    "options": [
+      "Tevere",
+      "Adda",
+      "Arno",
+      "Po"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la capitale di Egitto? (variante 142)",
+    "options": [
+      "Buenos Aires",
+      "Il Cairo",
+      "Wellington",
+      "Amsterdam"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la capitale di Svizzera? (variante 143)",
+    "options": [
+      "Berna",
+      "Atene",
+      "Londra",
+      "Vienna"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la capitale di Kenya? (variante 128)",
+    "options": [
+      "Rabat",
+      "Pechino",
+      "Nairobi",
+      "Tokyo"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è il capoluogo della regione Lombardia? (variante 75)",
+    "options": [
+      "Roma",
+      "Bari",
+      "Bologna",
+      "Milano"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è il capoluogo della regione Sicilia? (variante 12)",
+    "options": [
+      "Palermo",
+      "Bari",
+      "Genova",
+      "Catanzaro"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la capitale di Kenya? (variante 95)",
+    "options": [
+      "Oslo",
+      "Parigi",
+      "Nairobi",
+      "Rabat"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Di quale Paese Madrid è la capitale? (variante 93)",
+    "options": [
+      "Norvegia",
+      "Paesi Bassi",
+      "Spagna",
+      "Francia"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Di quale Paese Berna è la capitale? (variante 106)",
+    "options": [
+      "Argentina",
+      "Regno Unito",
+      "Svizzera",
+      "Austria"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la capitale di Austria? (variante 61)",
+    "options": [
+      "Parigi",
+      "Dublino",
+      "Il Cairo",
+      "Vienna"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la capitale di Giappone? (variante 92)",
+    "options": [
+      "Abuja",
+      "Amsterdam",
+      "Tokyo",
+      "Nairobi"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Di quale Paese Tokyo è la capitale? (variante 112)",
+    "options": [
+      "Giappone",
+      "Danimarca",
+      "Norvegia",
+      "Francia"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è il capoluogo della regione Sicilia? (variante 109)",
+    "options": [
+      "Genova",
+      "Palermo",
+      "Bari",
+      "Perugia"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è il capoluogo della regione Liguria? (variante 70)",
+    "options": [
+      "Genova",
+      "Torino",
+      "Bari",
+      "Milano"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Di quale Paese Madrid è la capitale? (variante 101)",
+    "options": [
+      "Brasile",
+      "Norvegia",
+      "Spagna",
+      "Svizzera"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è il capoluogo della regione Emilia-Romagna? (variante 51)",
+    "options": [
+      "Bologna",
+      "Torino",
+      "Venezia",
+      "Catanzaro"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è il capoluogo della regione Lombardia? (variante 67)",
+    "options": [
+      "Roma",
+      "Cagliari",
+      "L'Aquila",
+      "Milano"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è il capoluogo della regione Sardegna? (variante 74)",
+    "options": [
+      "Genova",
+      "Roma",
+      "Ancona",
+      "Cagliari"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è il capoluogo della regione Calabria? (variante 78)",
+    "options": [
+      "Palermo",
+      "Catanzaro",
+      "L'Aquila",
+      "Napoli"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la capitale di Ghana? (variante 137)",
+    "options": [
+      "Nuova Delhi",
+      "Roma",
+      "Abuja",
+      "Accra"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la capitale di Polonia? (variante 115)",
+    "options": [
+      "Oslo",
+      "Varsavia",
+      "Atene",
+      "Madrid"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la capitale di Nigeria? (variante 27)",
+    "options": [
+      "Oslo",
+      "Amsterdam",
+      "Abuja",
+      "Nairobi"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la capitale di Nuova Zelanda? (variante 4)",
+    "options": [
+      "Accra",
+      "Stoccolma",
+      "Wellington",
+      "Città del Messico"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la capitale di Nuova Zelanda? (variante 117)",
+    "options": [
+      "Wellington",
+      "Rabat",
+      "Tokyo",
+      "Parigi"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la capitale di Norvegia? (variante 80)",
+    "options": [
+      "Oslo",
+      "Copenaghen",
+      "Stoccolma",
+      "Amsterdam"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è il capoluogo della regione Calabria? (variante 28)",
+    "options": [
+      "Napoli",
+      "Roma",
+      "Palermo",
+      "Catanzaro"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Di quale Paese Pechino è la capitale? (variante 98)",
+    "options": [
+      "Cina",
+      "Ghana",
+      "Germania",
+      "Svezia"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la catena montuosa che attraversa l'Italia da nord a sud?",
+    "options": [
+      "Pirenei",
+      "Appennini",
+      "Ande",
+      "Alpi"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Di quale Paese Parigi è la capitale? (variante 34)",
+    "options": [
+      "Francia",
+      "Canada",
+      "Ghana",
+      "Regno Unito"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è il capoluogo della regione Campania? (variante 72)",
+    "options": [
+      "Perugia",
+      "Napoli",
+      "Bologna",
+      "Palermo"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Di quale Paese Rabat è la capitale? (variante 38)",
+    "options": [
+      "Portogallo",
+      "Marocco",
+      "Giappone",
+      "Kenya"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la capitale di Australia? (variante 18)",
+    "options": [
+      "Il Cairo",
+      "Abuja",
+      "Canberra",
+      "Stoccolma"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è il capoluogo della regione Abruzzo? (variante 64)",
+    "options": [
+      "Cagliari",
+      "L'Aquila",
+      "Genova",
+      "Catanzaro"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la capitale di Messico? (variante 23)",
+    "options": [
+      "Madrid",
+      "Il Cairo",
+      "Buenos Aires",
+      "Città del Messico"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Di quale Paese Amsterdam è la capitale? (variante 63)",
+    "options": [
+      "Paesi Bassi",
+      "Regno Unito",
+      "Argentina",
+      "Cina"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la capitale di Svizzera? (variante 68)",
+    "options": [
+      "Berna",
+      "Città del Messico",
+      "Accra",
+      "Oslo"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la capitale di India? (variante 51)",
+    "options": [
+      "Berna",
+      "Nuova Delhi",
+      "Abuja",
+      "Madrid"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Di quale Paese Rabat è la capitale? (variante 120)",
+    "options": [
+      "Danimarca",
+      "Marocco",
+      "Svezia",
+      "Brasile"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la capitale di Irlanda? (variante 177)",
+    "options": [
+      "Dublino",
+      "Città del Messico",
+      "Washington, D.C.",
+      "Pechino"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la capitale di Svizzera? (variante 101)",
+    "options": [
+      "Lisbona",
+      "Oslo",
+      "Brasilia",
+      "Berna"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Di quale Paese Londra è la capitale? (variante 111)",
+    "options": [
+      "Ghana",
+      "Irlanda",
+      "Egitto",
+      "Regno Unito"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Di quale Paese Nairobi è la capitale? (variante 23)",
+    "options": [
+      "Brasile",
+      "Paesi Bassi",
+      "Portogallo",
+      "Kenya"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la capitale di Canada? (variante 106)",
+    "options": [
+      "Accra",
+      "Vienna",
+      "Ottawa",
+      "Amsterdam"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è il capoluogo della regione Emilia-Romagna? (variante 82)",
+    "options": [
+      "Roma",
+      "Ancona",
+      "Bologna",
+      "Genova"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la capitale di USA? (variante 139)",
+    "options": [
+      "Brasilia",
+      "Il Cairo",
+      "Ottawa",
+      "Washington, D.C."
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Di quale Paese Varsavia è la capitale? (variante 11)",
+    "options": [
+      "Kenya",
+      "Argentina",
+      "Polonia",
+      "Brasile"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Di quale Paese Atene è la capitale? (variante 70)",
+    "options": [
+      "Polonia",
+      "Grecia",
+      "Austria",
+      "Australia"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la capitale di Austria? (variante 49)",
+    "options": [
+      "Abuja",
+      "Vienna",
+      "Nairobi",
+      "Tokyo"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è il capoluogo della regione Umbria? (variante 33)",
+    "options": [
+      "Palermo",
+      "Cagliari",
+      "Perugia",
+      "Bari"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Di quale Paese Canberra è la capitale? (variante 28)",
+    "options": [
+      "Canada",
+      "Irlanda",
+      "Regno Unito",
+      "Australia"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la capitale di Messico? (variante 173)",
+    "options": [
+      "Lisbona",
+      "Città del Messico",
+      "Pechino",
+      "Vienna"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è il capoluogo della regione Lombardia? (variante 23)",
+    "options": [
+      "Bologna",
+      "Torino",
+      "Milano",
+      "Cagliari"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è il capoluogo della regione Abruzzo? (variante 27)",
+    "options": [
+      "Napoli",
+      "Cagliari",
+      "Bari",
+      "L'Aquila"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è il capoluogo della regione Toscana? (variante 114)",
+    "options": [
+      "Firenze",
+      "Bologna",
+      "L'Aquila",
+      "Roma"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la capitale di Cina? (variante 28)",
+    "options": [
+      "Pechino",
+      "Vienna",
+      "Londra",
+      "Città del Messico"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Di quale Paese Nuova Delhi è la capitale? (variante 41)",
+    "options": [
+      "Canada",
+      "Germania",
+      "India",
+      "Cina"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Di quale Paese Berlino è la capitale? (variante 29)",
+    "options": [
+      "Germania",
+      "Norvegia",
+      "Egitto",
+      "Ghana"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Di quale Paese Roma è la capitale? (variante 51)",
+    "options": [
+      "Italia",
+      "Messico",
+      "Germania",
+      "Nigeria"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la capitale di Cina? (variante 90)",
+    "options": [
+      "Copenaghen",
+      "Città del Messico",
+      "Pechino",
+      "Stoccolma"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è il capoluogo della regione Lazio? (variante 38)",
+    "options": [
+      "Torino",
+      "Napoli",
+      "Roma",
+      "Firenze"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Di quale Paese Accra è la capitale? (variante 80)",
+    "options": [
+      "Francia",
+      "Cina",
+      "Kenya",
+      "Ghana"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Di quale Paese Città del Messico è la capitale? (variante 104)",
+    "options": [
+      "Ghana",
+      "Nuova Zelanda",
+      "Regno Unito",
+      "Messico"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è il capoluogo della regione Calabria? (variante 65)",
+    "options": [
+      "Bari",
+      "Perugia",
+      "Catanzaro",
+      "Napoli"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la capitale di Austria? (variante 33)",
+    "options": [
+      "Vienna",
+      "Atene",
+      "Wellington",
+      "Copenaghen"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Di quale Paese Madrid è la capitale? (variante 54)",
+    "options": [
+      "Cina",
+      "Italia",
+      "Australia",
+      "Spagna"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la capitale di Svezia? (variante 35)",
+    "options": [
+      "Londra",
+      "Stoccolma",
+      "Ottawa",
+      "Pechino"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è il capoluogo della regione Veneto? (variante 37)",
+    "options": [
+      "Venezia",
+      "Bologna",
+      "Roma",
+      "Genova"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Di quale Paese Nuova Delhi è la capitale? (variante 47)",
+    "options": [
+      "Brasile",
+      "India",
+      "Italia",
+      "Germania"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Di quale Paese Berna è la capitale? (variante 113)",
+    "options": [
+      "Messico",
+      "Kenya",
+      "Svizzera",
+      "Danimarca"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è il capoluogo della regione Sardegna? (variante 42)",
+    "options": [
+      "Perugia",
+      "Cagliari",
+      "Roma",
+      "Venezia"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Di quale Paese Rabat è la capitale? (variante 108)",
+    "options": [
+      "Italia",
+      "Marocco",
+      "Canada",
+      "Messico"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la capitale di Egitto? (variante 146)",
+    "options": [
+      "Oslo",
+      "Londra",
+      "Il Cairo",
+      "Città del Messico"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è il capoluogo della regione Emilia-Romagna? (variante 100)",
+    "options": [
+      "Catanzaro",
+      "Genova",
+      "Bologna",
+      "Roma"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la capitale di Australia? (variante 162)",
+    "options": [
+      "Amsterdam",
+      "Nuova Delhi",
+      "Canberra",
+      "Città del Messico"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la capitale di Portogallo? (variante 127)",
+    "options": [
+      "Berna",
+      "Berlino",
+      "Wellington",
+      "Lisbona"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la capitale di Portogallo? (variante 175)",
+    "options": [
+      "Ottawa",
+      "Canberra",
+      "Stoccolma",
+      "Lisbona"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Di quale Paese Oslo è la capitale? (variante 45)",
+    "options": [
+      "Norvegia",
+      "Austria",
+      "Nigeria",
+      "Cina"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Di quale Paese Città del Messico è la capitale? (variante 85)",
+    "options": [
+      "Cina",
+      "Messico",
+      "Spagna",
+      "Canada"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Di quale Paese Il Cairo è la capitale? (variante 55)",
+    "options": [
+      "Grecia",
+      "Egitto",
+      "Paesi Bassi",
+      "USA"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Di quale Paese Brasilia è la capitale? (variante 46)",
+    "options": [
+      "Kenya",
+      "Nuova Zelanda",
+      "Brasile",
+      "Canada"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è il capoluogo della regione Emilia-Romagna? (variante 103)",
+    "options": [
+      "Bologna",
+      "Ancona",
+      "L'Aquila",
+      "Cagliari"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è il capoluogo della regione Sardegna? (variante 88)",
+    "options": [
+      "Roma",
+      "Cagliari",
+      "Firenze",
+      "Milano"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la capitale di Grecia? (variante 75)",
+    "options": [
+      "Wellington",
+      "Washington, D.C.",
+      "Ottawa",
+      "Atene"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Di quale Paese Accra è la capitale? (variante 107)",
+    "options": [
+      "Danimarca",
+      "Austria",
+      "Norvegia",
+      "Ghana"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la capitale di Italia? (variante 53)",
+    "options": [
+      "Ottawa",
+      "Roma",
+      "Copenaghen",
+      "Il Cairo"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la capitale di Paesi Bassi? (variante 17)",
+    "options": [
+      "Amsterdam",
+      "Tokyo",
+      "Roma",
+      "Rabat"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la capitale di Egitto? (variante 36)",
+    "options": [
+      "Vienna",
+      "Buenos Aires",
+      "Il Cairo",
+      "Varsavia"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è il capoluogo della regione Liguria? (variante 21)",
+    "options": [
+      "Milano",
+      "Venezia",
+      "Genova",
+      "Firenze"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è il capoluogo della regione Emilia-Romagna? (variante 106)",
+    "options": [
+      "Torino",
+      "Bologna",
+      "Catanzaro",
+      "Napoli"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "q": "Qual è la capitale di Giappone? (variante 170)",
+    "options": [
+      "Berna",
+      "Pechino",
+      "Tokyo",
+      "Lisbona"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  }
+]

@@ -1,0 +1,66 @@
+<!doctype html>
+<html lang="it">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Tabelline — QuizMania.it</title>
+  <meta name="description" content="Impara le tabelline divertendoti: domande rapide, varianti e risultati finali." />
+  <link rel="icon" href="/assets/favicon.ico" />
+  <link rel="stylesheet" href="/assets/css/quizmania.css" />
+  <script defer src="/assets/js/quizmania.js"></script>
+  <script defer src="/assets/js/question-bank.js"></script>
+  <script defer src="/assets/js/engine.js"></script>
+</head>
+<body>
+  <header class="qm-topbar">
+    <div class="qm-topbar-inner">
+      <a aria-label='Indietro' class='qm-iconbtn' href='/pages/scuola/scuola'>⬅</a>
+      <a class="qm-iconbtn" href="/" aria-label="Home">🏠</a>
+      <a class="qm-brand" href="/">
+        <span class="qm-logo" aria-hidden="true"></span>
+        <span>
+          <span class="qm-brand-name">Tabelline</span><br />
+          <span class="qm-brand-sub">Sfida moltiplicazioni</span>
+        </span>
+      </a>
+      <span class="qm-spacer"></span>
+      <button class="qm-iconbtn" type="button" data-action="open-settings" aria-label="Impostazioni">⚙️</button>
+    </div>
+  </header>
+
+  <div class="qm-shell">
+    <section class="qm-hero">
+      <div class="qm-hero-inner">
+        <div>
+          <h1 class="qm-h1">Tabelline</h1>
+          <p class="qm-lead">Impara le tabelline divertendoti: domande rapide, varianti e risultati finali.</p>
+          <div class="qm-pillrow">
+            <a class='qm-pill' href='/pages/scuola/scuola'>🏫 Scuola</a>
+            <a class='qm-pill' href='/pages/fasce_eta/'>🧒 Fasce d'età</a>
+            <a class='qm-pill' href='/pages/adulti/'>🧑‍🎓 Adulti</a>
+          </div>
+        </div>
+        <div>
+          <div class="qm-chip">Suggerimento: imposta “Lunghezza quiz” nelle impostazioni ⚙️</div>
+          <div style="margin-top:12px;display:flex;gap:10px;flex-wrap:wrap;">
+            <a class="qm-btn" href="#quiz">▶ Inizia</a>
+            <a class='qm-btn secondary' href='/pages/scuola/scuola'>📚 Altri quiz</a>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section id="quiz" class="qm-section">
+      <div class="qm-section-title">
+        <h2>Partita</h2>
+        <div class="qm-small">Rispondi, rivedi gli errori, migliora.</div>
+      </div>
+      <div data-quiz data-title="Tabelline" data-subtitle="Sfida moltiplicazioni" data-generator="tabelline"></div>
+    </section>
+
+    <footer class="qm-footer">
+      <a class='qm-btn secondary' href='/pages/scuola/scuola'>⬅ Torna indietro</a>
+    </footer>
+  </div>
+</body>
+</html>
