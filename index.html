@@ -6,6 +6,8 @@
   <title>QuizMania.it — Il sito di quiz più divertente d'Italia</title>
   <meta name="description" content="QuizMania.it: quiz per bambini, scuola, fasce d'età e adulti. Grafica moderna, domande dinamiche, risultati e streak." />
   <meta name="theme-color" content="#020617" />
+  <link rel="manifest" href="/manifest.webmanifest" />
+  <link rel="apple-touch-icon" href="/assets/icons/app-192.png" />
 
   <meta property="og:title" content="QuizMania.it" />
   <meta property="og:description" content="Quiz per ogni età: tanti per bambini e scuola, fino a quiz più complessi." />
@@ -15,6 +17,7 @@
   <link rel="stylesheet" href="/assets/css/quizmania.css" />
   <script defer src="/assets/js/quizmania.js"></script>
   <script defer src="/assets/js/catalog.js"></script>
+  <script defer src="/assets/js/pwa.js"></script>
 </head>
 <body>
 
@@ -58,6 +61,7 @@
           <div style="display:flex;gap:10px;flex-wrap:wrap;">
             <a class='qm-btn' href='/pages/scuola/operazioni/'>⚡ Sfida veloce</a>
             <a class='qm-btn secondary' href='/pages/scuola/tabelline/'>✖️ Tabelline</a>
+            <button class='qm-btn secondary' type="button" data-install-app hidden>📲 Installa l’app</button>
           </div>
 
           <div style="margin-top:12px;">
